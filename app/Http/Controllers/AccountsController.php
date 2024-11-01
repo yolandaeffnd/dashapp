@@ -11,7 +11,7 @@ class AccountsController extends Controller
         return view('components.app-admin');
     }
     public function login(){
-        return view('accounts.login');
+        return view('akun.login');
     }
     public function loginAction(Request $request){
         $request->validate([
