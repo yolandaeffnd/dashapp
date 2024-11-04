@@ -122,7 +122,7 @@
                     <!-- Submenu start -->
                     <ul class="sidebar-submenu">
                         <li class="sidebar-submenu__item">
-                            <a href="sign-in.html" class="sidebar-submenu__link">Sign In</a>
+                            <a href="{{ route('login') }}" class="sidebar-submenu__link">Sign In</a>
                         </li>
                         <li class="sidebar-submenu__item">
                             <a href="sign-up.html" class="sidebar-submenu__link">Sign Up</a>

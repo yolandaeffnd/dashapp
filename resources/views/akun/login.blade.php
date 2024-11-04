@@ -55,18 +55,19 @@
                 <h2 class="mb-8">Welcome to Back! &#128075;</h2>
                 <p class="text-gray-600 text-15 mb-32">Please sign in to your account and start the adventure</p>
 
-                <form action="#">
+                <form method="POST" action="{{ route('loginAction') }}">
+                    @csrf
                     <div class="mb-24">
                         <label for="fname" class="form-label mb-8 h6">Email or Username</label>
                         <div class="position-relative">
-                            <input type="text" class="form-control py-11 ps-40" id="fname" placeholder="Type your username">
+                            <input type="text" class="form-control py-11 ps-40" id="fname" placeholder="Type your username" name="username">
                             <span class="position-absolute top-50 translate-middle-y ms-16 text-gray-600 d-flex"><i class="ph ph-user"></i></span>
                         </div>
                     </div>
                     <div class="mb-24">
                         <label for="current-password" class="form-label mb-8 h6">Current Password</label>
                         <div class="position-relative">
-                            <input type="password" class="form-control py-11 ps-40" id="current-password" placeholder="Enter Current Password" value="password">
+                            <input type="password" class="form-control py-11 ps-40" id="current-password" placeholder="Enter Current Password" name="password">
                             <span class="toggle-password position-absolute top-50 inset-inline-end-0 me-16 translate-middle-y ph ph-eye-slash" id="#current-password"></span>
                             <span class="position-absolute top-50 translate-middle-y ms-16 text-gray-600 d-flex"><i class="ph ph-lock"></i></span>
                         </div>
