@@ -1,6 +1,6 @@
 <aside class="sidebar">
     <!-- sidebar close btn -->
-     <button type="button" class="sidebar-close-btn text-gray-500 hover-text-white hover-bg-main-600 text-md w-24 h-24 border border-gray-100 hover-border-main-600 d-xl-none d-flex flex-center rounded-circle position-absolute"><i class="ph ph-x"></i></button>
+    <button type="button" class="sidebar-close-btn text-gray-500 hover-text-white hover-bg-main-600 text-md w-24 h-24 border border-gray-100 hover-border-main-600 d-xl-none d-flex flex-center rounded-circle position-absolute"><i class="ph ph-x"></i></button>
     <!-- sidebar close btn -->
 
     <a href="https://www.unand.ac.id/" class="sidebar__logo text-center p-20 position-sticky inset-block-start-0 bg-white w-100 z-1 pb-10">
@@ -125,7 +125,7 @@
                     <!-- Submenu start -->
                     <ul class="sidebar-submenu">
                         <li class="sidebar-submenu__item">
-                            <a href="sign-in.html" class="sidebar-submenu__link">Sign In</a>
+                            <a href="{{ route('login') }}" class="sidebar-submenu__link">Sign In</a>
                         </li>
                         <li class="sidebar-submenu__item">
                             <a href="sign-up.html" class="sidebar-submenu__link">Sign Up</a>

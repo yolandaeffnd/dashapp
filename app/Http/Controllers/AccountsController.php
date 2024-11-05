@@ -25,4 +25,8 @@ class AccountsController extends Controller
         }
         return redirect()->back()->withErrors(['error' => 'Username or Password is incorrect.']);
     }
+    public function logout(){
+        Auth::logout();
+        return redirect('login');
+    }
 }
