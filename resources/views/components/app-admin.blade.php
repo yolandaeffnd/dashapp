@@ -55,7 +55,7 @@
 
         <div class="dashboard-body">
 
-            {{-- {{$slot}} --}}
+            {{$slot}}
 
         </div>
 
