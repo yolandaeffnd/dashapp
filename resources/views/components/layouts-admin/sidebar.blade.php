@@ -7,8 +7,7 @@
     <a href="index.html" class="sidebar__logo text-center p-20 position-sticky inset-block-start-0 bg-white w-100 z-1 pb-10">
         <img src="assets/admin/images/logo/logo_app.svg" alt="Logo">
 =======
-    <a href="https://www.unand.ac.id/" class="sidebar__logo text-center p-20 position-sticky inset-block-start-0 bg-white w-100 z-1 pb-10">
-        <img src="assets/admin/images/logo/logo.svg" alt="Logo">
+   
 >>>>>>> 86459053efe454fe7641fbefeb00d8aeff283692
     </a>
 
