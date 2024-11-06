@@ -48,4 +48,8 @@ class ParentMenuController extends Controller
         }
         return redirect()->back()->withErrors(['error' => 'Action failed. Please try again.']);
     }
+    public function getParentMenu(){
+        $pm = ParentMenu::all();
+        return response()->json($pm);
+    }
 }

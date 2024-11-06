@@ -64,13 +64,16 @@
                     </a>
                     <ul class="sidebar-submenu">
                         <li class="sidebar-submenu__item">
-                            <a href="student-courses.html" class="sidebar-submenu__link"> IKU I </a>
+                            <a href="{{ route('parent_menu') }}" class="sidebar-submenu__link"> Parent Menu </a>
                         </li>
                         <li class="sidebar-submenu__item">
-                            <a href="mentor-courses.html" class="sidebar-submenu__link"> IKU II </a>
+                            <a href="{{ route('menu') }}" class="sidebar-submenu__link"> Menu </a>
                         </li>
                         <li class="sidebar-submenu__item">
-                            <a href="create-course.html" class="sidebar-submenu__link"> IKU III </a>
+                            <a href="{{ route('role') }}" class="sidebar-submenu__link"> Roles </a>
+                        </li>
+                        <li class="sidebar-submenu__item">
+                            <a href="{{ route('access_role') }}" class="sidebar-submenu__link"> Access role </a>
                         </li>
                     </ul>
                 </li>

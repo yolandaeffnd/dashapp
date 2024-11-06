@@ -9,7 +9,7 @@ class MenusController extends Controller
 {
     public function menu(){
         $parents = ParentMenu::all();
-        return view('configuration/menu',compact('parents'));
+        return view('components.configurations.menu',compact('parents'));
     }
     public function crudMenu(Request $request){
         if($request->action == "DELETE"){

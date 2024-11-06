@@ -11,18 +11,21 @@ return new class extends Migration
      */
     public function up(): void
     {
-        Schema::create('parent_menu', function (Blueprint $table) {
+        Schema::create('access_roles', function (Blueprint $table) {
             $table->id();
+            $table->string('user');
             $table->string('role');
-            $table->string('parent_code');
-            $table->string('parent_name');
-            $table->string('ordered');
+            $table->string('permission');
+            $table->text('description')->nullable();
             $table->timestamps();
         });
     }
 
+    /**
+     * Reverse the migrations.
+     */
     public function down(): void
     {
-        Schema::dropIfExists('parent_menu');
+        Schema::dropIfExists('access_roles');
     }
 };
