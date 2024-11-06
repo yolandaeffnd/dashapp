@@ -56,69 +56,23 @@
                     </ul>
                     <!-- Submenu End -->
                 </li>
-                <li class="sidebar-menu__item">
-                    <a href="students.html" class="sidebar-menu__link">
-                        <span class="icon"><i class="ph ph-users-three"></i></span>
-                        <span class="text">Akademik</span>
-                    </a>
-                </li>
-                <li class="sidebar-menu__item">
-                    <a href="assignment.html" class="sidebar-menu__link">
+                <li class="sidebar-menu__item has-dropdown">
+                    <a href="javascript:void(0)" class="sidebar-menu__link">
+                        {{-- <span class="icon"><i class="ph ph-graduation-cap"></i></span> --}}
                         <span class="icon"><i class="ph ph-clipboard-text"></i></span>
-                        <span class="text">Assignments</span>
+                        <span class="text">Administrator</span>
                     </a>
-                </li>
-                <li class="sidebar-menu__item">
-                    <a href="mentors.html" class="sidebar-menu__link">
-                        <span class="icon"><i class="ph ph-users"></i></span>
-                        <span class="text">Mentors</span>
-                    </a>
-                </li>
-                <li class="sidebar-menu__item">
-                    <a href="resources.html" class="sidebar-menu__link">
-                        <span class="icon"><i class="ph ph-bookmarks"></i></span>
-                        <span class="text">Resources</span>
-                    </a>
-                </li>
-                <li class="sidebar-menu__item">
-                    <a href="message.html" class="sidebar-menu__link">
-                        <span class="icon"><i class="ph ph-chats-teardrop"></i></span>
-                        <span class="text">Messages</span>
-                    </a>
-                </li>
-                <li class="sidebar-menu__item">
-                    <a href="analytics.html" class="sidebar-menu__link">
-                        <span class="icon"><i class="ph ph-chart-bar"></i></span>
-                        <span class="text">Analytics</span>
-                    </a>
-                </li>
-                <li class="sidebar-menu__item">
-                    <a href="event.html" class="sidebar-menu__link">
-                        <span class="icon"><i class="ph ph-calendar-dots"></i></span>
-                        <span class="text">Events</span>
-                    </a>
-                </li>
-                <li class="sidebar-menu__item">
-                    <a href="library.html" class="sidebar-menu__link">
-                        <span class="icon"><i class="ph ph-books"></i></span>
-                        <span class="text">Library</span>
-                    </a>
-                </li>
-                <li class="sidebar-menu__item">
-                    <a href="pricing-plan.html" class="sidebar-menu__link">
-                        <span class="icon"><i class="ph ph-coins"></i></span>
-                        <span class="text">Pricing</span>
-                    </a>
-                </li>
-
-                <li class="sidebar-menu__item">
-                    <span class="text-gray-300 text-sm px-20 pt-20 fw-semibold border-top border-gray-100 d-block text-uppercase">Settings</span>
-                </li>
-                <li class="sidebar-menu__item">
-                    <a href="setting.html" class="sidebar-menu__link">
-                        <span class="icon"><i class="ph ph-gear"></i></span>
-                        <span class="text">Account Settings</span>
-                    </a>
+                    <ul class="sidebar-submenu">
+                        <li class="sidebar-submenu__item">
+                            <a href="student-courses.html" class="sidebar-submenu__link"> IKU I </a>
+                        </li>
+                        <li class="sidebar-submenu__item">
+                            <a href="mentor-courses.html" class="sidebar-submenu__link"> IKU II </a>
+                        </li>
+                        <li class="sidebar-submenu__item">
+                            <a href="create-course.html" class="sidebar-submenu__link"> IKU III </a>
+                        </li>
+                    </ul>
                 </li>
 
                 <li class="sidebar-menu__item has-dropdown">

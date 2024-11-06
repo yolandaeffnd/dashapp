@@ -35,6 +35,39 @@
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <script src="https://cdn.datatables.net/1.11.5/js/jquery.dataTables.min.js"></script>
 </head>
+<style type="text/css">
+.modal {
+        display: none;
+        position: fixed;
+        z-index: 1100;
+        left: 0;
+        top: 0;
+        width: 100%;
+        height: 100%; 
+        overflow: auto;
+        background-color: rgb(0,0,0);
+        background-color: rgba(0,0,0,0.4);
+    }
+    .modal-content {
+        background-color: #fefefe;
+        width: 30%;
+        margin: 15% 35% 35%;
+        padding: 15px;
+        border: 1px solid #888;
+    }
+    .close {
+        color: #aaa;
+        float: right;
+        font-size: 28px;
+        font-weight: bold;
+    }
+    .close:hover,
+    .close:focus {
+        color: black;
+        text-decoration: none;
+        cursor: pointer;
+    }
+</style>
 <body>
 
 <!--==================== Preloader Start ====================-->
@@ -59,8 +92,10 @@
 
 
         <div class="dashboard-body">
-
-            {{$slot}}
+            <div class='content-detail'>
+            @yield('content')
+            </div>
+            
 
         </div>
 
