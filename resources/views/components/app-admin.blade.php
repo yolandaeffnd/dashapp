@@ -5,9 +5,9 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- Title -->
-    <title> Edmate Learning Dashboard HTML Template</title>
+    <title> Satu Data Unand</title>
     <!-- Favicon -->
-    <link rel="shortcut icon" href="assets/admin/images/logo/favicon.png">
+    <link rel="shortcut icon" href="assets/admin/images/logo/unand.png">
     <!-- Bootstrap -->
     <link rel="stylesheet" href="assets/admin/css/bootstrap.min.css">
     <!-- file upload -->
@@ -30,6 +30,10 @@
     <link rel="stylesheet" href="assets/admin/css/jquery-jvectormap-2.0.5.css">
     <!-- Main css -->
     <link rel="stylesheet" href="assets/admin/css/main.css">
+
+    <link rel="stylesheet" href="https://cdn.datatables.net/1.11.5/css/jquery.dataTables.min.css">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://cdn.datatables.net/1.11.5/js/jquery.dataTables.min.js"></script>
 </head>
 <body>
 

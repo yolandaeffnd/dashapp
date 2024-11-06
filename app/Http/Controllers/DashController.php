@@ -15,6 +15,12 @@ class DashController extends Controller
         return view('admin.index',compact('title'));
     }
 
+    public function tarikdata()
+    {
+        $title = "Tarik Data SIA";
+        return view('admin.tarik',compact('title'));
+    }
+
     /**
      * Show the form for creating a new resource.
      */
