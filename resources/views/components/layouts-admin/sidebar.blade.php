@@ -1,50 +1,58 @@
 <aside class="sidebar">
     <!-- sidebar close btn -->
-     <button type="button" class="sidebar-close-btn text-gray-500 hover-text-white hover-bg-main-600 text-md w-24 h-24 border border-gray-100 hover-border-main-600 d-xl-none d-flex flex-center rounded-circle position-absolute"><i class="ph ph-x"></i></button>
+    <button type="button" class="sidebar-close-btn text-gray-500 hover-text-white hover-bg-main-600 text-md w-24 h-24 border border-gray-100 hover-border-main-600 d-xl-none d-flex flex-center rounded-circle position-absolute"><i class="ph ph-x"></i></button>
     <!-- sidebar close btn -->
 
+<<<<<<< HEAD
     <a href="index.html" class="sidebar__logo text-center p-20 position-sticky inset-block-start-0 bg-white w-100 z-1 pb-10">
         <img src="assets/admin/images/logo/logo_app.svg" alt="Logo">
+=======
+    <a href="https://www.unand.ac.id/" class="sidebar__logo text-center p-20 position-sticky inset-block-start-0 bg-white w-100 z-1 pb-10">
+        <img src="assets/admin/images/logo/logo.svg" alt="Logo">
+>>>>>>> 86459053efe454fe7641fbefeb00d8aeff283692
     </a>
 
     <div class="sidebar-menu-wrapper overflow-y-auto scroll-sm">
         <div class="p-20 pt-10">
             <ul class="sidebar-menu">
-                <li class="sidebar-menu__item has-dropdown">
+                <li class="sidebar-menu__item">
                     <a href="javascript:void(0)" class="sidebar-menu__link">
                         <span class="icon"><i class="ph ph-squares-four"></i></span>
                         <span class="text">Dashboard</span>
-                        <span class="link-badge">3</span>
+                        {{-- <span class="link-badge">3</span> --}}
                     </a>
-                    <!-- Submenu start -->
-                    <ul class="sidebar-submenu">
-                        <li class="sidebar-submenu__item">
-                            <a href="index.html" class="sidebar-submenu__link"> Dashboard One </a>
-                        </li>
-                        <li class="sidebar-submenu__item">
-                            <a href="index-2.html" class="sidebar-submenu__link"> Dashboard Two </a>
-                        </li>
-                        <li class="sidebar-submenu__item">
-                            <a href="index-3.html" class="sidebar-submenu__link"> Dashboard Three </a>
-                        </li>
-                    </ul>
-                    <!-- Submenu End -->
                 </li>
                 <li class="sidebar-menu__item has-dropdown">
                     <a href="javascript:void(0)" class="sidebar-menu__link">
-                        <span class="icon"><i class="ph ph-graduation-cap"></i></span>
-                        <span class="text">Courses</span>
+                        {{-- <span class="icon"><i class="ph ph-graduation-cap"></i></span> --}}
+                        <span class="icon"><i class="ph ph-clipboard-text"></i></span>
+                        <span class="text">Indeks Kinerja Utama (IKU)</span>
                     </a>
                     <!-- Submenu start -->
                     <ul class="sidebar-submenu">
                         <li class="sidebar-submenu__item">
-                            <a href="student-courses.html" class="sidebar-submenu__link"> Student Courses </a>
+                            <a href="student-courses.html" class="sidebar-submenu__link"> IKU I </a>
                         </li>
                         <li class="sidebar-submenu__item">
-                            <a href="mentor-courses.html" class="sidebar-submenu__link"> Mentor Courses </a>
+                            <a href="mentor-courses.html" class="sidebar-submenu__link"> IKU II </a>
                         </li>
                         <li class="sidebar-submenu__item">
-                            <a href="create-course.html" class="sidebar-submenu__link"> Create Course </a>
+                            <a href="create-course.html" class="sidebar-submenu__link"> IKU III </a>
+                        </li>
+                        <li class="sidebar-submenu__item">
+                            <a href="student-courses.html" class="sidebar-submenu__link"> IKU IV </a>
+                        </li>
+                        <li class="sidebar-submenu__item">
+                            <a href="mentor-courses.html" class="sidebar-submenu__link"> IKU V </a>
+                        </li>
+                        <li class="sidebar-submenu__item">
+                            <a href="create-course.html" class="sidebar-submenu__link"> IKU VI </a>
+                        </li>
+                        <li class="sidebar-submenu__item">
+                            <a href="student-courses.html" class="sidebar-submenu__link"> IKU VII </a>
+                        </li>
+                        <li class="sidebar-submenu__item">
+                            <a href="mentor-courses.html" class="sidebar-submenu__link"> IKU VIII </a>
                         </li>
                     </ul>
                     <!-- Submenu End -->
@@ -52,7 +60,7 @@
                 <li class="sidebar-menu__item">
                     <a href="students.html" class="sidebar-menu__link">
                         <span class="icon"><i class="ph ph-users-three"></i></span>
-                        <span class="text">Students</span>
+                        <span class="text">Akademik</span>
                     </a>
                 </li>
                 <li class="sidebar-menu__item">
@@ -122,7 +130,7 @@
                     <!-- Submenu start -->
                     <ul class="sidebar-submenu">
                         <li class="sidebar-submenu__item">
-                            <a href="sign-in.html" class="sidebar-submenu__link">Sign In</a>
+                            <a href="{{ route('login') }}" class="sidebar-submenu__link">Sign In</a>
                         </li>
                         <li class="sidebar-submenu__item">
                             <a href="sign-up.html" class="sidebar-submenu__link">Sign Up</a>
