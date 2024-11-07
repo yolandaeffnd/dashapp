@@ -17,7 +17,6 @@ return new class extends Migration
             $table->string('content');
             $table->string('route_name');
             $table->string('ordered');
-            $table->string('icon');
             $table->timestamps();
         });
     }

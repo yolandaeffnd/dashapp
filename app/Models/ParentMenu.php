@@ -16,6 +16,7 @@ class ParentMenu extends Model
         'role',
         'parent_code',
         'parent_name',
+        'icon',
         'ordered',
         'created_at',
         'updated_at',

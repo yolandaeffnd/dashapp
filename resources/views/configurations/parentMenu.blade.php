@@ -27,6 +27,9 @@
                     <input id='parent_name_' class='form-control' type="text" name="parent_name" placeholder="Parent Name" required>
                 </div>
                 <div class="mb-3">
+                    <input id='icon_' class='form-control' type="text" name="icon" placeholder="Icon" required>
+                </div>
+                <div class="mb-3">
                     <input id='ordered_' class='form-control' type="number" name="ordered" placeholder="Order" required>
                 </div>
                 <button id="submit_" type="submit" name="action" class="btn btn-primary w-100"></button>
@@ -63,6 +66,7 @@
                     <th>Role</th>
                     <th>Parent Code</th>
                     <th>Parent Menu</th>
+                    <th>Icon</th>
                     <th>Order</th>
                     <th>Action</th>
                 </tr>
@@ -99,13 +103,17 @@
             parentNameCell.textContent = menu.parent_name;
             row.appendChild(parentNameCell);
 
+            const iconCell = document.createElement('td');
+            iconCell.textContent = menu.icon;
+            row.appendChild(iconCell);
+
             const orderedCell = document.createElement('td');
             orderedCell.textContent = menu.ordered;
             row.appendChild(orderedCell);
 
             const actionCell = document.createElement('td');
             actionCell.innerHTML = `
-                <button onClick='modalEdit(${menu.id},"${menu.role}","${menu.parent_code}","${menu.parent_name}",${menu.ordered})' class="btn btn-xs btn-success">Edit</button>
+                <button onClick='modalEdit(${menu.id},"${menu.role}","${menu.parent_code}","${menu.parent_name}","${menu.icon}",${menu.ordered})' class="btn btn-xs btn-success">Edit</button>
                 <button onClick='modalDelete(${menu.id})' class="btn btn-xs btn-danger">Delete</button>
             `;
             row.appendChild(actionCell);
@@ -121,6 +129,7 @@
         document.getElementById('role_').value='';
         document.getElementById('parent_code_').value='';
         document.getElementById('parent_name_').value='';
+        document.getElementById('icon_').value='';
         document.getElementById('ordered_').value='';
 
         const btnSubmit = document.getElementById("submit_");
@@ -152,6 +161,7 @@
         document.getElementById('role_').value=role;
         document.getElementById('parent_code_').value=parent_code;
         document.getElementById('parent_name_').value=parent_name;
+        document.getElementById('icon_').value=parent_name;
         document.getElementById('ordered_').value=ordered;
 
         const btnSubmit = document.getElementById("submit_");

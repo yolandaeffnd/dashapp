@@ -29,9 +29,6 @@
                 <div class="mb-3">
                     <input id='order_' class='form-control' type="number" name="ordered" placeholder="Order" required>
                 </div>
-                <div class="mb-3">
-                    <input id='icon_' class='form-control' type="text" name="icon" placeholder="Icon" required>
-                </div>
             	<button id="submit_" type="submit" name="action" class="btn btn-primary w-100"></button>
             </form>
         </div>
@@ -67,7 +64,6 @@
                     <th>Content Name</th>
                     <th>Route Name</th>
                     <th>Order</th>
-                    <th>Icon</th>
                     <th>Action</th>
                 </tr>
             </thead>
@@ -103,17 +99,13 @@
             routeCell.textContent = menu.route_name;
             row.appendChild(routeCell);
 
-             const orderedCell = document.createElement('td');
+            const orderedCell = document.createElement('td');
             orderedCell.textContent = menu.ordered;
             row.appendChild(orderedCell);
 
-             const iconCell = document.createElement('td');
-            iconCell.textContent = menu.icon;
-            row.appendChild(iconCell);
-
             const actionCell = document.createElement('td');
             actionCell.innerHTML = `
-                <button onClick='modalEdit(${menu.id},"${menu.parent_code}","${menu.content}","${menu.route_name}","${menu.ordered}","${menu.icon}")' class="btn btn-xs btn-success">Edit</button>
+                <button onClick='modalEdit(${menu.id},"${menu.parent_code}","${menu.content}","${menu.route_name}","${menu.ordered}")' class="btn btn-xs btn-success">Edit</button>
                 <button onClick='modalDelete(${menu.id})' class="btn btn-xs btn-danger">Delete</button>
             `;
             row.appendChild(actionCell);
@@ -130,7 +122,6 @@
         document.getElementById('content_').value='';
         document.getElementById('route_name_').value='';
         document.getElementById('order_').value='';
-        document.getElementById('icon_').value='';
 
         const btnSubmit = document.getElementById("submit_");
         btnSubmit.textContent = "Save"
@@ -162,7 +153,6 @@
         document.getElementById('content_').value=content;
         document.getElementById('route_name_').value=path;
         document.getElementById('order_').value=order;
-        document.getElementById('icon_').value=icon;
 
         const btnSubmit = document.getElementById("submit_");
         btnSubmit.textContent = "Update"

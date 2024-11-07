@@ -17,7 +17,6 @@ class Menus extends Model
         'content',
         'route_name',
         'ordered',
-        'icon',
         'created_at',
         'updated_at',
     ];

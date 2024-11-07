@@ -9,7 +9,7 @@ class MenusController extends Controller
 {
     public function menu(){
         $parents = ParentMenu::all();
-        return view('components.configurations.menu',compact('parents'));
+        return view('configurations.menu',compact('parents'));
     }
     public function crudMenu(Request $request){
         if($request->action == "DELETE"){
@@ -22,7 +22,6 @@ class MenusController extends Controller
             'content'=>'required|max:30',
             'route_name'=>'required|max:40',
             'ordered'=>'required|max:2',
-            'icon'=>'required',
             'action'=>'required|max:6',
         ]);
         if($request->action == "SAVE"){
@@ -31,7 +30,6 @@ class MenusController extends Controller
                 'content' => $request->content,
                 'route_name'=> $request->route_name,
                 'ordered'=> $request->ordered,
-                'icon'=> $request->icon,
                 'created_at'=>now(),
                 'updated_at'=>now(),
             ]);
@@ -43,7 +41,6 @@ class MenusController extends Controller
                 'content' => $request->content,
                 'route_name' => $request->route_name,
                 'ordered'=> $request->ordered,
-                'icon'=> $request->icon,
                 'updated_at' => now(),
             ]);
             return redirect()->back()->withSuccess('Menu Updated successfully!');
