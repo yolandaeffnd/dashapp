@@ -1,4 +1,5 @@
-<x-App-admin>
+@extends('components.app-admin')
+@section('content')
     <div class="grettings-box position-relative rounded-16 bg-main-600 overflow-hidden gap-16 flex-wrap z-1">
         <img src="assets/admin/images/bg/grettings-pattern.png" alt="" class="position-absolute inset-block-start-0 inset-inline-start-0 z-n1 w-100 h-100 opacity-6">
         <div class="row gy-4">
@@ -16,4 +17,4 @@
             </div>
         </div>
     </div>
-</x-App-admin>
+@endsection

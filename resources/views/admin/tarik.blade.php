@@ -1,4 +1,5 @@
-<x-App-admin>
+@extends('components.app-admin')
+@section('content')
     <!-- Breadcrumb Start -->
 <div class="breadcrumb mb-24">
 <ul class="flex-align gap-4">
@@ -73,4 +74,4 @@
 </div>
 
 
-</x-App-admin>
+@endsection
