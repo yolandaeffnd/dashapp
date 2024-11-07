@@ -9,7 +9,7 @@ class RolesController extends Controller
 {
     public function role(){
         $roles = Roles::all();
-        return view('components.configurations.role',compact('roles'));
+        return view('configurations.role',compact('roles'));
     }
     public function crudRole(Request $request){
         if($request->action == "DELETE"){

@@ -10,7 +10,7 @@ class ParentMenuController extends Controller
     public function parent_menu(){
         $roles = Roles::all();
         $parent = ParentMenu::all();
-        return view('components.configurations.parentMenu',compact('parent','roles'));
+        return view('configurations.parentMenu',compact('parent','roles'));
     }
     public function crudParentMenu(Request $request){
         if($request->action == "DELETE"){
@@ -22,6 +22,7 @@ class ParentMenuController extends Controller
             'role'=>'required|max:30',
             'parent_code'=>'required|max:30',
             'parent_name'=>'required|max:30',
+            'icon'=>'required',
             'ordered'=>'required',
             'action'=>'required|max:6',
         ]);
@@ -30,6 +31,7 @@ class ParentMenuController extends Controller
                 'role'=>$request->role,
                 'parent_code'=>$request->parent_code,
                 'parent_name' => $request->parent_name,
+                'icon'=> $request->icon,
                 'ordered'=>$request->ordered,
                 'created_at'=>now(),
                 'updated_at'=>now(),
@@ -41,6 +43,7 @@ class ParentMenuController extends Controller
                 'role'=>$request->role,
                 'parent_code'=>$request->parent_code,
                 'parent_name' => $request->parent_name,
+                'icon'=> $request->icon,
                 'ordered'=>$request->ordered,
                 'updated_at' => now(),
             ]);

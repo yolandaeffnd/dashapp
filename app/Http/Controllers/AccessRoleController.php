@@ -11,7 +11,7 @@ class AccessRoleController extends Controller
         $users = User::all();
         $roles = Roles::all();
         
-        return view('components.configurations.roleAccess',compact('users','roles'));
+        return view('configurations.roleAccess',compact('users','roles'));
     }
     public function crudAccessRole(Request $request){
         $validasi = $request->validate([

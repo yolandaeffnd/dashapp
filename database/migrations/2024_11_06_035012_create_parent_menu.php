@@ -17,6 +17,7 @@ return new class extends Migration
             $table->string('parent_code');
             $table->string('parent_name');
             $table->string('ordered');
+            $table->string('icon');
             $table->timestamps();
         });
     }
