@@ -2,11 +2,11 @@
 
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\{DashController, RefSemesterController};
-use App\Http\Controllers\{AccountsController,ParentMenuController,RolesController,MenusController,AccessRoleController};
+use App\Http\Controllers\{AccountsController,ParentMenuController,RolesController,MenusController,AccessRoleController,TarikdataController};
 use App\Http\Controllers\HomeController;
 
 Route::get('dashboard', [DashController::class, 'index'])->name('dashboard');
-Route::get('tarikdata', [DashController::class, 'tarikdata'])->name('tarikdata');
+Route::get('tarikdata', [TarikdataController::class, 'tarikdata'])->name('tarikdata');
 Route::get('semester', [RefSemesterController::class, 'index'])->name('semester.index');
 
 Route::group([], function () {
