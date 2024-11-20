@@ -55,4 +55,7 @@ class ParentMenuController extends Controller
         $pm = ParentMenu::all();
         return response()->json($pm);
     }
+
+    
+
 }

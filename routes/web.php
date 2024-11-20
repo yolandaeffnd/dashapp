@@ -41,3 +41,7 @@ Route::get('/', function () {
 
 Route::GET('/',[AccountsController::class,'index'])->name("index");
 Route::get('/home', [HomeController::class, 'index'])->name('home');
+
+Route::group(['middleware'=>['role:admin']], function () {
+    Route::GET('/test',[AccountsController::class,'test'])->name("test");
+});

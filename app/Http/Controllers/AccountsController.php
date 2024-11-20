@@ -53,4 +53,8 @@ class AccountsController extends Controller
         Auth::logout();
         return redirect('login');
     }
+
+    public function test(){
+        dd(123);
+    }
 }

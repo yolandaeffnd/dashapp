@@ -52,6 +52,13 @@
                     </ul>
                     <!-- Submenu End -->
                 </li>
+                @php
+                    $user = Auth::user();
+                    $role = DB::table('access_roles')
+                            ->where('user', $user->username)
+                            ->pluck('role');
+                @endphp
+                @if($role[0] === "admin")
                 <li class="sidebar-menu__item has-dropdown">
                     <a href="javascript:void(0)" class="sidebar-menu__link">
                         {{-- <span class="icon"><i class="ph ph-graduation-cap"></i></span> --}}
@@ -73,6 +80,36 @@
                         </li>
                     </ul>
                 </li>
+                @else
+                    @php
+                    $parentNames = DB::table('parent_menu')
+                                ->where('role',$role[0])
+                                ->orderBy('ordered', 'asc')
+                                ->get();
+                    @endphp
+                    @foreach($parentNames as $name)
+                    <li class="sidebar-menu__item has-dropdown">
+                        <a href="javascript:void(0)" class="sidebar-menu__link">
+                            {{-- <span class="icon"><i class="ph ph-graduation-cap"></i></span> --}}
+                            <span class="icon"><i class="{{ $name->icon }}"></i></span>
+                            <span class="text">{{ $name->parent_name }}</span>
+                        </a>
+                        @php
+                            $menus = DB::table('menus')
+                                    ->where('parent_code',$name->parent_code)
+                                    ->orderBy('ordered', 'asc')
+                                    ->get();
+                        @endphp
+                        @foreach($menus as $menu)
+                            <ul class="sidebar-submenu">
+                                <li class="nav-item">
+                                    <a href="" class="sidebar-submenu__link"> {{ $menu->content }} </a>
+                                </li>
+                            </ul>
+                        @endforeach
+                    </li>
+                    @endforeach
+                @endif
 
 
 
