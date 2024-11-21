@@ -52,6 +52,7 @@
                     </ul>
                     <!-- Submenu End -->
                 </li>
+                <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
                 @php
                     $user = Auth::user();
                     $role = DB::table('access_roles')
@@ -62,7 +63,7 @@
                 <li class="sidebar-menu__item has-dropdown">
                     <a href="javascript:void(0)" class="sidebar-menu__link">
                         {{-- <span class="icon"><i class="ph ph-graduation-cap"></i></span> --}}
-                        <span class="icon"><i class="ph ph-clipboard-text"></i></span>
+                        <span class="icon"><i class="fas fa-cogs"></i></span>
                         <span class="text">Administrator</span>
                     </a>
                     <ul class="sidebar-submenu">
@@ -77,6 +78,18 @@
                         </li>
                         <li class="sidebar-submenu__item">
                             <a href="{{ route('access_role') }}" class="sidebar-submenu__link"> Access role </a>
+                        </li>
+                    </ul>
+                </li>
+                <li class="sidebar-menu__item has-dropdown">
+                    <a href="javascript:void(0)" class="sidebar-menu__link">
+                        {{-- <span class="icon"><i class="ph ph-graduation-cap"></i></span> --}}
+                        <span class="icon"><i class="fas fa-wrench"></i></span>
+                        <span class="text">Module Sistem</span>
+                    </a>
+                    <ul class="sidebar-submenu">
+                        <li class="sidebar-submenu__item">
+                            <a href="{{ route('kategori') }}" class="sidebar-submenu__link"> Pengaturan Kategori </a>
                         </li>
                     </ul>
                 </li>

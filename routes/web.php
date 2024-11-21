@@ -1,15 +1,13 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
-use App\Http\Controllers\{DashController, RefSemesterController};
-use App\Http\Controllers\{AccountsController,ParentMenuController,RolesController,MenusController,AccessRoleController,TarikdataController};
-use App\Http\Controllers\HomeController;
+use App\Http\Controllers\{AccountsController,ParentMenuController,RolesController,MenusController,AccessRoleController,TarikdataController,KategoriController,DashController, RefSemesterController,HomeController};
 
 Route::get('dashboard', [DashController::class, 'index'])->name('dashboard');
 Route::get('tarikdata', [TarikdataController::class, 'tarikdata'])->name('tarikdata');
 Route::get('semester', [RefSemesterController::class, 'index'])->name('semester.index');
 
-Route::group([], function () {
+Route::group(['middleware'=>['role:admin']], function () {
     Route::GET('/parent_menu',[ParentMenuController::class,'parent_menu'])->name('parent_menu');
     Route::POST('/crudParentMenu',[ParentMenuController::class,'crudParentMenu'])->name('crudParentMenu');
     Route::GET('/getParentMenu',[ParentMenuController::class,'getParentMenu'])->name("getParentMenu");
@@ -25,6 +23,10 @@ Route::group([], function () {
     Route::GET('/access_role',[AccessRoleController::class,'access_role'])->name('access_role');
     Route::POST('/crudAccessRole',[AccessRoleController::class,'crudAccessRole'])->name('crudAccessRole');
     Route::GET('/getAccessRole',[AccessRoleController::class,'getAccessRole'])->name('getAccessRole');
+
+    Route::GET('/kategori',[KategoriController::class,'kategori'])->name('kategori');
+    Route::POST('/crudKategori',[KategoriController::class,'crudKategori'])->name('crudKategori');
+    Route::GET('/getKategori',[KategoriController::class,'getKategori'])->name('getKategori');
 });
 
 Route::group([], function () {

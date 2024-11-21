@@ -10,7 +10,11 @@ use Hash;
 class AccountsController extends Controller
 {
     public function index(){
-        return view('components.app-admin');
+        if (auth()->check()) {
+            return view('components.app-admin');
+        } else {
+            return redirect()->route('login');
+        }
     }
     public function login(){
         return view('akun.login');
