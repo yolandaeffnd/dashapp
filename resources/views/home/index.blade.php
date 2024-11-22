@@ -48,6 +48,28 @@
 .nav-link {
     display: inline-block;
 }
+
+.counts .count-box {
+  display: flex;
+  align-items: center;
+  padding: 25px;
+  width: 55%;
+  background: #fff;
+  box-shadow: 0px 0 30px rgba(1, 41, 112, 0.08);
+  border: 1px solid #ededed;
+  margin-top: 50px;
+}
+
+.owl-carousel  .owl-wrapper,
+.owl-carousel  .owl-item{
+	-webkit-backface-visibility: hidden;
+	-moz-backface-visibility:    hidden;
+	-ms-backface-visibility:     hidden;
+	-webkit-transform: translate3d(0,0,0);
+	-moz-transform: translate3d(0,0,0);
+	-ms-transform: translate3d(0,0,0);
+	margin-right: -170px;
+}
 </style>
 
 
@@ -138,71 +160,100 @@
 	<!-- END  HOME -->
 
     
-	<!-- START TESTIMONIALS-->
-	<section class="testi_home_area section-padding">
-        <div class="container">
+	<!-- START NUmbers-->
+	{{-- <section class="testi_home_area section-padding"> --}}
+		<section id="counts" class="counts section-padding">
+        <div class="container" data-aos="fade-up">
              <div class="section-title">
-                 <h2>Testimonial</h2>
-                 <p>What Says <span><u>Our Students</u></span></p>
+                 {{-- <h2>Test</h2> --}}
+				 <p>UNAND <span><u>IN THE NUMBERS</u></span></p>
              </div>
-             <div class="row">
+             <div class="row gy-4">
                  <div class="col-lg-12">
                      <div id="testimonial-slider" class="owl-carousel">
-                         <div class="testimonial">
-                             <div class="testi_pic_title tpt_one">
-                                 <div class="pic">
-                                     <img src="assets/home/images/all-img/t1.png" alt="">
-                                 </div>
-                                 <h4>James Clayton</h4>
-                                 <small class="post">- Design Expert</small>
-                             </div>
-                         </div><!-- END TESTIMONIAL -->
-                         <div class="testimonial">
-                             <div class="testi_pic_title tpt_two">
-                                 <div class="pic">
-                                     <img src="assets/home/images/all-img/t2.png" alt="">
-                                 </div>
-                                 <h4>James Simmons</h4>
-                                 <small class="post">- Marketing Expert</small>
-                             </div>
-                         </div><!-- END TESTIMONIAL -->
-                         <div class="testimonial">
-                             <div class="testi_pic_title tpt_three">
-                                 <div class="pic">
-                                     <img src="assets/home/images/all-img/t3.png" alt="">
-                                 </div>
-                                 <h4>Alex feroundo</h4>
-                                 <small class="post">- Founder</small>
-                             </div>
-                         </div><!-- END TESTIMONIAL -->
-                         <div class="testimonial">
-                             <div class="testi_pic_title tpt_one">
-                                 <div class="pic">
-                                     <img src="assets/home/images/all-img/t4.png" alt="">
-                                 </div>
-                                 <h4>Kallu Mastan</h4>
-                                 <small class="post">- Mastan group</small>
-                             </div>
-                         </div><!-- END TESTIMONIAL -->
-                         <div class="testimonial">
-                             <div class="testi_pic_title tpt_two">
-                                 <div class="pic">
-                                     <img src="assets/home/images/all-img/t1.png" alt="">
-                                 </div>
-                                 <h4>Devid max</h4>
-                                 <small class="post">- Max iNC</small>
-                             </div>
-                         </div><!-- END TESTIMONIAL -->
-                     </div><!-- END TESTIMONIAL SLIDER -->
+                         <div class="count-box">
+							<i class="ti-user" style="color: #15be56;"></i>
+							<div>
+							  <span data-purecounter-start="0" data-purecounter-end="35000" data-purecounter-duration="1" class="purecounter"></span>
+							  <p>Current Student Enrollment</p>
+							</div>
+                         </div><!-- END numbers -->
+
+						 <div class="count-box">
+							<i class="ti-agenda" ></i>
+							<div>
+							  <span data-purecounter-start="0" data-purecounter-end="144" data-purecounter-duration="1" class="purecounter"></span>
+							  <p>Degree program offered</p>
+							</div>
+						 </div><!-- END numbers -->
+
+						 <div class="count-box">
+							<i class="ti-crown" style="color: #ee6c20;"></i>
+							<div>
+							  <span data-purecounter-start="0" data-purecounter-end="150000" data-purecounter-duration="1" class="purecounter"></span>
+							  <p>Alumni</p>
+							  <p  style="color: #ffffff;" >.</p>
+							</div>
+						 </div><!-- END numbers -->
+
+						 <div class="count-box">
+							<i class="ti-user" style="color: #e9156d;"></i>
+							<div>
+							  <span data-purecounter-start="0" data-purecounter-end="1613" data-purecounter-duration="1" class="purecounter"></span>
+							  <p>Lecture</p>
+							  <p  style="color: #ffffff;" >.</p>
+							</div>
+						 </div><!-- END numbers -->
+
+						 <div class="count-box">
+							<i class="ti-medall"></i>
+							<div>
+							  <span data-purecounter-start="0" data-purecounter-end="17" data-purecounter-duration="1" class="purecounter"></span>
+							  <p>International Accreditation</p>
+							</div>
+						 </div><!-- END numbers -->
+
+						 <div class="count-box">
+							<i class="ti-face-smile"></i>
+							<div>
+							  <span data-purecounter-start="0" data-purecounter-end="35000" data-purecounter-duration="1" class="purecounter"></span>
+							  <p>Enrolled Students</p>
+							</div>
+						 </div><!-- END numbers -->
+                       
+						 <div class="count-box">
+							<i class="ti-face-smile"></i>
+							<div>
+							  <span data-purecounter-start="0" data-purecounter-end="35000" data-purecounter-duration="1" class="purecounter"></span>
+							  <p>Enrolled Students</p>
+							</div>
+						 </div><!-- END numbers -->
+
+						 <div class="count-box">
+							<i class="ti-face-smile"></i>
+							<div>
+							  <span data-purecounter-start="0" data-purecounter-end="35000" data-purecounter-duration="1" class="purecounter"></span>
+							  <p>Enrolled Students</p>
+							</div>
+						 </div><!-- END numbers -->
+
+						 <div class="count-box">
+							<i class="ti-face-smile"></i>
+							<div>
+							  <span data-purecounter-start="0" data-purecounter-end="35000" data-purecounter-duration="1" class="purecounter"></span>
+							  <p>Enrolled Students</p>
+							</div>
+						 </div><!-- END numbers -->
+
+                     </div><!-- END Numbers SLIDER -->
                  </div><!-- END COL  -->
              </div><!-- END ROW -->
          </div><!-- END CONTAINER -->
      </section>
-     <!-- END TESTIMONIALS -->
+     <!-- END Numbers -->
 
-
-
-	<!-- START COUNTER -->
+	
+	 <!-- START COUNTER -->
     <section id="counts" class="counts section-padding">
         <div class="container" data-aos="fade-up">
           <div class="section-title">
@@ -251,7 +302,8 @@
       <!-- END COUNTER -->
 
 	
-	<!-- START TOP PROMO FEATURES -->
+	
+	  <!-- START TOP PROMO FEATURES -->
 	<section class="tp_feature">
 	   <div class="container-fluid">
 			<div class="row">
