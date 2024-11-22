@@ -1,7 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
-use App\Http\Controllers\{AccountsController,ParentMenuController,RolesController,MenusController,AccessRoleController,TarikdataController,KategoriController,DashController, RefSemesterController,HomeController};
+use App\Http\Controllers\{AccountsController,ParentMenuController,RolesController,MenusController,AccessRoleController,TarikdataController,KategoriController,DashController, RefSemesterController,HomeController, AppchartController};
 
 Route::get('dashboard', [DashController::class, 'index'])->name('dashboard');
 Route::get('tarikdata', [TarikdataController::class, 'tarikdata'])->name('tarikdata');
@@ -27,6 +27,10 @@ Route::group(['middleware'=>['role:admin']], function () {
     Route::GET('/kategori',[KategoriController::class,'kategori'])->name('kategori');
     Route::POST('/crudKategori',[KategoriController::class,'crudKategori'])->name('crudKategori');
     Route::GET('/getKategori',[KategoriController::class,'getKategori'])->name('getKategori');
+
+    Route::GET('/chart',[AppchartController::class,'Appchart'])->name('chart');
+    Route::POST('/crudAppchart',[KategoriController::class,'crudAppchart'])->name('crudAppchart');
+    Route::GET('/getAppchart',[KategoriController::class,'getAppchart'])->name('getAppchart');
 });
 
 Route::group([], function () {
