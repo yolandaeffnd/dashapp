@@ -29,8 +29,8 @@ Route::group(['middleware'=>['role:admin']], function () {
     Route::GET('/getKategori',[KategoriController::class,'getKategori'])->name('getKategori');
 
     Route::GET('/chart',[AppchartController::class,'Appchart'])->name('chart');
-    Route::POST('/crudAppchart',[KategoriController::class,'crudAppchart'])->name('crudAppchart');
-    Route::GET('/getAppchart',[KategoriController::class,'getAppchart'])->name('getAppchart');
+    Route::POST('/crudAppchart',[AppchartController::class,'crudAppchart'])->name('crudAppchart');
+    Route::GET('/getAppchart',[AppchartController::class,'getAppchart'])->name('getAppchart');
 });
 
 Route::group([], function () {

@@ -1,7 +1,6 @@
 @extends('components.app-admin')
 @section('content')
-<button class="btn btn-primary mb-3" onClick="modalAdd()">Add Kategori</button>
-
+<button class="btn btn-primary mb-3" onClick="modalAdd()">Add Chart</button>
 <div class="modal" id="modalAdd">
     <div class="modal-content">
         <span class="close">&times;</span>
@@ -12,17 +11,42 @@
             <form method="POST" action="{{ route('crudAppchart') }}">
                 @csrf
                 <input id='id_' type="hidden" name="id" required>
+
                 <div class="mb-3">
-                    <input id='name_' class='form-control' type="text" name="name" placeholder="Kategori Name" required>
-                </div>
-                <div class="mb-3">
-                    <<select id="idKategori" class="form-select" aria-label="Default select example" name="idKategori">
+                    <select id="idKategori_" class="form-select" aria-label="Default select example" name="idKategori">
                         <option value="" selected disabled hidden>--- Choose Kategori ---</option>
                         @foreach ($kategori as $data)
                             <option value="{{ $data->id }}">{{ $data->name }}</option>
                         @endforeach
                     </select>
                 </div>
+
+                <div class="mb-3">
+                    <input id='namaChart_' class='form-control' type="text" name="namaChart" placeholder="Nama Chart" required>
+                </div>
+
+                <div class="mb-3">
+                    <input id='urlChart_' class='form-control' type="text" name="urlChart" placeholder="Url Chart" required>
+                </div>
+
+                <div class="mb-3">
+                    <select id="idFakultas_" class="form-select" aria-label="Default select example" name="idFakultas">
+                        <option value="" selected disabled hidden>--- Pilih Fakultas ---</option>
+                        @foreach ($fakultas as $data)
+                            <option value="{{ $data->id }}">{{ $data->fakNama }}</option>
+                        @endforeach
+                    </select>
+                </div>
+
+                <div class="mb-3">
+                    <select id='posisiChart_' class="form-select" aria-label="Default select example" name='posisiChart'>
+                        <option value="" selected disabled hidden>--- Pilih Posisi ---</option>
+                        <option value="0">Di Luar</option>
+                        <option value="1">Di Dalam</option>
+
+                    </select>
+                </div>
+
                 <button id="submit_" type="submit" name="action" class="btn btn-primary w-100"></button>
             </form>
         </div>
@@ -33,11 +57,11 @@
     <div class="modal-content">
         <span class="close" style="cursor: pointer;">&times;</span>
         <div class="text-center mb-2">
-            <h4 id="titleModal">Delete Kategori</h4>
+            <h4 id="titleModal">Delete Chart</h4>
         </div>
         <div class="modal-body text-center">
             <p>Are you sure you want to delete this item? This action cannot be undone.</p>
-            <form method="POST" action="{{ route('crudKategori') }}">
+            <form method="POST" action="{{ route('crudAppchart') }}">
                 @csrf
                 <input type="hidden" id="idDel" name="id">
                 <div class="d-flex justify-content-between">
@@ -54,43 +78,58 @@
             <thead>
                 <tr>
                     <th>#</th>
-                    <th>Name</th>
-                    <th>Jenis</th>
+                    <th>Kategori</th>
+                    <th>Nama Chart</th>
+                    <th>Url Chart</th>
+                    <th>Fakultas</th>
+                    <th>Posisi Chart</th>
                     <th>Action</th>
                 </tr>
             </thead>
-            <tbody id="menus-tbody">
+            <tbody id="charts-tbody">
             </tbody>
         </table>
     </div>
 </div>
 <script type="text/javascript">
     document.addEventListener("DOMContentLoaded", function() {
-    fetch('{{ route("getKategori") }}')
+    fetch('{{ route("getAppchart") }}')
     .then(response => response.json())
     .then(data => {
-        const tbody = document.getElementById('menus-tbody');
+        const tbody = document.getElementById('charts-tbody');
         tbody.innerHTML = '';
         let autoIncrementId = 1;
-        data.forEach(menu => {
+        data.forEach(chart => {
             const row = document.createElement('tr');
             const noCell = document.createElement('td');
             noCell.textContent += autoIncrementId;
             row.appendChild(noCell);
             autoIncrementId++;
 
-            const nameCell = document.createElement('td');
-            nameCell.textContent = menu.name;
-            row.appendChild(nameCell);
+            const kategoriCell = document.createElement('td');
+            kategoriCell.textContent = chart.kategori ? chart.kategori.name : 'Tidak ada kategori';
+            row.appendChild(kategoriCell);
 
-            const jenisCell = document.createElement('td');
-            jenisCell.textContent = menu.jenis;
-            row.appendChild(jenisCell);
+            const namachartCell = document.createElement('td');
+            namachartCell.textContent = chart.namaChart;
+            row.appendChild(namachartCell);
+
+            const urlchartCell = document.createElement('td');
+            urlchartCell.textContent = chart.urlChart;
+            row.appendChild(urlchartCell);
+
+            const fakultasCell = document.createElement('td');
+            fakultasCell.textContent = chart.fakultas ? chart.fakultas.fakNama : 'Tidak ada kategori';
+            row.appendChild(fakultasCell);
+
+            const posisichartCell = document.createElement('td');
+            posisichartCell.textContent = chart.posisiChart == 0 ? 'Di Luar' : 'Di Dalam';
+            row.appendChild(posisichartCell);
 
             const actionCell = document.createElement('td');
             actionCell.innerHTML = `
-                <button onClick='modalEdit(${menu.id},"${menu.name}","${menu.jenis}")' class="btn btn-xs btn-success">Edit</button>
-                <button onClick='modalDelete(${menu.id})' class="btn btn-xs btn-danger">Delete</button>
+                <button onClick='modalEdit(${chart.id},"${chart.idKategori}","${chart.namaChart}","${chart.urlChart}","${chart.idFakultas}","${chart.posisiChart}")' class="btn btn-xs btn-success">Edit</button>
+                <button onClick='modalDelete(${chart.id})' class="btn btn-xs btn-danger">Delete</button>
             `;
             row.appendChild(actionCell);
             tbody.appendChild(row);
@@ -102,8 +141,11 @@
 <script type="text/javascript">
     function modalAdd(){
         document.getElementById('id_').value='';
-        document.getElementById('name_').value='';
-        document.getElementById('jenis_').value='';
+        document.getElementById('idKategori_').value='';
+        document.getElementById('namaChart_').value='';
+        document.getElementById('urlChart_').value='';
+        document.getElementById('idFakultas_').value='';
+        document.getElementById('posisiChart_').value='';
 
         const btnSubmit = document.getElementById("submit_");
         btnSubmit.textContent = "Save"
@@ -131,8 +173,11 @@
 
     function modalEdit(id,name,jenis){
         document.getElementById('id_').value=id;
-        document.getElementById('name_').value=name;
-        document.getElementById('jenis_').value=jenis;
+        document.getElementById('idKategori_').value='';
+        document.getElementById('namaChart_').value='';
+        document.getElementById('urlChart_').value='';
+        document.getElementById('idFakultas_').value='';
+        document.getElementById('posisiChart_').value='';
 
         const btnSubmit = document.getElementById("submit_");
         btnSubmit.textContent = "Update"

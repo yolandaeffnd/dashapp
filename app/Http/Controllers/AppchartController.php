@@ -5,13 +5,16 @@ namespace App\Http\Controllers;
 use Illuminate\Http\Request;
 use App\Models\Appchart;
 use App\Models\Kategori;
+use App\Models\RefFakultas;
 
 class AppchartController extends Controller
 {
     public function Appchart(){
-        $chart = Appchart::all();
+        // $chart = Appchart::all();
+        $chart = Appchart::with('kategori')->get();
         $kategori = Kategori::all();
-        return view('configurations.chart',compact('chart','kategori'));
+        $fakultas = RefFakultas::all();
+        return view('configurations.chart',compact('chart','kategori','fakultas'));
     }
 
     public function crudAppchart(Request $request){
@@ -54,7 +57,7 @@ class AppchartController extends Controller
         return redirect()->back()->withErrors(['error' => 'Action failed. Please try again.']);
     }
     public function getAppchart(){
-        $chart = Appchart::all();
+        $chart = Appchart::with('kategori')->with('fakultas')->get();
         return response()->json($chart);
     }
 }
