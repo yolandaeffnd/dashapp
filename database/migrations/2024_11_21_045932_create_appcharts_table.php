@@ -14,7 +14,6 @@ return new class extends Migration
         Schema::create('appcharts', function (Blueprint $table) {
             $table->id(); // Creates an auto-increment primary key
             $table->unsignedInteger('idKategori'); // For foreign keys or integer fields
-            $table->foreign('idKategori')->references('id')->on('kategoris');
             $table->string('namaChart', 100); // String field with max length of 100
             $table->string('ulrChart', 255); // String field with max length of 255
             $table->unsignedInteger('idFakultas'); // For foreign keys or integer fields

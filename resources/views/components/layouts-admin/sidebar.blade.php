@@ -54,6 +54,23 @@
                 </li>
                 <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
                 @php
+                    $kategoris = DB::table('kategori')
+                            ->select('jenis')
+                            ->get();
+
+                @endphp
+                @foreach($kategoris as $kategori)
+                    <li class="sidebar-menu__item has-dropdown">
+                        <a href="javascript:void(0)" class="sidebar-menu__link">
+                            {{-- <span class="icon"><i class="ph ph-graduation-cap"></i></span> --}}
+                            <span class="icon"><i class="fas fa-graduation-cap"></i></span>
+                            <span class="text">{{ $kategori->jenis }}</span>
+                        </a>
+                    </li>
+                @endforeach
+
+
+                @php
                     $user = Auth::user();
                     $role = DB::table('access_roles')
                             ->where('user', $user->username)
