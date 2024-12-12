@@ -17,6 +17,7 @@
 		<link href="https://fonts.googleapis.com/css2?family=Mulish:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
 		<!-- Font Awesome CSS -->
 		<link rel="stylesheet" href="assets/home/fonts/font-awesome.min.css">
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 		<link rel="stylesheet" href="assets/home/fonts/themify-icons.css">
 		<!--- owl carousel Css-->
 		<link rel="stylesheet" href="assets/home/owlcarousel/css/owl.carousel.css">
@@ -70,6 +71,23 @@
 	-ms-transform: translate3d(0,0,0);
 	margin-right: -170px;
 }
+
+.icon-link {
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            width: 50px;
+            height: 50px;
+            background-color: #1DA1F2;
+            color: white;
+            border-radius: 50%;
+            text-decoration: none;
+            font-size: 24px;
+        }
+
+        .icon-link:hover {
+            background-color: #0d8bd7;
+        }
 </style>
 
 
@@ -112,9 +130,7 @@
         </nav>
         <a class="btn_one" href="login.html">Login</a>
     </div><!-- END call_to_action -->
-</div><!-- END col -->
-
-                
+				</div><!-- END col -->
 			</div><!--- END ROW -->
 		</div><!--- END CONTAINER -->
 	</div>
@@ -127,8 +143,8 @@
 				<div class="col-lg-6 col-sm-6 col-xs-12">
 					<div class="home_content">
 						<h1>Universitas <span>Andalas</span> </h1>
-                    `    <h1>dalam satu tampilan data</h1>
-						<p>Jelajahi capaian UNAND dengan satu klik di Data UNAND!</p>
+                    `    <h1>in one data display</h1>
+						<p>Explore UNAND achievements with one click on Data UNAND!</p>
 					</div>
 					<div class="home_btn">
 						<a href="#" class="cta"><span>Explore</span>
@@ -177,15 +193,15 @@
 							  <span data-purecounter-start="0" data-purecounter-end="35000" data-purecounter-duration="1" class="purecounter"></span>
 							  <p>Current Student Enrollment</p>
 							</div>
-                         </div><!-- END numbers -->
+                         </div><!-- 1 END numbers -->
 
 						 <div class="count-box">
 							<i class="ti-agenda" ></i>
 							<div>
-							  <span data-purecounter-start="0" data-purecounter-end="144" data-purecounter-duration="1" class="purecounter"></span>
+							  <span data-purecounter-start="0" data-purecounter-end="146" data-purecounter-duration="1" class="purecounter"></span>
 							  <p>Degree program offered</p>
 							</div>
-						 </div><!-- END numbers -->
+						 </div><!-- 2 END numbers -->
 
 						 <div class="count-box">
 							<i class="ti-crown" style="color: #ee6c20;"></i>
@@ -194,7 +210,41 @@
 							  <p>Alumni</p>
 							  <p  style="color: #ffffff;" >.</p>
 							</div>
-						 </div><!-- END numbers -->
+						 </div><!-- 3 END numbers -->
+
+						 <div class="count-box">
+							<i class="ti-world" style="color: #2068ee;"></i>
+							<div>
+							  <span data-purecounter-start="0" data-purecounter-end="20" data-purecounter-duration="1" class="purecounter"></span>
+							  <p>Country</p>
+							  <p  style="color: #ffffff;" >.</p>
+							</div>
+						 </div><!-- 4 END numbers -->
+
+						 <div class="count-box">
+							<i class="ti-face-smile" style="color: #0eb381;"></i>
+							<div>
+							  <span data-purecounter-start="0" data-purecounter-end="600" data-purecounter-duration="1" class="purecounter"></span>
+							  <p>International Students</p>
+							</div>
+						 </div><!-- 10 END numbers -->
+
+						 <div class="count-box">
+							<i class="ti-medall"></i>
+							<div>
+							  <span data-purecounter-start="0" data-purecounter-end="17" data-purecounter-duration="1" class="purecounter"></span>
+							  <p>International Accreditation</p>
+							</div>
+						 </div><!-- 7 END numbers -->
+
+						 {{-- <div class="count-box">
+							<i class="ti-crown" style="color: #ee6c20;"></i>
+							<div>
+							  <span data-purecounter-start="0" data-purecounter-end="1401" data-purecounter-duration="1" class="purecounter"></span>
+							  <p>QS University Rank</p>
+							  <p  style="color: #ffffff;" >.</p>
+							</div>
+						 </div><!-- 5 END numbers --> --}}
 
 						 <div class="count-box">
 							<i class="ti-user" style="color: #e9156d;"></i>
@@ -203,47 +253,24 @@
 							  <p>Lecture</p>
 							  <p  style="color: #ffffff;" >.</p>
 							</div>
-						 </div><!-- END numbers -->
+						 </div><!-- 6 END numbers -->
 
 						 <div class="count-box">
-							<i class="ti-medall"></i>
+							<i class="ti-flag-alt"></i>
 							<div>
-							  <span data-purecounter-start="0" data-purecounter-end="17" data-purecounter-duration="1" class="purecounter"></span>
-							  <p>International Accreditation</p>
+							  <span data-purecounter-start="0" data-purecounter-end="15" data-purecounter-duration="1" class="purecounter"></span>
+							  <p>Faculty</p>
+							  <p  style="color: #ffffff;" >.</p>
 							</div>
-						 </div><!-- END numbers -->
-
-						 <div class="count-box">
-							<i class="ti-face-smile"></i>
-							<div>
-							  <span data-purecounter-start="0" data-purecounter-end="35000" data-purecounter-duration="1" class="purecounter"></span>
-							  <p>Enrolled Students</p>
-							</div>
-						 </div><!-- END numbers -->
+						 </div><!-- 8 END numbers -->
                        
 						 <div class="count-box">
-							<i class="ti-face-smile"></i>
+							<i class="ti-thumb-up" style="color: #ee6c20;"></i>
 							<div>
-							  <span data-purecounter-start="0" data-purecounter-end="35000" data-purecounter-duration="1" class="purecounter"></span>
-							  <p>Enrolled Students</p>
+							  <span data-purecounter-start="0" data-purecounter-end="77" data-purecounter-duration="1" class="purecounter"></span>
+							  <p>Study Program with "A"</p>
 							</div>
-						 </div><!-- END numbers -->
-
-						 <div class="count-box">
-							<i class="ti-face-smile"></i>
-							<div>
-							  <span data-purecounter-start="0" data-purecounter-end="35000" data-purecounter-duration="1" class="purecounter"></span>
-							  <p>Enrolled Students</p>
-							</div>
-						 </div><!-- END numbers -->
-
-						 <div class="count-box">
-							<i class="ti-face-smile"></i>
-							<div>
-							  <span data-purecounter-start="0" data-purecounter-end="35000" data-purecounter-duration="1" class="purecounter"></span>
-							  <p>Enrolled Students</p>
-							</div>
-						 </div><!-- END numbers -->
+						 </div><!-- 9 END numbers -->
 
                      </div><!-- END Numbers SLIDER -->
                  </div><!-- END COL  -->
@@ -252,420 +279,23 @@
      </section>
      <!-- END Numbers -->
 
-	
-	 <!-- START COUNTER -->
-    <section id="counts" class="counts section-padding">
-        <div class="container" data-aos="fade-up">
-          <div class="section-title">
-            <p>UNAND <span><u>Dalam Angka</u></span></p>
-          </div>
-          <div class="row gy-4">
-            <div class="col-lg-3 col-md-6">
-              <div class="count-box">
-                <i class="ti-face-smile"></i>
-                <div>
-                  <span data-purecounter-start="0" data-purecounter-end="8232" data-purecounter-duration="1" class="purecounter"></span>
-                  <p>Enrolled Students</p>
-                </div>
-              </div>
-            </div><!--- END COL -->
-            <div class="col-lg-3 col-md-6">
-              <div class="count-box">
-                <i class="ti-files" style="color: #ee6c20;"></i>
-                <div>
-                  <span data-purecounter-start="0" data-purecounter-end="521" data-purecounter-duration="1" class="purecounter"></span>
-                  <p>Academic Programs</p>
-                </div>
-              </div>
-            </div><!--- END COL -->
-            <div class="col-lg-3 col-md-6">
-              <div class="count-box">
-                <i class="ti-headphone-alt" style="color: #15be56;"></i>
-                <div>
-                  <span data-purecounter-start="0" data-purecounter-end="163" data-purecounter-duration="1" class="purecounter"></span>
-                  <p>Winning Award</p>
-                </div>
-              </div>
-            </div><!--- END COL -->
-            <div class="col-lg-3 col-md-6">
-              <div class="count-box">
-                <i class="ti-user" style="color: #bb0852;"></i>
-                <div>
-                  <span data-purecounter-start="0" data-purecounter-end="93" data-purecounter-duration="1" class="purecounter"></span>
-                  <p>Certified Students</p>
-                </div>
-              </div>
-            </div><!--- END COL -->
-          </div><!--- END ROW -->
-        </div><!--- END CONTAINER -->
-      </section>
-      <!-- END COUNTER -->
-
-	
-	
-	  <!-- START TOP PROMO FEATURES -->
-	<section class="tp_feature">
-	   <div class="container-fluid">
-			<div class="row">
-				<div class="col-lg-4 col-sm-4 col-xs-12 no-padding wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.2s" data-wow-offset="0">
-					<div class="single_tp">
-						<h3>Quality Education</h3>
-						<p>Lorem ipsum dolor sit amet, consectetur notted adipisicing elit sed do eiusmod tempor incididunt ut labore.</p>
-						<a href="#" class="cta"><span>Explore</span>
-						  <svg width="13px" height="10px" viewBox="0 0 13 10">
-							<path d="M1,5 L11,5"></path>
-							<polyline points="8 1 12 5 8 9"></polyline>
-						  </svg>
-						</a>
-					</div>
-				</div><!-- END COL -->
-				<div class="col-lg-4 col-sm-4 col-xs-12 no-padding wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.3s" data-wow-offset="0">
-					<div class="single_tp">
-						<h3>Experienced Teachers</h3>
-						<p>Lorem ipsum dolor sit amet, consectetur notted adipisicing elit sed do eiusmod tempor incididunt ut labore.</p>
-						<a href="#" class="cta"><span>Explore</span>
-						  <svg width="13px" height="10px" viewBox="0 0 13 10">
-							<path d="M1,5 L11,5"></path>
-							<polyline points="8 1 12 5 8 9"></polyline>
-						  </svg>
-						</a>
-					</div>
-				</div><!-- END COL -->
-				<div class="col-lg-4 col-sm-4 col-xs-12 no-padding wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.4s" data-wow-offset="0">
-					<div class="single_tp">
-						<h3>Delicious Food</h3>
-						<p>Lorem ipsum dolor sit amet, consectetur notted adipisicing elit sed do eiusmod tempor incididunt ut labore.</p>
-						<a href="#" class="cta"><span>Explore</span>
-						  <svg width="13px" height="10px" viewBox="0 0 13 10">
-							<path d="M1,5 L11,5"></path>
-							<polyline points="8 1 12 5 8 9"></polyline>
-						  </svg>
-						</a>
-					</div>
-				</div><!-- END COL -->
-			</div><!-- END ROW -->
-		</div><!-- END CONTAINER -->
-	</section>
-	<!-- END TOP PROMO FEATURES -->
-
-	<!-- START ABOUT US HOME ONE -->
-	<section class="ab_one section-padding">
-		<div class="container">
-			<div class="row">
-				<div class="col-lg-6 col-sm-12 col-xs-12 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.2s" data-wow-offset="0">
-					<div class="ab_img">
-						<img src="assets/home/images/all-img/about1.png" class="img-fluid" alt="image">
-						<!-- <div class="wc_year">
-							<h3><span>6k+</span> <br />Happy Clients</h3>
-						</div> -->
-					</div>
-				</div><!--- END COL -->
-				<div class="col-lg-6 col-sm-12 col-xs-12 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.1s" data-wow-offset="0">
-					<div class="ab_content">
-						<h2>Learn new skills to go <u><span>ahead for your </span></u> career.</h2>
-						<p>Lorem ipsum dolor sit amet, consectetur notted adipisicing elit sed do eiusmod tempor incididunt ut labore et simply.</p>
-					</div>
-					<div class="abmv">
-						<span class="ti-medall"></span>
-						<h4>Our Mission</h4>
-						<p>Lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor ut labore.</p>
-					</div>
-					<div class="abmv">
-						<span class="ti-wand"></span>
-						<h4>Our Vision</h4>
-						<p>Lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor ut labore.</p>
-					</div>
-						<a class="btn_one" href="about.html">Discover More</a>
-				</div><!--- END COL -->
-			</div><!--- END ROW -->
-		</div><!--- END CONTAINER -->
-	</section>
-	<!-- END ABOUT US HOME ONE -->
-
-	<!-- START COUNTER -->
-    <section id="counts" class="counts section-padding">
-      <div class="container" data-aos="fade-up">
-		<div class="section-title">
-		  <h2>Some Fun Fact</h2>
-		  <p>Our Great <span><u>Achievement</u></span></p>
-		</div>
-        <div class="row gy-4">
-          <div class="col-lg-3 col-md-6">
-            <div class="count-box">
-              <i class="ti-face-smile"></i>
-              <div>
-                <span data-purecounter-start="0" data-purecounter-end="8232" data-purecounter-duration="1" class="purecounter"></span>
-                <p>Enrolled Students</p>
-              </div>
-            </div>
-          </div><!--- END COL -->
-          <div class="col-lg-3 col-md-6">
-            <div class="count-box">
-              <i class="ti-files" style="color: #ee6c20;"></i>
-              <div>
-                <span data-purecounter-start="0" data-purecounter-end="521" data-purecounter-duration="1" class="purecounter"></span>
-                <p>Academic Programs</p>
-              </div>
-            </div>
-          </div><!--- END COL -->
-          <div class="col-lg-3 col-md-6">
-            <div class="count-box">
-              <i class="ti-headphone-alt" style="color: #15be56;"></i>
-              <div>
-                <span data-purecounter-start="0" data-purecounter-end="163" data-purecounter-duration="1" class="purecounter"></span>
-                <p>Winning Award</p>
-              </div>
-            </div>
-          </div><!--- END COL -->
-          <div class="col-lg-3 col-md-6">
-            <div class="count-box">
-              <i class="ti-user" style="color: #bb0852;"></i>
-              <div>
-                <span data-purecounter-start="0" data-purecounter-end="93" data-purecounter-duration="1" class="purecounter"></span>
-                <p>Certified Students</p>
-              </div>
-            </div>
-          </div><!--- END COL -->
-        </div><!--- END ROW -->
-      </div><!--- END CONTAINER -->
-    </section>
-	<!-- END COUNTER -->
-
-	<!-- START COMPANY PARTNER LOGO  -->
-	<div class="partner-logo section-padding">
-		<div class="container">
-			<div class="row">
-				<div class="col-lg-12 text-center">
-					<div class="partner_title">
-						<h3>Trusted Company Arround The World! </h3>
-					</div>
-					<div class="partner">
-						<a href="#"><img src="assets/home/images/all-img/clients/1.png" alt="image"></a>
-						<a href="#"><img src="assets/home/images/all-img/clients/2.png" alt="image"></a>
-						<a href="#"><img src="assets/home/images/all-img/clients/3.png" alt="image"></a>
-						<a href="#"><img src="assets/home/images/all-img/clients/4.png" alt="image"></a>
-						<a href="#"><img src="assets/home/images/all-img/clients/5.png" alt="image"></a>
-						<a href="#"><img src="assets/home/images/all-img/clients/2.png" alt="image"></a>
-						<a href="#"><img src="assets/home/images/all-img/clients/1.png" alt="image"></a>
-						<a href="#"><img src="assets/home/images/all-img/clients/3.png" alt="image"></a>
-						<a href="#"><img src="assets/home/images/all-img/clients/4.png" alt="image"></a>
-					</div>
-				</div><!-- END COL  -->
-			</div><!--END  ROW  -->
-		</div><!-- END CONTAINER  -->
-	</div>
-	<!-- END COMPANY PARTNER LOGO -->
-
-	<!-- START WHY CHOOSE US-->
-	<section class="marketing_content_area section-padding">
-	   <div class="container">
-			<div class="section-title">
-				<h2>Why Choose Penn</h2>
-				<p>Find the <span><u>best features</u></span> of Penn.</p>
-			</div>
-			<div class="row">
-				<div class="col-lg-4 col-sm-6 col-xs-12 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.1s" data-wow-offset="0">
-					<div class="single_feature_one">
-						<div class="sf_top">
-							<span class="ti-book ss_one"></span>
-							<h2><a href="single-service.html" target="_blank">Learn More Anywhere</a></h2>
-						</div>
-						<p>Lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor ut labore.</p>
-					</div>
-				</div><!-- END COL -->
-				<div class="col-lg-4 col-sm-6 col-xs-12 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.2s" data-wow-offset="0">
-					<div class="single_feature_one">
-						<div class="sf_top">
-							<span class="ti-heart ss_two"></span>
-							<h2><a href="single-service.html" target="_blank">Expert <br />Instructor</a></h2>
-						</div>
-						<p>Lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor ut labore.</p>
-					</div>
-				</div><!-- END COL -->
-				<div class="col-lg-4 col-sm-6 col-xs-12 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.3s" data-wow-offset="0">
-					<div class="single_feature_one">
-						<div class="sf_top">
-							<span class="ti-user ss_three"></span>
-							<h2><a href="single-service.html" target="_blank">Team <br />Management</a></h2>
-						</div>
-						<p>Lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor ut labore.</p>
-					</div>
-				</div><!-- END COL -->
-				<div class="col-lg-4 col-sm-6 col-xs-12 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.4s" data-wow-offset="0">
-					<div class="single_feature_one">
-						<div class="sf_top">
-							<span class="ti-eye ss_four"></span>
-							<h2><a href="single-service.html" target="_blank">Course <br /> Planing</a></h2>
-						</div>
-						<p>Lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor ut labore.</p>
-					</div>
-				</div><!-- END COL -->
-				<div class="col-lg-4 col-sm-6 col-xs-12 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.5s" data-wow-offset="0">
-					<div class="single_feature_one">
-						<div class="sf_top">
-							<span class="ti-light-bulb ss_five"></span>
-							<h2><a href="single-service.html" target="_blank">Teacher Monitoring</a></h2>
-						</div>
-						<p>Lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor ut labore.</p>
-					</div>
-				</div><!-- END COL -->
-				<div class="col-lg-4 col-sm-6 col-xs-12 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.6s" data-wow-offset="0">
-					<div class="single_feature_one">
-						<div class="sf_top">
-							<span class="ti-email ss_six"></span>
-							<h2><a href="single-service.html" target="_blank">24/7 Strong Support</a></h2>
-						</div>
-						<p>Lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor ut labore.</p>
-					</div>
-				</div><!-- END COL -->
-			</div><!-- END ROW -->
-		</div><!-- END CONTAINER -->
-	</section>
-	<!-- END WHY CHOOSE US -->
-
-	<!--START COURSE -->
-	<div class="best-cpurse section-padding">
-		<div class="container">
-			<div class="section-title">
-			  <h2>Popular Courses</h2>
-			  <p>Choose Our <span><u>Top Courses</u></span></p>
-			</div>
-			<div class="row">
-				<div class="col-lg-4 col-sm-6 col-xs-12 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.1s" data-wow-offset="0">
-					<div class="course-slide">
-						<div class="course-img">
-							<img src="assets/home/images/all-img/c1.png" alt="">
-							<div class="course-date">
-								<span class="month">$49</span>
-							</div>
-						</div>
-						<div class="course-content"><a class="c_btn" href="single_course.html">Arts & Design</a>
-							<h3><a href="single_course.html">Basic Fundamentals of Interior & Graphics Design</a></h3>
-							<span><i class="fa fa-calendar"></i>3 Lessons</span>
-							<span><i class="fa fa-clock-o"></i>3h 45m</span>
-							<span><i class="fa fa-star"></i>4.9</span>
-							<span><i class="fa fa-table"></i><strong>30 Seats Available</strong></span>
-
-						</div>
-					</div><!--END COURSE SLIDE -->
-				</div><!--END COL -->
-				<div class="col-lg-4 col-sm-6 col-xs-12 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.1s" data-wow-offset="0">
-					<div class="course-slide">
-						<div class="course-img">
-							<img src="assets/home/images/all-img/c2.png" alt="">
-							<div class="course-date">
-								<span class="month">$39</span>
-							</div>
-						</div>
-						<div class="course-content"><a class="c_btn" href="single_course.html">Social</a>
-							<h3><a href="single_course.html">Increasing Engagement with Instagram & Facebook</a></h3>
-							<span><i class="fa fa-calendar"></i>5 Lessons</span>
-							<span><i class="fa fa-clock-o"></i>4h 15m</span>
-							<span><i class="fa fa-star"></i>4.7</span>
-							<span><i class="fa fa-table"></i><strong>21 Seats Available</strong></span>
-
-						</div>
-					</div><!--END COURSE SLIDE -->
-				</div><!--END COL -->
-				<div class="col-lg-4 col-sm-6 col-xs-12 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.1s" data-wow-offset="0">
-					<div class="course-slide">
-						<div class="course-img">
-							<img src="assets/home/images/all-img/c3.png" alt="">
-							<div class="course-date">
-								<span class="month">$29</span>
-							</div>
-						</div>
-						<div class="course-content"><a class="c_btn" href="single_course.html">Design</a>
-							<h3><a href="single_course.html">Introduction to Color Theory & Basic UI/UX</a></h3>
-							<span><i class="fa fa-calendar"></i>4 Lessons</span>
-							<span><i class="fa fa-clock-o"></i>6h 25m</span>
-							<span><i class="fa fa-star"></i>4.8</span>
-							<span><i class="fa fa-table"></i><strong>33 Seats Available</strong></span>
-
-						</div>
-					</div><!--END COURSE SLIDE -->
-				</div><!--END COL -->
-				<div class="col-lg-4 col-sm-6 col-xs-12 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.1s" data-wow-offset="0">
-					<div class="course-slide">
-						<div class="course-img">
-							<img src="assets/home/images/all-img/c4.png" alt="">
-							<div class="course-date">
-								<span class="month">$59</span>
-							</div>
-						</div>
-						<div class="course-content"><a class="c_btn" href="single_course.html">Technology</a>
-							<h3><a href="single_course.html">Financial Security Thinking and Principles Theory</a></h3>
-							<span><i class="fa fa-calendar"></i>7 Lessons</span>
-							<span><i class="fa fa-clock-o"></i>7h 45m</span>
-							<span><i class="fa fa-star"></i>4.7</span>
-							<span><i class="fa fa-table"></i><strong>11 Seats Available</strong></span>
-
-						</div>
-					</div><!--END COURSE SLIDE -->
-				</div><!--END COL -->
-				<div class="col-lg-4 col-sm-6 col-xs-12 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.1s" data-wow-offset="0">
-					<div class="course-slide">
-						<div class="course-img">
-							<img src="assets/home/images/all-img/c5.png" alt="">
-							<div class="course-date">
-								<span class="month">$69</span>
-							</div>
-						</div>
-						<div class="course-content"><a class="c_btn" href="single_course.html">Data Science</a>
-							<h3><a href="single_course.html">Logo Design: From Concept to Presentation</a></h3>
-							<span><i class="fa fa-calendar"></i>5 Lessons</span>
-							<span><i class="fa fa-clock-o"></i>4h 55m</span>
-							<span><i class="fa fa-star"></i>4.9</span>
-							<span><i class="fa fa-table"></i><strong>41 Seats Available</strong></span>
-
-						</div>
-					</div><!--END COURSE SLIDE -->
-				</div><!--END COL -->
-				<div class="col-lg-4 col-sm-6 col-xs-12 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.1s" data-wow-offset="0">
-					<div class="course-slide">
-						<div class="course-img">
-							<img src="assets/home/images/all-img/c6.png" alt="">
-							<div class="course-date">
-								<span class="month">$99</span>
-							</div>
-						</div>
-						<div class="course-content"><a class="c_btn" href="single_course.html">Development</a>
-							<h3><a href="single_course.html">Professional Ceramic Moulding for Beginners</a></h3>
-							<span><i class="fa fa-calendar"></i>3 Lessons</span>
-							<span><i class="fa fa-clock-o"></i>3h 10m</span>
-							<span><i class="fa fa-star"></i>4.9</span>
-							<span><i class="fa fa-table"></i><strong>37 Seats Available</strong></span>
-
-						</div>
-					</div><!--END COURSE SLIDE -->
-				</div><!--END COL -->
-				<div class="col-lg-12 text-center">
-					<div class="cc_btn">
-						<a class="btn_one" href="course.html">View All Course</a>
-					</div>
-				</div><!--END COL -->
-			</div><!--END ROW -->
-		</div><!--END CONTAINER -->
-	</div>
-	<!--END COURSE -->
-
 	<!-- START COURSE PROMOTION -->
 	<section class="course_promo section-padding">
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-6 col-sm-12 col-xs-12 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.1s" data-wow-offset="0">
 					<div class="cp_content">
-						<h4>Best Online Learning Platform</h4>
-						<h2>One Platfrom & Many <span><u>Courses</u></span> For You</h2>
-						<p>From blogs to emails to ad copies, auto-generate catchy, original, and high-converting copies in popular tones languages.</p>
+						<h4>Introduction</h4>
+						<h2>DATA <span><u>UNAND</u></span></h2>
+						<p>DATA UNAND is responsible for collecting, managing, presenting, and analyzing data to support university management.</p>
 						<ul>
-							<li><span class="ti-check"></span>9/10 Average Satisfaction Rate</li>
-							<li><span class="ti-check"></span>96% Completitation Rate</li>
+							<li><span class="ti-check"></span>Excellent Accreditation</li>
+							<li><span class="ti-check"></span>Collaborative Environment</li>
 							<li><span class="ti-check"></span>Friendly Environment & Expert Teacher</li>
 						</ul>
 					</div>
 					<div class="cp_btn">
-						<a href="#" class="cta"><span>Explore Our Courses</span>
+						<a href="#" class="cta"><span>Explore</span>
 						  <svg width="13px" height="10px" viewBox="0 0 13 10">
 							<path d="M1,5 L11,5"></path>
 							<polyline points="8 1 12 5 8 9"></polyline>
@@ -675,7 +305,9 @@
 				</div><!--- END COL -->
 				<div class="col-lg-6 col-sm-12 col-xs-12 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.2s" data-wow-offset="0">
 					<div class="cp_img">
-						<img src="assets/home/images/all-img/promo.png" class="img-fluid" alt="image">
+						{{-- <img src="assets/home/images/all-img/promo.png" class="img-fluid" alt="image"> --}}
+						{{-- <img src="assets/home/images/all-img/PERPUS.jpg" class="img-fluid" alt="image"> --}}
+	
 						<!-- <div class="wc_year">
 							<h3>20 Years of Experience <br />from 2002</h3>
 						</div> -->
@@ -686,408 +318,32 @@
 	</section>
 	<!-- END COURSE PROMOTION -->
 
-	<!-- START NEWSLETTER -->
-	<section class="newsletter_area section-padding">
+	<!-- START COMPANY PARTNER LOGO  -->
+	<div class="partner-logo section-padding">
 		<div class="container">
-			<div class="row text-center">
-				<div class="col-lg-6 offset-lg-3 col-sm-12 col-xs-12">
-					<div class="subs_form">
-						<h3>Subscripbe to our newsletter, We don't make any spam.</h3>
-						<p>Lorem ipsum dolor sit amet consectetur adipisicing elitsed eiusmod tempor enim minim</p>
-						<form action="#" class="home_subs">
-							<input type="text" class="subscribe__input" placeholder="Enter your Email Address">
-							<button type="button" class="subscribe__btn"><i class="fa fa-paper-plane-o"></i></button>
-						</form>
-					</div>
-				</div><!-- END COL -->
-			</div><!-- END ROW -->
-		</div><!--- END CONTAINER -->
-	</section>
-	<!-- END NEWSLETTER -->
-
-	<!-- START TOPIC-->
-	<section class="topic_content_area section-padding">
-	   <div class="container">
-			<div class="section-title">
-				<h2>Start Learning </h2>
-				<p>Popular <span><u>Topics To Learn</u></span> From Today.</p>
-			</div>
 			<div class="row">
-				<div class="col-lg-4 col-sm-6 col-xs-12">
-					<div class="single_tca">
-						<img src="assets/home/images/icon/ct1.svg" alt="" />
-						<h2><a href="#">UI/UX Design</a></h2>
-						<span>71 Courses</span>
+				<div class="col-lg-12 text-center" >
+					<div class="partner_title">
+						<h3>Trusted Company Arround The World! </h3>
 					</div>
-				</div><!-- END COL -->
-				<div class="col-lg-4 col-sm-6 col-xs-12">
-					<div class="single_tca">
-						<img src="assets/home/images/icon/ct2.svg" alt="" />
-						<h2><a href="#">Digital Program</a></h2>
-						<span>59 Courses</span>
-					</div>
-				</div><!-- END COL -->
-				<div class="col-lg-4 col-sm-6 col-xs-12">
-					<div class="single_tca">
-						<img src="assets/home/images/icon/ct3.svg" alt="" />
-						<h2><a href="#">Finance</a></h2>
-						<span>68 Courses</span>
-					</div>
-				</div><!-- END COL -->
-				<div class="col-lg-4 col-sm-6 col-xs-12">
-					<div class="single_tca">
-						<img src="assets/home/images/icon/ct4.svg" alt="" />
-						<h2><a href="#">Modern Physics</a></h2>
-						<span>83 Courses</span>
-					</div>
-				</div><!-- END COL -->
-				<div class="col-lg-4 col-sm-6 col-xs-12">
-					<div class="single_tca">
-						<img src="assets/home/images/icon/ct5.svg" alt="" />
-						<h2><a href="#">Music Production</a></h2>
-						<span>37 Courses</span>
-					</div>
-				</div><!-- END COL -->
-				<div class="col-lg-4 col-sm-6 col-xs-12">
-					<div class="single_tca">
-						<img src="assets/home/images/icon/ct6.svg" alt="" />
-						<h2><a href="#">Data Science</a></h2>
-						<span>51 Courses</span>
-					</div>
-				</div><!-- END COL -->
-			</div><!-- END ROW -->
-		</div><!-- END CONTAINER -->
-	</section>
-	<!-- END TOPIC -->
-
-	<!-- START EVENT -->
-	<section class="our-event section-padding">
-		<div class="container">
-			<div class="section-title">
-				<h2>Upcoming Events</h2>
-				<p>Join With Us <span><u>Our Events</u></span></p>
-			</div>
-			<div class="row">
-				<div class="col-lg-4 col-sm-6 col-xs-12">
-					<div class="event-slide">
-						<div class="event-img">
-							<img src="assets/home/images/event/e1.png" alt="">
-							<div class="event-date">
-								<span class="date">20</span>
-								<span class="month">Oct</span>
-							</div>
-						</div>
-						<div class="event-content">
-							<h3><a href="event.html">Electrical Engineering of Batparder new event</a></h3>
-							<span><i class="fa fa-clock-o"></i>10.00AM - 12.00PM</span>
-							<span><i class="fa fa-table"></i><strong>At Penn School</strong></span>
-							<p>Lorem ipsum dolor sit amet magna consectetur adipisicing elit.</p>
-						</div>
-					</div><!-- END EVENT -->
-				</div><!-- END COL -->
-				<div class="col-lg-4 col-sm-6 col-xs-12">
-					<div class="event-slide">
-						<div class="event-img">
-							<img src="assets/home/images/event/e2.png" alt="">
-							<div class="event-date">
-								<span class="date">22</span>
-								<span class="month">Oct</span>
-							</div>
-						</div>
-						<div class="event-content">
-							<h3><a href="event.html">Architecture Design of International Art Fair 2023</a></h3>
-							<span><i class="fa fa-clock-o"></i>10.00AM - 12.00PM</span>
-							<span><i class="fa fa-table"></i><strong>At Penn School</strong></span>
-							<p>Lorem ipsum dolor sit amet magna consectetur adipisicing elit.</p>
-						</div>
-					</div><!-- END EVENT -->
-				</div><!-- END COL -->
-				<div class="col-lg-4 col-sm-6 col-xs-12">
-					<div class="event-slide es">
-						<div class="ed_mb">
-							<span class="date">26</span>
-							<span class="month">Oct</span>
-						</div>
-						<div class="event-content ec_pd">
-							<h3><a href="event.html">Chiter astana event</a></h3>
-							<span><i class="fa fa-clock-o"></i>10.00AM - 12.00PM</span>
-							<span><i class="fa fa-table"></i><strong>At Penn School</strong></span>
-							<p>Lorem ipsum dolor sit amet magna consectetur adipisicing elit.</p>
-						</div>
-					</div><!-- END EVENT -->
-					<div class="event-slide es">
-						<div class="ed_mb">
-							<span class="date">29</span>
-							<span class="month">Oct</span>
-						</div>
-						<div class="event-content ec_pd">
-							<h3><a href="event.html">Dasel Bhai Program</a></h3>
-							<span><i class="fa fa-clock-o"></i>10.00AM - 12.00PM</span>
-							<span><i class="fa fa-table"></i><strong>At Penn School</strong></span>
-							<p>Lorem ipsum dolor sit amet magna consectetur adipisicing elit.</p>
-						</div>
-					</div><!-- END EVENT -->
-				</div><!-- END COL -->
-			</div><!-- END ROW -->
-		</div><!-- END CONTAINER -->
-	</section>
-	<!-- END EVENT -->
-
-	<!-- START TESTIMONIALS-->
-	<section class="testi_home_area section-padding">
-	   <div class="container">
-			<div class="section-title">
-				<h2>Testimonial</h2>
-				<p>What Says <span><u>Our Students</u></span></p>
-			</div>
-			<div class="row">
-				<div class="col-lg-12">
-					<div id="testimonial-slider" class="owl-carousel">
-						<div class="testimonial">
-							<div class="testimonial_content">
-								<i class="fa fa-star"></i>
-								<i class="fa fa-star"></i>
-								<i class="fa fa-star"></i>
-								<i class="fa fa-star"></i>
-								<i class="fa fa-star"></i>
-								<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr sed diam nonumy eirmod tempor.</p>
-							</div>
-							<div class="testi_pic_title tpt_one">
-								<div class="pic">
-									<img src="assets/home/images/all-img/t1.png" alt="">
-								</div>
-								<h4>James Clayton</h4>
-								<small class="post">- Design Expert</small>
-							</div>
-						</div><!-- END TESTIMONIAL -->
-						<div class="testimonial">
-							<div class="testimonial_content">
-								<i class="fa fa-star"></i>
-								<i class="fa fa-star"></i>
-								<i class="fa fa-star"></i>
-								<i class="fa fa-star"></i>
-								<i class="fa fa-star"></i>
-								<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr sed diam nonumy eirmod tempor.</p>
-							</div>
-							<div class="testi_pic_title tpt_two">
-								<div class="pic">
-									<img src="assets/home/images/all-img/t2.png" alt="">
-								</div>
-								<h4>James Simmons</h4>
-								<small class="post">- Marketing Expert</small>
-							</div>
-						</div><!-- END TESTIMONIAL -->
-						<div class="testimonial">
-							<div class="testimonial_content">
-								<i class="fa fa-star"></i>
-								<i class="fa fa-star"></i>
-								<i class="fa fa-star"></i>
-								<i class="fa fa-star"></i>
-								<i class="fa fa-star"></i>
-								<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr sed diam nonumy eirmod tempor.</p>
-							</div>
-							<div class="testi_pic_title tpt_three">
-								<div class="pic">
-									<img src="assets/home/images/all-img/t3.png" alt="">
-								</div>
-								<h4>Alex feroundo</h4>
-								<small class="post">- Founder</small>
-							</div>
-						</div><!-- END TESTIMONIAL -->
-						<div class="testimonial">
-							<div class="testimonial_content">
-								<i class="fa fa-star"></i>
-								<i class="fa fa-star"></i>
-								<i class="fa fa-star"></i>
-								<i class="fa fa-star"></i>
-								<i class="fa fa-star"></i>
-								<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr sed diam nonumy eirmod tempor.</p>
-							</div>
-							<div class="testi_pic_title tpt_one">
-								<div class="pic">
-									<img src="assets/home/images/all-img/t4.png" alt="">
-								</div>
-								<h4>Kallu Mastan</h4>
-								<small class="post">- Mastan group</small>
-							</div>
-						</div><!-- END TESTIMONIAL -->
-						<div class="testimonial">
-							<div class="testimonial_content">
-								<i class="fa fa-star"></i>
-								<i class="fa fa-star"></i>
-								<i class="fa fa-star"></i>
-								<i class="fa fa-star"></i>
-								<i class="fa fa-star"></i>
-								<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr sed diam nonumy eirmod tempor.</p>
-							</div>
-							<div class="testi_pic_title tpt_two">
-								<div class="pic">
-									<img src="assets/home/images/all-img/t1.png" alt="">
-								</div>
-								<h4>Devid max</h4>
-								<small class="post">- Max iNC</small>
-							</div>
-						</div><!-- END TESTIMONIAL -->
-					</div><!-- END TESTIMONIAL SLIDER -->
+						<img src="assets/home/images/all-img/Akreditasi/pddikti.png" alt="image" style="width: 80px; margin-right: 10px;">
+						<img src="assets/home/images/all-img/Akreditasi/banpt.png" alt="image" style="width: 80px; margin-right: 10px;">
+						<img src="assets/home/images/all-img/Akreditasi/asiin.png" alt="image" style="width: 80px; margin-right: 10px;">
+						<img src="assets/home/images/all-img/Akreditasi/rsc.png" alt="image" style="width: 80px; margin-right: 10px;">
+						<img src="assets/home/images/all-img/Akreditasi/iabee.jpg" alt="image" style="width: 80px; margin-right: 10px;">
+						<img src="assets/home/images/all-img/Akreditasi/abet.png" alt="image" style="width: 80px; margin-right: 10px;">
+						<img src="assets/home/images/all-img/Akreditasi/fibaa.png" alt="image" style="width: 80px; margin-right: 10px;">
+						<img src="assets/home/images/all-img/Akreditasi/abest.png" alt="image" style="width: 80px; margin-right: 10px;">
+						<img src="assets/home/images/all-img/Akreditasi/lamptkes.png" alt="image" style="width: 80px; margin-right: 10px;">
+						<img src="assets/home/images/all-img/Akreditasi/lamsama.png" alt="image" style="width: 80px; margin-right: 10px;">
+						<img src="assets/home/images/all-img/Akreditasi/lamemba.png" alt="image" style="width: 80px; margin-right: 10px;">
+						<img src="assets/home/images/all-img/Akreditasi/lamfokom.png" alt="image" style="width: 80px; margin-right: 10px;">
+						<img src="assets/home/images/all-img/Akreditasi/lamtek.png" alt="image" style="width: 80px; margin-right: 10px;">
 				</div><!-- END COL  -->
-			</div><!-- END ROW -->
-		</div><!-- END CONTAINER -->
-	</section>
-	<!-- END TESTIMONIALS -->
-
-	<!-- START TEAM-->
-	<section class="team_home_area section-padding">
-	   <div class="container">
-			<div class="section-title">
-				<h2>Team Member</h2>
-				<p>Our Expert <span><u>Instructors</u></span></p>
-			</div>
-			<div class="row">
-				<div class="col-lg-3 col-sm-6 col-xs-12 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.1s" data-wow-offset="0">
-					<div class="single-team-home">
-						<div class="img"><img src="assets/home/images/all-img/team1.jpg" class="img-fluid" alt=""></div>
-						<div class="team-content-home">
-							<h3>Marina Mojo</h3>
-							<p>Developer</p>
-							<div class="sth_det">
-								<span class="ti-file"> <u>5 Course</u></span>
-								<span class="ti-user"> <u>12 Student</u></span>
-							</div>
-							<ul class="social-home">
-								<li><a href="#" class="facebook-home"><i class="fa fa-facebook"></i></a></li>
-								<li><a href="#" class="twitter-home"><i class="fa fa-twitter"></i></a></li>
-								<li><a href="#" class="instagram-home"><i class="fa fa-instagram"></i></a></li>
-							</ul>
-						</div>
-					</div>
-				</div><!-- END COL -->
-				<div class="col-lg-3 col-sm-6 col-xs-12 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.2s" data-wow-offset="0">
-					<div class="single-team-home">
-						<div class="img"><img src="assets/home/images/all-img/team2.jpg" class="img-fluid" alt=""></div>
-						<div class="team-content-home">
-							<h3>Ayoub Fennouni</h3>
-							<p>Logo Expert</p>
-							<div class="sth_det">
-								<span class="ti-file"> <u>5 Course</u></span>
-								<span class="ti-user"> <u>7 Student</u></span>
-							</div>
-							<ul class="social-home">
-								<li><a href="#" class="facebook-home"><i class="fa fa-facebook"></i></a></li>
-								<li><a href="#" class="twitter-home"><i class="fa fa-twitter"></i></a></li>
-								<li><a href="#" class="instagram-home"><i class="fa fa-instagram"></i></a></li>
-							</ul>
-						</div>
-					</div>
-				</div><!-- END COL -->
-				<div class="col-lg-3 col-sm-6 col-xs-12 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.3s" data-wow-offset="0">
-					<div class="single-team-home">
-						<div class="img"><img src="assets/home/images/all-img/team3.jpg" class="img-fluid" alt=""></div>
-						<div class="team-content-home">
-							<h3>Mark Linomi</h3>
-							<p>Marketer</p>
-							<div class="sth_det">
-								<span class="ti-file"> <u>9 Course</u></span>
-								<span class="ti-user"> <u>17 Student</u></span>
-							</div>
-							<ul class="social-home">
-								<li><a href="#" class="facebook-home"><i class="fa fa-facebook"></i></a></li>
-								<li><a href="#" class="twitter-home"><i class="fa fa-twitter"></i></a></li>
-								<li><a href="#" class="instagram-home"><i class="fa fa-instagram"></i></a></li>
-							</ul>
-						</div>
-					</div>
-				</div><!-- END COL -->
-				<div class="col-lg-3 col-sm-6 col-xs-12 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.4s" data-wow-offset="0">
-					<div class="single-team-home">
-						<div class="img"><img src="assets/home/images/all-img/team4.jpg" class="img-fluid" alt=""></div>
-						<div class="team-content-home">
-							<h3>Amira Yerden</h3>
-							<p>UI/UX Designer</p>
-							<div class="sth_det">
-								<span class="ti-file"> <u>15 Course</u></span>
-								<span class="ti-user"> <u>31 Student</u></span>
-							</div>
-							<ul class="social-home">
-								<li><a href="#" class="facebook-home"><i class="fa fa-facebook"></i></a></li>
-								<li><a href="#" class="twitter-home"><i class="fa fa-twitter"></i></a></li>
-								<li><a href="#" class="instagram-home"><i class="fa fa-instagram"></i></a></li>
-							</ul>
-						</div>
-					</div>
-				</div><!-- END COL -->
-			</div><!-- END ROW -->
-		</div><!-- END CONTAINER -->
-	</section>
-	<!-- END TEAM -->
-
-	<!-- START BLOG -->
-	<section id="blog" class="blog_area section-padding">
-		<div class="container">
-			<div class="section-title">
-				<h2>News</h2>
-				<p>Our Latest <span><u>Blogs</u></span></p>
-			</div>
-			<div class="row">
-				<div class="col-lg-4 col-sm-4 col-xs-12 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.1s" data-wow-offset="0">
-					<div class="single_blog">
-						<div class="content_box">
-							<span>August 25, 2023 | <a href="blog_single.html">Design</a></span>
-							<h2><a href="blog_single.html">Professional Mobile Painting and Sculpting</a></h2>
-							<a href="#" class="cta"><span>READ MORE</span>
-							  <svg width="13px" height="10px" viewBox="0 0 13 10">
-								<path d="M1,5 L11,5"></path>
-								<polyline points="8 1 12 5 8 9"></polyline>
-							  </svg>
-							</a>
-						</div>
-					</div>
-					<div class="single_blog">
-						<div class="content_box">
-							<span>August 25, 2023 | <a href="blog_single.html">Design</a></span>
-							<h2><a href="blog_single.html">Professional Mobile Painting and Sculpting</a></h2>
-							<a href="#" class="cta"><span>READ MORE</span>
-							  <svg width="13px" height="10px" viewBox="0 0 13 10">
-								<path d="M1,5 L11,5"></path>
-								<polyline points="8 1 12 5 8 9"></polyline>
-							  </svg>
-							</a>
-						</div>
-					</div>
-				</div><!-- END COL-->
-				<div class="col-lg-4 col-sm-4 col-xs-12 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.1s" data-wow-offset="0">
-					<div class="single_blog">
-						<img src="assets/home/images/blog/2.png" class="img-fluid" alt="image" />
-						<div class="content_box">
-							<span>August 26, 2023 | <a href="blog_single.html">Education</a></span>
-							<h2><a href="blog_single.html">Professional Ceramic Moulding for Beginner</a></h2>
-							<a href="#" class="cta"><span>READ MORE</span>
-							  <svg width="13px" height="10px" viewBox="0 0 13 10">
-								<path d="M1,5 L11,5"></path>
-								<polyline points="8 1 12 5 8 9"></polyline>
-							  </svg>
-							</a>
-						</div>
-					</div>
-				</div><!-- END COL-->
-				<div class="col-lg-4 col-sm-4 col-xs-12 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.3s" data-wow-offset="0">
-					<div class="single_blog">
-						<img src="assets/home/images/blog/3.png" class="img-fluid" alt="image" />
-						<div class="content_box">
-							<span>August 28, 2023 | <a href="blog_single.html">Programing</a></span>
-							<h2><a href="blog_single.html">Education Is About Create Leaders For Tomorrow </a></h2>
-							<a href="#" class="cta"><span>READ MORE</span>
-							  <svg width="13px" height="10px" viewBox="0 0 13 10">
-								<path d="M1,5 L11,5"></path>
-								<polyline points="8 1 12 5 8 9"></polyline>
-							  </svg>
-							</a>
-						</div>
-					</div>
-				</div><!-- END COL-->
-			</div><!-- / END ROW -->
+			</div><!--END  ROW  -->
 		</div><!-- END CONTAINER  -->
-	</section>
-	<!-- END BLOG -->
+	</div>
+	<!-- END COMPANY PARTNER LOGO -->
 
 	<!-- START FOOTER -->
 	<div class="footer section-padding">
@@ -1095,41 +351,44 @@
 			<div class="row">
 				<div class="col-lg-3 col-sm-6 col-xs-12">
 					<div class="single_footer">
-						<a href="index.html"><img src="assets/home/images/all-img/logo2.png" alt=""></a>
-						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce vitae risus nec dui venenatis dignissim.</p>
+						<a href="index.html"><img src="assets/admin/images/logo/logo.svg" alt="" style="width: 300px;"></a>
+						<p>DATA UNAND is responsible for collecting, managing, presenting, and analyzing data to support university management.</p>
 					</div>
 					<div class="foot_social">
 						<ul>
-							<li><a href="#">TW</a></li>
-							<li><a href="#">FB</a></li>
-							<li><a href="#">INS</a></li>
-							<li><a href="#">YT</a></li>
+							<li><a href="https://x.com/unandofficial" class="ti-twitter" target="_blank"></a></li>
+							<li><a href="https://www.facebook.com/unandofficial/" class="ti-facebook" target="_blank"></a></li>
+							<li><a href="https://www.instagram.com/unandofficial/" class="ti-instagram" target="_blank"></a></li>
+							<li><a href="https://www.tiktok.com/@unandofficial" class="fab fa-tiktok" target="_blank"></a></li>
+							<li><a href="https://www.youtube.com/@UniversitasAndalas" class="fab fa-youtube" target="_blank"></a></li>
+							<li><a href="https://www.linkedin.com/school/unand/posts/?feedView=all" class="ti-linkedin" target="_blank"></a></li>
+
+						</ul>
+					</div>
+				</div><!--- END COL -->
+				<div class="col-lg-3 col-sm-6 col-xs-12" >
+					<div class="single_footer" style="margin-left: 100px;">
+						<h4>Resources</h4>
+						<ul>
+							<li><a href="https://ilearn.unand.ac.id/">Portal iLearn</a></li>
+							<li><a href="https://sso.unand.ac.id/auth/realms/unand/protocol/openid-connect/auth?response_type=code&redirect_uri=https%3A%2F%2Fsso.unand.ac.id%2Fcallback&client_id=dashboard-sso&nonce=1d05deda2156fb63f109eb5a3f114475&state=3e12d51b26b138b571022a0ea4fc3b88&scope=openid+openid">SSO</a></li>
+							<li><a href="http://repo.unand.ac.id/">Repository</a></li>
+							<li><a href="https://dosen.unand.ac.id/">Direktori Dosen</a></li>
+							<li><a href="https://login.microsoftonline.com/common/oauth2/v2.0/authorize?scope=service%3A%3Aaccount.microsoft.com%3A%3AMBI_SSL+openid+profile+offline_access&response_type=code&client_id=81feaced-5ddd-41e7-8bef-3e20a2689bb7&redirect_uri=https%3A%2F%2Faccount.microsoft.com%2Fauth%2Fcomplete-signin-oauth&client-request-id=c26f047b-5101-4c77-83f0-9f841abbf378&x-client-SKU=MSAL.Desktop&x-client-Ver=4.61.3.0&x-client-OS=Windows+Server+2019+Datacenter&prompt=login&client_info=1&state=H4sIAAAAAAAEAAXBN6KCMAAA0Lu4ZqAXhz8IEnozWDdKKAJBhCBw-v_e4ZK9n7e4dWtW-40F3_EPKzsVBrrP1oZEJpAwBZaugkXbBEvsXthblQX4ZzYBcjgd8zwe_aepL32D1pwMbO0JOkSOnGBR9u2W40uJRzcpfmG8JT1naSiFjTsEKRG42n9ELbypqaQuut9ugxthZmyDMsxX-yWeQuoVjLxELIcJPJrjCqsff5eIipS0CgDuXdwGybhXSt93WAK0KhIVZhUAn6vHf1BwHQ3-G2mCc6eXakIL2S0z-U5Dw4qSaUWk6caZK-fTmykuSu3s7NkLW8H8xYSwrOGmJpz7jHOI4aOTLWa0WNc8TycKzWZ-DAk-e-hdG_ZgS5SWzB7UZW405dJVf3-Hf4sOAGlaAQAA&msaoauth2=true&lc=1033">Email Institusi</a></li>
+							<li><a href="https://simanis.unand.ac.id/">Simanis</a></li>
 						</ul>
 					</div>
 				</div><!--- END COL -->
 				<div class="col-lg-3 col-sm-6 col-xs-12">
-					<div class="single_footer">
-						<h4>Courses</h4>
+					<div class="single_footer" style="margin-left: 80px;">
+						<h4>Unit</h4>
 						<ul>
-							<li><a href="#">Creative Writing</a></li>
-							<li><a href="#">Digital Marketing</a></li>
-							<li><a href="#">SEO Business</a></li>
-							<li><a href="#">Social Marketing</a></li>
-							<li><a href="#">Graphic Design</a></li>
-							<li><a href="#">Website Development</a></li>
-						</ul>
-					</div>
-				</div><!--- END COL -->
-				<div class="col-lg-3 col-sm-6 col-xs-12">
-					<div class="single_footer">
-						<h4>Company</h4>
-						<ul>
-							<li><a href="#">About us</a></li>
-							<li><a href="#">Knowledge Base</a></li>
-							<li><a href="#">Affiliate Program</a></li>
-							<li><a href="#">Community</a></li>
-							<li><a href="#">Market API</a></li>
-							<li><a href="#">Support team</a></li>
+							<li><a href="https://pustaka.unand.ac.id/" >Perpustakaan</a></li>
+							<li><a href="https://lc.unand.ac.id/" >Pusat Bahasa</a></li>
+							<li><a href="https://labsentral.unand.ac.id/" >Laboratorium</a></li>
+							<li><a href="https://pdk.unand.ac.id/" >PDK</a></li>
+							<li><a href="http://spi.unand.ac.id/" >SPI</a></li>
+							<li><a href="https://uld.unand.ac.id/" >Disabilitas</a></li>
 						</ul>
 					</div>
 				</div><!--- END COL -->
@@ -1139,17 +398,17 @@
 						<div class="sf_contact">
 							<span class="ti-mobile"></span>
 							<h3>Phone number</h3>
-							<p>+88 457 845 695</p>
+							<p>(0751) 77050</p>
 						</div>
 						<div class="sf_contact">
 							<span class="ti-email"></span>
 							<h3>Email Address</h3>
-							<p>example#yourmail.com</p>
+							<p> helpdesk@unand.ac.id</p>
 						</div>
 						<div class="sf_contact">
 							<span class="ti-map"></span>
 							<h3>Office Address</h3>
-							<p>California, USA</p>
+							<p>Direktorat Teknologi Informasi Gedung Perpustakaan Lantai Dasar, Limau Manis, Pauh, Padang</p>
 						</div>
 					</div>
 				</div><!--- END COL -->
@@ -1157,15 +416,15 @@
 			<div class="row fc">
 				<div class="col-lg-6 col-sm-6 col-xs-12">
 					<div class="footer_copyright">
-						<p>&copy; 2023. All Rights Reserved.</p>
+						<p>&copy; 2024. All Rights Reserved.</p>
 					</div>
 				</div>
 				<div class="col-lg-6 col-sm-6 col-xs-12">
 					<div class="footer_menu">
 						<ul>
-							<li><a href="#">Terms of use</a></li>
-							<li><a href="#">Privacy Policy</a></li>
-							<li><a href="#">Cookie Policy</a></li>
+							<li><a href="#" style="color: #1a2d62;">Terms of use</a></li>
+							<li><a href="#" style="color: #1a2d62;">Privacy Policy</a></li>
+							<li><a href="#" style="color: #1a2d62;">Cookie Policy</a></li>
 						</ul>
 					</div>
 				</div><!-- END COL -->
