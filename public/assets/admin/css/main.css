@@ -9165,6 +9165,7 @@ button:focus {
     flex-flow: column;
     transition: 0.2s linear;
     background-color: var(--main-50);
+    /* background-color: #d1e7dd; */
 }
 
 @media screen and (max-width: 1199px) {

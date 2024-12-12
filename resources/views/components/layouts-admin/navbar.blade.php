@@ -14,7 +14,7 @@
         <div class="dropdown">
             <button class="users arrow-down-icon border border-gray-200 rounded-pill p-2 d-inline-block pe-40 position-relative" type="button" data-bs-toggle="dropdown" aria-expanded="false">
                 <span class="position-relative">
-                    <img src="assets/admin/images/thumbs/user-img.png" alt="Image" class="h-32 w-32 rounded-circle">
+                    <img src="assets/admin/images/thumbs/user.png" alt="Image" class="h-32 w-32 rounded-circle">
                     <span class="activation-badge w-8 h-8 position-absolute inset-block-end-0 inset-inline-end-0"></span>
                 </span>
             </button>
@@ -23,7 +23,7 @@
                     <div class="card-body">
                         <div class="flex-align gap-8 mb-6 pb-6 border-bottom border-gray-100">
                             <!-- Mengurangi ukuran gambar dan memperkecil lebar gambar -->
-                            <img src="assets/admin/images/thumbs/user-img.png" alt="" class="w-32 h-32 rounded-circle"> <!-- Gambar lebih kecil -->
+                            <img src="assets/admin/images/thumbs/user.png" alt="" class="w-32 h-32 rounded-circle"> <!-- Gambar lebih kecil -->
                             <div class="">
                                 <!-- Ukuran teks lebih kecil -->
                                 <h4 class="mb-0 text-14">Michel John</h4>

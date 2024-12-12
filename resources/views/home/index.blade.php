@@ -13,6 +13,8 @@
 		<title>DATA UNAND</title>
 		<!-- Latest Bootstrap min CSS -->
 		<link rel="stylesheet" href="assets/home/bootstrap/css/bootstrap.min.css">
+		<!-- Favicon -->
+		<link rel="shortcut icon" href="assets/admin/images/logo/unand.png">
 		<!-- Google Font -->
 		<link href="https://fonts.googleapis.com/css2?family=Mulish:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
 		<!-- Font Awesome CSS -->
@@ -121,8 +123,8 @@
                 <li><a class="nav-link" href="blog.html">Chart <span class="ti-angle-down"></span></a>
                     <ul>
                         <li><a class="nav-link" href="blog.html">Mahasiswa</a></li>
-                        <li><a class="nav-link" href="blog_single.html">IPK</a></li>
-                        <li><a class="nav-link" href="blog.html">Angkatan</a></li>
+                        {{-- <li><a class="nav-link" href="blog_single.html">IPK</a></li>
+                        <li><a class="nav-link" href="blog.html">Angkatan</a></li> --}}
                         <li><a class="nav-link" href="blog_single.html">Lulusan</a></li>
                     </ul>
                 </li>
@@ -305,7 +307,7 @@
 				</div><!--- END COL -->
 				<div class="col-lg-6 col-sm-12 col-xs-12 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.2s" data-wow-offset="0">
 					<div class="cp_img">
-						{{-- <img src="assets/home/images/all-img/promo.png" class="img-fluid" alt="image"> --}}
+						<img src="assets/home/images/all-img/unand3.png" class="img-fluid" alt="image">
 						{{-- <img src="assets/home/images/all-img/PERPUS.jpg" class="img-fluid" alt="image"> --}}
 	
 						<!-- <div class="wc_year">
@@ -324,9 +326,9 @@
 			<div class="row">
 				<div class="col-lg-12 text-center" >
 					<div class="partner_title">
-						<h3>Trusted Company Arround The World! </h3>
+						<h3>Accredited </h3>
 					</div>
-						<img src="assets/home/images/all-img/Akreditasi/pddikti.png" alt="image" style="width: 80px; margin-right: 10px;">
+						{{-- <img src="assets/home/images/all-img/Akreditasi/pddikti.png" alt="image" style="width: 80px; margin-right: 10px;"> --}}
 						<img src="assets/home/images/all-img/Akreditasi/banpt.png" alt="image" style="width: 80px; margin-right: 10px;">
 						<img src="assets/home/images/all-img/Akreditasi/asiin.png" alt="image" style="width: 80px; margin-right: 10px;">
 						<img src="assets/home/images/all-img/Akreditasi/rsc.png" alt="image" style="width: 80px; margin-right: 10px;">
