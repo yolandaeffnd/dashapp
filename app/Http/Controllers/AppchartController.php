@@ -60,4 +60,11 @@ class AppchartController extends Controller
         $chart = Appchart::with('kategori')->with('fakultas')->get();
         return response()->json($chart);
     }
+
+    public function viewChart(Request $request)
+    {
+        $idKategori = $request->id;
+        $dataChart = Appchart::where('idKategori',$idKategori)->get();
+        return view('chart.chart_view',compact('dataChart'));
+    }
 }

@@ -55,13 +55,13 @@
                 <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
                 @php
                     $kategoris = DB::table('kategori')
-                            ->select('jenis')
+                            ->select('*')
                             ->get();
 
                 @endphp
                 @foreach($kategoris as $kategori)
                     <li class="sidebar-menu__item has-dropdown">
-                        <a href="javascript:void(0)" class="sidebar-menu__link">
+                        <a href="{{ route('chartview', ['id' => $kategori->id ]) }}" class="sidebar-menu__link">
                             {{-- <span class="icon"><i class="ph ph-graduation-cap"></i></span> --}}
                             <span class="icon"><i class="fas fa-graduation-cap"></i></span>
                             <span class="text">{{ $kategori->jenis }}</span>
