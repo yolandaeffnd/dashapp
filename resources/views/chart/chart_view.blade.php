@@ -55,6 +55,7 @@
     }
 </script>
 
+
 <!-- CSS to style the active navbar -->
 <style>
     .nav-link.active {
