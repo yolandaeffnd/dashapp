@@ -1,5 +1,11 @@
 @extends('components.app-admin')
 @section('content')
+<style type="text/css">
+    .card-body{
+        height:700px; 
+        overflow-y:hidden;
+    }
+</style>
 <div class="card text-center">
     <div class="card-header">
         <ul class="nav nav-tabs card-header-tabs">
@@ -24,7 +30,7 @@
             id="chartIframe"
             src="{{ $dataChart->first()->urlChart }}&navContentPaneEnabled=false"
             width="100%"
-            height="700px"
+            height="682px"
             style="border: none; overflow: hidden;"
             seamless="seamless"
             frameborder="0">
