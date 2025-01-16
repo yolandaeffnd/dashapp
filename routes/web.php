@@ -1,7 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
-use App\Http\Controllers\{AccountsController,ParentMenuController,RolesController,MenusController,AccessRoleController,TarikdataController,KategoriController,DashController, RefSemesterController,HomeController, AppchartController};
+use App\Http\Controllers\{AccountsController,ParentMenuController,RolesController,MenusController,AccessRoleController,TarikdataController,KategoriController,DashController, RefSemesterController, AppchartController};
 
 Route::get('dashboard', [DashController::class, 'index'])->name('dashboard');
 Route::get('tarikdata', [TarikdataController::class, 'tarikdata'])->name('tarikdata');
@@ -44,13 +44,6 @@ Route::group([], function () {
     Route::POST('/Y3JlYXRlYWt1bgX',[AccountsController::class,'registrationAction'])->name("registrationAction");
 });
 
-Route::get('/', function () {
-    return view('components.app-home');
-});
-
 Route::GET('/',[AccountsController::class,'index'])->name("index");
-Route::get('/home', [HomeController::class, 'index'])->name('home');
+Route::GET('/dashboard',[AccountsController::class,'dashboard'])->name("dashboard");
 
-Route::group(['middleware'=>['role:admin']], function () {
-    Route::GET('/test',[AccountsController::class,'test'])->name("test");
-});

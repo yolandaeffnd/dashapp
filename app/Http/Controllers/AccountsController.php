@@ -10,6 +10,10 @@ use Hash;
 class AccountsController extends Controller
 {
     public function index(){
+        $title = "Satu Data UNAND";
+        return view('home.index',compact('title'));
+    }
+    public function dashboard(){
         if (auth()->check()) {
             return view('components.app-admin');
         } else {
@@ -17,7 +21,11 @@ class AccountsController extends Controller
         }
     }
     public function login(){
-        return view('akun.login');
+        if (auth()->check()) {
+            return redirect()->route('dashboard');
+        } else {
+            return view('akun.login');
+        }
     }
     public function loginAction(Request $request){
         $request->validate([
@@ -26,7 +34,7 @@ class AccountsController extends Controller
         ]);
         $remember = $request->has('remember');
         if (Auth::attempt($request->only('username', 'password'), $remember)) {
-            return redirect()->route('index');
+            return redirect()->route('dashboard');
         }
         return redirect()->back()->withErrors(['error' => 'Username or Password is incorrect.']);
     }
@@ -56,9 +64,5 @@ class AccountsController extends Controller
     public function logout(){
         Auth::logout();
         return redirect('login');
-    }
-
-    public function test(){
-        dd(123);
     }
 }
