@@ -5,6 +5,7 @@ use App\Http\Controllers\{AccountsController,ParentMenuController,RolesControlle
 
 Route::get('dashboard', [DashController::class, 'index'])->name('dashboard');
 Route::get('tarikdata', [TarikdataController::class, 'tarikdata'])->name('tarikdata');
+Route::get('chartmhs', [TarikdataController::class, 'mahasiswa'])->name('chart.mhs');
 Route::get('semester', [RefSemesterController::class, 'index'])->name('semester.index');
 
 Route::group(['middleware'=>['role:admin']], function () {

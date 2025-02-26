@@ -171,7 +171,7 @@
         }
     }
 
-    function modalEdit(id,name,jenis){
+    function modalEdit(id,idKategori,namaChart,urlChart,idFakultas,posisiChart){
         document.getElementById('id_').value=id;
         document.getElementById('idKategori_').value='';
         document.getElementById('namaChart_').value='';
@@ -191,7 +191,7 @@
         }
 
         const titleModal = document.getElementById("titleModal");
-        titleModal.textContent = "Edit Jenis"
+        titleModal.textContent = "Edit Chart"
 
         window.onclick = function(event){
             if(event.target === modal){
