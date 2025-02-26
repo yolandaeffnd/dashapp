@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- Title -->
-    <title> Edmate Learning Dashboard HTML Template</title>
+    <title> Data UNAND</title>
     <!-- Favicon -->
     <link rel="shortcut icon" href="assets/admin/images/logo/unand.png">
     <!-- Bootstrap -->

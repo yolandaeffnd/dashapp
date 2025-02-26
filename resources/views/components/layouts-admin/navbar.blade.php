@@ -26,8 +26,8 @@
                             <img src="assets/admin/images/thumbs/user.png" alt="" class="w-32 h-32 rounded-circle"> <!-- Gambar lebih kecil -->
                             <div class="">
                                 <!-- Ukuran teks lebih kecil -->
-                                <h4 class="mb-0 text-14">Michel John</h4>
-                                <p class="fw-medium text-11 text-gray-200">examplemail@mail.com</p>
+                                <h4 class="mb-0 text-14">{{ Auth::user()->username }}</h4>
+                                <p class="fw-medium text-11 text-gray-200">{{ Auth::user()->email }}</p>
                             </div>
                         </div>
                         <ul class="max-h-270 overflow-y-auto scroll-sm pe-4">

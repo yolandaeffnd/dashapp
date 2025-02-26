@@ -105,40 +105,42 @@
 	<div id="navigation" class="fixed-top navbar-light bg-faded site-navigation">
 		<div class="container">
 			<div class="row">
-				<div class="col-lg-2 col-md-3 col-sm-4">
-					<div class="site-logo">
-						<a href="https://www.unand.ac.id/"><img src="assets/admin/images/logo/logo.svg" alt=""></a> 
-					</div>
-				</div><!--- END Col -->
+					<div class="col-lg-2 col-md-3 col-sm-4">
+						<div class="site-logo">
+							<a href="https://www.unand.ac.id/"><img src="assets/admin/images/logo/logo.svg" alt=""></a> 
+						</div>
+					</div><!--- END Col -->
 
-				<div class="col-lg-6 col-md-9 col-sm-8 ">
-					<div class="header_right ">
-						<div id="mobile_menu"></div>
-					</div>
-				</div><!--- END Col -->
-    <div class="col-lg-4 col-md-3 col-sm-8">
-    <div class="call_to_action">
-        <nav id="main-menu" class="ms-auto">
-            <ul>
-                <li><a class="nav-link" href="blog.html">Chart <span class="ti-angle-down"></span></a>
-                    <ul>
-                        <li><a class="nav-link" href="blog.html">Mahasiswa</a></li>
-                        {{-- <li><a class="nav-link" href="blog_single.html">IPK</a></li>
-                        <li><a class="nav-link" href="blog.html">Angkatan</a></li> --}}
-                        <li><a class="nav-link" href="blog_single.html">Lulusan</a></li>
-                    </ul>
-                </li>
-            </ul>
-        </nav>
-        <a class="btn_one" href="login.html">Login</a>
-    </div><!-- END call_to_action -->
-				</div><!-- END col -->
-			</div><!--- END ROW -->
-		</div><!--- END CONTAINER -->
+					<div class="col-lg-6 col-md-9 col-sm-8 ">
+						<div class="header_right ">
+							<div id="mobile_menu"></div>
+						</div>
+					</div><!--- END Col -->
+			    <div class="col-lg-4 col-md-3 col-sm-8">
+				    <div class="call_to_action">
+				        <nav id="main-menu" class="ms-auto">
+				            <ul>
+				                <li><a class="nav-link" href="blog.html">Chart <span class="ti-angle-down"></span></a>
+				                    <ul>
+				                        <li><a class="nav-link" href="blog.html">Mahasiswa</a></li>
+				                        {{-- <li><a class="nav-link" href="blog_single.html">IPK</a></li>
+				                        <li><a class="nav-link" href="blog.html">Angkatan</a></li> --}}
+				                        <li><a class="nav-link" href="blog_single.html">Lulusan</a></li>
+				                    </ul>
+				                </li>
+				            </ul>
+				        </nav>
+				        @auth
+				        	<a class="btn_one" href="{{ route('dashboard') }}">Dashboard</a>
+				        @else
+				        	<a class="btn_one" href="{{ route('login') }}">Login</a>
+				        @endauth
+				    </div>
+				</div>
+			</div>
+		</div>
 	</div>
-	<!-- END NAVBAR -->
 
-	<!-- START HOME -->
 	<section  id="home" class="home_bg" style="background-image: url(assets/home/images/banner/home.png);  background-size:cover; background-position: center center;">
 		<div class="container">
 			<div class="row">
