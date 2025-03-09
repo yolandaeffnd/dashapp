@@ -52,6 +52,23 @@
                     </ul>
                     <!-- Submenu End -->
                 </li>
+                <li class="sidebar-menu__item has-dropdown">
+                    <a href="javascript:void(0)" class="sidebar-menu__link">
+                        {{-- <span class="icon"><i class="ph ph-graduation-cap"></i></span> --}}
+                        <span class="icon"><i class="ph ph-clipboard-text"></i></span>
+                        <span class="text">Akademik</span>
+                    </a>
+                    <!-- Submenu start -->
+                    <ul class="sidebar-submenu">
+                        <li class="sidebar-submenu__item">
+                            <a href="{{ route('chart.mhs') }}" class="sidebar-submenu__link"> Mahasiswa </a>
+                        </li>
+                        <li class="sidebar-submenu__item">
+                            <a href="{{ route('chart.mhs.angkatan') }}" class="sidebar-submenu__link"> Mahasiswa Angkatan </a>
+                        </li>
+                    </ul>
+                    <!-- Submenu End -->
+                </li>
                 <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
                 @php
                     $kategoris = DB::table('kategori')

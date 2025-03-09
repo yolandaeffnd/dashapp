@@ -1,0 +1,3885 @@
+{
+    "code": 200,
+    "status": "success",
+    "message": "List of all data.",
+    "data": [
+        {
+            "57201": {
+                "jumlah_mahasiswa_awal": 56,
+                "jumlah_mahasiswa_sisa": 56,
+                "program_studi": "SISTEM INFORMASI",
+                "fakultas": "TEKNOLOGI INFORMASI",
+                "angkatan": 2018,
+                "data_per_semester": {
+                    "20181": {
+                        "semester": 20181,
+                        "jumlah_cuti": 1,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 2,
+                        "jumlah_mahasiswa_sisa": 53
+                    },
+                    "20182": {
+                        "semester": 20182,
+                        "jumlah_cuti": 2,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 52
+                    },
+                    "20192": {
+                        "semester": 20192,
+                        "jumlah_cuti": 1,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 53
+                    },
+                    "20201": {
+                        "semester": 20201,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 2,
+                        "jumlah_keluar": 3,
+                        "jumlah_mahasiswa_sisa": 49
+                    },
+                    "20202": {
+                        "semester": 20202,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 1,
+                        "jumlah_mahasiswa_sisa": 50
+                    },
+                    "20221": {
+                        "semester": 20221,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 1,
+                        "jumlah_mahasiswa_sisa": 49
+                    },
+                    "20191": {
+                        "semester": 20191,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 54
+                    },
+                    "20211": {
+                        "semester": 20211,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 50
+                    },
+                    "20212": {
+                        "semester": 20212,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 50
+                    },
+                    "20222": {
+                        "semester": 20222,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 49
+                    }
+                }
+            },
+            "56201": {
+                "jumlah_mahasiswa_awal": 79,
+                "jumlah_mahasiswa_sisa": 79,
+                "program_studi": "TEKNIK KOMPUTER",
+                "fakultas": "TEKNOLOGI INFORMASI",
+                "angkatan": 2018,
+                "data_per_semester": {
+                    "20181": {
+                        "semester": 20181,
+                        "jumlah_cuti": 1,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 78
+                    },
+                    "20182": {
+                        "semester": 20182,
+                        "jumlah_cuti": 10,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 69
+                    },
+                    "20191": {
+                        "semester": 20191,
+                        "jumlah_cuti": 3,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 5,
+                        "jumlah_mahasiswa_sisa": 71
+                    },
+                    "20192": {
+                        "semester": 20192,
+                        "jumlah_cuti": 1,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 73
+                    },
+                    "20201": {
+                        "semester": 20201,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 6,
+                        "jumlah_keluar": 5,
+                        "jumlah_mahasiswa_sisa": 63
+                    },
+                    "20202": {
+                        "semester": 20202,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 4,
+                        "jumlah_mahasiswa_sisa": 65
+                    },
+                    "20211": {
+                        "semester": 20211,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 1,
+                        "jumlah_mahasiswa_sisa": 64
+                    },
+                    "20221": {
+                        "semester": 20221,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 1,
+                        "jumlah_mahasiswa_sisa": 63
+                    },
+                    "20212": {
+                        "semester": 20212,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 64
+                    },
+                    "20222": {
+                        "semester": 20222,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 63
+                    }
+                }
+            },
+            "20201": {
+                "jumlah_mahasiswa_awal": 132,
+                "jumlah_mahasiswa_sisa": 132,
+                "program_studi": "Teknik Elektro",
+                "fakultas": "TEKNIK",
+                "angkatan": 2018,
+                "data_per_semester": {
+                    "20182": {
+                        "semester": 20182,
+                        "jumlah_cuti": 7,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 125
+                    },
+                    "20191": {
+                        "semester": 20191,
+                        "jumlah_cuti": 7,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 7,
+                        "jumlah_mahasiswa_sisa": 118
+                    },
+                    "20192": {
+                        "semester": 20192,
+                        "jumlah_cuti": 2,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 123
+                    },
+                    "20221": {
+                        "semester": 20221,
+                        "jumlah_cuti": 1,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 113
+                    },
+                    "20222": {
+                        "semester": 20222,
+                        "jumlah_cuti": 1,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 113
+                    },
+                    "20201": {
+                        "semester": 20201,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 9,
+                        "jumlah_mahasiswa_sisa": 116
+                    },
+                    "20202": {
+                        "semester": 20202,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 1,
+                        "jumlah_mahasiswa_sisa": 115
+                    },
+                    "20212": {
+                        "semester": 20212,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 1,
+                        "jumlah_mahasiswa_sisa": 114
+                    },
+                    "20181": {
+                        "semester": 20181,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 132
+                    },
+                    "20211": {
+                        "semester": 20211,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 115
+                    }
+                }
+            },
+            "26201": {
+                "jumlah_mahasiswa_awal": 150,
+                "jumlah_mahasiswa_sisa": 150,
+                "program_studi": "Teknik Industri",
+                "fakultas": "TEKNIK",
+                "angkatan": 2018,
+                "data_per_semester": {
+                    "20182": {
+                        "semester": 20182,
+                        "jumlah_cuti": 6,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 7,
+                        "jumlah_mahasiswa_sisa": 137
+                    },
+                    "20191": {
+                        "semester": 20191,
+                        "jumlah_cuti": 8,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 135
+                    },
+                    "20192": {
+                        "semester": 20192,
+                        "jumlah_cuti": 1,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 1,
+                        "jumlah_mahasiswa_sisa": 141
+                    },
+                    "20201": {
+                        "semester": 20201,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 3,
+                        "jumlah_mahasiswa_sisa": 139
+                    },
+                    "20202": {
+                        "semester": 20202,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 5,
+                        "jumlah_mahasiswa_sisa": 134
+                    },
+                    "20181": {
+                        "semester": 20181,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 150
+                    },
+                    "20211": {
+                        "semester": 20211,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 134
+                    },
+                    "20212": {
+                        "semester": 20212,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 134
+                    },
+                    "20221": {
+                        "semester": 20221,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 134
+                    },
+                    "20222": {
+                        "semester": 20222,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 134
+                    }
+                }
+            },
+            "25201": {
+                "jumlah_mahasiswa_awal": 110,
+                "jumlah_mahasiswa_sisa": 110,
+                "program_studi": "Teknik Lingkungan",
+                "fakultas": "TEKNIK",
+                "angkatan": 2018,
+                "data_per_semester": {
+                    "20182": {
+                        "semester": 20182,
+                        "jumlah_cuti": 2,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 108
+                    },
+                    "20191": {
+                        "semester": 20191,
+                        "jumlah_cuti": 2,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 108
+                    },
+                    "20192": {
+                        "semester": 20192,
+                        "jumlah_cuti": 2,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 108
+                    },
+                    "20211": {
+                        "semester": 20211,
+                        "jumlah_cuti": 1,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 105
+                    },
+                    "20212": {
+                        "semester": 20212,
+                        "jumlah_cuti": 1,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 105
+                    },
+                    "20221": {
+                        "semester": 20221,
+                        "jumlah_cuti": 1,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 105
+                    },
+                    "20222": {
+                        "semester": 20222,
+                        "jumlah_cuti": 1,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 105
+                    },
+                    "20201": {
+                        "semester": 20201,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 3,
+                        "jumlah_mahasiswa_sisa": 107
+                    },
+                    "20202": {
+                        "semester": 20202,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 1,
+                        "jumlah_mahasiswa_sisa": 106
+                    },
+                    "20181": {
+                        "semester": 20181,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 110
+                    }
+                }
+            },
+            "21201": {
+                "jumlah_mahasiswa_awal": 159,
+                "jumlah_mahasiswa_sisa": 159,
+                "program_studi": "Teknik Mesin",
+                "fakultas": "TEKNIK",
+                "angkatan": 2018,
+                "data_per_semester": {
+                    "20182": {
+                        "semester": 20182,
+                        "jumlah_cuti": 15,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 144
+                    },
+                    "20191": {
+                        "semester": 20191,
+                        "jumlah_cuti": 7,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 14,
+                        "jumlah_mahasiswa_sisa": 138
+                    },
+                    "20192": {
+                        "semester": 20192,
+                        "jumlah_cuti": 3,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 142
+                    },
+                    "20201": {
+                        "semester": 20201,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 7,
+                        "jumlah_mahasiswa_sisa": 138
+                    },
+                    "20212": {
+                        "semester": 20212,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 2,
+                        "jumlah_mahasiswa_sisa": 136
+                    },
+                    "20221": {
+                        "semester": 20221,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 2,
+                        "jumlah_mahasiswa_sisa": 134
+                    },
+                    "20181": {
+                        "semester": 20181,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 159
+                    },
+                    "20202": {
+                        "semester": 20202,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 138
+                    },
+                    "20211": {
+                        "semester": 20211,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 138
+                    },
+                    "20222": {
+                        "semester": 20222,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 134
+                    }
+                }
+            },
+            "22201": {
+                "jumlah_mahasiswa_awal": 276,
+                "jumlah_mahasiswa_sisa": 276,
+                "program_studi": "Teknik Sipil",
+                "fakultas": "TEKNIK",
+                "angkatan": 2018,
+                "data_per_semester": {
+                    "20182": {
+                        "semester": 20182,
+                        "jumlah_cuti": 19,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 255
+                    },
+                    "20191": {
+                        "semester": 20191,
+                        "jumlah_cuti": 18,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 14,
+                        "jumlah_mahasiswa_sisa": 242
+                    },
+                    "20192": {
+                        "semester": 20192,
+                        "jumlah_cuti": 1,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 259
+                    },
+                    "20221": {
+                        "semester": 20221,
+                        "jumlah_cuti": 1,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 238
+                    },
+                    "20181": {
+                        "semester": 20181,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 2,
+                        "jumlah_mahasiswa_sisa": 274
+                    },
+                    "20201": {
+                        "semester": 20201,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 17,
+                        "jumlah_mahasiswa_sisa": 243
+                    },
+                    "20202": {
+                        "semester": 20202,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 4,
+                        "jumlah_mahasiswa_sisa": 239
+                    },
+                    "20211": {
+                        "semester": 20211,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 239
+                    },
+                    "20212": {
+                        "semester": 20212,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 239
+                    },
+                    "20222": {
+                        "semester": 20222,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 239
+                    }
+                }
+            },
+            "21101": {
+                "jumlah_mahasiswa_awal": 0,
+                "jumlah_mahasiswa_sisa": 0,
+                "program_studi": "",
+                "fakultas": "",
+                "angkatan": "2018",
+                "data_per_semester": {
+                    "20182": {
+                        "semester": 20182,
+                        "jumlah_cuti": 3,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20191": {
+                        "semester": 20191,
+                        "jumlah_cuti": 3,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20201": {
+                        "semester": 20201,
+                        "jumlah_cuti": 2,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20202": {
+                        "semester": 20202,
+                        "jumlah_cuti": 1,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 3,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20222": {
+                        "semester": 20222,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 2,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20181": {
+                        "semester": 20181,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20192": {
+                        "semester": 20192,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20211": {
+                        "semester": 20211,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20212": {
+                        "semester": 20212,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20221": {
+                        "semester": 20221,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    }
+                }
+            },
+            "22101": {
+                "jumlah_mahasiswa_awal": 0,
+                "jumlah_mahasiswa_sisa": 0,
+                "program_studi": "",
+                "fakultas": "",
+                "angkatan": "2018",
+                "data_per_semester": {
+                    "20182": {
+                        "semester": 20182,
+                        "jumlah_cuti": 2,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20191": {
+                        "semester": 20191,
+                        "jumlah_cuti": 5,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 1,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20192": {
+                        "semester": 20192,
+                        "jumlah_cuti": 8,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20201": {
+                        "semester": 20201,
+                        "jumlah_cuti": 10,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20202": {
+                        "semester": 20202,
+                        "jumlah_cuti": 2,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 5,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20211": {
+                        "semester": 20211,
+                        "jumlah_cuti": 12,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20222": {
+                        "semester": 20222,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 2,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20181": {
+                        "semester": 20181,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20212": {
+                        "semester": 20212,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20221": {
+                        "semester": 20221,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    }
+                }
+            },
+            "25101": {
+                "jumlah_mahasiswa_awal": 0,
+                "jumlah_mahasiswa_sisa": 0,
+                "program_studi": "",
+                "fakultas": "",
+                "angkatan": "2018",
+                "data_per_semester": {
+                    "20182": {
+                        "semester": 20182,
+                        "jumlah_cuti": 2,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20191": {
+                        "semester": 20191,
+                        "jumlah_cuti": 2,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20192": {
+                        "semester": 20192,
+                        "jumlah_cuti": 1,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20201": {
+                        "semester": 20201,
+                        "jumlah_cuti": 2,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20211": {
+                        "semester": 20211,
+                        "jumlah_cuti": 1,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20202": {
+                        "semester": 20202,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 2,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20212": {
+                        "semester": 20212,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 1,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20181": {
+                        "semester": 20181,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20221": {
+                        "semester": 20221,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20222": {
+                        "semester": 20222,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    }
+                }
+            },
+            "26101": {
+                "jumlah_mahasiswa_awal": 0,
+                "jumlah_mahasiswa_sisa": 0,
+                "program_studi": "",
+                "fakultas": "",
+                "angkatan": "2018",
+                "data_per_semester": {
+                    "20182": {
+                        "semester": 20182,
+                        "jumlah_cuti": 1,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20191": {
+                        "semester": 20191,
+                        "jumlah_cuti": 1,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 1,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20192": {
+                        "semester": 20192,
+                        "jumlah_cuti": 1,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20201": {
+                        "semester": 20201,
+                        "jumlah_cuti": 1,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20202": {
+                        "semester": 20202,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 1,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20212": {
+                        "semester": 20212,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 1,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20222": {
+                        "semester": 20222,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 1,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20181": {
+                        "semester": 20181,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20211": {
+                        "semester": 20211,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20221": {
+                        "semester": 20221,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    }
+                }
+            },
+            "20101": {
+                "jumlah_mahasiswa_awal": 0,
+                "jumlah_mahasiswa_sisa": 0,
+                "program_studi": "",
+                "fakultas": "",
+                "angkatan": "2018",
+                "data_per_semester": {
+                    "20191": {
+                        "semester": 20191,
+                        "jumlah_cuti": 1,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 2,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20202": {
+                        "semester": 20202,
+                        "jumlah_cuti": 1,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 1,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20181": {
+                        "semester": 20181,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20182": {
+                        "semester": 20182,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20192": {
+                        "semester": 20192,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20201": {
+                        "semester": 20201,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20211": {
+                        "semester": 20211,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20212": {
+                        "semester": 20212,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20221": {
+                        "semester": 20221,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20222": {
+                        "semester": 20222,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    }
+                }
+            },
+            "22001": {
+                "jumlah_mahasiswa_awal": 0,
+                "jumlah_mahasiswa_sisa": 0,
+                "program_studi": "",
+                "fakultas": "",
+                "angkatan": "2018",
+                "data_per_semester": {
+                    "20211": {
+                        "semester": 20211,
+                        "jumlah_cuti": 2,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20212": {
+                        "semester": 20212,
+                        "jumlah_cuti": 3,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20221": {
+                        "semester": 20221,
+                        "jumlah_cuti": 3,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20222": {
+                        "semester": 20222,
+                        "jumlah_cuti": 1,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20181": {
+                        "semester": 20181,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20182": {
+                        "semester": 20182,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20191": {
+                        "semester": 20191,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20192": {
+                        "semester": 20192,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20201": {
+                        "semester": 20201,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20202": {
+                        "semester": 20202,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    }
+                }
+            }
+        },
+        {
+            "57201": {
+                "jumlah_mahasiswa_awal": 79,
+                "jumlah_mahasiswa_sisa": 79,
+                "program_studi": "SISTEM INFORMASI",
+                "fakultas": "TEKNOLOGI INFORMASI",
+                "angkatan": 2019,
+                "data_per_semester": {
+                    "20192": {
+                        "semester": 20192,
+                        "jumlah_cuti": 1,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 78
+                    },
+                    "20191": {
+                        "semester": 20191,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 2,
+                        "jumlah_mahasiswa_sisa": 68
+                    },
+                    "20202": {
+                        "semester": 20202,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 6,
+                        "jumlah_mahasiswa_sisa": 73
+                    },
+                    "20211": {
+                        "semester": 20211,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 2,
+                        "jumlah_mahasiswa_sisa": 71
+                    },
+                    "20221": {
+                        "semester": 20221,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 1,
+                        "jumlah_mahasiswa_sisa": 70
+                    },
+                    "20201": {
+                        "semester": 20201,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 73
+                    },
+                    "20212": {
+                        "semester": 20212,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 71
+                    },
+                    "20222": {
+                        "semester": 20222,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 70
+                    }
+                }
+            },
+            "56201": {
+                "jumlah_mahasiswa_awal": 79,
+                "jumlah_mahasiswa_sisa": 79,
+                "program_studi": "TEKNIK KOMPUTER",
+                "fakultas": "TEKNOLOGI INFORMASI",
+                "angkatan": 2019,
+                "data_per_semester": {
+                    "20192": {
+                        "semester": 20192,
+                        "jumlah_cuti": 1,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 78
+                    },
+                    "20202": {
+                        "semester": 20202,
+                        "jumlah_cuti": 1,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 3,
+                        "jumlah_mahasiswa_sisa": 75
+                    },
+                    "20191": {
+                        "semester": 20191,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 2,
+                        "jumlah_mahasiswa_sisa": 73
+                    },
+                    "20212": {
+                        "semester": 20212,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 1,
+                        "jumlah_mahasiswa_sisa": 75
+                    },
+                    "20201": {
+                        "semester": 20201,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 76
+                    },
+                    "20211": {
+                        "semester": 20211,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 76
+                    },
+                    "20221": {
+                        "semester": 20221,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 75
+                    },
+                    "20222": {
+                        "semester": 20222,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 75
+                    }
+                }
+            },
+            "20201": {
+                "jumlah_mahasiswa_awal": 137,
+                "jumlah_mahasiswa_sisa": 137,
+                "program_studi": "Teknik Elektro",
+                "fakultas": "TEKNIK",
+                "angkatan": 2019,
+                "data_per_semester": {
+                    "20192": {
+                        "semester": 20192,
+                        "jumlah_cuti": 4,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 133
+                    },
+                    "20202": {
+                        "semester": 20202,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 6,
+                        "jumlah_mahasiswa_sisa": 131
+                    },
+                    "20212": {
+                        "semester": 20212,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 3,
+                        "jumlah_mahasiswa_sisa": 128
+                    },
+                    "20221": {
+                        "semester": 20221,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 1,
+                        "jumlah_mahasiswa_sisa": 127
+                    },
+                    "20201": {
+                        "semester": 20201,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 131
+                    },
+                    "20211": {
+                        "semester": 20211,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 131
+                    },
+                    "20222": {
+                        "semester": 20222,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 127
+                    },
+                    "20191": {
+                        "semester": 20191,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 127
+                    }
+                }
+            },
+            "26201": {
+                "jumlah_mahasiswa_awal": 150,
+                "jumlah_mahasiswa_sisa": 150,
+                "program_studi": "Teknik Industri",
+                "fakultas": "TEKNIK",
+                "angkatan": 2019,
+                "data_per_semester": {
+                    "20192": {
+                        "semester": 20192,
+                        "jumlah_cuti": 7,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 143
+                    },
+                    "20191": {
+                        "semester": 20191,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 1,
+                        "jumlah_mahasiswa_sisa": 139
+                    },
+                    "20201": {
+                        "semester": 20201,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 1,
+                        "jumlah_mahasiswa_sisa": 143
+                    },
+                    "20202": {
+                        "semester": 20202,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 6,
+                        "jumlah_mahasiswa_sisa": 144
+                    },
+                    "20212": {
+                        "semester": 20212,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 2,
+                        "jumlah_mahasiswa_sisa": 141
+                    },
+                    "20221": {
+                        "semester": 20221,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 1,
+                        "jumlah_mahasiswa_sisa": 140
+                    },
+                    "20211": {
+                        "semester": 20211,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 143
+                    },
+                    "20222": {
+                        "semester": 20222,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 140
+                    }
+                }
+            },
+            "25201": {
+                "jumlah_mahasiswa_awal": 115,
+                "jumlah_mahasiswa_sisa": 115,
+                "program_studi": "Teknik Lingkungan",
+                "fakultas": "TEKNIK",
+                "angkatan": 2019,
+                "data_per_semester": {
+                    "20192": {
+                        "semester": 20192,
+                        "jumlah_cuti": 2,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 113
+                    },
+                    "20211": {
+                        "semester": 20211,
+                        "jumlah_cuti": 1,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 112
+                    },
+                    "20202": {
+                        "semester": 20202,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 2,
+                        "jumlah_mahasiswa_sisa": 113
+                    },
+                    "20212": {
+                        "semester": 20212,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 2,
+                        "jumlah_mahasiswa_sisa": 111
+                    },
+                    "20221": {
+                        "semester": 20221,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 1,
+                        "jumlah_mahasiswa_sisa": 110
+                    },
+                    "20201": {
+                        "semester": 20201,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 113
+                    },
+                    "20222": {
+                        "semester": 20222,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 110
+                    },
+                    "20191": {
+                        "semester": 20191,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 110
+                    }
+                }
+            },
+            "21201": {
+                "jumlah_mahasiswa_awal": 159,
+                "jumlah_mahasiswa_sisa": 159,
+                "program_studi": "Teknik Mesin",
+                "fakultas": "TEKNIK",
+                "angkatan": 2019,
+                "data_per_semester": {
+                    "20192": {
+                        "semester": 20192,
+                        "jumlah_cuti": 7,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 152
+                    },
+                    "20211": {
+                        "semester": 20211,
+                        "jumlah_cuti": 1,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 1,
+                        "jumlah_mahasiswa_sisa": 148
+                    },
+                    "20222": {
+                        "semester": 20222,
+                        "jumlah_cuti": 1,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 141
+                    },
+                    "20191": {
+                        "semester": 20191,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 1,
+                        "jumlah_mahasiswa_sisa": 141
+                    },
+                    "20202": {
+                        "semester": 20202,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 9,
+                        "jumlah_mahasiswa_sisa": 150
+                    },
+                    "20212": {
+                        "semester": 20212,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 4,
+                        "jumlah_mahasiswa_sisa": 145
+                    },
+                    "20221": {
+                        "semester": 20221,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 3,
+                        "jumlah_mahasiswa_sisa": 142
+                    },
+                    "20201": {
+                        "semester": 20201,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 150
+                    }
+                }
+            },
+            "22201": {
+                "jumlah_mahasiswa_awal": 270,
+                "jumlah_mahasiswa_sisa": 270,
+                "program_studi": "Teknik Sipil",
+                "fakultas": "TEKNIK",
+                "angkatan": 2019,
+                "data_per_semester": {
+                    "20192": {
+                        "semester": 20192,
+                        "jumlah_cuti": 10,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 260
+                    },
+                    "20211": {
+                        "semester": 20211,
+                        "jumlah_cuti": 1,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 258
+                    },
+                    "20191": {
+                        "semester": 20191,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 2,
+                        "jumlah_mahasiswa_sisa": 250
+                    },
+                    "20202": {
+                        "semester": 20202,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 11,
+                        "jumlah_mahasiswa_sisa": 259
+                    },
+                    "20212": {
+                        "semester": 20212,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 5,
+                        "jumlah_mahasiswa_sisa": 254
+                    },
+                    "20221": {
+                        "semester": 20221,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 2,
+                        "jumlah_mahasiswa_sisa": 252
+                    },
+                    "20201": {
+                        "semester": 20201,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 259
+                    },
+                    "20222": {
+                        "semester": 20222,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 252
+                    }
+                }
+            },
+            "21101": {
+                "jumlah_mahasiswa_awal": 0,
+                "jumlah_mahasiswa_sisa": 0,
+                "program_studi": "",
+                "fakultas": "",
+                "angkatan": "2019",
+                "data_per_semester": {
+                    "20192": {
+                        "semester": 20192,
+                        "jumlah_cuti": 2,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20202": {
+                        "semester": 20202,
+                        "jumlah_cuti": 3,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 2,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20211": {
+                        "semester": 20211,
+                        "jumlah_cuti": 1,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20201": {
+                        "semester": 20201,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20212": {
+                        "semester": 20212,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20221": {
+                        "semester": 20221,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20222": {
+                        "semester": 20222,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20191": {
+                        "semester": 20191,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    }
+                }
+            },
+            "22001": {
+                "jumlah_mahasiswa_awal": 0,
+                "jumlah_mahasiswa_sisa": 0,
+                "program_studi": "",
+                "fakultas": "",
+                "angkatan": "2019",
+                "data_per_semester": {
+                    "20192": {
+                        "semester": 20192,
+                        "jumlah_cuti": 1,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20202": {
+                        "semester": 20202,
+                        "jumlah_cuti": 1,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 1,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20212": {
+                        "semester": 20212,
+                        "jumlah_cuti": 2,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 1,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20221": {
+                        "semester": 20221,
+                        "jumlah_cuti": 2,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20222": {
+                        "semester": 20222,
+                        "jumlah_cuti": 1,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20201": {
+                        "semester": 20201,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20211": {
+                        "semester": 20211,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20191": {
+                        "semester": 20191,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    }
+                }
+            },
+            "20101": {
+                "jumlah_mahasiswa_awal": 0,
+                "jumlah_mahasiswa_sisa": 0,
+                "program_studi": "",
+                "fakultas": "",
+                "angkatan": "2019",
+                "data_per_semester": {
+                    "20201": {
+                        "semester": 20201,
+                        "jumlah_cuti": 1,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20212": {
+                        "semester": 20212,
+                        "jumlah_cuti": 1,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 1,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20221": {
+                        "semester": 20221,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 1,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20192": {
+                        "semester": 20192,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20202": {
+                        "semester": 20202,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20211": {
+                        "semester": 20211,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20222": {
+                        "semester": 20222,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20191": {
+                        "semester": 20191,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    }
+                }
+            },
+            "22101": {
+                "jumlah_mahasiswa_awal": 0,
+                "jumlah_mahasiswa_sisa": 0,
+                "program_studi": "",
+                "fakultas": "",
+                "angkatan": "2019",
+                "data_per_semester": {
+                    "20201": {
+                        "semester": 20201,
+                        "jumlah_cuti": 3,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20202": {
+                        "semester": 20202,
+                        "jumlah_cuti": 11,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20211": {
+                        "semester": 20211,
+                        "jumlah_cuti": 10,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20212": {
+                        "semester": 20212,
+                        "jumlah_cuti": 6,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 4,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20221": {
+                        "semester": 20221,
+                        "jumlah_cuti": 5,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 2,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20192": {
+                        "semester": 20192,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20222": {
+                        "semester": 20222,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20191": {
+                        "semester": 20191,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    }
+                }
+            },
+            "25101": {
+                "jumlah_mahasiswa_awal": 0,
+                "jumlah_mahasiswa_sisa": 0,
+                "program_studi": "",
+                "fakultas": "",
+                "angkatan": "2019",
+                "data_per_semester": {
+                    "20202": {
+                        "semester": 20202,
+                        "jumlah_cuti": 2,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20211": {
+                        "semester": 20211,
+                        "jumlah_cuti": 4,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20212": {
+                        "semester": 20212,
+                        "jumlah_cuti": 3,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20221": {
+                        "semester": 20221,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 1,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20192": {
+                        "semester": 20192,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20201": {
+                        "semester": 20201,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20222": {
+                        "semester": 20222,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20191": {
+                        "semester": 20191,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    }
+                }
+            },
+            "26101": {
+                "jumlah_mahasiswa_awal": 0,
+                "jumlah_mahasiswa_sisa": 0,
+                "program_studi": "",
+                "fakultas": "",
+                "angkatan": "2019",
+                "data_per_semester": {
+                    "20211": {
+                        "semester": 20211,
+                        "jumlah_cuti": 3,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20212": {
+                        "semester": 20212,
+                        "jumlah_cuti": 2,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20221": {
+                        "semester": 20221,
+                        "jumlah_cuti": 5,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20192": {
+                        "semester": 20192,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20202": {
+                        "semester": 20202,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20201": {
+                        "semester": 20201,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20222": {
+                        "semester": 20222,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20191": {
+                        "semester": 20191,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    }
+                }
+            },
+            "21001": {
+                "jumlah_mahasiswa_awal": 0,
+                "jumlah_mahasiswa_sisa": 0,
+                "program_studi": "",
+                "fakultas": "",
+                "angkatan": "2019",
+                "data_per_semester": {
+                    "20221": {
+                        "semester": 20221,
+                        "jumlah_cuti": 1,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20192": {
+                        "semester": 20192,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20202": {
+                        "semester": 20202,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20201": {
+                        "semester": 20201,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20211": {
+                        "semester": 20211,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20212": {
+                        "semester": 20212,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20222": {
+                        "semester": 20222,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20191": {
+                        "semester": 20191,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    }
+                }
+            }
+        },
+        {
+            "57201": {
+                "jumlah_mahasiswa_awal": 81,
+                "jumlah_mahasiswa_sisa": 81,
+                "program_studi": "SISTEM INFORMASI",
+                "fakultas": "TEKNOLOGI INFORMASI",
+                "angkatan": 2020,
+                "data_per_semester": {
+                    "20211": {
+                        "semester": 20211,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 4,
+                        "jumlah_mahasiswa_sisa": 77
+                    },
+                    "20221": {
+                        "semester": 20221,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 1,
+                        "jumlah_mahasiswa_sisa": 76
+                    },
+                    "20212": {
+                        "semester": 20212,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 77
+                    },
+                    "20222": {
+                        "semester": 20222,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 76
+                    },
+                    "20202": {
+                        "semester": 20202,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 76
+                    },
+                    "20201": {
+                        "semester": 20201,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 76
+                    }
+                }
+            },
+            "56201": {
+                "jumlah_mahasiswa_awal": 83,
+                "jumlah_mahasiswa_sisa": 83,
+                "program_studi": "TEKNIK KOMPUTER",
+                "fakultas": "TEKNOLOGI INFORMASI",
+                "angkatan": 2020,
+                "data_per_semester": {
+                    "20211": {
+                        "semester": 20211,
+                        "jumlah_cuti": 1,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 82
+                    },
+                    "20212": {
+                        "semester": 20212,
+                        "jumlah_cuti": 1,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 1,
+                        "jumlah_mahasiswa_sisa": 81
+                    },
+                    "20221": {
+                        "semester": 20221,
+                        "jumlah_cuti": 2,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 4,
+                        "jumlah_mahasiswa_sisa": 76
+                    },
+                    "20222": {
+                        "semester": 20222,
+                        "jumlah_cuti": 2,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 76
+                    },
+                    "20202": {
+                        "semester": 20202,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 1,
+                        "jumlah_mahasiswa_sisa": 77
+                    },
+                    "20201": {
+                        "semester": 20201,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 77
+                    }
+                }
+            },
+            "20201": {
+                "jumlah_mahasiswa_awal": 147,
+                "jumlah_mahasiswa_sisa": 147,
+                "program_studi": "Teknik Elektro",
+                "fakultas": "TEKNIK",
+                "angkatan": 2020,
+                "data_per_semester": {
+                    "20211": {
+                        "semester": 20211,
+                        "jumlah_cuti": 3,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 144
+                    },
+                    "20212": {
+                        "semester": 20212,
+                        "jumlah_cuti": 3,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 8,
+                        "jumlah_mahasiswa_sisa": 136
+                    },
+                    "20221": {
+                        "semester": 20221,
+                        "jumlah_cuti": 2,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 8,
+                        "jumlah_mahasiswa_sisa": 129
+                    },
+                    "20201": {
+                        "semester": 20201,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 1,
+                        "jumlah_mahasiswa_sisa": 128
+                    },
+                    "20202": {
+                        "semester": 20202,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 2,
+                        "jumlah_mahasiswa_sisa": 129
+                    },
+                    "20222": {
+                        "semester": 20222,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 131
+                    }
+                }
+            },
+            "26201": {
+                "jumlah_mahasiswa_awal": 139,
+                "jumlah_mahasiswa_sisa": 139,
+                "program_studi": "Teknik Industri",
+                "fakultas": "TEKNIK",
+                "angkatan": 2020,
+                "data_per_semester": {
+                    "20211": {
+                        "semester": 20211,
+                        "jumlah_cuti": 1,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 138
+                    },
+                    "20212": {
+                        "semester": 20212,
+                        "jumlah_cuti": 1,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 6,
+                        "jumlah_mahasiswa_sisa": 132
+                    },
+                    "20201": {
+                        "semester": 20201,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 4,
+                        "jumlah_mahasiswa_sisa": 127
+                    },
+                    "20221": {
+                        "semester": 20221,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 2,
+                        "jumlah_mahasiswa_sisa": 131
+                    },
+                    "20222": {
+                        "semester": 20222,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 131
+                    },
+                    "20202": {
+                        "semester": 20202,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 131
+                    }
+                }
+            },
+            "25201": {
+                "jumlah_mahasiswa_awal": 130,
+                "jumlah_mahasiswa_sisa": 130,
+                "program_studi": "Teknik Lingkungan",
+                "fakultas": "TEKNIK",
+                "angkatan": 2020,
+                "data_per_semester": {
+                    "20211": {
+                        "semester": 20211,
+                        "jumlah_cuti": 1,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 129
+                    },
+                    "20221": {
+                        "semester": 20221,
+                        "jumlah_cuti": 2,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 4,
+                        "jumlah_mahasiswa_sisa": 120
+                    },
+                    "20202": {
+                        "semester": 20202,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 2,
+                        "jumlah_mahasiswa_sisa": 120
+                    },
+                    "20212": {
+                        "semester": 20212,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 4,
+                        "jumlah_mahasiswa_sisa": 126
+                    },
+                    "20222": {
+                        "semester": 20222,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 122
+                    },
+                    "20201": {
+                        "semester": 20201,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 120
+                    }
+                }
+            },
+            "21201": {
+                "jumlah_mahasiswa_awal": 143,
+                "jumlah_mahasiswa_sisa": 143,
+                "program_studi": "Teknik Mesin",
+                "fakultas": "TEKNIK",
+                "angkatan": 2020,
+                "data_per_semester": {
+                    "20212": {
+                        "semester": 20212,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 4,
+                        "jumlah_mahasiswa_sisa": 139
+                    },
+                    "20221": {
+                        "semester": 20221,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 7,
+                        "jumlah_mahasiswa_sisa": 132
+                    },
+                    "20211": {
+                        "semester": 20211,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 143
+                    },
+                    "20222": {
+                        "semester": 20222,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 132
+                    },
+                    "20202": {
+                        "semester": 20202,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 132
+                    },
+                    "20201": {
+                        "semester": 20201,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 132
+                    }
+                }
+            },
+            "22201": {
+                "jumlah_mahasiswa_awal": 221,
+                "jumlah_mahasiswa_sisa": 221,
+                "program_studi": "Teknik Sipil",
+                "fakultas": "TEKNIK",
+                "angkatan": 2020,
+                "data_per_semester": {
+                    "20212": {
+                        "semester": 20212,
+                        "jumlah_cuti": 2,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 11,
+                        "jumlah_mahasiswa_sisa": 208
+                    },
+                    "20221": {
+                        "semester": 20221,
+                        "jumlah_cuti": 2,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 4,
+                        "jumlah_mahasiswa_sisa": 204
+                    },
+                    "20222": {
+                        "semester": 20222,
+                        "jumlah_cuti": 1,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 205
+                    },
+                    "20201": {
+                        "semester": 20201,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 2,
+                        "jumlah_mahasiswa_sisa": 204
+                    },
+                    "20211": {
+                        "semester": 20211,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 221
+                    },
+                    "20202": {
+                        "semester": 20202,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 206
+                    }
+                }
+            },
+            "22101": {
+                "jumlah_mahasiswa_awal": 0,
+                "jumlah_mahasiswa_sisa": 0,
+                "program_studi": "",
+                "fakultas": "",
+                "angkatan": "2020",
+                "data_per_semester": {
+                    "20211": {
+                        "semester": 20211,
+                        "jumlah_cuti": 2,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20212": {
+                        "semester": 20212,
+                        "jumlah_cuti": 3,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 3,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20221": {
+                        "semester": 20221,
+                        "jumlah_cuti": 5,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 3,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20222": {
+                        "semester": 20222,
+                        "jumlah_cuti": 7,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20202": {
+                        "semester": 20202,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20201": {
+                        "semester": 20201,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    }
+                }
+            },
+            "25101": {
+                "jumlah_mahasiswa_awal": 0,
+                "jumlah_mahasiswa_sisa": 0,
+                "program_studi": "",
+                "fakultas": "",
+                "angkatan": "2020",
+                "data_per_semester": {
+                    "20211": {
+                        "semester": 20211,
+                        "jumlah_cuti": 2,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20212": {
+                        "semester": 20212,
+                        "jumlah_cuti": 3,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 1,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20221": {
+                        "semester": 20221,
+                        "jumlah_cuti": 3,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 1,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20222": {
+                        "semester": 20222,
+                        "jumlah_cuti": 3,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20202": {
+                        "semester": 20202,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20201": {
+                        "semester": 20201,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    }
+                }
+            },
+            "22001": {
+                "jumlah_mahasiswa_awal": 0,
+                "jumlah_mahasiswa_sisa": 0,
+                "program_studi": "",
+                "fakultas": "",
+                "angkatan": "2020",
+                "data_per_semester": {
+                    "20212": {
+                        "semester": 20212,
+                        "jumlah_cuti": 1,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 2,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20211": {
+                        "semester": 20211,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20221": {
+                        "semester": 20221,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20222": {
+                        "semester": 20222,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20202": {
+                        "semester": 20202,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20201": {
+                        "semester": 20201,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    }
+                }
+            },
+            "21001": {
+                "jumlah_mahasiswa_awal": 0,
+                "jumlah_mahasiswa_sisa": 0,
+                "program_studi": "",
+                "fakultas": "",
+                "angkatan": "2020",
+                "data_per_semester": {
+                    "20221": {
+                        "semester": 20221,
+                        "jumlah_cuti": 1,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20211": {
+                        "semester": 20211,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20212": {
+                        "semester": 20212,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20222": {
+                        "semester": 20222,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20202": {
+                        "semester": 20202,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20201": {
+                        "semester": 20201,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    }
+                }
+            },
+            "26101": {
+                "jumlah_mahasiswa_awal": 0,
+                "jumlah_mahasiswa_sisa": 0,
+                "program_studi": "",
+                "fakultas": "",
+                "angkatan": "2020",
+                "data_per_semester": {
+                    "20221": {
+                        "semester": 20221,
+                        "jumlah_cuti": 1,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20211": {
+                        "semester": 20211,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20212": {
+                        "semester": 20212,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20222": {
+                        "semester": 20222,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20202": {
+                        "semester": 20202,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20201": {
+                        "semester": 20201,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    }
+                }
+            },
+            "20101": {
+                "jumlah_mahasiswa_awal": 0,
+                "jumlah_mahasiswa_sisa": 0,
+                "program_studi": "",
+                "fakultas": "",
+                "angkatan": "2020",
+                "data_per_semester": {
+                    "20222": {
+                        "semester": 20222,
+                        "jumlah_cuti": 1,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20211": {
+                        "semester": 20211,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20212": {
+                        "semester": 20212,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20221": {
+                        "semester": 20221,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20202": {
+                        "semester": 20202,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20201": {
+                        "semester": 20201,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    }
+                }
+            },
+            "21101": {
+                "jumlah_mahasiswa_awal": 0,
+                "jumlah_mahasiswa_sisa": 0,
+                "program_studi": "",
+                "fakultas": "",
+                "angkatan": "2020",
+                "data_per_semester": {
+                    "20212": {
+                        "semester": 20212,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 1,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20211": {
+                        "semester": 20211,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20221": {
+                        "semester": 20221,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20222": {
+                        "semester": 20222,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20202": {
+                        "semester": 20202,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20201": {
+                        "semester": 20201,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    }
+                }
+            }
+        },
+        {
+            "57201": {
+                "jumlah_mahasiswa_awal": 83,
+                "jumlah_mahasiswa_sisa": 83,
+                "program_studi": "SISTEM INFORMASI",
+                "fakultas": "TEKNOLOGI INFORMASI",
+                "angkatan": 2021,
+                "data_per_semester": {
+                    "20221": {
+                        "semester": 20221,
+                        "jumlah_cuti": 1,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 6,
+                        "jumlah_mahasiswa_sisa": 76
+                    },
+                    "20211": {
+                        "semester": 20211,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 4,
+                        "jumlah_mahasiswa_sisa": 71
+                    },
+                    "20212": {
+                        "semester": 20212,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 2,
+                        "jumlah_mahasiswa_sisa": 75
+                    },
+                    "20222": {
+                        "semester": 20222,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 75
+                    }
+                }
+            },
+            "56201": {
+                "jumlah_mahasiswa_awal": 83,
+                "jumlah_mahasiswa_sisa": 83,
+                "program_studi": "TEKNIK KOMPUTER",
+                "fakultas": "TEKNOLOGI INFORMASI",
+                "angkatan": 2021,
+                "data_per_semester": {
+                    "20221": {
+                        "semester": 20221,
+                        "jumlah_cuti": 1,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 4,
+                        "jumlah_mahasiswa_sisa": 78
+                    },
+                    "20212": {
+                        "semester": 20212,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 1,
+                        "jumlah_mahasiswa_sisa": 78
+                    },
+                    "20222": {
+                        "semester": 20222,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 78
+                    },
+                    "20211": {
+                        "semester": 20211,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 78
+                    }
+                }
+            },
+            "20201": {
+                "jumlah_mahasiswa_awal": 151,
+                "jumlah_mahasiswa_sisa": 151,
+                "program_studi": "Teknik Elektro",
+                "fakultas": "TEKNIK",
+                "angkatan": 2021,
+                "data_per_semester": {
+                    "20221": {
+                        "semester": 20221,
+                        "jumlah_cuti": 1,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 6,
+                        "jumlah_mahasiswa_sisa": 144
+                    },
+                    "20222": {
+                        "semester": 20222,
+                        "jumlah_cuti": 2,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 142
+                    },
+                    "20211": {
+                        "semester": 20211,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 4,
+                        "jumlah_mahasiswa_sisa": 140
+                    },
+                    "20212": {
+                        "semester": 20212,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 1,
+                        "jumlah_mahasiswa_sisa": 144
+                    }
+                }
+            },
+            "26201": {
+                "jumlah_mahasiswa_awal": 148,
+                "jumlah_mahasiswa_sisa": 148,
+                "program_studi": "Teknik Industri",
+                "fakultas": "TEKNIK",
+                "angkatan": 2021,
+                "data_per_semester": {
+                    "20222": {
+                        "semester": 20222,
+                        "jumlah_cuti": 1,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 139
+                    },
+                    "20211": {
+                        "semester": 20211,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 2,
+                        "jumlah_mahasiswa_sisa": 138
+                    },
+                    "20212": {
+                        "semester": 20212,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 1,
+                        "jumlah_mahasiswa_sisa": 140
+                    },
+                    "20221": {
+                        "semester": 20221,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 7,
+                        "jumlah_mahasiswa_sisa": 141
+                    }
+                }
+            },
+            "25201": {
+                "jumlah_mahasiswa_awal": 137,
+                "jumlah_mahasiswa_sisa": 137,
+                "program_studi": "Teknik Lingkungan",
+                "fakultas": "TEKNIK",
+                "angkatan": 2021,
+                "data_per_semester": {
+                    "20221": {
+                        "semester": 20221,
+                        "jumlah_cuti": 1,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 4,
+                        "jumlah_mahasiswa_sisa": 132
+                    },
+                    "20211": {
+                        "semester": 20211,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 2,
+                        "jumlah_mahasiswa_sisa": 130
+                    },
+                    "20212": {
+                        "semester": 20212,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 1,
+                        "jumlah_mahasiswa_sisa": 132
+                    },
+                    "20222": {
+                        "semester": 20222,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 132
+                    }
+                }
+            },
+            "21201": {
+                "jumlah_mahasiswa_awal": 164,
+                "jumlah_mahasiswa_sisa": 164,
+                "program_studi": "Teknik Mesin",
+                "fakultas": "TEKNIK",
+                "angkatan": 2021,
+                "data_per_semester": {
+                    "20212": {
+                        "semester": 20212,
+                        "jumlah_cuti": 1,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 3,
+                        "jumlah_mahasiswa_sisa": 154
+                    },
+                    "20221": {
+                        "semester": 20221,
+                        "jumlah_cuti": 1,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 6,
+                        "jumlah_mahasiswa_sisa": 157
+                    },
+                    "20211": {
+                        "semester": 20211,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 2,
+                        "jumlah_mahasiswa_sisa": 153
+                    },
+                    "20222": {
+                        "semester": 20222,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 155
+                    }
+                }
+            },
+            "22201": {
+                "jumlah_mahasiswa_awal": 230,
+                "jumlah_mahasiswa_sisa": 230,
+                "program_studi": "Teknik Sipil",
+                "fakultas": "TEKNIK",
+                "angkatan": 2021,
+                "data_per_semester": {
+                    "20221": {
+                        "semester": 20221,
+                        "jumlah_cuti": 1,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 9,
+                        "jumlah_mahasiswa_sisa": 220
+                    },
+                    "20222": {
+                        "semester": 20222,
+                        "jumlah_cuti": 1,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 220
+                    },
+                    "20211": {
+                        "semester": 20211,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 1,
+                        "jumlah_mahasiswa_sisa": 220
+                    },
+                    "20212": {
+                        "semester": 20212,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 221
+                    }
+                }
+            },
+            "21001": {
+                "jumlah_mahasiswa_awal": 0,
+                "jumlah_mahasiswa_sisa": 0,
+                "program_studi": "",
+                "fakultas": "",
+                "angkatan": "2021",
+                "data_per_semester": {
+                    "20221": {
+                        "semester": 20221,
+                        "jumlah_cuti": 1,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20222": {
+                        "semester": 20222,
+                        "jumlah_cuti": 1,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20212": {
+                        "semester": 20212,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20211": {
+                        "semester": 20211,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    }
+                }
+            },
+            "22101": {
+                "jumlah_mahasiswa_awal": 0,
+                "jumlah_mahasiswa_sisa": 0,
+                "program_studi": "",
+                "fakultas": "",
+                "angkatan": "2021",
+                "data_per_semester": {
+                    "20221": {
+                        "semester": 20221,
+                        "jumlah_cuti": 4,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 4,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20222": {
+                        "semester": 20222,
+                        "jumlah_cuti": 3,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20212": {
+                        "semester": 20212,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 1,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20211": {
+                        "semester": 20211,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    }
+                }
+            },
+            "25101": {
+                "jumlah_mahasiswa_awal": 0,
+                "jumlah_mahasiswa_sisa": 0,
+                "program_studi": "",
+                "fakultas": "",
+                "angkatan": "2021",
+                "data_per_semester": {
+                    "20222": {
+                        "semester": 20222,
+                        "jumlah_cuti": 1,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20221": {
+                        "semester": 20221,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 1,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20212": {
+                        "semester": 20212,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20211": {
+                        "semester": 20211,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    }
+                }
+            },
+            "26101": {
+                "jumlah_mahasiswa_awal": 0,
+                "jumlah_mahasiswa_sisa": 0,
+                "program_studi": "",
+                "fakultas": "",
+                "angkatan": "2021",
+                "data_per_semester": {
+                    "20222": {
+                        "semester": 20222,
+                        "jumlah_cuti": 2,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20221": {
+                        "semester": 20221,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20212": {
+                        "semester": 20212,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20211": {
+                        "semester": 20211,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    }
+                }
+            },
+            "20101": {
+                "jumlah_mahasiswa_awal": 0,
+                "jumlah_mahasiswa_sisa": 0,
+                "program_studi": "",
+                "fakultas": "",
+                "angkatan": "2021",
+                "data_per_semester": {
+                    "20221": {
+                        "semester": 20221,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 1,
+                        "jumlah_keluar": 2,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20212": {
+                        "semester": 20212,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20222": {
+                        "semester": 20222,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20211": {
+                        "semester": 20211,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    }
+                }
+            },
+            "21101": {
+                "jumlah_mahasiswa_awal": 0,
+                "jumlah_mahasiswa_sisa": 0,
+                "program_studi": "",
+                "fakultas": "",
+                "angkatan": "2021",
+                "data_per_semester": {
+                    "20221": {
+                        "semester": 20221,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 2,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20212": {
+                        "semester": 20212,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20222": {
+                        "semester": 20222,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20211": {
+                        "semester": 20211,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    }
+                }
+            },
+            "22001": {
+                "jumlah_mahasiswa_awal": 0,
+                "jumlah_mahasiswa_sisa": 0,
+                "program_studi": "",
+                "fakultas": "",
+                "angkatan": "2021",
+                "data_per_semester": {
+                    "20221": {
+                        "semester": 20221,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 1,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20212": {
+                        "semester": 20212,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20222": {
+                        "semester": 20222,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20211": {
+                        "semester": 20211,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    }
+                }
+            }
+        },
+        {
+            "55202": {
+                "jumlah_mahasiswa_awal": 26,
+                "jumlah_mahasiswa_sisa": 26,
+                "program_studi": "INFORMATIKA",
+                "fakultas": "TEKNOLOGI INFORMASI",
+                "angkatan": 2022,
+                "data_per_semester": {
+                    "20221": {
+                        "semester": 20221,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 26
+                    },
+                    "20222": {
+                        "semester": 20222,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 26
+                    }
+                }
+            },
+            "57201": {
+                "jumlah_mahasiswa_awal": 94,
+                "jumlah_mahasiswa_sisa": 94,
+                "program_studi": "SISTEM INFORMASI",
+                "fakultas": "TEKNOLOGI INFORMASI",
+                "angkatan": 2022,
+                "data_per_semester": {
+                    "20221": {
+                        "semester": 20221,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 1,
+                        "jumlah_mahasiswa_sisa": 93
+                    },
+                    "20222": {
+                        "semester": 20222,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 93
+                    }
+                }
+            },
+            "56201": {
+                "jumlah_mahasiswa_awal": 112,
+                "jumlah_mahasiswa_sisa": 112,
+                "program_studi": "TEKNIK KOMPUTER",
+                "fakultas": "TEKNOLOGI INFORMASI",
+                "angkatan": 2022,
+                "data_per_semester": {
+                    "20221": {
+                        "semester": 20221,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 5,
+                        "jumlah_mahasiswa_sisa": 107
+                    },
+                    "20222": {
+                        "semester": 20222,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 107
+                    }
+                }
+            },
+            "20201": {
+                "jumlah_mahasiswa_awal": 169,
+                "jumlah_mahasiswa_sisa": 169,
+                "program_studi": "Teknik Elektro",
+                "fakultas": "TEKNIK",
+                "angkatan": 2022,
+                "data_per_semester": {
+                    "20221": {
+                        "semester": 20221,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 2,
+                        "jumlah_mahasiswa_sisa": 167
+                    },
+                    "20222": {
+                        "semester": 20222,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 167
+                    }
+                }
+            },
+            "26201": {
+                "jumlah_mahasiswa_awal": 154,
+                "jumlah_mahasiswa_sisa": 154,
+                "program_studi": "Teknik Industri",
+                "fakultas": "TEKNIK",
+                "angkatan": 2022,
+                "data_per_semester": {
+                    "20221": {
+                        "semester": 20221,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 2,
+                        "jumlah_mahasiswa_sisa": 152
+                    },
+                    "20222": {
+                        "semester": 20222,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 152
+                    }
+                }
+            },
+            "25201": {
+                "jumlah_mahasiswa_awal": 131,
+                "jumlah_mahasiswa_sisa": 131,
+                "program_studi": "Teknik Lingkungan",
+                "fakultas": "TEKNIK",
+                "angkatan": 2022,
+                "data_per_semester": {
+                    "20221": {
+                        "semester": 20221,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 1,
+                        "jumlah_mahasiswa_sisa": 130
+                    },
+                    "20222": {
+                        "semester": 20222,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 1,
+                        "jumlah_mahasiswa_sisa": 129
+                    }
+                }
+            },
+            "21201": {
+                "jumlah_mahasiswa_awal": 168,
+                "jumlah_mahasiswa_sisa": 168,
+                "program_studi": "Teknik Mesin",
+                "fakultas": "TEKNIK",
+                "angkatan": 2022,
+                "data_per_semester": {
+                    "20221": {
+                        "semester": 20221,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 2,
+                        "jumlah_mahasiswa_sisa": 166
+                    },
+                    "20222": {
+                        "semester": 20222,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 166
+                    }
+                }
+            },
+            "22201": {
+                "jumlah_mahasiswa_awal": 233,
+                "jumlah_mahasiswa_sisa": 233,
+                "program_studi": "Teknik Sipil",
+                "fakultas": "TEKNIK",
+                "angkatan": 2022,
+                "data_per_semester": {
+                    "20221": {
+                        "semester": 20221,
+                        "jumlah_cuti": 1,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 232
+                    },
+                    "20222": {
+                        "semester": 20222,
+                        "jumlah_cuti": 1,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 232
+                    }
+                }
+            }
+        },
+        {
+            "21201": {
+                "jumlah_mahasiswa_awal": 0,
+                "jumlah_mahasiswa_sisa": 0,
+                "program_studi": "",
+                "fakultas": "",
+                "angkatan": "2096",
+                "data_per_semester": {
+                    "20031": {
+                        "semester": 20031,
+                        "jumlah_cuti": 1,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "18992": {
+                        "semester": 18992,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    }
+                }
+            },
+            "25201": {
+                "jumlah_mahasiswa_awal": 0,
+                "jumlah_mahasiswa_sisa": 0,
+                "program_studi": "",
+                "fakultas": "",
+                "angkatan": "2096",
+                "data_per_semester": {
+                    "18992": {
+                        "semester": 18992,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 1,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20031": {
+                        "semester": 20031,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    }
+                }
+            },
+            "26201": {
+                "jumlah_mahasiswa_awal": 0,
+                "jumlah_mahasiswa_sisa": 0,
+                "program_studi": "",
+                "fakultas": "",
+                "angkatan": "2096",
+                "data_per_semester": {
+                    "18992": {
+                        "semester": 18992,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 1,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20031": {
+                        "semester": 20031,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    }
+                }
+            }
+        },
+        {
+            "20201": {
+                "jumlah_mahasiswa_awal": 0,
+                "jumlah_mahasiswa_sisa": 0,
+                "program_studi": "",
+                "fakultas": "",
+                "angkatan": "2097",
+                "data_per_semester": {
+                    "19992": {
+                        "semester": 19992,
+                        "jumlah_cuti": 1,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "18992": {
+                        "semester": 18992,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 8,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20032": {
+                        "semester": 20032,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    }
+                }
+            },
+            "21201": {
+                "jumlah_mahasiswa_awal": 0,
+                "jumlah_mahasiswa_sisa": 0,
+                "program_studi": "",
+                "fakultas": "",
+                "angkatan": "2097",
+                "data_per_semester": {
+                    "20032": {
+                        "semester": 20032,
+                        "jumlah_cuti": 1,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "18992": {
+                        "semester": 18992,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 3,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "19992": {
+                        "semester": 19992,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    }
+                }
+            },
+            "25201": {
+                "jumlah_mahasiswa_awal": 0,
+                "jumlah_mahasiswa_sisa": 0,
+                "program_studi": "",
+                "fakultas": "",
+                "angkatan": "2097",
+                "data_per_semester": {
+                    "20032": {
+                        "semester": 20032,
+                        "jumlah_cuti": 1,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "18992": {
+                        "semester": 18992,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 1,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "19992": {
+                        "semester": 19992,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    }
+                }
+            },
+            "26201": {
+                "jumlah_mahasiswa_awal": 0,
+                "jumlah_mahasiswa_sisa": 0,
+                "program_studi": "",
+                "fakultas": "",
+                "angkatan": "2097",
+                "data_per_semester": {
+                    "18992": {
+                        "semester": 18992,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 2,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "19992": {
+                        "semester": 19992,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20032": {
+                        "semester": 20032,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    }
+                }
+            }
+        },
+        {
+            "21201": {
+                "jumlah_mahasiswa_awal": 0,
+                "jumlah_mahasiswa_sisa": 0,
+                "program_studi": "",
+                "fakultas": "",
+                "angkatan": "2098",
+                "data_per_semester": {
+                    "20001": {
+                        "semester": 20001,
+                        "jumlah_cuti": 1,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20031": {
+                        "semester": 20031,
+                        "jumlah_cuti": 1,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "18992": {
+                        "semester": 18992,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 1,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20122": {
+                        "semester": 20122,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    }
+                }
+            },
+            "20201": {
+                "jumlah_mahasiswa_awal": 0,
+                "jumlah_mahasiswa_sisa": 0,
+                "program_studi": "",
+                "fakultas": "",
+                "angkatan": "2098",
+                "data_per_semester": {
+                    "18992": {
+                        "semester": 18992,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 2,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20001": {
+                        "semester": 20001,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20031": {
+                        "semester": 20031,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20122": {
+                        "semester": 20122,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    }
+                }
+            },
+            "25201": {
+                "jumlah_mahasiswa_awal": 0,
+                "jumlah_mahasiswa_sisa": 0,
+                "program_studi": "",
+                "fakultas": "",
+                "angkatan": "2098",
+                "data_per_semester": {
+                    "18992": {
+                        "semester": 18992,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 1,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20001": {
+                        "semester": 20001,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20031": {
+                        "semester": 20031,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20122": {
+                        "semester": 20122,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    }
+                }
+            },
+            "26201": {
+                "jumlah_mahasiswa_awal": 0,
+                "jumlah_mahasiswa_sisa": 0,
+                "program_studi": "",
+                "fakultas": "",
+                "angkatan": "2098",
+                "data_per_semester": {
+                    "18992": {
+                        "semester": 18992,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 2,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20001": {
+                        "semester": 20001,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20031": {
+                        "semester": 20031,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20122": {
+                        "semester": 20122,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    }
+                }
+            },
+            "22201": {
+                "jumlah_mahasiswa_awal": 0,
+                "jumlah_mahasiswa_sisa": 0,
+                "program_studi": "",
+                "fakultas": "",
+                "angkatan": "2098",
+                "data_per_semester": {
+                    "20122": {
+                        "semester": 20122,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 1,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20001": {
+                        "semester": 20001,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20031": {
+                        "semester": 20031,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "18992": {
+                        "semester": 18992,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    }
+                }
+            }
+        },
+        {
+            "25201": {
+                "jumlah_mahasiswa_awal": 0,
+                "jumlah_mahasiswa_sisa": 0,
+                "program_studi": "",
+                "fakultas": "",
+                "angkatan": "2099",
+                "data_per_semester": {
+                    "20021": {
+                        "semester": 20021,
+                        "jumlah_cuti": 1,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20031": {
+                        "semester": 20031,
+                        "jumlah_cuti": 1,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "18992": {
+                        "semester": 18992,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 1,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20022": {
+                        "semester": 20022,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20041": {
+                        "semester": 20041,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    }
+                }
+            },
+            "21201": {
+                "jumlah_mahasiswa_awal": 0,
+                "jumlah_mahasiswa_sisa": 0,
+                "program_studi": "",
+                "fakultas": "",
+                "angkatan": "2099",
+                "data_per_semester": {
+                    "20022": {
+                        "semester": 20022,
+                        "jumlah_cuti": 1,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20031": {
+                        "semester": 20031,
+                        "jumlah_cuti": 1,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20041": {
+                        "semester": 20041,
+                        "jumlah_cuti": 1,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20021": {
+                        "semester": 20021,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "18992": {
+                        "semester": 18992,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    }
+                }
+            },
+            "26201": {
+                "jumlah_mahasiswa_awal": 0,
+                "jumlah_mahasiswa_sisa": 0,
+                "program_studi": "",
+                "fakultas": "",
+                "angkatan": "2099",
+                "data_per_semester": {
+                    "18992": {
+                        "semester": 18992,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 6,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20021": {
+                        "semester": 20021,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20022": {
+                        "semester": 20022,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20031": {
+                        "semester": 20031,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    },
+                    "20041": {
+                        "semester": 20041,
+                        "jumlah_cuti": 0,
+                        "jumlah_non_aktif": 0,
+                        "jumlah_keluar": 0,
+                        "jumlah_mahasiswa_sisa": 0
+                    }
+                }
+            }
+        }
+    ],
+    "meta": { "timestamp": "2025-03-09T08:08:29.866730Z", "version": "1.0" }
+}

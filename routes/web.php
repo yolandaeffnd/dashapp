@@ -7,7 +7,7 @@ Route::get('dashboard', [DashController::class, 'index'])->name('dashboard');
 Route::get('tarikdata', [TampildataController::class, 'tarikdata'])->name('tarikdata');
 Route::get('/chartmhs', [TampildataController::class, 'mahasiswa'])->name('chart.mhs');
 // Route::get('/chartmhs-angkatan', [TampildataController::class, 'mahasiswa_angkatan_index'])->name('chart.angkatan');
-Route::get('/chartmhs-angkatan', [TampildataController::class, 'mahasiswa_angkatan'])->name('chart.angkatan.data');
+Route::get('/chartmhs-angkatan', [TampildataController::class, 'mahasiswa_angkatan'])->name('chart.mhs.angkatan');
 Route::get('/chart-mahasiswa-filters', [TampildataController::class, 'getFilters']);
 Route::get('semester', [RefSemesterController::class, 'index'])->name('semester.index');
 
