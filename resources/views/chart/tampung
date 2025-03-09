@@ -1,0 +1,209 @@
+@extends('components.app-admin')
+
+@section('content')
+<div class="container mt-4">
+    <div class="card p-4">
+        <h2 class="text-center text-xl font-bold mb-4">Jumlah Mahasiswa per Program Studi</h2>
+
+        <div class="flex flex-wrap gap-10 justify-center mb-6">
+            <div>
+                <label for="fakultas" class="font-semibold">Pilih Fakultas:</label>
+                <select id="fakultas" class="border rounded px-2 py-1">
+                    <option value="">-- Semua Fakultas --</option>
+                    @foreach($fakultas as $fak)
+                        <option value="{{ $fak }}">{{ $fak }}</option>
+                    @endforeach
+                </select>
+            </div>
+
+            <div>
+                <label for="prodi" class="font-semibold">Pilih Prodi:</label>
+                <select id="prodi" class="border rounded px-2 py-1" disabled>
+                    <option value="">-- Pilih Fakultas Dulu --</option>
+                </select>
+            </div>
+        </div>
+
+        <div class="flex justify-center mb-8">
+            <canvas id="mahasiswaChart" class="w-full max-w-3xl"></canvas>
+        </div>
+
+        <h3 class="text-lg font-semibold mb-2">Detail Data Mahasiswa</h3>
+        <div class="overflow-x-auto">
+            <table id="mahasiswaTable" class="display w-full text-center border-collapse border border-gray-300">
+                <thead>
+                    <tr class="bg-gray-200">
+                        <th class="border p-3">Prodi</th>
+                        <th class="border p-3">S1</th>
+                        <th class="border p-3">S2</th>
+                        <th class="border p-3">S3</th>
+                        <th class="border p-3">D3</th>
+                        <th class="border p-3">Profesi</th>
+                        <th class="border p-3">SP1</th>
+                        <th class="border p-3">SP2</th>
+                    </tr>
+                </thead>
+                <tbody class="text-sm"></tbody>
+            </table>
+        </div>
+    </div>
+</div>
+
+<style>
+    .dataTables_wrapper {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .dataTables_wrapper .dataTables_paginate {
+        display: none; /* Menyembunyikan pagination */
+    }
+</style>
+
+<script>
+// Data yang dikirimkan dari controller
+// Data yang dikirimkan dari controller
+let allData = @json($data); // Pastikan data valid dan sesuai format
+let fakultasDropdown = document.getElementById("fakultas");
+let prodiDropdown = document.getElementById("prodi");
+let chartInstance;
+let tableInstance;  // Menyimpan instance DataTable
+
+// Reset chart sebelum membuat yang baru
+function resetChart() {
+    if (chartInstance) {
+        chartInstance.destroy();
+    }
+}
+
+// Update opsi prodi berdasarkan fakultas yang dipilih
+function updateProdiOptions() {
+    let selectedFakultas = fakultasDropdown.value;
+    let filteredProdi = [...new Set(allData
+        .filter(item => item.fakultas_nama === selectedFakultas)
+        .map(item => item.prodi_nama))];
+
+    prodiDropdown.innerHTML = '<option value="">-- Pilih Prodi --</option>';
+    filteredProdi.forEach(prodi => {
+        let option = document.createElement("option");
+        option.value = prodi;
+        option.textContent = prodi;
+        prodiDropdown.appendChild(option);
+    });
+
+    prodiDropdown.disabled = filteredProdi.length === 0;
+}
+
+// Update chart berdasarkan fakultas dan prodi yang dipilih
+function updateChart() {
+    let selectedFakultas = fakultasDropdown.value;
+    let selectedProdi = prodiDropdown.value;
+
+    let filteredData = allData.filter(item =>
+        (!selectedFakultas || item.fakultas_nama === selectedFakultas) &&
+        (!selectedProdi || item.prodi_nama === selectedProdi)
+    );
+
+    let labels = filteredData.map(item => item.prodi_nama);
+    let datasets = [
+        { label: 'S1', key: 's1_mhs', color: 'blue' },
+        { label: 'S2', key: 's2_mhs', color: 'green' },
+        { label: 'S3', key: 's3_mhs', color: 'red' },
+        { label: 'D3', key: 'd3_mhs', color: 'purple' },
+        { label: 'Profesi', key: 'profesi_mhs', color: 'orange' },
+        { label: 'SP1', key: 'sp1_mhs', color: 'brown' },
+        { label: 'SP2', key: 'sp2_mhs', color: 'yellow' }
+    ].map(ds => ({
+        label: ds.label,
+        data: filteredData.map(item => item[ds.key]),
+        backgroundColor: ds.color
+    }));
+
+    let ctx = document.getElementById('mahasiswaChart').getContext('2d');
+    resetChart();  // Reset chart sebelum membuat chart baru
+
+    chartInstance = new Chart(ctx, {
+        type: 'bar',
+        data: { labels, datasets },
+        options: {
+            responsive: true,
+            plugins: {
+                legend: { position: 'top' }
+            },
+            scales: {
+                y: {
+                    beginAtZero: true
+                }
+            }
+        }
+    });
+
+    updateTable(filteredData);
+}
+
+// Update data pada tabel
+function updateTable(filteredData) {
+    let tableBody = document.querySelector("#mahasiswaTable tbody");
+    tableBody.innerHTML = "";
+    filteredData.forEach(item => {
+        let row = `<tr>
+            <td>${item.prodi_nama}</td>
+            <td>${item.s1_mhs}</td>
+            <td>${item.s2_mhs}</td>
+            <td>${item.s3_mhs}</td>
+            <td>${item.d3_mhs}</td>
+            <td>${item.profesi_mhs}</td>
+            <td>${item.sp1_mhs}</td>
+            <td>${item.sp2_mhs}</td>
+        </tr>`;
+        tableBody.innerHTML += row;
+    });
+
+    // Jika DataTable sudah ada, update data tanpa menghancurkannya
+    if (tableInstance) {
+        tableInstance.clear();
+        tableInstance.rows.add(filteredData.map(item => [
+            item.prodi_nama,
+            item.s1_mhs,
+            item.s2_mhs,
+            item.s3_mhs,
+            item.d3_mhs,
+            item.profesi_mhs,
+            item.sp1_mhs,
+            item.sp2_mhs
+        ]));
+        tableInstance.draw();
+    } else {
+        // Jika DataTable belum diinisialisasi, buat DataTable baru dengan paging disembunyikan
+        tableInstance = $('#mahasiswaTable').DataTable({
+            responsive: true,
+            autoWidth: false,
+            info:false,
+            paging: false,  // Menonaktifkan pagination
+            searching: false, // Menonaktifkan kolom pencarian (search)
+        });
+    }
+
+    // Pastikan pagination tetap disembunyikan
+    // $('.dataTables_paginate').hide();
+}
+
+// Event listener untuk dropdown fakultas
+fakultasDropdown.addEventListener("change", () => {
+    let table = $('#mahasiswaTable').DataTable();
+    table.search('').draw();  // Reset pencarian
+    updateProdiOptions();
+    updateChart();
+});
+
+// Event listener untuk dropdown prodi
+prodiDropdown.addEventListener("change", () => {
+    let table = $('#mahasiswaTable').DataTable();
+    table.search('').draw();  // Reset pencarian
+    updateChart();
+});
+
+updateChart();  // Panggil updateChart pertama kali untuk load data awal
+</script>
+
+@endsection

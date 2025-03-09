@@ -34,7 +34,9 @@
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <script src="https://cdn.datatables.net/1.11.5/js/jquery.dataTables.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-</head>
+    <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels"></script>
+
+
 <style type="text/css">
 .modal {
         display: none;
@@ -103,8 +105,11 @@
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.slim.min.js"></script>
         <script src="https://cdn.datatables.net/v/dt/dt-2.1.8/datatables.min.js"></script>
         <div class="dashboard-body">
-            <div class='content-detail'>
+            <div class="row">
+
+
                 @yield('content')
+
             </div>
         </div>
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>

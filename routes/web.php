@@ -1,11 +1,14 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
-use App\Http\Controllers\{AccountsController,ParentMenuController,RolesController,MenusController,AccessRoleController,TarikdataController,KategoriController,DashController, RefSemesterController, AppchartController};
+use App\Http\Controllers\{AccountsController,ParentMenuController,RolesController,MenusController,AccessRoleController,TampildataController,KategoriController,DashController, RefSemesterController, AppchartController};
 
 Route::get('dashboard', [DashController::class, 'index'])->name('dashboard');
-Route::get('tarikdata', [TarikdataController::class, 'tarikdata'])->name('tarikdata');
-Route::get('chartmhs', [TarikdataController::class, 'mahasiswa'])->name('chart.mhs');
+Route::get('tarikdata', [TampildataController::class, 'tarikdata'])->name('tarikdata');
+Route::get('/chartmhs', [TampildataController::class, 'mahasiswa'])->name('chart.mhs');
+// Route::get('/chartmhs-angkatan', [TampildataController::class, 'mahasiswa_angkatan_index'])->name('chart.angkatan');
+Route::get('/chartmhs-angkatan', [TampildataController::class, 'mahasiswa_angkatan'])->name('chart.angkatan.data');
+Route::get('/chart-mahasiswa-filters', [TampildataController::class, 'getFilters']);
 Route::get('semester', [RefSemesterController::class, 'index'])->name('semester.index');
 
 Route::group(['middleware'=>['role:admin']], function () {
