@@ -93,90 +93,80 @@ class TampildataController extends Controller
         return view('chart.chart_angkatan'); // Sesuaikan dengan lokasi file Blade Anda
     }
 
-    // public function mahasiswa_angkatan()
-    // {
-    //     // URL API yang menyediakan data
-
-
-    //     // Mengambil data dari API
-    //     $response = Http::get('http://127.0.0.1:8000/api/mhs/data-angkatan-mahasiswa'); // Ganti dengan URL API yang sesuai
-    //     // dd($response);
-    //   //  Periksa apakah permintaan berhasil (status 200)
-    //     if ($response->successful()) {
-    //         $data = $response->json(); // Konversi respons menjadi array
-    //     } else {
-    //         $data = ['error' => 'Gagal mengambil data dari API'];
-    //     }
-
-    //     return view('chart.chart_angkatan', compact('data'));
-    // }
-
-
     public function mahasiswa_angkatan()
     {
         // URL API yang menyediakan data
 
 
         // Mengambil data dari API
-        // Path ke file JSON
-        $path = database_path('json/data-mahasiswa-angkatan.json');
-
-        // Cek apakah file JSON ada
-        if (!File::exists($path)) {
-            return response()->json(['message' => 'File tidak ditemukan'], 404);
-        }
-
-        // Ambil isi file JSON
-        $json = File::get($path);
-
-        // Ubah ke array PHP
-        $data_temp = json_decode($json, true);
-
-        $data = $data_temp;
-        if ($data === null || !isset($data)) {
-            return response()->json(['message' => 'Format JSON tidak valid'], 400);
-        }
+        $response = Http::get('http://127.0.0.1:8000/api/mhs/data-angkatan-mahasiswa'); // Ganti dengan URL API yang sesuai
         // dd($response);
+      //  Periksa apakah permintaan berhasil (status 200)
+        if ($response->successful()) {
+            $data = $response->json(); // Konversi respons menjadi array
+        } else {
+            $data = ['error' => 'Gagal mengambil data dari API'];
+        }
+
         return view('chart.chart_angkatan', compact('data'));
     }
+
+
+    // public function mahasiswa_angkatan()
+    // {
+    //     // URL API yang menyediakan data
+
+
+    //     // Mengambil data dari API
+    //     // Path ke file JSON
+    //     $path = database_path('json/data-mahasiswa-angkatan.json');
+
+    //     // Cek apakah file JSON ada
+    //     if (!File::exists($path)) {
+    //         return response()->json(['message' => 'File tidak ditemukan'], 404);
+    //     }
+
+    //     // Ambil isi file JSON
+    //     $json = File::get($path);
+
+    //     // Ubah ke array PHP
+    //     $data_temp = json_decode($json, true);
+
+    //     $data = $data_temp;
+    //     if ($data === null || !isset($data)) {
+    //         return response()->json(['message' => 'Format JSON tidak valid'], 400);
+    //     }
+    //     // dd($response);
+    //     return view('chart.chart_angkatan', compact('data'));
+    // }
 
 
 
     /**
      * Mengambil daftar Fakultas, Program Studi, dan Angkatan untuk Filter.
      */
-    public function getFilters()
-    {
-        // Ambil data dari API eksternal
-        $response = Http::get('http://127.0.0.1:8000/api/mhs/data-angkatan-mahasiswa'); // Ganti dengan API yang sesuai
-        $data = $response->json()['data'] ?? [];
 
-        // Jika data kosong, kembalikan response error
-        if (!$data) {
-            return response()->json(['error' => 'Data tidak ditemukan'], 404);
-        }
 
-        // Flatten data berdasarkan struktur API
-        $flattenedData = [];
-        foreach ($data as $group) {
-            foreach ($group as $key => $item) {
-                $flattenedData[] = [
-                    'fakultas' => $item['fakultas'],
-                    'program_studi' => $item['program_studi'],
-                    'angkatan' => $item['angkatan'],
-                ];
-            }
-        }
 
-        // Ambil daftar Fakultas, Program Studi, dan Angkatan yang unik
-        $fakultas = collect($flattenedData)->pluck('fakultas')->unique()->sort()->values();
-        $programStudi = collect($flattenedData)->pluck('program_studi')->unique()->sort()->values();
-        $angkatan = collect($flattenedData)->pluck('angkatan')->unique()->sort()->values();
+public function mahasiswa_ipk()
+{
+    // Ambil data dari API
+    $response = Http::get('http://127.0.0.1:8000/api/mhs/data-aktifitas-mahasiswa');
 
-        return response()->json([
-            'fakultas' => $fakultas,
-            'program_studi' => $programStudi,
-            'angkatan' => $angkatan
-        ]);
+    // Periksa apakah API berhasil diakses
+    if ($response->successful()) {
+        $data = $response->json()['data']; // Pastikan mengambil 'data'
+    } else {
+        $data = [];
     }
+
+    // Mengambil daftar fakultas unik dari data mahasiswa
+    $fakultas = collect($data)->pluck('fakultas_nama')->unique()->values();
+
+    return view('chart.chart_ipk', compact('data', 'fakultas'));
+}
+
+
+
+
 }
