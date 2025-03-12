@@ -1,422 +1,431 @@
 @extends('components.app-admin')
 
 @section('content')
-<div class="container mt-4">
-    <div class="card p-4">
-        <h2 class="text-center text-xl font-bold mb-4">Jumlah Data Mahasiswa Per-Angkatan Per-Semester</h2>
+    <div class="container mt-4">
+        <div class="card p-4">
+            <h2 class="text-center text-xl font-bold mb-4">Jumlah Data Mahasiswa Per-Angkatan Per-Semester</h2>
 
-        @if(isset($data['error']))
-            <div class="alert alert-danger">{{ $data['error'] }}</div>
-        @else
-            <div class="row">
-                <div class="col-md-3">
-                    <label>Pilih Fakultas:</label>
-                    <select id="fakultas" class="form-control">
-                        <option value="">Semua Fakultas</option>
-                        @foreach($data['data'] as $angkatan)
-                            @foreach($angkatan as $info)
-                                @if(!empty($info['fakultas']) && !in_array($info['fakultas'], $fakultas ?? []))
-                                    @php $fakultas[] = $info['fakultas']; @endphp
-                                    <option value="{{ $info['fakultas'] }}">{{ $info['fakultas'] }}</option>
-                                @endif
+            @if (isset($data['error']))
+                <div class="alert alert-danger">{{ $data['error'] }}</div>
+            @else
+                <div class="row">
+                    <div class="col-md-3">
+                        <label>Pilih Fakultas:</label>
+                        <select id="fakultas" class="form-control">
+                            <option value="">Semua Fakultas</option>
+                            @foreach ($data['data'] as $angkatan)
+                                @foreach ($angkatan as $info)
+                                    @if (!empty($info['fakultas']) && !in_array($info['fakultas'], $fakultas ?? []))
+                                        @php $fakultas[] = $info['fakultas']; @endphp
+                                        <option value="{{ $info['fakultas'] }}">{{ $info['fakultas'] }}</option>
+                                    @endif
+                                @endforeach
                             @endforeach
-                        @endforeach
-                    </select>
+                        </select>
 
-                    <label>Pilih Prodi:</label>
-                    <select id="program_studi" class="form-control">
-                        <option value="">Semua Prodi</option>
-                    </select>
+                        <label>Pilih Prodi:</label>
+                        <select id="program_studi" class="form-control">
+                            <option value="">Semua Prodi</option>
+                        </select>
 
-                    <label>Pilih Angkatan:</label>
-                    <select id="angkatan" class="form-control">
-                        <option value="">Semua Angkatan</option>
-                        @foreach($data['data'] as $angkatan)
-                            @foreach($angkatan as $info)
-                                @if(!empty($info['angkatan']) && !in_array($info['angkatan'], $angkatanList ?? []))
-                                    @php $angkatanList[] = $info['angkatan']; @endphp
-                                    <option value="{{ $info['angkatan'] }}">{{ $info['angkatan'] }}</option>
-                                @endif
+                        <label>Pilih Angkatan:</label>
+                        <select id="angkatan" class="form-control">
+                            <option value="">Semua Angkatan</option>
+                            @foreach ($data['data'] as $angkatan)
+                                @foreach ($angkatan as $info)
+                                    @if (!empty($info['angkatan']) && !in_array($info['angkatan'], $angkatanList ?? []))
+                                        @php $angkatanList[] = $info['angkatan']; @endphp
+                                        <option value="{{ $info['angkatan'] }}">{{ $info['angkatan'] }}</option>
+                                    @endif
+                                @endforeach
                             @endforeach
-                        @endforeach
-                    </select>
-                </div>
+                        </select>
+                    </div>
 
-                <div class="col-md-9">
-                    <canvas id="mahasiswaChart"></canvas>
+                    <div class="col-md-9">
+                        <canvas id="mahasiswaChart"></canvas>
+                    </div>
                 </div>
-            </div>
-        @endif
+            @endif
+        </div>
     </div>
-</div>
 
-<script>
-// document.addEventListener("DOMContentLoaded", function () {
-//     let rawData = @json($data['data']);
+    <script>
+        // document.addEventListener("DOMContentLoaded", function () {
+        //     let rawData = @json($data['data']);
 
-//     let fakultasDropdown = document.getElementById("fakultas");
-//     let prodiDropdown = document.getElementById("program_studi");
-//     let angkatanDropdown = document.getElementById("angkatan");
+        //     let fakultasDropdown = document.getElementById("fakultas");
+        //     let prodiDropdown = document.getElementById("program_studi");
+        //     let angkatanDropdown = document.getElementById("angkatan");
 
-//     let ctx = document.getElementById('mahasiswaChart').getContext('2d');
-//     let chartInstance;
+        //     let ctx = document.getElementById('mahasiswaChart').getContext('2d');
+        //     let chartInstance;
 
-//     function semesterLabel(semester) {
-//         let tahun = Math.floor(semester / 10);
-//         let term = semester % 10 === 1 ? "Ganjil" : "Genap";
-//         return `${tahun} ${term}`;
-//     }
+        //     function semesterLabel(semester) {
+        //         let tahun = Math.floor(semester / 10);
+        //         let term = semester % 10 === 1 ? "Ganjil" : "Genap";
+        //         return `${tahun} ${term}`;
+        //     }
 
-//     function setDropdownToAngkatan2018() {
-//         let defaultYear = 2018;
-//         angkatanDropdown.value = defaultYear;
-//     }
+        //     function setDropdownToAngkatan2018() {
+        //         let defaultYear = 2018;
+        //         angkatanDropdown.value = defaultYear;
+        //     }
 
-//     function getDefaultData() {
-//         let defaultYear = 2018;
-//         let mergedData = [];
+        //     function getDefaultData() {
+        //         let defaultYear = 2018;
+        //         let mergedData = [];
 
-//         rawData.forEach(angkatan => {
-//             Object.values(angkatan).forEach(info => {
-//                 if (info.angkatan == defaultYear) {
-//                     mergedData.push(info);
-//                 }
-//             });
-//         });
+        //         rawData.forEach(angkatan => {
+        //             Object.values(angkatan).forEach(info => {
+        //                 if (info.angkatan == defaultYear) {
+        //                     mergedData.push(info);
+        //                 }
+        //             });
+        //         });
 
-//         return mergedData;
-//     }
+        //         return mergedData;
+        //     }
 
-//     function filterData() {
-//         let selectedFakultas = fakultasDropdown.value;
-//         let selectedProdi = prodiDropdown.value;
-//         let selectedAngkatan = angkatanDropdown.value;
+        //     function filterData() {
+        //         let selectedFakultas = fakultasDropdown.value;
+        //         let selectedProdi = prodiDropdown.value;
+        //         let selectedAngkatan = angkatanDropdown.value;
 
-//         let filteredData = [];
+        //         let filteredData = [];
 
-//         rawData.forEach(angkatan => {
-//             Object.values(angkatan).forEach(info => {
-//                 if (
-//                     (!selectedFakultas || info.fakultas === selectedFakultas) &&
-//                     (!selectedProdi || info.program_studi === selectedProdi) &&
-//                     (!selectedAngkatan || info.angkatan == selectedAngkatan)
-//                 ) {
-//                     filteredData.push(info);
-//                 }
-//             });
-//         });
+        //         rawData.forEach(angkatan => {
+        //             Object.values(angkatan).forEach(info => {
+        //                 if (
+        //                     (!selectedFakultas || info.fakultas === selectedFakultas) &&
+        //                     (!selectedProdi || info.program_studi === selectedProdi) &&
+        //                     (!selectedAngkatan || info.angkatan == selectedAngkatan)
+        //                 ) {
+        //                     filteredData.push(info);
+        //                 }
+        //             });
+        //         });
 
-//         updateChart(filteredData);
-//     }
+        //         updateChart(filteredData);
+        //     }
 
-//     function updateChart(filteredData) {
-//         if (filteredData.length === 0) {
-//             console.log("No data available for chart");
-//             return;
-//         }
+        //     function updateChart(filteredData) {
+        //         if (filteredData.length === 0) {
+        //             console.log("No data available for chart");
+        //             return;
+        //         }
 
-//         let semesterSet = new Set();
-//         let activeData = {};
-//         let cutiData = {};
-//         let keluarData = {};
+        //         let semesterSet = new Set();
+        //         let activeData = {};
+        //         let cutiData = {};
+        //         let keluarData = {};
 
-//         filteredData.forEach(info => {
-//             Object.values(info.data_per_semester).forEach(sem => {
-//                 let semLabel = semesterLabel(sem.semester);
-//                 semesterSet.add(semLabel);
+        //         filteredData.forEach(info => {
+        //             Object.values(info.data_per_semester).forEach(sem => {
+        //                 let semLabel = semesterLabel(sem.semester);
+        //                 semesterSet.add(semLabel);
 
-//                 if (!activeData[semLabel]) activeData[semLabel] = 0;
-//                 if (!cutiData[semLabel]) cutiData[semLabel] = 0;
-//                 if (!keluarData[semLabel]) keluarData[semLabel] = 0;
+        //                 if (!activeData[semLabel]) activeData[semLabel] = 0;
+        //                 if (!cutiData[semLabel]) cutiData[semLabel] = 0;
+        //                 if (!keluarData[semLabel]) keluarData[semLabel] = 0;
 
-//                 activeData[semLabel] += sem.jumlah_mahasiswa_sisa;
-//                 cutiData[semLabel] += sem.jumlah_cuti;
-//                 keluarData[semLabel] += sem.jumlah_keluar;
-//             });
-//         });
+        //                 activeData[semLabel] += sem.jumlah_mahasiswa_sisa;
+        //                 cutiData[semLabel] += sem.jumlah_cuti;
+        //                 keluarData[semLabel] += sem.jumlah_keluar;
+        //             });
+        //         });
 
-//         let sortedSemesters = Array.from(semesterSet).sort();
+        //         let sortedSemesters = Array.from(semesterSet).sort();
 
-//         let activeValues = sortedSemesters.map(sem => activeData[sem] || 0);
-//         let cutiValues = sortedSemesters.map(sem => cutiData[sem] || 0);
-//         let keluarValues = sortedSemesters.map(sem => keluarData[sem] || 0);
+        //         let activeValues = sortedSemesters.map(sem => activeData[sem] || 0);
+        //         let cutiValues = sortedSemesters.map(sem => cutiData[sem] || 0);
+        //         let keluarValues = sortedSemesters.map(sem => keluarData[sem] || 0);
 
-//         if (chartInstance) {
-//             chartInstance.destroy();
-//         }
+        //         if (chartInstance) {
+        //             chartInstance.destroy();
+        //         }
 
-//         chartInstance = new Chart(ctx, {
-//             type: 'bar',
-//             data: {
-//                 labels: sortedSemesters,
-//                 datasets: [
-//                     {
-//                         label: 'Aktif',
-//                         data: activeValues,
-//                         backgroundColor: '#00bcd4',
-//                     },
-//                     {
-//                         label: 'Cuti',
-//                         data: cutiValues,
-//                         backgroundColor: '#555555',
-//                     },
-//                     {
-//                         label: 'Keluar',
-//                         data: keluarValues,
-//                         backgroundColor: '#ff5252',
-//                     }
-//                 ]
-//             },
-//             options: {
-//                 responsive: true,
-//                 plugins: {
-//                     legend: {
-//                         display: true,
-//                         position: 'top',
-//                         labels: {
-//                             font: { size: 14 },
-//                             padding: 20,
-//                             usePointStyle: true
-//                         }
-//                     },
-//                     tooltip: {
-//                         callbacks: {
-//                             label: function(tooltipItem) {
-//                                 return `${tooltipItem.dataset.label}: ${tooltipItem.raw}`;
-//                             }
-//                         }
-//                     },
-//                     datalabels: {
-//                         anchor: 'end',
-//                         align: 'top',
-//                         formatter: (value) => value > 0 ? value : '',
-//                         font: { size: 12, weight: 'bold' },
-//                         color: '#000'
-//                     }
-//                 },
-//                 scales: {
-//                     x: {
-//                         stacked: false,
-//                         title: { display: true, text: 'Semester' }
-//                     },
-//                     y: {
-//                         stacked: false,
-//                         beginAtZero: true,
-//                         title: { display: true, text: 'Jumlah Mahasiswa' }
-//                     }
-//                 }
-//             },
-//             plugins: [ChartDataLabels]
-//         });
-//     }
+        //         chartInstance = new Chart(ctx, {
+        //             type: 'bar',
+        //             data: {
+        //                 labels: sortedSemesters,
+        //                 datasets: [
+        //                     {
+        //                         label: 'Aktif',
+        //                         data: activeValues,
+        //                         backgroundColor: '#00bcd4',
+        //                     },
+        //                     {
+        //                         label: 'Cuti',
+        //                         data: cutiValues,
+        //                         backgroundColor: '#555555',
+        //                     },
+        //                     {
+        //                         label: 'Keluar',
+        //                         data: keluarValues,
+        //                         backgroundColor: '#ff5252',
+        //                     }
+        //                 ]
+        //             },
+        //             options: {
+        //                 responsive: true,
+        //                 plugins: {
+        //                     legend: {
+        //                         display: true,
+        //                         position: 'top',
+        //                         labels: {
+        //                             font: { size: 14 },
+        //                             padding: 20,
+        //                             usePointStyle: true
+        //                         }
+        //                     },
+        //                     tooltip: {
+        //                         callbacks: {
+        //                             label: function(tooltipItem) {
+        //                                 return `${tooltipItem.dataset.label}: ${tooltipItem.raw}`;
+        //                             }
+        //                         }
+        //                     },
+        //                     datalabels: {
+        //                         anchor: 'end',
+        //                         align: 'top',
+        //                         formatter: (value) => value > 0 ? value : '',
+        //                         font: { size: 12, weight: 'bold' },
+        //                         color: '#000'
+        //                     }
+        //                 },
+        //                 scales: {
+        //                     x: {
+        //                         stacked: false,
+        //                         title: { display: true, text: 'Semester' }
+        //                     },
+        //                     y: {
+        //                         stacked: false,
+        //                         beginAtZero: true,
+        //                         title: { display: true, text: 'Jumlah Mahasiswa' }
+        //                     }
+        //                 }
+        //             },
+        //             plugins: [ChartDataLabels]
+        //         });
+        //     }
 
-//     fakultasDropdown.addEventListener("change", function () {
-//         filterData();
-//     });
+        //     fakultasDropdown.addEventListener("change", function () {
+        //         filterData();
+        //     });
 
-//     prodiDropdown.addEventListener("change", filterData);
-//     angkatanDropdown.addEventListener("change", filterData);
+        //     prodiDropdown.addEventListener("change", filterData);
+        //     angkatanDropdown.addEventListener("change", filterData);
 
-//     setDropdownToAngkatan2018();
-//     let defaultData = getDefaultData();
-//     updateChart(defaultData);
-// });
+        //     setDropdownToAngkatan2018();
+        //     let defaultData = getDefaultData();
+        //     updateChart(defaultData);
+        // });
 
-document.addEventListener("DOMContentLoaded", function () {
-    let rawData = @json($data['data']);
+        document.addEventListener("DOMContentLoaded", function() {
+            let rawData = @json($data['data']);
 
-    let fakultasDropdown = document.getElementById("fakultas");
-    let prodiDropdown = document.getElementById("program_studi");
-    let angkatanDropdown = document.getElementById("angkatan");
+            let fakultasDropdown = document.getElementById("fakultas");
+            let prodiDropdown = document.getElementById("program_studi");
+            let angkatanDropdown = document.getElementById("angkatan");
 
-    let ctx = document.getElementById('mahasiswaChart').getContext('2d');
-    let chartInstance;
+            let ctx = document.getElementById('mahasiswaChart').getContext('2d');
+            let chartInstance;
 
-    function semesterLabel(semester) {
-        let tahun = Math.floor(semester / 10);
-        let term = semester % 10 === 1 ? "Ganjil" : "Genap";
-        return `${tahun} ${term}`;
-    }
+            function semesterLabel(semester) {
+                let tahun = Math.floor(semester / 10);
+                let term = semester % 10 === 1 ? "Ganjil" : "Genap";
+                return `${tahun} ${term}`;
+            }
 
-    function setDropdownToAngkatan2018() {
-        let defaultYear = 2018;
-        angkatanDropdown.value = defaultYear;
-    }
+            function setDropdownToAngkatan2018() {
+                let defaultYear = 2018;
+                angkatanDropdown.value = defaultYear;
+            }
 
-    function getDefaultData() {
-        let defaultYear = 2018;
-        let mergedData = [];
+            function getDefaultData() {
+                let defaultYear = 2018;
+                let mergedData = [];
 
-        rawData.forEach(angkatan => {
-            Object.values(angkatan).forEach(info => {
-                if (info.angkatan == defaultYear) {
-                    mergedData.push(info);
-                }
-            });
-        });
+                rawData.forEach(angkatan => {
+                    Object.values(angkatan).forEach(info => {
+                        if (info.angkatan == defaultYear) {
+                            mergedData.push(info);
+                        }
+                    });
+                });
 
-        return mergedData;
-    }
+                return mergedData;
+            }
 
-    function updateProdiDropdown() {
-        let selectedFakultas = fakultasDropdown.value;
-        prodiDropdown.innerHTML = '<option value="">Semua Prodi</option>'; // Reset dropdown
+            function updateProdiDropdown() {
+                let selectedFakultas = fakultasDropdown.value;
+                prodiDropdown.innerHTML = '<option value="">Semua Prodi</option>'; // Reset dropdown
 
-        let uniqueProdi = new Set();
+                let uniqueProdi = new Set();
 
-        rawData.forEach(angkatan => {
-            Object.values(angkatan).forEach(info => {
-                if (info.fakultas === selectedFakultas) {
-                    uniqueProdi.add(info.program_studi);
-                }
-            });
-        });
+                rawData.forEach(angkatan => {
+                    Object.values(angkatan).forEach(info => {
+                        if (info.fakultas === selectedFakultas) {
+                            uniqueProdi.add(info.program_studi);
+                        }
+                    });
+                });
 
-        uniqueProdi.forEach(prodi => {
-            let option = document.createElement("option");
-            option.value = prodi;
-            option.textContent = prodi;
-            prodiDropdown.appendChild(option);
-        });
-    }
-
-    function filterData() {
-        let selectedFakultas = fakultasDropdown.value;
-        let selectedProdi = prodiDropdown.value;
-        let selectedAngkatan = angkatanDropdown.value;
-
-        let filteredData = [];
-
-        rawData.forEach(angkatan => {
-            Object.values(angkatan).forEach(info => {
-                if (
-                    (!selectedFakultas || info.fakultas === selectedFakultas) &&
-                    (!selectedProdi || info.program_studi === selectedProdi) &&
-                    (!selectedAngkatan || info.angkatan == selectedAngkatan)
-                ) {
-                    filteredData.push(info);
-                }
-            });
-        });
-
-        updateChart(filteredData);
-    }
-
-    function updateChart(filteredData) {
-        if (!filteredData || filteredData.length === 0) {
-            console.log("Tidak ada data untuk chart.");
-            return;
-        }
-
-        let semesterSet = new Set();
-        let activeData = {};
-        let cutiData = {};
-        let keluarData = {};
-
-        filteredData.forEach(info => {
-            if (info.data_per_semester) {
-                Object.values(info.data_per_semester).forEach(sem => {
-                    let semLabel = semesterLabel(sem.semester);
-                    semesterSet.add(semLabel);
-
-                    if (!activeData[semLabel]) activeData[semLabel] = 0;
-                    if (!cutiData[semLabel]) cutiData[semLabel] = 0;
-                    if (!keluarData[semLabel]) keluarData[semLabel] = 0;
-
-                    activeData[semLabel] += sem.jumlah_mahasiswa_sisa || 0;
-                    cutiData[semLabel] += sem.jumlah_cuti || 0;
-                    keluarData[semLabel] += sem.jumlah_keluar || 0;
+                uniqueProdi.forEach(prodi => {
+                    let option = document.createElement("option");
+                    option.value = prodi;
+                    option.textContent = prodi;
+                    prodiDropdown.appendChild(option);
                 });
             }
-        });
 
-        let sortedSemesters = Array.from(semesterSet).sort();
+            function filterData() {
+                let selectedFakultas = fakultasDropdown.value;
+                let selectedProdi = prodiDropdown.value;
+                let selectedAngkatan = angkatanDropdown.value;
 
-        let activeValues = sortedSemesters.map(sem => activeData[sem] || 0);
-        let cutiValues = sortedSemesters.map(sem => cutiData[sem] || 0);
-        let keluarValues = sortedSemesters.map(sem => keluarData[sem] || 0);
+                let filteredData = [];
 
-        if (chartInstance) {
-            chartInstance.destroy();
-        }
-
-        chartInstance = new Chart(ctx, {
-            type: 'bar',
-            data: {
-                labels: sortedSemesters,
-                datasets: [
-                    {
-                        label: 'Aktif',
-                        data: activeValues,
-                        backgroundColor: '#00bcd4',
-                    },
-                    {
-                        label: 'Cuti',
-                        data: cutiValues,
-                        backgroundColor: '#555555',
-                    },
-                    {
-                        label: 'Keluar',
-                        data: keluarValues,
-                        backgroundColor: '#ff5252',
-                    }
-                ]
-            },
-            options: {
-                responsive: true,
-                plugins: {
-                    legend: {
-                        display: true,
-                        position: 'top',
-                        labels: {
-                            font: { size: 14 },
-                            padding: 20,
-                            usePointStyle: true
+                rawData.forEach(angkatan => {
+                    Object.values(angkatan).forEach(info => {
+                        if (
+                            (!selectedFakultas || info.fakultas === selectedFakultas) &&
+                            (!selectedProdi || info.program_studi === selectedProdi) &&
+                            (!selectedAngkatan || info.angkatan == selectedAngkatan)
+                        ) {
+                            filteredData.push(info);
                         }
+                    });
+                });
+
+                updateChart(filteredData);
+            }
+
+            function updateChart(filteredData) {
+                if (!filteredData || filteredData.length === 0) {
+                    console.log("Tidak ada data untuk chart.");
+                    return;
+                }
+
+                let semesterSet = new Set();
+                let activeData = {};
+                let cutiData = {};
+                let keluarData = {};
+
+                filteredData.forEach(info => {
+                    if (info.data_per_semester) {
+                        Object.values(info.data_per_semester).forEach(sem => {
+                            let semLabel = semesterLabel(sem.semester);
+                            semesterSet.add(semLabel);
+
+                            if (!activeData[semLabel]) activeData[semLabel] = 0;
+                            if (!cutiData[semLabel]) cutiData[semLabel] = 0;
+                            if (!keluarData[semLabel]) keluarData[semLabel] = 0;
+
+                            activeData[semLabel] += sem.jumlah_mahasiswa_sisa || 0;
+                            cutiData[semLabel] += sem.jumlah_cuti || 0;
+                            keluarData[semLabel] += sem.jumlah_keluar || 0;
+                        });
+                    }
+                });
+
+                let sortedSemesters = Array.from(semesterSet).sort();
+
+                let activeValues = sortedSemesters.map(sem => activeData[sem] || 0);
+                let cutiValues = sortedSemesters.map(sem => cutiData[sem] || 0);
+                let keluarValues = sortedSemesters.map(sem => keluarData[sem] || 0);
+
+                if (chartInstance) {
+                    chartInstance.destroy();
+                }
+
+                chartInstance = new Chart(ctx, {
+                    type: 'bar',
+                    data: {
+                        labels: sortedSemesters,
+                        datasets: [{
+                                label: 'Aktif',
+                                data: activeValues,
+                                backgroundColor: '#00bcd4',
+                            },
+                            {
+                                label: 'Cuti',
+                                data: cutiValues,
+                                backgroundColor: '#555555',
+                            },
+                            {
+                                label: 'Keluar',
+                                data: keluarValues,
+                                backgroundColor: '#ff5252',
+                            }
+                        ]
                     },
-                    tooltip: {
-                        callbacks: {
-                            label: function(tooltipItem) {
-                                return `${tooltipItem.dataset.label}: ${tooltipItem.raw}`;
+                    options: {
+                        responsive: true,
+                        plugins: {
+                            legend: {
+                                display: true,
+                                position: 'top',
+                                labels: {
+                                    font: {
+                                        size: 14
+                                    },
+                                    padding: 20,
+                                    usePointStyle: true
+                                }
+                            },
+                            tooltip: {
+                                callbacks: {
+                                    label: function(tooltipItem) {
+                                        return `${tooltipItem.dataset.label}: ${tooltipItem.raw}`;
+                                    }
+                                }
+                            },
+                            datalabels: {
+                                anchor: 'end',
+                                align: 'top',
+                                formatter: (value) => value > 0 ? value : '',
+                                font: {
+                                    size: 12,
+                                    weight: 'bold'
+                                },
+                                color: '#000'
+                            }
+                        },
+                        scales: {
+                            x: {
+                                stacked: false,
+                                title: {
+                                    display: true,
+                                    text: 'Semester'
+                                }
+                            },
+                            y: {
+                                stacked: false,
+                                beginAtZero: true,
+                                title: {
+                                    display: true,
+                                    text: 'Jumlah Mahasiswa'
+                                }
                             }
                         }
                     },
-                    datalabels: {
-                        anchor: 'end',
-                        align: 'top',
-                        formatter: (value) => value > 0 ? value : '',
-                        font: { size: 12, weight: 'bold' },
-                        color: '#000'
-                    }
-                },
-                scales: {
-                    x: {
-                        stacked: false,
-                        title: { display: true, text: 'Semester' }
-                    },
-                    y: {
-                        stacked: false,
-                        beginAtZero: true,
-                        title: { display: true, text: 'Jumlah Mahasiswa' }
-                    }
-                }
-            },
-            plugins: [ChartDataLabels]
+                    plugins: [ChartDataLabels]
+                });
+            }
+
+            fakultasDropdown.addEventListener("change", function() {
+                updateProdiDropdown();
+                filterData();
+            });
+
+            prodiDropdown.addEventListener("change", filterData);
+            angkatanDropdown.addEventListener("change", filterData);
+
+            updateProdiDropdown();
+            setDropdownToAngkatan2018();
+            updateChart(getDefaultData());
         });
-    }
-
-    fakultasDropdown.addEventListener("change", function () {
-        updateProdiDropdown();
-        filterData();
-    });
-
-    prodiDropdown.addEventListener("change", filterData);
-    angkatanDropdown.addEventListener("change", filterData);
-
-    updateProdiDropdown();
-    setDropdownToAngkatan2018();
-    updateChart(getDefaultData());
-});
-
-</script>
+    </script>
 @endsection
