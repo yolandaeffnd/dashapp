@@ -13,7 +13,7 @@ class renstraChartController extends Controller
     public function chartikuII(Request $request){
         $response = Http::get('http://127.0.0.1:8000/api/mhs/data-iku-II');
         $data = $response->json()['data'];
-    dd($data);
+    // dd($data);
     $fakultas = collect($data)->pluck('fakultas_nama')->unique();
     }
 }

@@ -148,23 +148,60 @@ class TampildataController extends Controller
 
 
 
-public function mahasiswa_ipk()
-{
-    // Ambil data dari API
-    $response = Http::get('http://127.0.0.1:8000/api/mhs/data-aktifitas-mahasiswa');
+// public function mahasiswa_ipk()
+// {
+//     // Ambil data dari API
+//     $response = Http::get('http://127.0.0.1:8000/api/mhs/data-aktifitas-mahasiswa');
 
-    // Periksa apakah API berhasil diakses
-    if ($response->successful()) {
-        $data = $response->json()['data']; // Pastikan mengambil 'data'
-    } else {
-        $data = [];
+//     // Periksa apakah API berhasil diakses
+//     if ($response->successful()) {
+//         $data = $response->json()['data']; // Pastikan mengambil 'data'
+//     } else {
+//         $data = [];
+//     }
+
+//     // Mengambil daftar fakultas unik dari data mahasiswa
+//     $fakultas = collect($data)->pluck('fakultas_nama')->unique()->values();
+
+//     return view('chart.chart_ipk', compact('data', 'fakultas'));
+// }
+
+public function mahasiswa_ipk()
+    {
+        // URL API yang menyediakan data
+
+
+        // Mengambil data dari API
+        // Path ke file JSON
+        $path = database_path('json/data-mahasiswa-ipk.json');
+
+        // Cek apakah file JSON ada
+        if (!File::exists($path)) {
+            return response()->json(['message' => 'File tidak ditemukan'], 404);
+        }
+
+        // Ambil isi file JSON
+        $json = File::get($path);
+
+        // Ubah ke array PHP
+        $data_temp = json_decode($json, true);
+
+        $data = $data_temp;
+        if ($data === null || !isset($data)) {
+            return response()->json(['message' => 'Format JSON tidak valid'], 400);
+        }
+
+        //     // Mengambil daftar fakultas unik dari data mahasiswa
+       $fakultas = collect($data)->pluck('fakultas_nama')->unique()->values();
+        // dd($response);
+        return view('chart.chart_angkatan', compact('data','fakultas'));
     }
 
-    // Mengambil daftar fakultas unik dari data mahasiswa
-    $fakultas = collect($data)->pluck('fakultas_nama')->unique()->values();
 
-    return view('chart.chart_ipk', compact('data', 'fakultas'));
-}
+
+    /**
+     * Mengambil daftar Fakultas, Program Studi, dan Angkatan untuk Filter.
+     */
 
 
 

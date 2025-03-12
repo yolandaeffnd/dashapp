@@ -1,0 +1,1733 @@
+{
+    "data": [
+        {
+            "fakultas_nama": "TEKNOLOGI INFORMASI",
+            "Program_Studi": "INFORMATIKA",
+            "Jenjang": "S1",
+            "Tahun": 0,
+            "Semester": "Semester 1",
+            "Rata_Rata_IPK": 0,
+            "Jumlah_Mahasiswa": 21
+        },
+        {
+            "fakultas_nama": "TEKNOLOGI INFORMASI",
+            "Program_Studi": "INFORMATIKA",
+            "Jenjang": "S1",
+            "Tahun": 2022,
+            "Semester": "Semester 1",
+            "Rata_Rata_IPK": 2.28,
+            "Jumlah_Mahasiswa": 4
+        },
+        {
+            "fakultas_nama": "TEKNOLOGI INFORMASI",
+            "Program_Studi": "INFORMATIKA",
+            "Jenjang": "S1",
+            "Tahun": 2022,
+            "Semester": "Semester 2",
+            "Rata_Rata_IPK": 3.05,
+            "Jumlah_Mahasiswa": 3
+        },
+        {
+            "fakultas_nama": "TEKNOLOGI INFORMASI",
+            "Program_Studi": "SISTEM INFORMASI",
+            "Jenjang": "S1",
+            "Tahun": 0,
+            "Semester": "Semester 1",
+            "Rata_Rata_IPK": 0,
+            "Jumlah_Mahasiswa": 1
+        },
+        {
+            "fakultas_nama": "TEKNOLOGI INFORMASI",
+            "Program_Studi": "SISTEM INFORMASI",
+            "Jenjang": "S1",
+            "Tahun": 2018,
+            "Semester": "Semester 1",
+            "Rata_Rata_IPK": 3.08,
+            "Jumlah_Mahasiswa": 56
+        },
+        {
+            "fakultas_nama": "TEKNOLOGI INFORMASI",
+            "Program_Studi": "SISTEM INFORMASI",
+            "Jenjang": "S1",
+            "Tahun": 2018,
+            "Semester": "Semester 2",
+            "Rata_Rata_IPK": 2.98,
+            "Jumlah_Mahasiswa": 56
+        },
+        {
+            "fakultas_nama": "TEKNOLOGI INFORMASI",
+            "Program_Studi": "SISTEM INFORMASI",
+            "Jenjang": "S1",
+            "Tahun": 2018,
+            "Semester": "Semester Tidak Diketahui",
+            "Rata_Rata_IPK": 2.98,
+            "Jumlah_Mahasiswa": 56
+        },
+        {
+            "fakultas_nama": "TEKNOLOGI INFORMASI",
+            "Program_Studi": "SISTEM INFORMASI",
+            "Jenjang": "S1",
+            "Tahun": 2019,
+            "Semester": "Semester 1",
+            "Rata_Rata_IPK": 3.25,
+            "Jumlah_Mahasiswa": 131
+        },
+        {
+            "fakultas_nama": "TEKNOLOGI INFORMASI",
+            "Program_Studi": "SISTEM INFORMASI",
+            "Jenjang": "S1",
+            "Tahun": 2019,
+            "Semester": "Semester 2",
+            "Rata_Rata_IPK": 3.15,
+            "Jumlah_Mahasiswa": 135
+        },
+        {
+            "fakultas_nama": "TEKNOLOGI INFORMASI",
+            "Program_Studi": "SISTEM INFORMASI",
+            "Jenjang": "S1",
+            "Tahun": 2019,
+            "Semester": "Semester Tidak Diketahui",
+            "Rata_Rata_IPK": 3.15,
+            "Jumlah_Mahasiswa": 135
+        },
+        {
+            "fakultas_nama": "TEKNOLOGI INFORMASI",
+            "Program_Studi": "SISTEM INFORMASI",
+            "Jenjang": "S1",
+            "Tahun": 2020,
+            "Semester": "Semester 1",
+            "Rata_Rata_IPK": 3.3,
+            "Jumlah_Mahasiswa": 216
+        },
+        {
+            "fakultas_nama": "TEKNOLOGI INFORMASI",
+            "Program_Studi": "SISTEM INFORMASI",
+            "Jenjang": "S1",
+            "Tahun": 2020,
+            "Semester": "Semester 2",
+            "Rata_Rata_IPK": 3.27,
+            "Jumlah_Mahasiswa": 216
+        },
+        {
+            "fakultas_nama": "TEKNOLOGI INFORMASI",
+            "Program_Studi": "SISTEM INFORMASI",
+            "Jenjang": "S1",
+            "Tahun": 2020,
+            "Semester": "Semester Tidak Diketahui",
+            "Rata_Rata_IPK": 3.27,
+            "Jumlah_Mahasiswa": 216
+        },
+        {
+            "fakultas_nama": "TEKNOLOGI INFORMASI",
+            "Program_Studi": "SISTEM INFORMASI",
+            "Jenjang": "S1",
+            "Tahun": 2021,
+            "Semester": "Semester 1",
+            "Rata_Rata_IPK": 3.26,
+            "Jumlah_Mahasiswa": 289
+        },
+        {
+            "fakultas_nama": "TEKNOLOGI INFORMASI",
+            "Program_Studi": "SISTEM INFORMASI",
+            "Jenjang": "S1",
+            "Tahun": 2021,
+            "Semester": "Semester 2",
+            "Rata_Rata_IPK": 3.22,
+            "Jumlah_Mahasiswa": 289
+        },
+        {
+            "fakultas_nama": "TEKNOLOGI INFORMASI",
+            "Program_Studi": "SISTEM INFORMASI",
+            "Jenjang": "S1",
+            "Tahun": 2022,
+            "Semester": "Semester 1",
+            "Rata_Rata_IPK": 3.38,
+            "Jumlah_Mahasiswa": 361
+        },
+        {
+            "fakultas_nama": "TEKNOLOGI INFORMASI",
+            "Program_Studi": "SISTEM INFORMASI",
+            "Jenjang": "S1",
+            "Tahun": 2022,
+            "Semester": "Semester 2",
+            "Rata_Rata_IPK": 3.41,
+            "Jumlah_Mahasiswa": 343
+        },
+        {
+            "fakultas_nama": "TEKNOLOGI INFORMASI",
+            "Program_Studi": "TEKNIK KOMPUTER",
+            "Jenjang": "S1",
+            "Tahun": 0,
+            "Semester": "Semester 1",
+            "Rata_Rata_IPK": 0,
+            "Jumlah_Mahasiswa": 81
+        },
+        {
+            "fakultas_nama": "TEKNOLOGI INFORMASI",
+            "Program_Studi": "TEKNIK KOMPUTER",
+            "Jenjang": "S1",
+            "Tahun": 2018,
+            "Semester": "Semester 1",
+            "Rata_Rata_IPK": 2.92,
+            "Jumlah_Mahasiswa": 79
+        },
+        {
+            "fakultas_nama": "TEKNOLOGI INFORMASI",
+            "Program_Studi": "TEKNIK KOMPUTER",
+            "Jenjang": "S1",
+            "Tahun": 2018,
+            "Semester": "Semester 2",
+            "Rata_Rata_IPK": 2.96,
+            "Jumlah_Mahasiswa": 78
+        },
+        {
+            "fakultas_nama": "TEKNOLOGI INFORMASI",
+            "Program_Studi": "TEKNIK KOMPUTER",
+            "Jenjang": "S1",
+            "Tahun": 2018,
+            "Semester": "Semester Tidak Diketahui",
+            "Rata_Rata_IPK": 2.96,
+            "Jumlah_Mahasiswa": 78
+        },
+        {
+            "fakultas_nama": "TEKNOLOGI INFORMASI",
+            "Program_Studi": "TEKNIK KOMPUTER",
+            "Jenjang": "S1",
+            "Tahun": 2019,
+            "Semester": "Semester 1",
+            "Rata_Rata_IPK": 3.13,
+            "Jumlah_Mahasiswa": 153
+        },
+        {
+            "fakultas_nama": "TEKNOLOGI INFORMASI",
+            "Program_Studi": "TEKNIK KOMPUTER",
+            "Jenjang": "S1",
+            "Tahun": 2019,
+            "Semester": "Semester 2",
+            "Rata_Rata_IPK": 3.22,
+            "Jumlah_Mahasiswa": 153
+        },
+        {
+            "fakultas_nama": "TEKNOLOGI INFORMASI",
+            "Program_Studi": "TEKNIK KOMPUTER",
+            "Jenjang": "S1",
+            "Tahun": 2019,
+            "Semester": "Semester Tidak Diketahui",
+            "Rata_Rata_IPK": 3.22,
+            "Jumlah_Mahasiswa": 153
+        },
+        {
+            "fakultas_nama": "TEKNOLOGI INFORMASI",
+            "Program_Studi": "TEKNIK KOMPUTER",
+            "Jenjang": "S1",
+            "Tahun": 2020,
+            "Semester": "Semester 1",
+            "Rata_Rata_IPK": 3.31,
+            "Jumlah_Mahasiswa": 235
+        },
+        {
+            "fakultas_nama": "TEKNOLOGI INFORMASI",
+            "Program_Studi": "TEKNIK KOMPUTER",
+            "Jenjang": "S1",
+            "Tahun": 2020,
+            "Semester": "Semester 2",
+            "Rata_Rata_IPK": 3.35,
+            "Jumlah_Mahasiswa": 231
+        },
+        {
+            "fakultas_nama": "TEKNOLOGI INFORMASI",
+            "Program_Studi": "TEKNIK KOMPUTER",
+            "Jenjang": "S1",
+            "Tahun": 2020,
+            "Semester": "Semester Tidak Diketahui",
+            "Rata_Rata_IPK": 3.38,
+            "Jumlah_Mahasiswa": 231
+        },
+        {
+            "fakultas_nama": "TEKNOLOGI INFORMASI",
+            "Program_Studi": "TEKNIK KOMPUTER",
+            "Jenjang": "S1",
+            "Tahun": 2021,
+            "Semester": "Semester 1",
+            "Rata_Rata_IPK": 3.33,
+            "Jumlah_Mahasiswa": 304
+        },
+        {
+            "fakultas_nama": "TEKNOLOGI INFORMASI",
+            "Program_Studi": "TEKNIK KOMPUTER",
+            "Jenjang": "S1",
+            "Tahun": 2021,
+            "Semester": "Semester 2",
+            "Rata_Rata_IPK": 3.29,
+            "Jumlah_Mahasiswa": 303
+        },
+        {
+            "fakultas_nama": "TEKNOLOGI INFORMASI",
+            "Program_Studi": "TEKNIK KOMPUTER",
+            "Jenjang": "S1",
+            "Tahun": 2022,
+            "Semester": "Semester 1",
+            "Rata_Rata_IPK": 3.29,
+            "Jumlah_Mahasiswa": 313
+        },
+        {
+            "fakultas_nama": "TEKNOLOGI INFORMASI",
+            "Program_Studi": "TEKNIK KOMPUTER",
+            "Jenjang": "S1",
+            "Tahun": 2022,
+            "Semester": "Semester 2",
+            "Rata_Rata_IPK": 3.3,
+            "Jumlah_Mahasiswa": 285
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Elektro",
+            "Jenjang": "S1",
+            "Tahun": 2018,
+            "Semester": "Semester 1",
+            "Rata_Rata_IPK": 3.32,
+            "Jumlah_Mahasiswa": 122
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Elektro",
+            "Jenjang": "S1",
+            "Tahun": 2018,
+            "Semester": "Semester 2",
+            "Rata_Rata_IPK": 3.16,
+            "Jumlah_Mahasiswa": 122
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Elektro",
+            "Jenjang": "S1",
+            "Tahun": 2018,
+            "Semester": "Semester Tidak Diketahui",
+            "Rata_Rata_IPK": 3.19,
+            "Jumlah_Mahasiswa": 122
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Elektro",
+            "Jenjang": "S1",
+            "Tahun": 2019,
+            "Semester": "Semester 1",
+            "Rata_Rata_IPK": 3.39,
+            "Jumlah_Mahasiswa": 246
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Elektro",
+            "Jenjang": "S1",
+            "Tahun": 2019,
+            "Semester": "Semester 2",
+            "Rata_Rata_IPK": 3.22,
+            "Jumlah_Mahasiswa": 246
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Elektro",
+            "Jenjang": "S1",
+            "Tahun": 2020,
+            "Semester": "Semester 1",
+            "Rata_Rata_IPK": 3.34,
+            "Jumlah_Mahasiswa": 385
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Elektro",
+            "Jenjang": "S1",
+            "Tahun": 2020,
+            "Semester": "Semester 2",
+            "Rata_Rata_IPK": 3.3,
+            "Jumlah_Mahasiswa": 385
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Elektro",
+            "Jenjang": "S1",
+            "Tahun": 2020,
+            "Semester": "Semester Tidak Diketahui",
+            "Rata_Rata_IPK": 3.31,
+            "Jumlah_Mahasiswa": 385
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Elektro",
+            "Jenjang": "S1",
+            "Tahun": 2021,
+            "Semester": "Semester 1",
+            "Rata_Rata_IPK": 3.26,
+            "Jumlah_Mahasiswa": 521
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Elektro",
+            "Jenjang": "S1",
+            "Tahun": 2021,
+            "Semester": "Semester 2",
+            "Rata_Rata_IPK": 3.16,
+            "Jumlah_Mahasiswa": 527
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Elektro",
+            "Jenjang": "S1",
+            "Tahun": 2021,
+            "Semester": "Semester Tidak Diketahui",
+            "Rata_Rata_IPK": 3.15,
+            "Jumlah_Mahasiswa": 519
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Elektro",
+            "Jenjang": "S1",
+            "Tahun": 2022,
+            "Semester": "Semester 1",
+            "Rata_Rata_IPK": 3.04,
+            "Jumlah_Mahasiswa": 663
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Elektro",
+            "Jenjang": "S1",
+            "Tahun": 2022,
+            "Semester": "Semester 2",
+            "Rata_Rata_IPK": 2.99,
+            "Jumlah_Mahasiswa": 634
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Elektro",
+            "Jenjang": "S2",
+            "Tahun": 2018,
+            "Semester": "Semester 1",
+            "Rata_Rata_IPK": 2.74,
+            "Jumlah_Mahasiswa": 10
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Elektro",
+            "Jenjang": "S2",
+            "Tahun": 2018,
+            "Semester": "Semester 2",
+            "Rata_Rata_IPK": 2.8,
+            "Jumlah_Mahasiswa": 10
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Elektro",
+            "Jenjang": "S2",
+            "Tahun": 2018,
+            "Semester": "Semester Tidak Diketahui",
+            "Rata_Rata_IPK": 2.8,
+            "Jumlah_Mahasiswa": 10
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Elektro",
+            "Jenjang": "S2",
+            "Tahun": 2019,
+            "Semester": "Semester 1",
+            "Rata_Rata_IPK": 3.14,
+            "Jumlah_Mahasiswa": 23
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Elektro",
+            "Jenjang": "S2",
+            "Tahun": 2019,
+            "Semester": "Semester 2",
+            "Rata_Rata_IPK": 3.26,
+            "Jumlah_Mahasiswa": 23
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Elektro",
+            "Jenjang": "S2",
+            "Tahun": 2020,
+            "Semester": "Semester 1",
+            "Rata_Rata_IPK": 3.39,
+            "Jumlah_Mahasiswa": 31
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Elektro",
+            "Jenjang": "S2",
+            "Tahun": 2020,
+            "Semester": "Semester 2",
+            "Rata_Rata_IPK": 3.38,
+            "Jumlah_Mahasiswa": 29
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Elektro",
+            "Jenjang": "S2",
+            "Tahun": 2020,
+            "Semester": "Semester Tidak Diketahui",
+            "Rata_Rata_IPK": 3.27,
+            "Jumlah_Mahasiswa": 23
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Elektro",
+            "Jenjang": "S2",
+            "Tahun": 2021,
+            "Semester": "Semester 1",
+            "Rata_Rata_IPK": 3.2,
+            "Jumlah_Mahasiswa": 32
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Elektro",
+            "Jenjang": "S2",
+            "Tahun": 2021,
+            "Semester": "Semester 2",
+            "Rata_Rata_IPK": 3.19,
+            "Jumlah_Mahasiswa": 31
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Elektro",
+            "Jenjang": "S2",
+            "Tahun": 2021,
+            "Semester": "Semester Tidak Diketahui",
+            "Rata_Rata_IPK": 3.12,
+            "Jumlah_Mahasiswa": 27
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Elektro",
+            "Jenjang": "S2",
+            "Tahun": 2022,
+            "Semester": "Semester 1",
+            "Rata_Rata_IPK": 3.29,
+            "Jumlah_Mahasiswa": 37
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Elektro",
+            "Jenjang": "S2",
+            "Tahun": 2022,
+            "Semester": "Semester 2",
+            "Rata_Rata_IPK": 3.23,
+            "Jumlah_Mahasiswa": 32
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Elektro",
+            "Jenjang": "S3",
+            "Tahun": 2022,
+            "Semester": "Semester 1",
+            "Rata_Rata_IPK": 3.72,
+            "Jumlah_Mahasiswa": 10
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Elektro",
+            "Jenjang": "S3",
+            "Tahun": 2022,
+            "Semester": "Semester 2",
+            "Rata_Rata_IPK": 3.72,
+            "Jumlah_Mahasiswa": 10
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Industri",
+            "Jenjang": "S1",
+            "Tahun": 2018,
+            "Semester": "Semester 1",
+            "Rata_Rata_IPK": 3.15,
+            "Jumlah_Mahasiswa": 139
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Industri",
+            "Jenjang": "S1",
+            "Tahun": 2018,
+            "Semester": "Semester 2",
+            "Rata_Rata_IPK": 3.15,
+            "Jumlah_Mahasiswa": 139
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Industri",
+            "Jenjang": "S1",
+            "Tahun": 2018,
+            "Semester": "Semester Tidak Diketahui",
+            "Rata_Rata_IPK": 3.15,
+            "Jumlah_Mahasiswa": 139
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Industri",
+            "Jenjang": "S1",
+            "Tahun": 2019,
+            "Semester": "Semester 1",
+            "Rata_Rata_IPK": 3.12,
+            "Jumlah_Mahasiswa": 277
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Industri",
+            "Jenjang": "S1",
+            "Tahun": 2019,
+            "Semester": "Semester 2",
+            "Rata_Rata_IPK": 3.18,
+            "Jumlah_Mahasiswa": 277
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Industri",
+            "Jenjang": "S1",
+            "Tahun": 2020,
+            "Semester": "Semester 1",
+            "Rata_Rata_IPK": 3.29,
+            "Jumlah_Mahasiswa": 398
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Industri",
+            "Jenjang": "S1",
+            "Tahun": 2020,
+            "Semester": "Semester 2",
+            "Rata_Rata_IPK": 3.26,
+            "Jumlah_Mahasiswa": 400
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Industri",
+            "Jenjang": "S1",
+            "Tahun": 2020,
+            "Semester": "Semester Tidak Diketahui",
+            "Rata_Rata_IPK": 3.26,
+            "Jumlah_Mahasiswa": 400
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Industri",
+            "Jenjang": "S1",
+            "Tahun": 2021,
+            "Semester": "Semester 1",
+            "Rata_Rata_IPK": 3.28,
+            "Jumlah_Mahasiswa": 524
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Industri",
+            "Jenjang": "S1",
+            "Tahun": 2021,
+            "Semester": "Semester 2",
+            "Rata_Rata_IPK": 3.2,
+            "Jumlah_Mahasiswa": 525
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Industri",
+            "Jenjang": "S1",
+            "Tahun": 2021,
+            "Semester": "Semester Tidak Diketahui",
+            "Rata_Rata_IPK": 3.19,
+            "Jumlah_Mahasiswa": 505
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Industri",
+            "Jenjang": "S1",
+            "Tahun": 2022,
+            "Semester": "Semester 1",
+            "Rata_Rata_IPK": 3.15,
+            "Jumlah_Mahasiswa": 631
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Industri",
+            "Jenjang": "S1",
+            "Tahun": 2022,
+            "Semester": "Semester 2",
+            "Rata_Rata_IPK": 3.08,
+            "Jumlah_Mahasiswa": 580
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Industri",
+            "Jenjang": "S2",
+            "Tahun": 2018,
+            "Semester": "Semester 1",
+            "Rata_Rata_IPK": 3.19,
+            "Jumlah_Mahasiswa": 11
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Industri",
+            "Jenjang": "S2",
+            "Tahun": 2018,
+            "Semester": "Semester 2",
+            "Rata_Rata_IPK": 3.23,
+            "Jumlah_Mahasiswa": 11
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Industri",
+            "Jenjang": "S2",
+            "Tahun": 2018,
+            "Semester": "Semester Tidak Diketahui",
+            "Rata_Rata_IPK": 3.23,
+            "Jumlah_Mahasiswa": 11
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Industri",
+            "Jenjang": "S2",
+            "Tahun": 2019,
+            "Semester": "Semester 1",
+            "Rata_Rata_IPK": 3.47,
+            "Jumlah_Mahasiswa": 23
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Industri",
+            "Jenjang": "S2",
+            "Tahun": 2019,
+            "Semester": "Semester 2",
+            "Rata_Rata_IPK": 3.43,
+            "Jumlah_Mahasiswa": 22
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Industri",
+            "Jenjang": "S2",
+            "Tahun": 2020,
+            "Semester": "Semester 1",
+            "Rata_Rata_IPK": 3.2,
+            "Jumlah_Mahasiswa": 37
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Industri",
+            "Jenjang": "S2",
+            "Tahun": 2020,
+            "Semester": "Semester 2",
+            "Rata_Rata_IPK": 3.34,
+            "Jumlah_Mahasiswa": 37
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Industri",
+            "Jenjang": "S2",
+            "Tahun": 2020,
+            "Semester": "Semester Tidak Diketahui",
+            "Rata_Rata_IPK": 3.51,
+            "Jumlah_Mahasiswa": 32
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Industri",
+            "Jenjang": "S2",
+            "Tahun": 2021,
+            "Semester": "Semester 1",
+            "Rata_Rata_IPK": 2.82,
+            "Jumlah_Mahasiswa": 53
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Industri",
+            "Jenjang": "S2",
+            "Tahun": 2021,
+            "Semester": "Semester 2",
+            "Rata_Rata_IPK": 3.3,
+            "Jumlah_Mahasiswa": 52
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Industri",
+            "Jenjang": "S2",
+            "Tahun": 2021,
+            "Semester": "Semester Tidak Diketahui",
+            "Rata_Rata_IPK": 3.26,
+            "Jumlah_Mahasiswa": 47
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Industri",
+            "Jenjang": "S2",
+            "Tahun": 2022,
+            "Semester": "Semester 1",
+            "Rata_Rata_IPK": 3.04,
+            "Jumlah_Mahasiswa": 59
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Industri",
+            "Jenjang": "S2",
+            "Tahun": 2022,
+            "Semester": "Semester 2",
+            "Rata_Rata_IPK": 3.09,
+            "Jumlah_Mahasiswa": 56
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Industri",
+            "Jenjang": "S3",
+            "Tahun": 2022,
+            "Semester": "Semester 2",
+            "Rata_Rata_IPK": 0,
+            "Jumlah_Mahasiswa": 7
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Lingkungan",
+            "Jenjang": "S1",
+            "Tahun": 2018,
+            "Semester": "Semester 1",
+            "Rata_Rata_IPK": 3.26,
+            "Jumlah_Mahasiswa": 100
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Lingkungan",
+            "Jenjang": "S1",
+            "Tahun": 2018,
+            "Semester": "Semester 2",
+            "Rata_Rata_IPK": 3.25,
+            "Jumlah_Mahasiswa": 100
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Lingkungan",
+            "Jenjang": "S1",
+            "Tahun": 2018,
+            "Semester": "Semester Tidak Diketahui",
+            "Rata_Rata_IPK": 3.25,
+            "Jumlah_Mahasiswa": 100
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Lingkungan",
+            "Jenjang": "S1",
+            "Tahun": 2019,
+            "Semester": "Semester 1",
+            "Rata_Rata_IPK": 3.24,
+            "Jumlah_Mahasiswa": 202
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Lingkungan",
+            "Jenjang": "S1",
+            "Tahun": 2019,
+            "Semester": "Semester 2",
+            "Rata_Rata_IPK": 3.32,
+            "Jumlah_Mahasiswa": 202
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Lingkungan",
+            "Jenjang": "S1",
+            "Tahun": 2020,
+            "Semester": "Semester 1",
+            "Rata_Rata_IPK": 3.39,
+            "Jumlah_Mahasiswa": 313
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Lingkungan",
+            "Jenjang": "S1",
+            "Tahun": 2020,
+            "Semester": "Semester 2",
+            "Rata_Rata_IPK": 3.37,
+            "Jumlah_Mahasiswa": 313
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Lingkungan",
+            "Jenjang": "S1",
+            "Tahun": 2020,
+            "Semester": "Semester Tidak Diketahui",
+            "Rata_Rata_IPK": 3.37,
+            "Jumlah_Mahasiswa": 313
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Lingkungan",
+            "Jenjang": "S1",
+            "Tahun": 2021,
+            "Semester": "Semester 1",
+            "Rata_Rata_IPK": 3.33,
+            "Jumlah_Mahasiswa": 429
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Lingkungan",
+            "Jenjang": "S1",
+            "Tahun": 2021,
+            "Semester": "Semester 2",
+            "Rata_Rata_IPK": 3.21,
+            "Jumlah_Mahasiswa": 431
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Lingkungan",
+            "Jenjang": "S1",
+            "Tahun": 2021,
+            "Semester": "Semester Tidak Diketahui",
+            "Rata_Rata_IPK": 3.19,
+            "Jumlah_Mahasiswa": 406
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Lingkungan",
+            "Jenjang": "S1",
+            "Tahun": 2022,
+            "Semester": "Semester 1",
+            "Rata_Rata_IPK": 3.13,
+            "Jumlah_Mahasiswa": 523
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Lingkungan",
+            "Jenjang": "S1",
+            "Tahun": 2022,
+            "Semester": "Semester 2",
+            "Rata_Rata_IPK": 3.1,
+            "Jumlah_Mahasiswa": 432
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Lingkungan",
+            "Jenjang": "S2",
+            "Tahun": 0,
+            "Semester": "Semester 1",
+            "Rata_Rata_IPK": 0,
+            "Jumlah_Mahasiswa": 3
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Lingkungan",
+            "Jenjang": "S2",
+            "Tahun": 2018,
+            "Semester": "Semester 1",
+            "Rata_Rata_IPK": 3.72,
+            "Jumlah_Mahasiswa": 10
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Lingkungan",
+            "Jenjang": "S2",
+            "Tahun": 2018,
+            "Semester": "Semester 2",
+            "Rata_Rata_IPK": 3.68,
+            "Jumlah_Mahasiswa": 10
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Lingkungan",
+            "Jenjang": "S2",
+            "Tahun": 2018,
+            "Semester": "Semester Tidak Diketahui",
+            "Rata_Rata_IPK": 3.68,
+            "Jumlah_Mahasiswa": 10
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Lingkungan",
+            "Jenjang": "S2",
+            "Tahun": 2019,
+            "Semester": "Semester 1",
+            "Rata_Rata_IPK": 3.48,
+            "Jumlah_Mahasiswa": 23
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Lingkungan",
+            "Jenjang": "S2",
+            "Tahun": 2019,
+            "Semester": "Semester 2",
+            "Rata_Rata_IPK": 3.51,
+            "Jumlah_Mahasiswa": 23
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Lingkungan",
+            "Jenjang": "S2",
+            "Tahun": 2020,
+            "Semester": "Semester 1",
+            "Rata_Rata_IPK": 2.93,
+            "Jumlah_Mahasiswa": 38
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Lingkungan",
+            "Jenjang": "S2",
+            "Tahun": 2020,
+            "Semester": "Semester 2",
+            "Rata_Rata_IPK": 3.21,
+            "Jumlah_Mahasiswa": 43
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Lingkungan",
+            "Jenjang": "S2",
+            "Tahun": 2020,
+            "Semester": "Semester Tidak Diketahui",
+            "Rata_Rata_IPK": 3.35,
+            "Jumlah_Mahasiswa": 39
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Lingkungan",
+            "Jenjang": "S2",
+            "Tahun": 2021,
+            "Semester": "Semester 1",
+            "Rata_Rata_IPK": 2.81,
+            "Jumlah_Mahasiswa": 57
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Lingkungan",
+            "Jenjang": "S2",
+            "Tahun": 2021,
+            "Semester": "Semester 2",
+            "Rata_Rata_IPK": 3.35,
+            "Jumlah_Mahasiswa": 57
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Lingkungan",
+            "Jenjang": "S2",
+            "Tahun": 2021,
+            "Semester": "Semester Tidak Diketahui",
+            "Rata_Rata_IPK": 3.31,
+            "Jumlah_Mahasiswa": 40
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Lingkungan",
+            "Jenjang": "S2",
+            "Tahun": 2022,
+            "Semester": "Semester 1",
+            "Rata_Rata_IPK": 3,
+            "Jumlah_Mahasiswa": 48
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Lingkungan",
+            "Jenjang": "S2",
+            "Tahun": 2022,
+            "Semester": "Semester 2",
+            "Rata_Rata_IPK": 3.23,
+            "Jumlah_Mahasiswa": 40
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Mesin",
+            "Jenjang": "S1",
+            "Tahun": 2018,
+            "Semester": "Semester 1",
+            "Rata_Rata_IPK": 2.84,
+            "Jumlah_Mahasiswa": 144
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Mesin",
+            "Jenjang": "S1",
+            "Tahun": 2018,
+            "Semester": "Semester 2",
+            "Rata_Rata_IPK": 2.86,
+            "Jumlah_Mahasiswa": 144
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Mesin",
+            "Jenjang": "S1",
+            "Tahun": 2018,
+            "Semester": "Semester Tidak Diketahui",
+            "Rata_Rata_IPK": 2.87,
+            "Jumlah_Mahasiswa": 144
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Mesin",
+            "Jenjang": "S1",
+            "Tahun": 2019,
+            "Semester": "Semester 1",
+            "Rata_Rata_IPK": 2.84,
+            "Jumlah_Mahasiswa": 288
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Mesin",
+            "Jenjang": "S1",
+            "Tahun": 2019,
+            "Semester": "Semester 2",
+            "Rata_Rata_IPK": 2.95,
+            "Jumlah_Mahasiswa": 288
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Mesin",
+            "Jenjang": "S1",
+            "Tahun": 2020,
+            "Semester": "Semester 1",
+            "Rata_Rata_IPK": 3.04,
+            "Jumlah_Mahasiswa": 421
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Mesin",
+            "Jenjang": "S1",
+            "Tahun": 2020,
+            "Semester": "Semester 2",
+            "Rata_Rata_IPK": 3.05,
+            "Jumlah_Mahasiswa": 421
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Mesin",
+            "Jenjang": "S1",
+            "Tahun": 2020,
+            "Semester": "Semester Tidak Diketahui",
+            "Rata_Rata_IPK": 3.05,
+            "Jumlah_Mahasiswa": 421
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Mesin",
+            "Jenjang": "S1",
+            "Tahun": 2021,
+            "Semester": "Semester 1",
+            "Rata_Rata_IPK": 3.05,
+            "Jumlah_Mahasiswa": 561
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Mesin",
+            "Jenjang": "S1",
+            "Tahun": 2021,
+            "Semester": "Semester 2",
+            "Rata_Rata_IPK": 2.95,
+            "Jumlah_Mahasiswa": 566
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Mesin",
+            "Jenjang": "S1",
+            "Tahun": 2021,
+            "Semester": "Semester Tidak Diketahui",
+            "Rata_Rata_IPK": 2.95,
+            "Jumlah_Mahasiswa": 563
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Mesin",
+            "Jenjang": "S1",
+            "Tahun": 2022,
+            "Semester": "Semester 1",
+            "Rata_Rata_IPK": 2.87,
+            "Jumlah_Mahasiswa": 708
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Mesin",
+            "Jenjang": "S1",
+            "Tahun": 2022,
+            "Semester": "Semester 2",
+            "Rata_Rata_IPK": 2.82,
+            "Jumlah_Mahasiswa": 683
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Mesin",
+            "Jenjang": "S2",
+            "Tahun": 2018,
+            "Semester": "Semester 1",
+            "Rata_Rata_IPK": 2.37,
+            "Jumlah_Mahasiswa": 9
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Mesin",
+            "Jenjang": "S2",
+            "Tahun": 2018,
+            "Semester": "Semester 2",
+            "Rata_Rata_IPK": 2.5,
+            "Jumlah_Mahasiswa": 9
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Mesin",
+            "Jenjang": "S2",
+            "Tahun": 2018,
+            "Semester": "Semester Tidak Diketahui",
+            "Rata_Rata_IPK": 2.5,
+            "Jumlah_Mahasiswa": 9
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Mesin",
+            "Jenjang": "S2",
+            "Tahun": 2019,
+            "Semester": "Semester 1",
+            "Rata_Rata_IPK": 2.72,
+            "Jumlah_Mahasiswa": 21
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Mesin",
+            "Jenjang": "S2",
+            "Tahun": 2019,
+            "Semester": "Semester 2",
+            "Rata_Rata_IPK": 2.81,
+            "Jumlah_Mahasiswa": 21
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Mesin",
+            "Jenjang": "S2",
+            "Tahun": 2020,
+            "Semester": "Semester 1",
+            "Rata_Rata_IPK": 2.72,
+            "Jumlah_Mahasiswa": 27
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Mesin",
+            "Jenjang": "S2",
+            "Tahun": 2020,
+            "Semester": "Semester 2",
+            "Rata_Rata_IPK": 2.81,
+            "Jumlah_Mahasiswa": 27
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Mesin",
+            "Jenjang": "S2",
+            "Tahun": 2020,
+            "Semester": "Semester Tidak Diketahui",
+            "Rata_Rata_IPK": 2.77,
+            "Jumlah_Mahasiswa": 26
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Mesin",
+            "Jenjang": "S2",
+            "Tahun": 2021,
+            "Semester": "Semester 1",
+            "Rata_Rata_IPK": 2.93,
+            "Jumlah_Mahasiswa": 38
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Mesin",
+            "Jenjang": "S2",
+            "Tahun": 2021,
+            "Semester": "Semester 2",
+            "Rata_Rata_IPK": 2.96,
+            "Jumlah_Mahasiswa": 38
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Mesin",
+            "Jenjang": "S2",
+            "Tahun": 2021,
+            "Semester": "Semester Tidak Diketahui",
+            "Rata_Rata_IPK": 2.96,
+            "Jumlah_Mahasiswa": 38
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Mesin",
+            "Jenjang": "S2",
+            "Tahun": 2022,
+            "Semester": "Semester 1",
+            "Rata_Rata_IPK": 2.83,
+            "Jumlah_Mahasiswa": 43
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Mesin",
+            "Jenjang": "S2",
+            "Tahun": 2022,
+            "Semester": "Semester 2",
+            "Rata_Rata_IPK": 2.98,
+            "Jumlah_Mahasiswa": 33
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Mesin",
+            "Jenjang": "S3",
+            "Tahun": 2018,
+            "Semester": "Semester 1",
+            "Rata_Rata_IPK": 3.79,
+            "Jumlah_Mahasiswa": 6
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Mesin",
+            "Jenjang": "S3",
+            "Tahun": 2018,
+            "Semester": "Semester 2",
+            "Rata_Rata_IPK": 3.49,
+            "Jumlah_Mahasiswa": 6
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Mesin",
+            "Jenjang": "S3",
+            "Tahun": 2018,
+            "Semester": "Semester Tidak Diketahui",
+            "Rata_Rata_IPK": 3.49,
+            "Jumlah_Mahasiswa": 6
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Mesin",
+            "Jenjang": "S3",
+            "Tahun": 2019,
+            "Semester": "Semester 1",
+            "Rata_Rata_IPK": 3.61,
+            "Jumlah_Mahasiswa": 9
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Mesin",
+            "Jenjang": "S3",
+            "Tahun": 2019,
+            "Semester": "Semester 2",
+            "Rata_Rata_IPK": 3.54,
+            "Jumlah_Mahasiswa": 9
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Mesin",
+            "Jenjang": "S3",
+            "Tahun": 2020,
+            "Semester": "Semester 1",
+            "Rata_Rata_IPK": 3.38,
+            "Jumlah_Mahasiswa": 11
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Mesin",
+            "Jenjang": "S3",
+            "Tahun": 2020,
+            "Semester": "Semester 2",
+            "Rata_Rata_IPK": 3.46,
+            "Jumlah_Mahasiswa": 11
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Mesin",
+            "Jenjang": "S3",
+            "Tahun": 2020,
+            "Semester": "Semester Tidak Diketahui",
+            "Rata_Rata_IPK": 3.4,
+            "Jumlah_Mahasiswa": 10
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Mesin",
+            "Jenjang": "S3",
+            "Tahun": 2021,
+            "Semester": "Semester 1",
+            "Rata_Rata_IPK": 3.17,
+            "Jumlah_Mahasiswa": 17
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Mesin",
+            "Jenjang": "S3",
+            "Tahun": 2021,
+            "Semester": "Semester 2",
+            "Rata_Rata_IPK": 3.17,
+            "Jumlah_Mahasiswa": 17
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Mesin",
+            "Jenjang": "S3",
+            "Tahun": 2021,
+            "Semester": "Semester Tidak Diketahui",
+            "Rata_Rata_IPK": 3.48,
+            "Jumlah_Mahasiswa": 6
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Mesin",
+            "Jenjang": "S3",
+            "Tahun": 2022,
+            "Semester": "Semester 1",
+            "Rata_Rata_IPK": 2.62,
+            "Jumlah_Mahasiswa": 8
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Mesin",
+            "Jenjang": "S3",
+            "Tahun": 2022,
+            "Semester": "Semester 2",
+            "Rata_Rata_IPK": 3.39,
+            "Jumlah_Mahasiswa": 5
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Sipil",
+            "Jenjang": "S1",
+            "Tahun": 2018,
+            "Semester": "Semester 1",
+            "Rata_Rata_IPK": 2.8,
+            "Jumlah_Mahasiswa": 198
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Sipil",
+            "Jenjang": "S1",
+            "Tahun": 2018,
+            "Semester": "Semester 2",
+            "Rata_Rata_IPK": 2.72,
+            "Jumlah_Mahasiswa": 198
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Sipil",
+            "Jenjang": "S1",
+            "Tahun": 2018,
+            "Semester": "Semester Tidak Diketahui",
+            "Rata_Rata_IPK": 2.78,
+            "Jumlah_Mahasiswa": 198
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Sipil",
+            "Jenjang": "S1",
+            "Tahun": 2019,
+            "Semester": "Semester 1",
+            "Rata_Rata_IPK": 2.9,
+            "Jumlah_Mahasiswa": 401
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Sipil",
+            "Jenjang": "S1",
+            "Tahun": 2019,
+            "Semester": "Semester 2",
+            "Rata_Rata_IPK": 2.93,
+            "Jumlah_Mahasiswa": 402
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Sipil",
+            "Jenjang": "S1",
+            "Tahun": 2020,
+            "Semester": "Semester 1",
+            "Rata_Rata_IPK": 3.11,
+            "Jumlah_Mahasiswa": 573
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Sipil",
+            "Jenjang": "S1",
+            "Tahun": 2020,
+            "Semester": "Semester 2",
+            "Rata_Rata_IPK": 3.09,
+            "Jumlah_Mahasiswa": 573
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Sipil",
+            "Jenjang": "S1",
+            "Tahun": 2020,
+            "Semester": "Semester Tidak Diketahui",
+            "Rata_Rata_IPK": 3.1,
+            "Jumlah_Mahasiswa": 573
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Sipil",
+            "Jenjang": "S1",
+            "Tahun": 2021,
+            "Semester": "Semester 1",
+            "Rata_Rata_IPK": 3.19,
+            "Jumlah_Mahasiswa": 742
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Sipil",
+            "Jenjang": "S1",
+            "Tahun": 2021,
+            "Semester": "Semester 2",
+            "Rata_Rata_IPK": 3.08,
+            "Jumlah_Mahasiswa": 737
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Sipil",
+            "Jenjang": "S1",
+            "Tahun": 2021,
+            "Semester": "Semester Tidak Diketahui",
+            "Rata_Rata_IPK": 3.02,
+            "Jumlah_Mahasiswa": 663
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Sipil",
+            "Jenjang": "S1",
+            "Tahun": 2022,
+            "Semester": "Semester 1",
+            "Rata_Rata_IPK": 2.97,
+            "Jumlah_Mahasiswa": 840
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Sipil",
+            "Jenjang": "S1",
+            "Tahun": 2022,
+            "Semester": "Semester 2",
+            "Rata_Rata_IPK": 2.95,
+            "Jumlah_Mahasiswa": 820
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Sipil",
+            "Jenjang": "S2",
+            "Tahun": 0,
+            "Semester": "Semester 1",
+            "Rata_Rata_IPK": 1.12,
+            "Jumlah_Mahasiswa": 7
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Sipil",
+            "Jenjang": "S2",
+            "Tahun": 2018,
+            "Semester": "Semester 1",
+            "Rata_Rata_IPK": 3.79,
+            "Jumlah_Mahasiswa": 58
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Sipil",
+            "Jenjang": "S2",
+            "Tahun": 2018,
+            "Semester": "Semester 2",
+            "Rata_Rata_IPK": 3.76,
+            "Jumlah_Mahasiswa": 58
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Sipil",
+            "Jenjang": "S2",
+            "Tahun": 2018,
+            "Semester": "Semester Tidak Diketahui",
+            "Rata_Rata_IPK": 3.76,
+            "Jumlah_Mahasiswa": 58
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Sipil",
+            "Jenjang": "S2",
+            "Tahun": 2019,
+            "Semester": "Semester 1",
+            "Rata_Rata_IPK": 3.78,
+            "Jumlah_Mahasiswa": 109
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Sipil",
+            "Jenjang": "S2",
+            "Tahun": 2019,
+            "Semester": "Semester 2",
+            "Rata_Rata_IPK": 3.77,
+            "Jumlah_Mahasiswa": 108
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Sipil",
+            "Jenjang": "S2",
+            "Tahun": 2020,
+            "Semester": "Semester 1",
+            "Rata_Rata_IPK": 3.66,
+            "Jumlah_Mahasiswa": 142
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Sipil",
+            "Jenjang": "S2",
+            "Tahun": 2020,
+            "Semester": "Semester 2",
+            "Rata_Rata_IPK": 3.6,
+            "Jumlah_Mahasiswa": 139
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Sipil",
+            "Jenjang": "S2",
+            "Tahun": 2020,
+            "Semester": "Semester Tidak Diketahui",
+            "Rata_Rata_IPK": 3.69,
+            "Jumlah_Mahasiswa": 125
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Sipil",
+            "Jenjang": "S2",
+            "Tahun": 2021,
+            "Semester": "Semester 1",
+            "Rata_Rata_IPK": 3.7,
+            "Jumlah_Mahasiswa": 167
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Sipil",
+            "Jenjang": "S2",
+            "Tahun": 2021,
+            "Semester": "Semester 2",
+            "Rata_Rata_IPK": 3.69,
+            "Jumlah_Mahasiswa": 160
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Sipil",
+            "Jenjang": "S2",
+            "Tahun": 2021,
+            "Semester": "Semester Tidak Diketahui",
+            "Rata_Rata_IPK": 3.67,
+            "Jumlah_Mahasiswa": 145
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Sipil",
+            "Jenjang": "S2",
+            "Tahun": 2022,
+            "Semester": "Semester 1",
+            "Rata_Rata_IPK": 3.69,
+            "Jumlah_Mahasiswa": 152
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Sipil",
+            "Jenjang": "S2",
+            "Tahun": 2022,
+            "Semester": "Semester 2",
+            "Rata_Rata_IPK": 3.76,
+            "Jumlah_Mahasiswa": 17
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Sipil",
+            "Jenjang": "S3",
+            "Tahun": 2018,
+            "Semester": "Semester 1",
+            "Rata_Rata_IPK": 3.51,
+            "Jumlah_Mahasiswa": 20
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Sipil",
+            "Jenjang": "S3",
+            "Tahun": 2018,
+            "Semester": "Semester 2",
+            "Rata_Rata_IPK": 3.5,
+            "Jumlah_Mahasiswa": 20
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Sipil",
+            "Jenjang": "S3",
+            "Tahun": 2018,
+            "Semester": "Semester Tidak Diketahui",
+            "Rata_Rata_IPK": 3.5,
+            "Jumlah_Mahasiswa": 20
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Sipil",
+            "Jenjang": "S3",
+            "Tahun": 2019,
+            "Semester": "Semester 1",
+            "Rata_Rata_IPK": 3.69,
+            "Jumlah_Mahasiswa": 35
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Sipil",
+            "Jenjang": "S3",
+            "Tahun": 2019,
+            "Semester": "Semester 2",
+            "Rata_Rata_IPK": 3.7,
+            "Jumlah_Mahasiswa": 35
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Sipil",
+            "Jenjang": "S3",
+            "Tahun": 2020,
+            "Semester": "Semester 1",
+            "Rata_Rata_IPK": 3.71,
+            "Jumlah_Mahasiswa": 39
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Sipil",
+            "Jenjang": "S3",
+            "Tahun": 2020,
+            "Semester": "Semester 2",
+            "Rata_Rata_IPK": 3.71,
+            "Jumlah_Mahasiswa": 39
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Sipil",
+            "Jenjang": "S3",
+            "Tahun": 2020,
+            "Semester": "Semester Tidak Diketahui",
+            "Rata_Rata_IPK": 3.71,
+            "Jumlah_Mahasiswa": 39
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Sipil",
+            "Jenjang": "S3",
+            "Tahun": 2021,
+            "Semester": "Semester 1",
+            "Rata_Rata_IPK": 3.71,
+            "Jumlah_Mahasiswa": 53
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Sipil",
+            "Jenjang": "S3",
+            "Tahun": 2021,
+            "Semester": "Semester 2",
+            "Rata_Rata_IPK": 3.72,
+            "Jumlah_Mahasiswa": 53
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Sipil",
+            "Jenjang": "S3",
+            "Tahun": 2021,
+            "Semester": "Semester Tidak Diketahui",
+            "Rata_Rata_IPK": 3.72,
+            "Jumlah_Mahasiswa": 53
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Sipil",
+            "Jenjang": "S3",
+            "Tahun": 2022,
+            "Semester": "Semester 1",
+            "Rata_Rata_IPK": 3.73,
+            "Jumlah_Mahasiswa": 55
+        },
+        {
+            "fakultas_nama": "TEKNIK",
+            "Program_Studi": "Teknik Sipil",
+            "Jenjang": "S3",
+            "Tahun": 2022,
+            "Semester": "Semester 2",
+            "Rata_Rata_IPK": 3.39,
+            "Jumlah_Mahasiswa": 29
+        }
+    ],
+    "meta": { "timestamp": "2025-03-12T03:11:23.753447Z", "version": "1.0" }
+}
