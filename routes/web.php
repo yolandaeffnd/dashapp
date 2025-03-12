@@ -9,7 +9,8 @@ Route::get('/chartmhs', [TampildataController::class, 'mahasiswa'])->name('chart
 Route::get('/chartikuII', [renstraChartController::class, 'chartikuII'])->name('chart.ikuII');
 // Route::get('/chartmhs-angkatan', [TampildataController::class, 'mahasiswa_angkatan_index'])->name('chart.angkatan');
 Route::get('/chartmhs-angkatan', [TampildataController::class, 'mahasiswa_angkatan'])->name('chart.mhs.angkatan');
-Route::get('/chart-mahasiswa-filters', [TampildataController::class, 'getFilters']);
+Route::get('/chartmhs-ipk', [TampildataController::class, 'mahasiswa_ipk'])->name('chart.mhs.ipk');
+
 Route::get('semester', [RefSemesterController::class, 'index'])->name('semester.index');
 
 Route::group(['middleware'=>['role:admin']], function () {

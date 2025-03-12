@@ -1,0 +1,2597 @@
+{
+    "data": {
+        "2023": {
+            "IKU": {
+                "IKU 2": {
+                    "Fakultas Kedokteran": {
+                        "Jumlah mahasiswa MBKM Internal (antar prodi di lingkungan UNAND)": {
+                            "nilai": "0"
+                        },
+                        "Jumlah mahasiswa MBKM Eksternal (diluar UNAND)": {
+                            "nilai": "0"
+                        },
+                        "Jumlah Mahasiswa Inbound dalam program pertukaran mahasiswa (mahasiswa dari Perguruan Tinggi lain termasuk Mhs Asing)": {
+                            "nilai": "1"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Internasional": {
+                            "nilai": "0"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Nasional": {
+                            "nilai": "3"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Provinsi": {
+                            "nilai": "0"
+                        },
+                        "Jumlah Karya Mahasiswa": { "nilai": "2" },
+                        "Jumlah Sertifikat Internasional Mahasiswa": {
+                            "nilai": "0"
+                        }
+                    },
+                    "Fakultas Pertanian": {
+                        "Jumlah mahasiswa MBKM Internal (antar prodi di lingkungan UNAND)": {
+                            "nilai": "27"
+                        },
+                        "Jumlah mahasiswa MBKM Eksternal (diluar UNAND)": {
+                            "nilai": "635"
+                        },
+                        "Jumlah Mahasiswa Inbound dalam program pertukaran mahasiswa (mahasiswa dari Perguruan Tinggi lain termasuk Mhs Asing)": {
+                            "nilai": "20"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Internasional": {
+                            "nilai": "6"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Nasional": {
+                            "nilai": "18"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Provinsi": {
+                            "nilai": "12"
+                        },
+                        "Jumlah Karya Mahasiswa": { "nilai": "3" },
+                        "Jumlah Sertifikat Internasional Mahasiswa": {
+                            "nilai": "13"
+                        }
+                    },
+                    "Fakultas Hukum": {
+                        "Jumlah mahasiswa MBKM Internal (antar prodi di lingkungan UNAND)": {
+                            "nilai": "0"
+                        },
+                        "Jumlah mahasiswa MBKM Eksternal (diluar UNAND)": {
+                            "nilai": "3"
+                        },
+                        "Jumlah Mahasiswa Inbound dalam program pertukaran mahasiswa (mahasiswa dari Perguruan Tinggi lain termasuk Mhs Asing)": {
+                            "nilai": "18"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Internasional": {
+                            "nilai": "36"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Nasional": {
+                            "nilai": "87"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Provinsi": {
+                            "nilai": "0"
+                        },
+                        "Jumlah Karya Mahasiswa": { "nilai": "0" },
+                        "Jumlah Sertifikat Internasional Mahasiswa": {
+                            "nilai": "2"
+                        }
+                    },
+                    "Fakultas Matematika & Ilmu Pengetahuan Alam": {
+                        "Jumlah mahasiswa MBKM Internal (antar prodi di lingkungan UNAND)": {
+                            "nilai": "0"
+                        },
+                        "Jumlah mahasiswa MBKM Eksternal (diluar UNAND)": {
+                            "nilai": "97"
+                        },
+                        "Jumlah Mahasiswa Inbound dalam program pertukaran mahasiswa (mahasiswa dari Perguruan Tinggi lain termasuk Mhs Asing)": {
+                            "nilai": "2"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Internasional": {
+                            "nilai": "0"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Nasional": {
+                            "nilai": "5"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Provinsi": {
+                            "nilai": "11"
+                        },
+                        "Jumlah Karya Mahasiswa": { "nilai": "10" },
+                        "Jumlah Sertifikat Internasional Mahasiswa": {
+                            "nilai": "0"
+                        }
+                    },
+                    "Fakultas Ekonomi dan Bisnis": {
+                        "Jumlah mahasiswa MBKM Internal (antar prodi di lingkungan UNAND)": {
+                            "nilai": "33"
+                        },
+                        "Jumlah mahasiswa MBKM Eksternal (diluar UNAND)": {
+                            "nilai": "148"
+                        },
+                        "Jumlah Mahasiswa Inbound dalam program pertukaran mahasiswa (mahasiswa dari Perguruan Tinggi lain termasuk Mhs Asing)": {
+                            "nilai": "37"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Internasional": {
+                            "nilai": "3"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Nasional": {
+                            "nilai": "48"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Provinsi": {
+                            "nilai": "34"
+                        },
+                        "Jumlah Karya Mahasiswa": { "nilai": "20" },
+                        "Jumlah Sertifikat Internasional Mahasiswa": {
+                            "nilai": "10"
+                        }
+                    },
+                    "Fakultas Peternakan": {
+                        "Jumlah mahasiswa MBKM Internal (antar prodi di lingkungan UNAND)": {
+                            "nilai": "0"
+                        },
+                        "Jumlah mahasiswa MBKM Eksternal (diluar UNAND)": {
+                            "nilai": "289"
+                        },
+                        "Jumlah Mahasiswa Inbound dalam program pertukaran mahasiswa (mahasiswa dari Perguruan Tinggi lain termasuk Mhs Asing)": {
+                            "nilai": "1"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Internasional": {
+                            "nilai": "1"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Nasional": {
+                            "nilai": "20"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Provinsi": {
+                            "nilai": "0"
+                        },
+                        "Jumlah Karya Mahasiswa": { "nilai": "0" },
+                        "Jumlah Sertifikat Internasional Mahasiswa": {
+                            "nilai": "0"
+                        }
+                    },
+                    "Fakultas Ilmu Budaya": {
+                        "Jumlah mahasiswa MBKM Internal (antar prodi di lingkungan UNAND)": {
+                            "nilai": "0"
+                        },
+                        "Jumlah mahasiswa MBKM Eksternal (diluar UNAND)": {
+                            "nilai": "5"
+                        },
+                        "Jumlah Mahasiswa Inbound dalam program pertukaran mahasiswa (mahasiswa dari Perguruan Tinggi lain termasuk Mhs Asing)": {
+                            "nilai": "0"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Internasional": {
+                            "nilai": "0"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Nasional": {
+                            "nilai": "0"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Provinsi": {
+                            "nilai": "0"
+                        },
+                        "Jumlah Karya Mahasiswa": { "nilai": "0" },
+                        "Jumlah Sertifikat Internasional Mahasiswa": {
+                            "nilai": "0"
+                        }
+                    },
+                    "Fakultas Ilmu Sosial dan Ilmu Politik": {
+                        "Jumlah mahasiswa MBKM Internal (antar prodi di lingkungan UNAND)": {
+                            "nilai": "0"
+                        },
+                        "Jumlah mahasiswa MBKM Eksternal (diluar UNAND)": {
+                            "nilai": "23"
+                        },
+                        "Jumlah Mahasiswa Inbound dalam program pertukaran mahasiswa (mahasiswa dari Perguruan Tinggi lain termasuk Mhs Asing)": {
+                            "nilai": "4"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Internasional": {
+                            "nilai": "0"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Nasional": {
+                            "nilai": "5"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Provinsi": {
+                            "nilai": "3"
+                        },
+                        "Jumlah Karya Mahasiswa": { "nilai": "7" },
+                        "Jumlah Sertifikat Internasional Mahasiswa": {
+                            "nilai": "1"
+                        }
+                    },
+                    "Fakultas Teknik": {
+                        "Jumlah mahasiswa MBKM Internal (antar prodi di lingkungan UNAND)": {
+                            "nilai": "8"
+                        },
+                        "Jumlah mahasiswa MBKM Eksternal (diluar UNAND)": {
+                            "nilai": "193"
+                        },
+                        "Jumlah Mahasiswa Inbound dalam program pertukaran mahasiswa (mahasiswa dari Perguruan Tinggi lain termasuk Mhs Asing)": {
+                            "nilai": "0"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Internasional": {
+                            "nilai": "10"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Nasional": {
+                            "nilai": "19"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Provinsi": {
+                            "nilai": "4"
+                        },
+                        "Jumlah Karya Mahasiswa": { "nilai": "10" },
+                        "Jumlah Sertifikat Internasional Mahasiswa": {
+                            "nilai": "0"
+                        }
+                    },
+                    "Fakultas Farmasi": {
+                        "Jumlah mahasiswa MBKM Internal (antar prodi di lingkungan UNAND)": {
+                            "nilai": "2"
+                        },
+                        "Jumlah mahasiswa MBKM Eksternal (diluar UNAND)": {
+                            "nilai": "0"
+                        },
+                        "Jumlah Mahasiswa Inbound dalam program pertukaran mahasiswa (mahasiswa dari Perguruan Tinggi lain termasuk Mhs Asing)": {
+                            "nilai": "0"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Internasional": {
+                            "nilai": "1"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Nasional": {
+                            "nilai": "10"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Provinsi": {
+                            "nilai": "1"
+                        },
+                        "Jumlah Karya Mahasiswa": { "nilai": "3" },
+                        "Jumlah Sertifikat Internasional Mahasiswa": {
+                            "nilai": "0"
+                        }
+                    },
+                    "Fakultas Teknologi Informasi": {
+                        "Jumlah mahasiswa MBKM Internal (antar prodi di lingkungan UNAND)": {
+                            "nilai": "0"
+                        },
+                        "Jumlah mahasiswa MBKM Eksternal (diluar UNAND)": {
+                            "nilai": "118"
+                        },
+                        "Jumlah Mahasiswa Inbound dalam program pertukaran mahasiswa (mahasiswa dari Perguruan Tinggi lain termasuk Mhs Asing)": {
+                            "nilai": "3"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Internasional": {
+                            "nilai": "0"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Nasional": {
+                            "nilai": "8"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Provinsi": {
+                            "nilai": "1"
+                        },
+                        "Jumlah Karya Mahasiswa": { "nilai": "0" },
+                        "Jumlah Sertifikat Internasional Mahasiswa": {
+                            "nilai": "0"
+                        }
+                    },
+                    "Fakultas Keperawatan": {
+                        "Jumlah mahasiswa MBKM Internal (antar prodi di lingkungan UNAND)": {
+                            "nilai": "1"
+                        },
+                        "Jumlah mahasiswa MBKM Eksternal (diluar UNAND)": {
+                            "nilai": "4"
+                        },
+                        "Jumlah Mahasiswa Inbound dalam program pertukaran mahasiswa (mahasiswa dari Perguruan Tinggi lain termasuk Mhs Asing)": {
+                            "nilai": "26"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Internasional": {
+                            "nilai": "0"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Nasional": {
+                            "nilai": "10"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Provinsi": {
+                            "nilai": "0"
+                        },
+                        "Jumlah Karya Mahasiswa": { "nilai": "0" },
+                        "Jumlah Sertifikat Internasional Mahasiswa": {
+                            "nilai": "0"
+                        }
+                    },
+                    "Fakultas Kesehatan Masyarakat": {
+                        "Jumlah mahasiswa MBKM Internal (antar prodi di lingkungan UNAND)": {
+                            "nilai": "0"
+                        },
+                        "Jumlah mahasiswa MBKM Eksternal (diluar UNAND)": {
+                            "nilai": "252"
+                        },
+                        "Jumlah Mahasiswa Inbound dalam program pertukaran mahasiswa (mahasiswa dari Perguruan Tinggi lain termasuk Mhs Asing)": {
+                            "nilai": "0"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Internasional": {
+                            "nilai": "0"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Nasional": {
+                            "nilai": "40"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Provinsi": {
+                            "nilai": "0"
+                        },
+                        "Jumlah Karya Mahasiswa": { "nilai": "0" },
+                        "Jumlah Sertifikat Internasional Mahasiswa": {
+                            "nilai": "0"
+                        }
+                    },
+                    "Fakultas Teknologi Pertanian": {
+                        "Jumlah mahasiswa MBKM Internal (antar prodi di lingkungan UNAND)": {
+                            "nilai": "15"
+                        },
+                        "Jumlah mahasiswa MBKM Eksternal (diluar UNAND)": {
+                            "nilai": "42"
+                        },
+                        "Jumlah Mahasiswa Inbound dalam program pertukaran mahasiswa (mahasiswa dari Perguruan Tinggi lain termasuk Mhs Asing)": {
+                            "nilai": "3"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Internasional": {
+                            "nilai": "12"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Nasional": {
+                            "nilai": "9"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Provinsi": {
+                            "nilai": "3"
+                        },
+                        "Jumlah Karya Mahasiswa": { "nilai": "0" },
+                        "Jumlah Sertifikat Internasional Mahasiswa": {
+                            "nilai": "3"
+                        }
+                    },
+                    "Fakultas Kedokteran Gigi": {
+                        "Jumlah mahasiswa MBKM Internal (antar prodi di lingkungan UNAND)": {
+                            "nilai": "0"
+                        },
+                        "Jumlah mahasiswa MBKM Eksternal (diluar UNAND)": {
+                            "nilai": "76"
+                        },
+                        "Jumlah Mahasiswa Inbound dalam program pertukaran mahasiswa (mahasiswa dari Perguruan Tinggi lain termasuk Mhs Asing)": {
+                            "nilai": "0"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Internasional": {
+                            "nilai": "46"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Nasional": {
+                            "nilai": "11"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Provinsi": {
+                            "nilai": "5"
+                        },
+                        "Jumlah Karya Mahasiswa": { "nilai": "0" },
+                        "Jumlah Sertifikat Internasional Mahasiswa": {
+                            "nilai": "0"
+                        }
+                    }
+                }
+            }
+        },
+        "2024": {
+            "IKU": {
+                "IKU 2": {
+                    "Fakultas Kedokteran": {
+                        "Jumlah mahasiswa MBKM Internal (antar prodi di lingkungan UNAND)": {
+                            "nilai": "0"
+                        },
+                        "Jumlah mahasiswa MBKM Eksternal (diluar UNAND)": {
+                            "nilai": "0"
+                        },
+                        "Jumlah Mahasiswa Inbound dalam program pertukaran mahasiswa (mahasiswa dari Perguruan Tinggi lain termasuk Mhs Asing)": {
+                            "nilai": "2"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Internasional": {
+                            "nilai": "0"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Nasional": {
+                            "nilai": "4"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Provinsi": {
+                            "nilai": "0"
+                        },
+                        "Jumlah Karya Mahasiswa": { "nilai": "2" },
+                        "Jumlah Sertifikat Internasional Mahasiswa": {
+                            "nilai": "0"
+                        }
+                    },
+                    "Fakultas Pertanian": {
+                        "Jumlah mahasiswa MBKM Internal (antar prodi di lingkungan UNAND)": {
+                            "nilai": "10"
+                        },
+                        "Jumlah mahasiswa MBKM Eksternal (diluar UNAND)": {
+                            "nilai": "78"
+                        },
+                        "Jumlah Mahasiswa Inbound dalam program pertukaran mahasiswa (mahasiswa dari Perguruan Tinggi lain termasuk Mhs Asing)": {
+                            "nilai": "32"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Internasional": {
+                            "nilai": "6"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Nasional": {
+                            "nilai": "11"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Provinsi": {
+                            "nilai": "13"
+                        },
+                        "Jumlah Karya Mahasiswa": { "nilai": "9" },
+                        "Jumlah Sertifikat Internasional Mahasiswa": {
+                            "nilai": "16"
+                        }
+                    },
+                    "Fakultas Hukum": {
+                        "Jumlah mahasiswa MBKM Internal (antar prodi di lingkungan UNAND)": {
+                            "nilai": "30"
+                        },
+                        "Jumlah mahasiswa MBKM Eksternal (diluar UNAND)": {
+                            "nilai": "33"
+                        },
+                        "Jumlah Mahasiswa Inbound dalam program pertukaran mahasiswa (mahasiswa dari Perguruan Tinggi lain termasuk Mhs Asing)": {
+                            "nilai": "18"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Internasional": {
+                            "nilai": "8"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Nasional": {
+                            "nilai": "2"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Provinsi": {
+                            "nilai": "2"
+                        },
+                        "Jumlah Karya Mahasiswa": { "nilai": "2" },
+                        "Jumlah Sertifikat Internasional Mahasiswa": {
+                            "nilai": "2"
+                        }
+                    },
+                    "Fakultas Matematika & Ilmu Pengetahuan Alam": {
+                        "Jumlah mahasiswa MBKM Internal (antar prodi di lingkungan UNAND)": {
+                            "nilai": "1"
+                        },
+                        "Jumlah mahasiswa MBKM Eksternal (diluar UNAND)": {
+                            "nilai": "99"
+                        },
+                        "Jumlah Mahasiswa Inbound dalam program pertukaran mahasiswa (mahasiswa dari Perguruan Tinggi lain termasuk Mhs Asing)": {
+                            "nilai": "2"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Internasional": {
+                            "nilai": "1"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Nasional": {
+                            "nilai": "7"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Provinsi": {
+                            "nilai": "12"
+                        },
+                        "Jumlah Karya Mahasiswa": { "nilai": "12" },
+                        "Jumlah Sertifikat Internasional Mahasiswa": {
+                            "nilai": "1"
+                        }
+                    },
+                    "Fakultas Ekonomi dan Bisnis": {
+                        "Jumlah mahasiswa MBKM Internal (antar prodi di lingkungan UNAND)": {
+                            "nilai": "0"
+                        },
+                        "Jumlah mahasiswa MBKM Eksternal (diluar UNAND)": {
+                            "nilai": "112"
+                        },
+                        "Jumlah Mahasiswa Inbound dalam program pertukaran mahasiswa (mahasiswa dari Perguruan Tinggi lain termasuk Mhs Asing)": {
+                            "nilai": "33"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Internasional": {
+                            "nilai": "2"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Nasional": {
+                            "nilai": "43"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Provinsi": {
+                            "nilai": "8"
+                        },
+                        "Jumlah Karya Mahasiswa": { "nilai": "31" },
+                        "Jumlah Sertifikat Internasional Mahasiswa": {
+                            "nilai": "15"
+                        }
+                    },
+                    "Fakultas Peternakan": {
+                        "Jumlah mahasiswa MBKM Internal (antar prodi di lingkungan UNAND)": {
+                            "nilai": "6"
+                        },
+                        "Jumlah mahasiswa MBKM Eksternal (diluar UNAND)": {
+                            "nilai": "1057"
+                        },
+                        "Jumlah Mahasiswa Inbound dalam program pertukaran mahasiswa (mahasiswa dari Perguruan Tinggi lain termasuk Mhs Asing)": {
+                            "nilai": "0"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Internasional": {
+                            "nilai": "0"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Nasional": {
+                            "nilai": "30"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Provinsi": {
+                            "nilai": "0"
+                        },
+                        "Jumlah Karya Mahasiswa": { "nilai": "0" },
+                        "Jumlah Sertifikat Internasional Mahasiswa": {
+                            "nilai": "0"
+                        }
+                    },
+                    "Fakultas Ilmu Budaya": {
+                        "Jumlah mahasiswa MBKM Internal (antar prodi di lingkungan UNAND)": {
+                            "nilai": "0"
+                        },
+                        "Jumlah mahasiswa MBKM Eksternal (diluar UNAND)": {
+                            "nilai": "5"
+                        },
+                        "Jumlah Mahasiswa Inbound dalam program pertukaran mahasiswa (mahasiswa dari Perguruan Tinggi lain termasuk Mhs Asing)": {
+                            "nilai": "0"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Internasional": {
+                            "nilai": "0"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Nasional": {
+                            "nilai": "0"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Provinsi": {
+                            "nilai": "0"
+                        },
+                        "Jumlah Karya Mahasiswa": { "nilai": "0" },
+                        "Jumlah Sertifikat Internasional Mahasiswa": {
+                            "nilai": "0"
+                        }
+                    },
+                    "Fakultas Ilmu Sosial dan Ilmu Politik": {
+                        "Jumlah mahasiswa MBKM Internal (antar prodi di lingkungan UNAND)": {
+                            "nilai": "8"
+                        },
+                        "Jumlah mahasiswa MBKM Eksternal (diluar UNAND)": {
+                            "nilai": "28"
+                        },
+                        "Jumlah Mahasiswa Inbound dalam program pertukaran mahasiswa (mahasiswa dari Perguruan Tinggi lain termasuk Mhs Asing)": {
+                            "nilai": "6"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Internasional": {
+                            "nilai": "14"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Nasional": {
+                            "nilai": "17"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Provinsi": {
+                            "nilai": "6"
+                        },
+                        "Jumlah Karya Mahasiswa": { "nilai": "8" },
+                        "Jumlah Sertifikat Internasional Mahasiswa": {
+                            "nilai": "4"
+                        }
+                    },
+                    "Fakultas Teknik": {
+                        "Jumlah mahasiswa MBKM Internal (antar prodi di lingkungan UNAND)": {
+                            "nilai": "17"
+                        },
+                        "Jumlah mahasiswa MBKM Eksternal (diluar UNAND)": {
+                            "nilai": "48"
+                        },
+                        "Jumlah Mahasiswa Inbound dalam program pertukaran mahasiswa (mahasiswa dari Perguruan Tinggi lain termasuk Mhs Asing)": {
+                            "nilai": "5"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Internasional": {
+                            "nilai": "7"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Nasional": {
+                            "nilai": "49"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Provinsi": {
+                            "nilai": "2"
+                        },
+                        "Jumlah Karya Mahasiswa": { "nilai": "12" },
+                        "Jumlah Sertifikat Internasional Mahasiswa": {
+                            "nilai": "0"
+                        }
+                    },
+                    "Fakultas Farmasi": {
+                        "Jumlah mahasiswa MBKM Internal (antar prodi di lingkungan UNAND)": {
+                            "nilai": "1"
+                        },
+                        "Jumlah mahasiswa MBKM Eksternal (diluar UNAND)": {
+                            "nilai": "4"
+                        },
+                        "Jumlah Mahasiswa Inbound dalam program pertukaran mahasiswa (mahasiswa dari Perguruan Tinggi lain termasuk Mhs Asing)": {
+                            "nilai": "0"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Internasional": {
+                            "nilai": "1"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Nasional": {
+                            "nilai": "12"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Provinsi": {
+                            "nilai": "2"
+                        },
+                        "Jumlah Karya Mahasiswa": { "nilai": "5" },
+                        "Jumlah Sertifikat Internasional Mahasiswa": {
+                            "nilai": "1"
+                        }
+                    },
+                    "Fakultas Teknologi Informasi": {
+                        "Jumlah mahasiswa MBKM Internal (antar prodi di lingkungan UNAND)": {
+                            "nilai": "2"
+                        },
+                        "Jumlah mahasiswa MBKM Eksternal (diluar UNAND)": {
+                            "nilai": "72"
+                        },
+                        "Jumlah Mahasiswa Inbound dalam program pertukaran mahasiswa (mahasiswa dari Perguruan Tinggi lain termasuk Mhs Asing)": {
+                            "nilai": "8"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Internasional": {
+                            "nilai": "5"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Nasional": {
+                            "nilai": "9"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Provinsi": {
+                            "nilai": "1"
+                        },
+                        "Jumlah Karya Mahasiswa": { "nilai": "0" },
+                        "Jumlah Sertifikat Internasional Mahasiswa": {
+                            "nilai": "68"
+                        }
+                    },
+                    "Fakultas Keperawatan": {
+                        "Jumlah mahasiswa MBKM Internal (antar prodi di lingkungan UNAND)": {
+                            "nilai": "4"
+                        },
+                        "Jumlah mahasiswa MBKM Eksternal (diluar UNAND)": {
+                            "nilai": "14"
+                        },
+                        "Jumlah Mahasiswa Inbound dalam program pertukaran mahasiswa (mahasiswa dari Perguruan Tinggi lain termasuk Mhs Asing)": {
+                            "nilai": "33"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Internasional": {
+                            "nilai": "1"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Nasional": {
+                            "nilai": "1"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Provinsi": {
+                            "nilai": "1"
+                        },
+                        "Jumlah Karya Mahasiswa": { "nilai": "0" },
+                        "Jumlah Sertifikat Internasional Mahasiswa": {
+                            "nilai": "0"
+                        }
+                    },
+                    "Fakultas Kesehatan Masyarakat": {
+                        "Jumlah mahasiswa MBKM Internal (antar prodi di lingkungan UNAND)": {
+                            "nilai": "5"
+                        },
+                        "Jumlah mahasiswa MBKM Eksternal (diluar UNAND)": {
+                            "nilai": "90"
+                        },
+                        "Jumlah Mahasiswa Inbound dalam program pertukaran mahasiswa (mahasiswa dari Perguruan Tinggi lain termasuk Mhs Asing)": {
+                            "nilai": "0"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Internasional": {
+                            "nilai": "0"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Nasional": {
+                            "nilai": "25"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Provinsi": {
+                            "nilai": "15"
+                        },
+                        "Jumlah Karya Mahasiswa": { "nilai": "5" },
+                        "Jumlah Sertifikat Internasional Mahasiswa": {
+                            "nilai": "0"
+                        }
+                    },
+                    "Fakultas Teknologi Pertanian": {
+                        "Jumlah mahasiswa MBKM Internal (antar prodi di lingkungan UNAND)": {
+                            "nilai": "18"
+                        },
+                        "Jumlah mahasiswa MBKM Eksternal (diluar UNAND)": {
+                            "nilai": "45"
+                        },
+                        "Jumlah Mahasiswa Inbound dalam program pertukaran mahasiswa (mahasiswa dari Perguruan Tinggi lain termasuk Mhs Asing)": {
+                            "nilai": "3"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Internasional": {
+                            "nilai": "13"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Nasional": {
+                            "nilai": "14"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Provinsi": {
+                            "nilai": "7"
+                        },
+                        "Jumlah Karya Mahasiswa": { "nilai": "6" },
+                        "Jumlah Sertifikat Internasional Mahasiswa": {
+                            "nilai": "3"
+                        }
+                    },
+                    "Fakultas Kedokteran Gigi": {
+                        "Jumlah mahasiswa MBKM Internal (antar prodi di lingkungan UNAND)": {
+                            "nilai": "0"
+                        },
+                        "Jumlah mahasiswa MBKM Eksternal (diluar UNAND)": {
+                            "nilai": "76"
+                        },
+                        "Jumlah Mahasiswa Inbound dalam program pertukaran mahasiswa (mahasiswa dari Perguruan Tinggi lain termasuk Mhs Asing)": {
+                            "nilai": "0"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Internasional": {
+                            "nilai": "46"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Nasional": {
+                            "nilai": "15"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Provinsi": {
+                            "nilai": "5"
+                        },
+                        "Jumlah Karya Mahasiswa": { "nilai": "0" },
+                        "Jumlah Sertifikat Internasional Mahasiswa": {
+                            "nilai": "0"
+                        }
+                    }
+                }
+            }
+        },
+        "2025": {
+            "IKU": {
+                "IKU 2": {
+                    "Fakultas Kedokteran": {
+                        "Jumlah mahasiswa MBKM Internal (antar prodi di lingkungan UNAND)": {
+                            "nilai": "0"
+                        },
+                        "Jumlah mahasiswa MBKM Eksternal (diluar UNAND)": {
+                            "nilai": "0"
+                        },
+                        "Jumlah Mahasiswa Inbound dalam program pertukaran mahasiswa (mahasiswa dari Perguruan Tinggi lain termasuk Mhs Asing)": {
+                            "nilai": "3"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Internasional": {
+                            "nilai": "1"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Nasional": {
+                            "nilai": "1"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Provinsi": {
+                            "nilai": "0"
+                        },
+                        "Jumlah Karya Mahasiswa": { "nilai": "2" },
+                        "Jumlah Sertifikat Internasional Mahasiswa": {
+                            "nilai": "0"
+                        }
+                    },
+                    "Fakultas Pertanian": {
+                        "Jumlah mahasiswa MBKM Internal (antar prodi di lingkungan UNAND)": {
+                            "nilai": "15"
+                        },
+                        "Jumlah mahasiswa MBKM Eksternal (diluar UNAND)": {
+                            "nilai": "102"
+                        },
+                        "Jumlah Mahasiswa Inbound dalam program pertukaran mahasiswa (mahasiswa dari Perguruan Tinggi lain termasuk Mhs Asing)": {
+                            "nilai": "37"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Internasional": {
+                            "nilai": "10"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Nasional": {
+                            "nilai": "15"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Provinsi": {
+                            "nilai": "17"
+                        },
+                        "Jumlah Karya Mahasiswa": { "nilai": "14" },
+                        "Jumlah Sertifikat Internasional Mahasiswa": {
+                            "nilai": "21"
+                        }
+                    },
+                    "Fakultas Hukum": {
+                        "Jumlah mahasiswa MBKM Internal (antar prodi di lingkungan UNAND)": {
+                            "nilai": "32"
+                        },
+                        "Jumlah mahasiswa MBKM Eksternal (diluar UNAND)": {
+                            "nilai": "63"
+                        },
+                        "Jumlah Mahasiswa Inbound dalam program pertukaran mahasiswa (mahasiswa dari Perguruan Tinggi lain termasuk Mhs Asing)": {
+                            "nilai": "18"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Internasional": {
+                            "nilai": "12"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Nasional": {
+                            "nilai": "14"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Provinsi": {
+                            "nilai": "6"
+                        },
+                        "Jumlah Karya Mahasiswa": { "nilai": "4" },
+                        "Jumlah Sertifikat Internasional Mahasiswa": {
+                            "nilai": "4"
+                        }
+                    },
+                    "Fakultas Matematika & Ilmu Pengetahuan Alam": {
+                        "Jumlah mahasiswa MBKM Internal (antar prodi di lingkungan UNAND)": {
+                            "nilai": "6"
+                        },
+                        "Jumlah mahasiswa MBKM Eksternal (diluar UNAND)": {
+                            "nilai": "100"
+                        },
+                        "Jumlah Mahasiswa Inbound dalam program pertukaran mahasiswa (mahasiswa dari Perguruan Tinggi lain termasuk Mhs Asing)": {
+                            "nilai": "2"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Internasional": {
+                            "nilai": "1"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Nasional": {
+                            "nilai": "8"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Provinsi": {
+                            "nilai": "13"
+                        },
+                        "Jumlah Karya Mahasiswa": { "nilai": "15" },
+                        "Jumlah Sertifikat Internasional Mahasiswa": {
+                            "nilai": "2"
+                        }
+                    },
+                    "Fakultas Ekonomi dan Bisnis": {
+                        "Jumlah mahasiswa MBKM Internal (antar prodi di lingkungan UNAND)": {
+                            "nilai": "10"
+                        },
+                        "Jumlah mahasiswa MBKM Eksternal (diluar UNAND)": {
+                            "nilai": "105"
+                        },
+                        "Jumlah Mahasiswa Inbound dalam program pertukaran mahasiswa (mahasiswa dari Perguruan Tinggi lain termasuk Mhs Asing)": {
+                            "nilai": "20"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Internasional": {
+                            "nilai": "16"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Nasional": {
+                            "nilai": "58"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Provinsi": {
+                            "nilai": "32"
+                        },
+                        "Jumlah Karya Mahasiswa": { "nilai": "53" },
+                        "Jumlah Sertifikat Internasional Mahasiswa": {
+                            "nilai": "26"
+                        }
+                    },
+                    "Fakultas Peternakan": {
+                        "Jumlah mahasiswa MBKM Internal (antar prodi di lingkungan UNAND)": {
+                            "nilai": "10"
+                        },
+                        "Jumlah mahasiswa MBKM Eksternal (diluar UNAND)": {
+                            "nilai": "0"
+                        },
+                        "Jumlah Mahasiswa Inbound dalam program pertukaran mahasiswa (mahasiswa dari Perguruan Tinggi lain termasuk Mhs Asing)": {
+                            "nilai": "0"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Internasional": {
+                            "nilai": "0"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Nasional": {
+                            "nilai": "30"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Provinsi": {
+                            "nilai": "0"
+                        },
+                        "Jumlah Karya Mahasiswa": { "nilai": "0" },
+                        "Jumlah Sertifikat Internasional Mahasiswa": {
+                            "nilai": "0"
+                        }
+                    },
+                    "Fakultas Ilmu Budaya": {
+                        "Jumlah mahasiswa MBKM Internal (antar prodi di lingkungan UNAND)": {
+                            "nilai": "0"
+                        },
+                        "Jumlah mahasiswa MBKM Eksternal (diluar UNAND)": {
+                            "nilai": "0"
+                        },
+                        "Jumlah Mahasiswa Inbound dalam program pertukaran mahasiswa (mahasiswa dari Perguruan Tinggi lain termasuk Mhs Asing)": {
+                            "nilai": "0"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Internasional": {
+                            "nilai": "0"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Nasional": {
+                            "nilai": "0"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Provinsi": {
+                            "nilai": "0"
+                        },
+                        "Jumlah Karya Mahasiswa": { "nilai": "0" },
+                        "Jumlah Sertifikat Internasional Mahasiswa": {
+                            "nilai": "1"
+                        }
+                    },
+                    "Fakultas Ilmu Sosial dan Ilmu Politik": {
+                        "Jumlah mahasiswa MBKM Internal (antar prodi di lingkungan UNAND)": {
+                            "nilai": "83"
+                        },
+                        "Jumlah mahasiswa MBKM Eksternal (diluar UNAND)": {
+                            "nilai": "382"
+                        },
+                        "Jumlah Mahasiswa Inbound dalam program pertukaran mahasiswa (mahasiswa dari Perguruan Tinggi lain termasuk Mhs Asing)": {
+                            "nilai": "8"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Internasional": {
+                            "nilai": "48"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Nasional": {
+                            "nilai": "130"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Provinsi": {
+                            "nilai": "175"
+                        },
+                        "Jumlah Karya Mahasiswa": { "nilai": "70" },
+                        "Jumlah Sertifikat Internasional Mahasiswa": {
+                            "nilai": "8"
+                        }
+                    },
+                    "Fakultas Teknik": {
+                        "Jumlah mahasiswa MBKM Internal (antar prodi di lingkungan UNAND)": {
+                            "nilai": "10"
+                        },
+                        "Jumlah mahasiswa MBKM Eksternal (diluar UNAND)": {
+                            "nilai": "30"
+                        },
+                        "Jumlah Mahasiswa Inbound dalam program pertukaran mahasiswa (mahasiswa dari Perguruan Tinggi lain termasuk Mhs Asing)": {
+                            "nilai": "5"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Internasional": {
+                            "nilai": "2"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Nasional": {
+                            "nilai": "17"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Provinsi": {
+                            "nilai": "4"
+                        },
+                        "Jumlah Karya Mahasiswa": { "nilai": "16" },
+                        "Jumlah Sertifikat Internasional Mahasiswa": {
+                            "nilai": "1"
+                        }
+                    },
+                    "Fakultas Farmasi": {
+                        "Jumlah mahasiswa MBKM Internal (antar prodi di lingkungan UNAND)": {
+                            "nilai": "5"
+                        },
+                        "Jumlah mahasiswa MBKM Eksternal (diluar UNAND)": {
+                            "nilai": "20"
+                        },
+                        "Jumlah Mahasiswa Inbound dalam program pertukaran mahasiswa (mahasiswa dari Perguruan Tinggi lain termasuk Mhs Asing)": {
+                            "nilai": "0"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Internasional": {
+                            "nilai": "2"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Nasional": {
+                            "nilai": "16"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Provinsi": {
+                            "nilai": "3"
+                        },
+                        "Jumlah Karya Mahasiswa": { "nilai": "6" },
+                        "Jumlah Sertifikat Internasional Mahasiswa": {
+                            "nilai": "4"
+                        }
+                    },
+                    "Fakultas Teknologi Informasi": {
+                        "Jumlah mahasiswa MBKM Internal (antar prodi di lingkungan UNAND)": {
+                            "nilai": "3"
+                        },
+                        "Jumlah mahasiswa MBKM Eksternal (diluar UNAND)": {
+                            "nilai": "83"
+                        },
+                        "Jumlah Mahasiswa Inbound dalam program pertukaran mahasiswa (mahasiswa dari Perguruan Tinggi lain termasuk Mhs Asing)": {
+                            "nilai": "10"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Internasional": {
+                            "nilai": "5"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Nasional": {
+                            "nilai": "12"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Provinsi": {
+                            "nilai": "7"
+                        },
+                        "Jumlah Karya Mahasiswa": { "nilai": "6" },
+                        "Jumlah Sertifikat Internasional Mahasiswa": {
+                            "nilai": "77"
+                        }
+                    },
+                    "Fakultas Keperawatan": {
+                        "Jumlah mahasiswa MBKM Internal (antar prodi di lingkungan UNAND)": {
+                            "nilai": "3"
+                        },
+                        "Jumlah mahasiswa MBKM Eksternal (diluar UNAND)": {
+                            "nilai": "6"
+                        },
+                        "Jumlah Mahasiswa Inbound dalam program pertukaran mahasiswa (mahasiswa dari Perguruan Tinggi lain termasuk Mhs Asing)": {
+                            "nilai": "28"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Internasional": {
+                            "nilai": "0"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Nasional": {
+                            "nilai": "0"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Provinsi": {
+                            "nilai": "0"
+                        },
+                        "Jumlah Karya Mahasiswa": { "nilai": "0" },
+                        "Jumlah Sertifikat Internasional Mahasiswa": {
+                            "nilai": "0"
+                        }
+                    },
+                    "Fakultas Kesehatan Masyarakat": {
+                        "Jumlah mahasiswa MBKM Internal (antar prodi di lingkungan UNAND)": {
+                            "nilai": "0"
+                        },
+                        "Jumlah mahasiswa MBKM Eksternal (diluar UNAND)": {
+                            "nilai": "0"
+                        },
+                        "Jumlah Mahasiswa Inbound dalam program pertukaran mahasiswa (mahasiswa dari Perguruan Tinggi lain termasuk Mhs Asing)": {
+                            "nilai": "0"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Internasional": {
+                            "nilai": "0"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Nasional": {
+                            "nilai": "0"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Provinsi": {
+                            "nilai": "0"
+                        },
+                        "Jumlah Karya Mahasiswa": { "nilai": "0" },
+                        "Jumlah Sertifikat Internasional Mahasiswa": {
+                            "nilai": "0"
+                        }
+                    },
+                    "Fakultas Teknologi Pertanian": {
+                        "Jumlah mahasiswa MBKM Internal (antar prodi di lingkungan UNAND)": {
+                            "nilai": "21"
+                        },
+                        "Jumlah mahasiswa MBKM Eksternal (diluar UNAND)": {
+                            "nilai": "49"
+                        },
+                        "Jumlah Mahasiswa Inbound dalam program pertukaran mahasiswa (mahasiswa dari Perguruan Tinggi lain termasuk Mhs Asing)": {
+                            "nilai": "3"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Internasional": {
+                            "nilai": "14"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Nasional": {
+                            "nilai": "15"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Provinsi": {
+                            "nilai": "7"
+                        },
+                        "Jumlah Karya Mahasiswa": { "nilai": "7" },
+                        "Jumlah Sertifikat Internasional Mahasiswa": {
+                            "nilai": "4"
+                        }
+                    },
+                    "Fakultas Kedokteran Gigi": {
+                        "Jumlah mahasiswa MBKM Internal (antar prodi di lingkungan UNAND)": {
+                            "nilai": "0"
+                        },
+                        "Jumlah mahasiswa MBKM Eksternal (diluar UNAND)": {
+                            "nilai": "76"
+                        },
+                        "Jumlah Mahasiswa Inbound dalam program pertukaran mahasiswa (mahasiswa dari Perguruan Tinggi lain termasuk Mhs Asing)": {
+                            "nilai": "0"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Internasional": {
+                            "nilai": "50"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Nasional": {
+                            "nilai": "15"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Provinsi": {
+                            "nilai": "10"
+                        },
+                        "Jumlah Karya Mahasiswa": { "nilai": "0" },
+                        "Jumlah Sertifikat Internasional Mahasiswa": {
+                            "nilai": "0"
+                        }
+                    }
+                }
+            }
+        },
+        "2026": {
+            "IKU": {
+                "IKU 2": {
+                    "Fakultas Kedokteran": {
+                        "Jumlah mahasiswa MBKM Internal (antar prodi di lingkungan UNAND)": {
+                            "nilai": "0"
+                        },
+                        "Jumlah mahasiswa MBKM Eksternal (diluar UNAND)": {
+                            "nilai": "0"
+                        },
+                        "Jumlah Mahasiswa Inbound dalam program pertukaran mahasiswa (mahasiswa dari Perguruan Tinggi lain termasuk Mhs Asing)": {
+                            "nilai": "3"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Internasional": {
+                            "nilai": "1"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Nasional": {
+                            "nilai": "1"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Provinsi": {
+                            "nilai": "0"
+                        },
+                        "Jumlah Karya Mahasiswa": { "nilai": "2" },
+                        "Jumlah Sertifikat Internasional Mahasiswa": {
+                            "nilai": "0"
+                        }
+                    },
+                    "Fakultas Pertanian": {
+                        "Jumlah mahasiswa MBKM Internal (antar prodi di lingkungan UNAND)": {
+                            "nilai": "15"
+                        },
+                        "Jumlah mahasiswa MBKM Eksternal (diluar UNAND)": {
+                            "nilai": "111"
+                        },
+                        "Jumlah Mahasiswa Inbound dalam program pertukaran mahasiswa (mahasiswa dari Perguruan Tinggi lain termasuk Mhs Asing)": {
+                            "nilai": "37"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Internasional": {
+                            "nilai": "13"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Nasional": {
+                            "nilai": "18"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Provinsi": {
+                            "nilai": "20"
+                        },
+                        "Jumlah Karya Mahasiswa": { "nilai": "15" },
+                        "Jumlah Sertifikat Internasional Mahasiswa": {
+                            "nilai": "22"
+                        }
+                    },
+                    "Fakultas Hukum": {
+                        "Jumlah mahasiswa MBKM Internal (antar prodi di lingkungan UNAND)": {
+                            "nilai": "38"
+                        },
+                        "Jumlah mahasiswa MBKM Eksternal (diluar UNAND)": {
+                            "nilai": "68"
+                        },
+                        "Jumlah Mahasiswa Inbound dalam program pertukaran mahasiswa (mahasiswa dari Perguruan Tinggi lain termasuk Mhs Asing)": {
+                            "nilai": "18"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Internasional": {
+                            "nilai": "13"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Nasional": {
+                            "nilai": "15"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Provinsi": {
+                            "nilai": "6"
+                        },
+                        "Jumlah Karya Mahasiswa": { "nilai": "4" },
+                        "Jumlah Sertifikat Internasional Mahasiswa": {
+                            "nilai": "6"
+                        }
+                    },
+                    "Fakultas Matematika & Ilmu Pengetahuan Alam": {
+                        "Jumlah mahasiswa MBKM Internal (antar prodi di lingkungan UNAND)": {
+                            "nilai": "7"
+                        },
+                        "Jumlah mahasiswa MBKM Eksternal (diluar UNAND)": {
+                            "nilai": "111"
+                        },
+                        "Jumlah Mahasiswa Inbound dalam program pertukaran mahasiswa (mahasiswa dari Perguruan Tinggi lain termasuk Mhs Asing)": {
+                            "nilai": "3"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Internasional": {
+                            "nilai": "3"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Nasional": {
+                            "nilai": "8"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Provinsi": {
+                            "nilai": "14"
+                        },
+                        "Jumlah Karya Mahasiswa": { "nilai": "17" },
+                        "Jumlah Sertifikat Internasional Mahasiswa": {
+                            "nilai": "2"
+                        }
+                    },
+                    "Fakultas Ekonomi dan Bisnis": {
+                        "Jumlah mahasiswa MBKM Internal (antar prodi di lingkungan UNAND)": {
+                            "nilai": "21"
+                        },
+                        "Jumlah mahasiswa MBKM Eksternal (diluar UNAND)": {
+                            "nilai": "114"
+                        },
+                        "Jumlah Mahasiswa Inbound dalam program pertukaran mahasiswa (mahasiswa dari Perguruan Tinggi lain termasuk Mhs Asing)": {
+                            "nilai": "25"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Internasional": {
+                            "nilai": "22"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Nasional": {
+                            "nilai": "64"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Provinsi": {
+                            "nilai": "40"
+                        },
+                        "Jumlah Karya Mahasiswa": { "nilai": "62" },
+                        "Jumlah Sertifikat Internasional Mahasiswa": {
+                            "nilai": "30"
+                        }
+                    },
+                    "Fakultas Peternakan": {
+                        "Jumlah mahasiswa MBKM Internal (antar prodi di lingkungan UNAND)": {
+                            "nilai": "20"
+                        },
+                        "Jumlah mahasiswa MBKM Eksternal (diluar UNAND)": {
+                            "nilai": "0"
+                        },
+                        "Jumlah Mahasiswa Inbound dalam program pertukaran mahasiswa (mahasiswa dari Perguruan Tinggi lain termasuk Mhs Asing)": {
+                            "nilai": "0"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Internasional": {
+                            "nilai": "0"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Nasional": {
+                            "nilai": "30"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Provinsi": {
+                            "nilai": "0"
+                        },
+                        "Jumlah Karya Mahasiswa": { "nilai": "0" },
+                        "Jumlah Sertifikat Internasional Mahasiswa": {
+                            "nilai": "0"
+                        }
+                    },
+                    "Fakultas Ilmu Budaya": {
+                        "Jumlah mahasiswa MBKM Internal (antar prodi di lingkungan UNAND)": {
+                            "nilai": "0"
+                        },
+                        "Jumlah mahasiswa MBKM Eksternal (diluar UNAND)": {
+                            "nilai": "0"
+                        },
+                        "Jumlah Mahasiswa Inbound dalam program pertukaran mahasiswa (mahasiswa dari Perguruan Tinggi lain termasuk Mhs Asing)": {
+                            "nilai": "0"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Internasional": {
+                            "nilai": "0"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Nasional": {
+                            "nilai": "0"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Provinsi": {
+                            "nilai": "0"
+                        },
+                        "Jumlah Karya Mahasiswa": { "nilai": "0" },
+                        "Jumlah Sertifikat Internasional Mahasiswa": {
+                            "nilai": "1"
+                        }
+                    },
+                    "Fakultas Ilmu Sosial dan Ilmu Politik": {
+                        "Jumlah mahasiswa MBKM Internal (antar prodi di lingkungan UNAND)": {
+                            "nilai": "100"
+                        },
+                        "Jumlah mahasiswa MBKM Eksternal (diluar UNAND)": {
+                            "nilai": "404"
+                        },
+                        "Jumlah Mahasiswa Inbound dalam program pertukaran mahasiswa (mahasiswa dari Perguruan Tinggi lain termasuk Mhs Asing)": {
+                            "nilai": "12"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Internasional": {
+                            "nilai": "57"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Nasional": {
+                            "nilai": "138"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Provinsi": {
+                            "nilai": "197"
+                        },
+                        "Jumlah Karya Mahasiswa": { "nilai": "78" },
+                        "Jumlah Sertifikat Internasional Mahasiswa": {
+                            "nilai": "9"
+                        }
+                    },
+                    "Fakultas Teknik": {
+                        "Jumlah mahasiswa MBKM Internal (antar prodi di lingkungan UNAND)": {
+                            "nilai": "11"
+                        },
+                        "Jumlah mahasiswa MBKM Eksternal (diluar UNAND)": {
+                            "nilai": "31"
+                        },
+                        "Jumlah Mahasiswa Inbound dalam program pertukaran mahasiswa (mahasiswa dari Perguruan Tinggi lain termasuk Mhs Asing)": {
+                            "nilai": "5"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Internasional": {
+                            "nilai": "2"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Nasional": {
+                            "nilai": "17"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Provinsi": {
+                            "nilai": "4"
+                        },
+                        "Jumlah Karya Mahasiswa": { "nilai": "18" },
+                        "Jumlah Sertifikat Internasional Mahasiswa": {
+                            "nilai": "1"
+                        }
+                    },
+                    "Fakultas Farmasi": {
+                        "Jumlah mahasiswa MBKM Internal (antar prodi di lingkungan UNAND)": {
+                            "nilai": "5"
+                        },
+                        "Jumlah mahasiswa MBKM Eksternal (diluar UNAND)": {
+                            "nilai": "25"
+                        },
+                        "Jumlah Mahasiswa Inbound dalam program pertukaran mahasiswa (mahasiswa dari Perguruan Tinggi lain termasuk Mhs Asing)": {
+                            "nilai": "0"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Internasional": {
+                            "nilai": "2"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Nasional": {
+                            "nilai": "18"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Provinsi": {
+                            "nilai": "4"
+                        },
+                        "Jumlah Karya Mahasiswa": { "nilai": "10" },
+                        "Jumlah Sertifikat Internasional Mahasiswa": {
+                            "nilai": "5"
+                        }
+                    },
+                    "Fakultas Teknologi Informasi": {
+                        "Jumlah mahasiswa MBKM Internal (antar prodi di lingkungan UNAND)": {
+                            "nilai": "5"
+                        },
+                        "Jumlah mahasiswa MBKM Eksternal (diluar UNAND)": {
+                            "nilai": "86"
+                        },
+                        "Jumlah Mahasiswa Inbound dalam program pertukaran mahasiswa (mahasiswa dari Perguruan Tinggi lain termasuk Mhs Asing)": {
+                            "nilai": "10"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Internasional": {
+                            "nilai": "6"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Nasional": {
+                            "nilai": "15"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Provinsi": {
+                            "nilai": "8"
+                        },
+                        "Jumlah Karya Mahasiswa": { "nilai": "6" },
+                        "Jumlah Sertifikat Internasional Mahasiswa": {
+                            "nilai": "92"
+                        }
+                    },
+                    "Fakultas Keperawatan": {
+                        "Jumlah mahasiswa MBKM Internal (antar prodi di lingkungan UNAND)": {
+                            "nilai": "4"
+                        },
+                        "Jumlah mahasiswa MBKM Eksternal (diluar UNAND)": {
+                            "nilai": "7"
+                        },
+                        "Jumlah Mahasiswa Inbound dalam program pertukaran mahasiswa (mahasiswa dari Perguruan Tinggi lain termasuk Mhs Asing)": {
+                            "nilai": "29"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Internasional": {
+                            "nilai": "0"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Nasional": {
+                            "nilai": "0"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Provinsi": {
+                            "nilai": "0"
+                        },
+                        "Jumlah Karya Mahasiswa": { "nilai": "0" },
+                        "Jumlah Sertifikat Internasional Mahasiswa": {
+                            "nilai": "0"
+                        }
+                    },
+                    "Fakultas Kesehatan Masyarakat": {
+                        "Jumlah mahasiswa MBKM Internal (antar prodi di lingkungan UNAND)": {
+                            "nilai": "0"
+                        },
+                        "Jumlah mahasiswa MBKM Eksternal (diluar UNAND)": {
+                            "nilai": "0"
+                        },
+                        "Jumlah Mahasiswa Inbound dalam program pertukaran mahasiswa (mahasiswa dari Perguruan Tinggi lain termasuk Mhs Asing)": {
+                            "nilai": "0"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Internasional": {
+                            "nilai": "0"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Nasional": {
+                            "nilai": "0"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Provinsi": {
+                            "nilai": "0"
+                        },
+                        "Jumlah Karya Mahasiswa": { "nilai": "0" },
+                        "Jumlah Sertifikat Internasional Mahasiswa": {
+                            "nilai": "0"
+                        }
+                    },
+                    "Fakultas Teknologi Pertanian": {
+                        "Jumlah mahasiswa MBKM Internal (antar prodi di lingkungan UNAND)": {
+                            "nilai": "21"
+                        },
+                        "Jumlah mahasiswa MBKM Eksternal (diluar UNAND)": {
+                            "nilai": "53"
+                        },
+                        "Jumlah Mahasiswa Inbound dalam program pertukaran mahasiswa (mahasiswa dari Perguruan Tinggi lain termasuk Mhs Asing)": {
+                            "nilai": "5"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Internasional": {
+                            "nilai": "15"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Nasional": {
+                            "nilai": "16"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Provinsi": {
+                            "nilai": "7"
+                        },
+                        "Jumlah Karya Mahasiswa": { "nilai": "7" },
+                        "Jumlah Sertifikat Internasional Mahasiswa": {
+                            "nilai": "4"
+                        }
+                    },
+                    "Fakultas Kedokteran Gigi": {
+                        "Jumlah mahasiswa MBKM Internal (antar prodi di lingkungan UNAND)": {
+                            "nilai": "0"
+                        },
+                        "Jumlah mahasiswa MBKM Eksternal (diluar UNAND)": {
+                            "nilai": "80"
+                        },
+                        "Jumlah Mahasiswa Inbound dalam program pertukaran mahasiswa (mahasiswa dari Perguruan Tinggi lain termasuk Mhs Asing)": {
+                            "nilai": "0"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Internasional": {
+                            "nilai": "50"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Nasional": {
+                            "nilai": "17"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Provinsi": {
+                            "nilai": "10"
+                        },
+                        "Jumlah Karya Mahasiswa": { "nilai": "0" },
+                        "Jumlah Sertifikat Internasional Mahasiswa": {
+                            "nilai": "0"
+                        }
+                    }
+                }
+            }
+        },
+        "2027": {
+            "IKU": {
+                "IKU 2": {
+                    "Fakultas Kedokteran": {
+                        "Jumlah mahasiswa MBKM Internal (antar prodi di lingkungan UNAND)": {
+                            "nilai": "0"
+                        },
+                        "Jumlah mahasiswa MBKM Eksternal (diluar UNAND)": {
+                            "nilai": "0"
+                        },
+                        "Jumlah Mahasiswa Inbound dalam program pertukaran mahasiswa (mahasiswa dari Perguruan Tinggi lain termasuk Mhs Asing)": {
+                            "nilai": "3"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Internasional": {
+                            "nilai": "1"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Nasional": {
+                            "nilai": "2"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Provinsi": {
+                            "nilai": "0"
+                        },
+                        "Jumlah Karya Mahasiswa": { "nilai": "2" },
+                        "Jumlah Sertifikat Internasional Mahasiswa": {
+                            "nilai": "0"
+                        }
+                    },
+                    "Fakultas Pertanian": {
+                        "Jumlah mahasiswa MBKM Internal (antar prodi di lingkungan UNAND)": {
+                            "nilai": "20"
+                        },
+                        "Jumlah mahasiswa MBKM Eksternal (diluar UNAND)": {
+                            "nilai": "125"
+                        },
+                        "Jumlah Mahasiswa Inbound dalam program pertukaran mahasiswa (mahasiswa dari Perguruan Tinggi lain termasuk Mhs Asing)": {
+                            "nilai": "38"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Internasional": {
+                            "nilai": "14"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Nasional": {
+                            "nilai": "21"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Provinsi": {
+                            "nilai": "20"
+                        },
+                        "Jumlah Karya Mahasiswa": { "nilai": "15" },
+                        "Jumlah Sertifikat Internasional Mahasiswa": {
+                            "nilai": "22"
+                        }
+                    },
+                    "Fakultas Hukum": {
+                        "Jumlah mahasiswa MBKM Internal (antar prodi di lingkungan UNAND)": {
+                            "nilai": "38"
+                        },
+                        "Jumlah mahasiswa MBKM Eksternal (diluar UNAND)": {
+                            "nilai": "73"
+                        },
+                        "Jumlah Mahasiswa Inbound dalam program pertukaran mahasiswa (mahasiswa dari Perguruan Tinggi lain termasuk Mhs Asing)": {
+                            "nilai": "23"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Internasional": {
+                            "nilai": "14"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Nasional": {
+                            "nilai": "16"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Provinsi": {
+                            "nilai": "6"
+                        },
+                        "Jumlah Karya Mahasiswa": { "nilai": "4" },
+                        "Jumlah Sertifikat Internasional Mahasiswa": {
+                            "nilai": "6"
+                        }
+                    },
+                    "Fakultas Matematika & Ilmu Pengetahuan Alam": {
+                        "Jumlah mahasiswa MBKM Internal (antar prodi di lingkungan UNAND)": {
+                            "nilai": "7"
+                        },
+                        "Jumlah mahasiswa MBKM Eksternal (diluar UNAND)": {
+                            "nilai": "112"
+                        },
+                        "Jumlah Mahasiswa Inbound dalam program pertukaran mahasiswa (mahasiswa dari Perguruan Tinggi lain termasuk Mhs Asing)": {
+                            "nilai": "6"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Internasional": {
+                            "nilai": "4"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Nasional": {
+                            "nilai": "9"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Provinsi": {
+                            "nilai": "15"
+                        },
+                        "Jumlah Karya Mahasiswa": { "nilai": "19" },
+                        "Jumlah Sertifikat Internasional Mahasiswa": {
+                            "nilai": "2"
+                        }
+                    },
+                    "Fakultas Ekonomi dan Bisnis": {
+                        "Jumlah mahasiswa MBKM Internal (antar prodi di lingkungan UNAND)": {
+                            "nilai": "32"
+                        },
+                        "Jumlah mahasiswa MBKM Eksternal (diluar UNAND)": {
+                            "nilai": "127"
+                        },
+                        "Jumlah Mahasiswa Inbound dalam program pertukaran mahasiswa (mahasiswa dari Perguruan Tinggi lain termasuk Mhs Asing)": {
+                            "nilai": "31"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Internasional": {
+                            "nilai": "27"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Nasional": {
+                            "nilai": "70"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Provinsi": {
+                            "nilai": "46"
+                        },
+                        "Jumlah Karya Mahasiswa": { "nilai": "73" },
+                        "Jumlah Sertifikat Internasional Mahasiswa": {
+                            "nilai": "39"
+                        }
+                    },
+                    "Fakultas Peternakan": {
+                        "Jumlah mahasiswa MBKM Internal (antar prodi di lingkungan UNAND)": {
+                            "nilai": "30"
+                        },
+                        "Jumlah mahasiswa MBKM Eksternal (diluar UNAND)": {
+                            "nilai": "0"
+                        },
+                        "Jumlah Mahasiswa Inbound dalam program pertukaran mahasiswa (mahasiswa dari Perguruan Tinggi lain termasuk Mhs Asing)": {
+                            "nilai": "0"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Internasional": {
+                            "nilai": "0"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Nasional": {
+                            "nilai": "30"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Provinsi": {
+                            "nilai": "0"
+                        },
+                        "Jumlah Karya Mahasiswa": { "nilai": "0" },
+                        "Jumlah Sertifikat Internasional Mahasiswa": {
+                            "nilai": "0"
+                        }
+                    },
+                    "Fakultas Ilmu Budaya": {
+                        "Jumlah mahasiswa MBKM Internal (antar prodi di lingkungan UNAND)": {
+                            "nilai": "0"
+                        },
+                        "Jumlah mahasiswa MBKM Eksternal (diluar UNAND)": {
+                            "nilai": "0"
+                        },
+                        "Jumlah Mahasiswa Inbound dalam program pertukaran mahasiswa (mahasiswa dari Perguruan Tinggi lain termasuk Mhs Asing)": {
+                            "nilai": "0"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Internasional": {
+                            "nilai": "0"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Nasional": {
+                            "nilai": "0"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Provinsi": {
+                            "nilai": "0"
+                        },
+                        "Jumlah Karya Mahasiswa": { "nilai": "0" },
+                        "Jumlah Sertifikat Internasional Mahasiswa": {
+                            "nilai": "1"
+                        }
+                    },
+                    "Fakultas Ilmu Sosial dan Ilmu Politik": {
+                        "Jumlah mahasiswa MBKM Internal (antar prodi di lingkungan UNAND)": {
+                            "nilai": "122"
+                        },
+                        "Jumlah mahasiswa MBKM Eksternal (diluar UNAND)": {
+                            "nilai": "426"
+                        },
+                        "Jumlah Mahasiswa Inbound dalam program pertukaran mahasiswa (mahasiswa dari Perguruan Tinggi lain termasuk Mhs Asing)": {
+                            "nilai": "14"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Internasional": {
+                            "nilai": "67"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Nasional": {
+                            "nilai": "148"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Provinsi": {
+                            "nilai": "214"
+                        },
+                        "Jumlah Karya Mahasiswa": { "nilai": "92" },
+                        "Jumlah Sertifikat Internasional Mahasiswa": {
+                            "nilai": "11"
+                        }
+                    },
+                    "Fakultas Teknik": {
+                        "Jumlah mahasiswa MBKM Internal (antar prodi di lingkungan UNAND)": {
+                            "nilai": "12"
+                        },
+                        "Jumlah mahasiswa MBKM Eksternal (diluar UNAND)": {
+                            "nilai": "32"
+                        },
+                        "Jumlah Mahasiswa Inbound dalam program pertukaran mahasiswa (mahasiswa dari Perguruan Tinggi lain termasuk Mhs Asing)": {
+                            "nilai": "6"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Internasional": {
+                            "nilai": "3"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Nasional": {
+                            "nilai": "19"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Provinsi": {
+                            "nilai": "6"
+                        },
+                        "Jumlah Karya Mahasiswa": { "nilai": "20" },
+                        "Jumlah Sertifikat Internasional Mahasiswa": {
+                            "nilai": "3"
+                        }
+                    },
+                    "Fakultas Farmasi": {
+                        "Jumlah mahasiswa MBKM Internal (antar prodi di lingkungan UNAND)": {
+                            "nilai": "10"
+                        },
+                        "Jumlah mahasiswa MBKM Eksternal (diluar UNAND)": {
+                            "nilai": "50"
+                        },
+                        "Jumlah Mahasiswa Inbound dalam program pertukaran mahasiswa (mahasiswa dari Perguruan Tinggi lain termasuk Mhs Asing)": {
+                            "nilai": "0"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Internasional": {
+                            "nilai": "2"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Nasional": {
+                            "nilai": "20"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Provinsi": {
+                            "nilai": "6"
+                        },
+                        "Jumlah Karya Mahasiswa": { "nilai": "12" },
+                        "Jumlah Sertifikat Internasional Mahasiswa": {
+                            "nilai": "6"
+                        }
+                    },
+                    "Fakultas Teknologi Informasi": {
+                        "Jumlah mahasiswa MBKM Internal (antar prodi di lingkungan UNAND)": {
+                            "nilai": "6"
+                        },
+                        "Jumlah mahasiswa MBKM Eksternal (diluar UNAND)": {
+                            "nilai": "93"
+                        },
+                        "Jumlah Mahasiswa Inbound dalam program pertukaran mahasiswa (mahasiswa dari Perguruan Tinggi lain termasuk Mhs Asing)": {
+                            "nilai": "11"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Internasional": {
+                            "nilai": "8"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Nasional": {
+                            "nilai": "17"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Provinsi": {
+                            "nilai": "9"
+                        },
+                        "Jumlah Karya Mahasiswa": { "nilai": "8" },
+                        "Jumlah Sertifikat Internasional Mahasiswa": {
+                            "nilai": "92"
+                        }
+                    },
+                    "Fakultas Keperawatan": {
+                        "Jumlah mahasiswa MBKM Internal (antar prodi di lingkungan UNAND)": {
+                            "nilai": "5"
+                        },
+                        "Jumlah mahasiswa MBKM Eksternal (diluar UNAND)": {
+                            "nilai": "8"
+                        },
+                        "Jumlah Mahasiswa Inbound dalam program pertukaran mahasiswa (mahasiswa dari Perguruan Tinggi lain termasuk Mhs Asing)": {
+                            "nilai": "30"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Internasional": {
+                            "nilai": "0"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Nasional": {
+                            "nilai": "0"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Provinsi": {
+                            "nilai": "0"
+                        },
+                        "Jumlah Karya Mahasiswa": { "nilai": "0" },
+                        "Jumlah Sertifikat Internasional Mahasiswa": {
+                            "nilai": "0"
+                        }
+                    },
+                    "Fakultas Kesehatan Masyarakat": {
+                        "Jumlah mahasiswa MBKM Internal (antar prodi di lingkungan UNAND)": {
+                            "nilai": "0"
+                        },
+                        "Jumlah mahasiswa MBKM Eksternal (diluar UNAND)": {
+                            "nilai": "0"
+                        },
+                        "Jumlah Mahasiswa Inbound dalam program pertukaran mahasiswa (mahasiswa dari Perguruan Tinggi lain termasuk Mhs Asing)": {
+                            "nilai": "0"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Internasional": {
+                            "nilai": "0"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Nasional": {
+                            "nilai": "0"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Provinsi": {
+                            "nilai": "0"
+                        },
+                        "Jumlah Karya Mahasiswa": { "nilai": "0" },
+                        "Jumlah Sertifikat Internasional Mahasiswa": {
+                            "nilai": "0"
+                        }
+                    },
+                    "Fakultas Teknologi Pertanian": {
+                        "Jumlah mahasiswa MBKM Internal (antar prodi di lingkungan UNAND)": {
+                            "nilai": "24"
+                        },
+                        "Jumlah mahasiswa MBKM Eksternal (diluar UNAND)": {
+                            "nilai": "56"
+                        },
+                        "Jumlah Mahasiswa Inbound dalam program pertukaran mahasiswa (mahasiswa dari Perguruan Tinggi lain termasuk Mhs Asing)": {
+                            "nilai": "6"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Internasional": {
+                            "nilai": "17"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Nasional": {
+                            "nilai": "19"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Provinsi": {
+                            "nilai": "9"
+                        },
+                        "Jumlah Karya Mahasiswa": { "nilai": "11" },
+                        "Jumlah Sertifikat Internasional Mahasiswa": {
+                            "nilai": "4"
+                        }
+                    },
+                    "Fakultas Kedokteran Gigi": {
+                        "Jumlah mahasiswa MBKM Internal (antar prodi di lingkungan UNAND)": {
+                            "nilai": "0"
+                        },
+                        "Jumlah mahasiswa MBKM Eksternal (diluar UNAND)": {
+                            "nilai": "80"
+                        },
+                        "Jumlah Mahasiswa Inbound dalam program pertukaran mahasiswa (mahasiswa dari Perguruan Tinggi lain termasuk Mhs Asing)": {
+                            "nilai": "0"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Internasional": {
+                            "nilai": "50"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Nasional": {
+                            "nilai": "20"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Provinsi": {
+                            "nilai": "15"
+                        },
+                        "Jumlah Karya Mahasiswa": { "nilai": "0" },
+                        "Jumlah Sertifikat Internasional Mahasiswa": {
+                            "nilai": "0"
+                        }
+                    }
+                }
+            }
+        },
+        "2028": {
+            "IKU": {
+                "IKU 2": {
+                    "Fakultas Kedokteran": {
+                        "Jumlah mahasiswa MBKM Internal (antar prodi di lingkungan UNAND)": {
+                            "nilai": "0"
+                        },
+                        "Jumlah mahasiswa MBKM Eksternal (diluar UNAND)": {
+                            "nilai": "0"
+                        },
+                        "Jumlah Mahasiswa Inbound dalam program pertukaran mahasiswa (mahasiswa dari Perguruan Tinggi lain termasuk Mhs Asing)": {
+                            "nilai": "3"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Internasional": {
+                            "nilai": "1"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Nasional": {
+                            "nilai": "2"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Provinsi": {
+                            "nilai": "0"
+                        },
+                        "Jumlah Karya Mahasiswa": { "nilai": "2" },
+                        "Jumlah Sertifikat Internasional Mahasiswa": {
+                            "nilai": "0"
+                        }
+                    },
+                    "Fakultas Pertanian": {
+                        "Jumlah mahasiswa MBKM Internal (antar prodi di lingkungan UNAND)": {
+                            "nilai": "22"
+                        },
+                        "Jumlah mahasiswa MBKM Eksternal (diluar UNAND)": {
+                            "nilai": "134"
+                        },
+                        "Jumlah Mahasiswa Inbound dalam program pertukaran mahasiswa (mahasiswa dari Perguruan Tinggi lain termasuk Mhs Asing)": {
+                            "nilai": "38"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Internasional": {
+                            "nilai": "17"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Nasional": {
+                            "nilai": "21"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Provinsi": {
+                            "nilai": "23"
+                        },
+                        "Jumlah Karya Mahasiswa": { "nilai": "15" },
+                        "Jumlah Sertifikat Internasional Mahasiswa": {
+                            "nilai": "22"
+                        }
+                    },
+                    "Fakultas Hukum": {
+                        "Jumlah mahasiswa MBKM Internal (antar prodi di lingkungan UNAND)": {
+                            "nilai": "45"
+                        },
+                        "Jumlah mahasiswa MBKM Eksternal (diluar UNAND)": {
+                            "nilai": "78"
+                        },
+                        "Jumlah Mahasiswa Inbound dalam program pertukaran mahasiswa (mahasiswa dari Perguruan Tinggi lain termasuk Mhs Asing)": {
+                            "nilai": "23"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Internasional": {
+                            "nilai": "15"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Nasional": {
+                            "nilai": "18"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Provinsi": {
+                            "nilai": "7"
+                        },
+                        "Jumlah Karya Mahasiswa": { "nilai": "4" },
+                        "Jumlah Sertifikat Internasional Mahasiswa": {
+                            "nilai": "6"
+                        }
+                    },
+                    "Fakultas Matematika & Ilmu Pengetahuan Alam": {
+                        "Jumlah mahasiswa MBKM Internal (antar prodi di lingkungan UNAND)": {
+                            "nilai": "8"
+                        },
+                        "Jumlah mahasiswa MBKM Eksternal (diluar UNAND)": {
+                            "nilai": "113"
+                        },
+                        "Jumlah Mahasiswa Inbound dalam program pertukaran mahasiswa (mahasiswa dari Perguruan Tinggi lain termasuk Mhs Asing)": {
+                            "nilai": "8"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Internasional": {
+                            "nilai": "5"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Nasional": {
+                            "nilai": "9"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Provinsi": {
+                            "nilai": "16"
+                        },
+                        "Jumlah Karya Mahasiswa": { "nilai": "21" },
+                        "Jumlah Sertifikat Internasional Mahasiswa": {
+                            "nilai": "2"
+                        }
+                    },
+                    "Fakultas Ekonomi dan Bisnis": {
+                        "Jumlah mahasiswa MBKM Internal (antar prodi di lingkungan UNAND)": {
+                            "nilai": "43"
+                        },
+                        "Jumlah mahasiswa MBKM Eksternal (diluar UNAND)": {
+                            "nilai": "136"
+                        },
+                        "Jumlah Mahasiswa Inbound dalam program pertukaran mahasiswa (mahasiswa dari Perguruan Tinggi lain termasuk Mhs Asing)": {
+                            "nilai": "33"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Internasional": {
+                            "nilai": "30"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Nasional": {
+                            "nilai": "74"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Provinsi": {
+                            "nilai": "52"
+                        },
+                        "Jumlah Karya Mahasiswa": { "nilai": "80" },
+                        "Jumlah Sertifikat Internasional Mahasiswa": {
+                            "nilai": "45"
+                        }
+                    },
+                    "Fakultas Peternakan": {
+                        "Jumlah mahasiswa MBKM Internal (antar prodi di lingkungan UNAND)": {
+                            "nilai": "30"
+                        },
+                        "Jumlah mahasiswa MBKM Eksternal (diluar UNAND)": {
+                            "nilai": "0"
+                        },
+                        "Jumlah Mahasiswa Inbound dalam program pertukaran mahasiswa (mahasiswa dari Perguruan Tinggi lain termasuk Mhs Asing)": {
+                            "nilai": "0"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Internasional": {
+                            "nilai": "0"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Nasional": {
+                            "nilai": "35"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Provinsi": {
+                            "nilai": "0"
+                        },
+                        "Jumlah Karya Mahasiswa": { "nilai": "0" },
+                        "Jumlah Sertifikat Internasional Mahasiswa": {
+                            "nilai": "0"
+                        }
+                    },
+                    "Fakultas Ilmu Budaya": {
+                        "Jumlah mahasiswa MBKM Internal (antar prodi di lingkungan UNAND)": {
+                            "nilai": "0"
+                        },
+                        "Jumlah mahasiswa MBKM Eksternal (diluar UNAND)": {
+                            "nilai": "0"
+                        },
+                        "Jumlah Mahasiswa Inbound dalam program pertukaran mahasiswa (mahasiswa dari Perguruan Tinggi lain termasuk Mhs Asing)": {
+                            "nilai": "0"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Internasional": {
+                            "nilai": "0"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Nasional": {
+                            "nilai": "0"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Provinsi": {
+                            "nilai": "0"
+                        },
+                        "Jumlah Karya Mahasiswa": { "nilai": "0" },
+                        "Jumlah Sertifikat Internasional Mahasiswa": {
+                            "nilai": "1"
+                        }
+                    },
+                    "Fakultas Ilmu Sosial dan Ilmu Politik": {
+                        "Jumlah mahasiswa MBKM Internal (antar prodi di lingkungan UNAND)": {
+                            "nilai": "144"
+                        },
+                        "Jumlah mahasiswa MBKM Eksternal (diluar UNAND)": {
+                            "nilai": "448"
+                        },
+                        "Jumlah Mahasiswa Inbound dalam program pertukaran mahasiswa (mahasiswa dari Perguruan Tinggi lain termasuk Mhs Asing)": {
+                            "nilai": "17"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Internasional": {
+                            "nilai": "76"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Nasional": {
+                            "nilai": "158"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Provinsi": {
+                            "nilai": "235"
+                        },
+                        "Jumlah Karya Mahasiswa": { "nilai": "107" },
+                        "Jumlah Sertifikat Internasional Mahasiswa": {
+                            "nilai": "14"
+                        }
+                    },
+                    "Fakultas Teknik": {
+                        "Jumlah mahasiswa MBKM Internal (antar prodi di lingkungan UNAND)": {
+                            "nilai": "13"
+                        },
+                        "Jumlah mahasiswa MBKM Eksternal (diluar UNAND)": {
+                            "nilai": "33"
+                        },
+                        "Jumlah Mahasiswa Inbound dalam program pertukaran mahasiswa (mahasiswa dari Perguruan Tinggi lain termasuk Mhs Asing)": {
+                            "nilai": "6"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Internasional": {
+                            "nilai": "3"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Nasional": {
+                            "nilai": "19"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Provinsi": {
+                            "nilai": "6"
+                        },
+                        "Jumlah Karya Mahasiswa": { "nilai": "22" },
+                        "Jumlah Sertifikat Internasional Mahasiswa": {
+                            "nilai": "3"
+                        }
+                    },
+                    "Fakultas Farmasi": {
+                        "Jumlah mahasiswa MBKM Internal (antar prodi di lingkungan UNAND)": {
+                            "nilai": "10"
+                        },
+                        "Jumlah mahasiswa MBKM Eksternal (diluar UNAND)": {
+                            "nilai": "50"
+                        },
+                        "Jumlah Mahasiswa Inbound dalam program pertukaran mahasiswa (mahasiswa dari Perguruan Tinggi lain termasuk Mhs Asing)": {
+                            "nilai": "0"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Internasional": {
+                            "nilai": "2"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Nasional": {
+                            "nilai": "20"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Provinsi": {
+                            "nilai": "7"
+                        },
+                        "Jumlah Karya Mahasiswa": { "nilai": "14" },
+                        "Jumlah Sertifikat Internasional Mahasiswa": {
+                            "nilai": "8"
+                        }
+                    },
+                    "Fakultas Teknologi Informasi": {
+                        "Jumlah mahasiswa MBKM Internal (antar prodi di lingkungan UNAND)": {
+                            "nilai": "7"
+                        },
+                        "Jumlah mahasiswa MBKM Eksternal (diluar UNAND)": {
+                            "nilai": "95"
+                        },
+                        "Jumlah Mahasiswa Inbound dalam program pertukaran mahasiswa (mahasiswa dari Perguruan Tinggi lain termasuk Mhs Asing)": {
+                            "nilai": "11"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Internasional": {
+                            "nilai": "8"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Nasional": {
+                            "nilai": "20"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Provinsi": {
+                            "nilai": "10"
+                        },
+                        "Jumlah Karya Mahasiswa": { "nilai": "8" },
+                        "Jumlah Sertifikat Internasional Mahasiswa": {
+                            "nilai": "97"
+                        }
+                    },
+                    "Fakultas Keperawatan": {
+                        "Jumlah mahasiswa MBKM Internal (antar prodi di lingkungan UNAND)": {
+                            "nilai": "6"
+                        },
+                        "Jumlah mahasiswa MBKM Eksternal (diluar UNAND)": {
+                            "nilai": "9"
+                        },
+                        "Jumlah Mahasiswa Inbound dalam program pertukaran mahasiswa (mahasiswa dari Perguruan Tinggi lain termasuk Mhs Asing)": {
+                            "nilai": "31"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Internasional": {
+                            "nilai": "0"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Nasional": {
+                            "nilai": "0"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Provinsi": {
+                            "nilai": "0"
+                        },
+                        "Jumlah Karya Mahasiswa": { "nilai": "0" },
+                        "Jumlah Sertifikat Internasional Mahasiswa": {
+                            "nilai": "0"
+                        }
+                    },
+                    "Fakultas Kesehatan Masyarakat": {
+                        "Jumlah mahasiswa MBKM Internal (antar prodi di lingkungan UNAND)": {
+                            "nilai": "0"
+                        },
+                        "Jumlah mahasiswa MBKM Eksternal (diluar UNAND)": {
+                            "nilai": "0"
+                        },
+                        "Jumlah Mahasiswa Inbound dalam program pertukaran mahasiswa (mahasiswa dari Perguruan Tinggi lain termasuk Mhs Asing)": {
+                            "nilai": "0"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Internasional": {
+                            "nilai": "0"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Nasional": {
+                            "nilai": "0"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Provinsi": {
+                            "nilai": "0"
+                        },
+                        "Jumlah Karya Mahasiswa": { "nilai": "0" },
+                        "Jumlah Sertifikat Internasional Mahasiswa": {
+                            "nilai": "0"
+                        }
+                    },
+                    "Fakultas Teknologi Pertanian": {
+                        "Jumlah mahasiswa MBKM Internal (antar prodi di lingkungan UNAND)": {
+                            "nilai": "24"
+                        },
+                        "Jumlah mahasiswa MBKM Eksternal (diluar UNAND)": {
+                            "nilai": "62"
+                        },
+                        "Jumlah Mahasiswa Inbound dalam program pertukaran mahasiswa (mahasiswa dari Perguruan Tinggi lain termasuk Mhs Asing)": {
+                            "nilai": "9"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Internasional": {
+                            "nilai": "19"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Nasional": {
+                            "nilai": "20"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Provinsi": {
+                            "nilai": "9"
+                        },
+                        "Jumlah Karya Mahasiswa": { "nilai": "11" },
+                        "Jumlah Sertifikat Internasional Mahasiswa": {
+                            "nilai": "5"
+                        }
+                    },
+                    "Fakultas Kedokteran Gigi": {
+                        "Jumlah mahasiswa MBKM Internal (antar prodi di lingkungan UNAND)": {
+                            "nilai": "0"
+                        },
+                        "Jumlah mahasiswa MBKM Eksternal (diluar UNAND)": {
+                            "nilai": "85"
+                        },
+                        "Jumlah Mahasiswa Inbound dalam program pertukaran mahasiswa (mahasiswa dari Perguruan Tinggi lain termasuk Mhs Asing)": {
+                            "nilai": "0"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Internasional": {
+                            "nilai": "55"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Nasional": {
+                            "nilai": "20"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Provinsi": {
+                            "nilai": "20"
+                        },
+                        "Jumlah Karya Mahasiswa": { "nilai": "0" },
+                        "Jumlah Sertifikat Internasional Mahasiswa": {
+                            "nilai": "0"
+                        }
+                    }
+                }
+            }
+        },
+        "2029": {
+            "IKU": {
+                "IKU 2": {
+                    "Fakultas Kedokteran": {
+                        "Jumlah mahasiswa MBKM Internal (antar prodi di lingkungan UNAND)": {
+                            "nilai": "0"
+                        },
+                        "Jumlah mahasiswa MBKM Eksternal (diluar UNAND)": {
+                            "nilai": "0"
+                        },
+                        "Jumlah Mahasiswa Inbound dalam program pertukaran mahasiswa (mahasiswa dari Perguruan Tinggi lain termasuk Mhs Asing)": {
+                            "nilai": "3"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Internasional": {
+                            "nilai": "1"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Nasional": {
+                            "nilai": "2"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Provinsi": {
+                            "nilai": "0"
+                        },
+                        "Jumlah Karya Mahasiswa": { "nilai": "2" },
+                        "Jumlah Sertifikat Internasional Mahasiswa": {
+                            "nilai": "0"
+                        }
+                    },
+                    "Fakultas Pertanian": {
+                        "Jumlah mahasiswa MBKM Internal (antar prodi di lingkungan UNAND)": {
+                            "nilai": "22"
+                        },
+                        "Jumlah mahasiswa MBKM Eksternal (diluar UNAND)": {
+                            "nilai": "143"
+                        },
+                        "Jumlah Mahasiswa Inbound dalam program pertukaran mahasiswa (mahasiswa dari Perguruan Tinggi lain termasuk Mhs Asing)": {
+                            "nilai": "39"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Internasional": {
+                            "nilai": "17"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Nasional": {
+                            "nilai": "26"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Provinsi": {
+                            "nilai": "23"
+                        },
+                        "Jumlah Karya Mahasiswa": { "nilai": "16" },
+                        "Jumlah Sertifikat Internasional Mahasiswa": {
+                            "nilai": "25"
+                        }
+                    },
+                    "Fakultas Hukum": {
+                        "Jumlah mahasiswa MBKM Internal (antar prodi di lingkungan UNAND)": {
+                            "nilai": "45"
+                        },
+                        "Jumlah mahasiswa MBKM Eksternal (diluar UNAND)": {
+                            "nilai": "70"
+                        },
+                        "Jumlah Mahasiswa Inbound dalam program pertukaran mahasiswa (mahasiswa dari Perguruan Tinggi lain termasuk Mhs Asing)": {
+                            "nilai": "23"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Internasional": {
+                            "nilai": "16"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Nasional": {
+                            "nilai": "20"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Provinsi": {
+                            "nilai": "8"
+                        },
+                        "Jumlah Karya Mahasiswa": { "nilai": "4" },
+                        "Jumlah Sertifikat Internasional Mahasiswa": {
+                            "nilai": "6"
+                        }
+                    },
+                    "Fakultas Matematika & Ilmu Pengetahuan Alam": {
+                        "Jumlah mahasiswa MBKM Internal (antar prodi di lingkungan UNAND)": {
+                            "nilai": "8"
+                        },
+                        "Jumlah mahasiswa MBKM Eksternal (diluar UNAND)": {
+                            "nilai": "114"
+                        },
+                        "Jumlah Mahasiswa Inbound dalam program pertukaran mahasiswa (mahasiswa dari Perguruan Tinggi lain termasuk Mhs Asing)": {
+                            "nilai": "10"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Internasional": {
+                            "nilai": "6"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Nasional": {
+                            "nilai": "10"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Provinsi": {
+                            "nilai": "17"
+                        },
+                        "Jumlah Karya Mahasiswa": { "nilai": "21" },
+                        "Jumlah Sertifikat Internasional Mahasiswa": {
+                            "nilai": "3"
+                        }
+                    },
+                    "Fakultas Ekonomi dan Bisnis": {
+                        "Jumlah mahasiswa MBKM Internal (antar prodi di lingkungan UNAND)": {
+                            "nilai": "55"
+                        },
+                        "Jumlah mahasiswa MBKM Eksternal (diluar UNAND)": {
+                            "nilai": "146"
+                        },
+                        "Jumlah Mahasiswa Inbound dalam program pertukaran mahasiswa (mahasiswa dari Perguruan Tinggi lain termasuk Mhs Asing)": {
+                            "nilai": "38"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Internasional": {
+                            "nilai": "38"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Nasional": {
+                            "nilai": "79"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Provinsi": {
+                            "nilai": "55"
+                        },
+                        "Jumlah Karya Mahasiswa": { "nilai": "89" },
+                        "Jumlah Sertifikat Internasional Mahasiswa": {
+                            "nilai": "47"
+                        }
+                    },
+                    "Fakultas Peternakan": {
+                        "Jumlah mahasiswa MBKM Internal (antar prodi di lingkungan UNAND)": {
+                            "nilai": "35"
+                        },
+                        "Jumlah mahasiswa MBKM Eksternal (diluar UNAND)": {
+                            "nilai": "0"
+                        },
+                        "Jumlah Mahasiswa Inbound dalam program pertukaran mahasiswa (mahasiswa dari Perguruan Tinggi lain termasuk Mhs Asing)": {
+                            "nilai": "0"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Internasional": {
+                            "nilai": "0"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Nasional": {
+                            "nilai": "40"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Provinsi": {
+                            "nilai": "0"
+                        },
+                        "Jumlah Karya Mahasiswa": { "nilai": "0" },
+                        "Jumlah Sertifikat Internasional Mahasiswa": {
+                            "nilai": "0"
+                        }
+                    },
+                    "Fakultas Ilmu Budaya": {
+                        "Jumlah mahasiswa MBKM Internal (antar prodi di lingkungan UNAND)": {
+                            "nilai": "0"
+                        },
+                        "Jumlah mahasiswa MBKM Eksternal (diluar UNAND)": {
+                            "nilai": "0"
+                        },
+                        "Jumlah Mahasiswa Inbound dalam program pertukaran mahasiswa (mahasiswa dari Perguruan Tinggi lain termasuk Mhs Asing)": {
+                            "nilai": "0"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Internasional": {
+                            "nilai": "0"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Nasional": {
+                            "nilai": "0"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Provinsi": {
+                            "nilai": "0"
+                        },
+                        "Jumlah Karya Mahasiswa": { "nilai": "0" },
+                        "Jumlah Sertifikat Internasional Mahasiswa": {
+                            "nilai": "1"
+                        }
+                    },
+                    "Fakultas Ilmu Sosial dan Ilmu Politik": {
+                        "Jumlah mahasiswa MBKM Internal (antar prodi di lingkungan UNAND)": {
+                            "nilai": "166"
+                        },
+                        "Jumlah mahasiswa MBKM Eksternal (diluar UNAND)": {
+                            "nilai": "469"
+                        },
+                        "Jumlah Mahasiswa Inbound dalam program pertukaran mahasiswa (mahasiswa dari Perguruan Tinggi lain termasuk Mhs Asing)": {
+                            "nilai": "18"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Internasional": {
+                            "nilai": "87"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Nasional": {
+                            "nilai": "168"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Provinsi": {
+                            "nilai": "252"
+                        },
+                        "Jumlah Karya Mahasiswa": { "nilai": "121" },
+                        "Jumlah Sertifikat Internasional Mahasiswa": {
+                            "nilai": "19"
+                        }
+                    },
+                    "Fakultas Teknik": {
+                        "Jumlah mahasiswa MBKM Internal (antar prodi di lingkungan UNAND)": {
+                            "nilai": "14"
+                        },
+                        "Jumlah mahasiswa MBKM Eksternal (diluar UNAND)": {
+                            "nilai": "34"
+                        },
+                        "Jumlah Mahasiswa Inbound dalam program pertukaran mahasiswa (mahasiswa dari Perguruan Tinggi lain termasuk Mhs Asing)": {
+                            "nilai": "7"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Internasional": {
+                            "nilai": "4"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Nasional": {
+                            "nilai": "21"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Provinsi": {
+                            "nilai": "8"
+                        },
+                        "Jumlah Karya Mahasiswa": { "nilai": "24" },
+                        "Jumlah Sertifikat Internasional Mahasiswa": {
+                            "nilai": "4"
+                        }
+                    },
+                    "Fakultas Farmasi": {
+                        "Jumlah mahasiswa MBKM Internal (antar prodi di lingkungan UNAND)": {
+                            "nilai": "10"
+                        },
+                        "Jumlah mahasiswa MBKM Eksternal (diluar UNAND)": {
+                            "nilai": "50"
+                        },
+                        "Jumlah Mahasiswa Inbound dalam program pertukaran mahasiswa (mahasiswa dari Perguruan Tinggi lain termasuk Mhs Asing)": {
+                            "nilai": "0"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Internasional": {
+                            "nilai": "3"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Nasional": {
+                            "nilai": "0"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Provinsi": {
+                            "nilai": "8"
+                        },
+                        "Jumlah Karya Mahasiswa": { "nilai": "18" },
+                        "Jumlah Sertifikat Internasional Mahasiswa": {
+                            "nilai": "10"
+                        }
+                    },
+                    "Fakultas Teknologi Informasi": {
+                        "Jumlah mahasiswa MBKM Internal (antar prodi di lingkungan UNAND)": {
+                            "nilai": "7"
+                        },
+                        "Jumlah mahasiswa MBKM Eksternal (diluar UNAND)": {
+                            "nilai": "100"
+                        },
+                        "Jumlah Mahasiswa Inbound dalam program pertukaran mahasiswa (mahasiswa dari Perguruan Tinggi lain termasuk Mhs Asing)": {
+                            "nilai": "11"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Internasional": {
+                            "nilai": "8"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Nasional": {
+                            "nilai": "22"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Provinsi": {
+                            "nilai": "11"
+                        },
+                        "Jumlah Karya Mahasiswa": { "nilai": "10" },
+                        "Jumlah Sertifikat Internasional Mahasiswa": {
+                            "nilai": "97"
+                        }
+                    },
+                    "Fakultas Keperawatan": {
+                        "Jumlah mahasiswa MBKM Internal (antar prodi di lingkungan UNAND)": {
+                            "nilai": "7"
+                        },
+                        "Jumlah mahasiswa MBKM Eksternal (diluar UNAND)": {
+                            "nilai": "10"
+                        },
+                        "Jumlah Mahasiswa Inbound dalam program pertukaran mahasiswa (mahasiswa dari Perguruan Tinggi lain termasuk Mhs Asing)": {
+                            "nilai": "32"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Internasional": {
+                            "nilai": "0"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Nasional": {
+                            "nilai": "0"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Provinsi": {
+                            "nilai": "0"
+                        },
+                        "Jumlah Karya Mahasiswa": { "nilai": "0" },
+                        "Jumlah Sertifikat Internasional Mahasiswa": {
+                            "nilai": "0"
+                        }
+                    },
+                    "Fakultas Kesehatan Masyarakat": {
+                        "Jumlah mahasiswa MBKM Internal (antar prodi di lingkungan UNAND)": {
+                            "nilai": "0"
+                        },
+                        "Jumlah mahasiswa MBKM Eksternal (diluar UNAND)": {
+                            "nilai": "0"
+                        },
+                        "Jumlah Mahasiswa Inbound dalam program pertukaran mahasiswa (mahasiswa dari Perguruan Tinggi lain termasuk Mhs Asing)": {
+                            "nilai": "0"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Internasional": {
+                            "nilai": "0"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Nasional": {
+                            "nilai": "0"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Provinsi": {
+                            "nilai": "0"
+                        },
+                        "Jumlah Karya Mahasiswa": { "nilai": "0" },
+                        "Jumlah Sertifikat Internasional Mahasiswa": {
+                            "nilai": "0"
+                        }
+                    },
+                    "Fakultas Teknologi Pertanian": {
+                        "Jumlah mahasiswa MBKM Internal (antar prodi di lingkungan UNAND)": {
+                            "nilai": "27"
+                        },
+                        "Jumlah mahasiswa MBKM Eksternal (diluar UNAND)": {
+                            "nilai": "66"
+                        },
+                        "Jumlah Mahasiswa Inbound dalam program pertukaran mahasiswa (mahasiswa dari Perguruan Tinggi lain termasuk Mhs Asing)": {
+                            "nilai": "10"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Internasional": {
+                            "nilai": "21"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Nasional": {
+                            "nilai": "21"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Provinsi": {
+                            "nilai": "9"
+                        },
+                        "Jumlah Karya Mahasiswa": { "nilai": "11" },
+                        "Jumlah Sertifikat Internasional Mahasiswa": {
+                            "nilai": "5"
+                        }
+                    },
+                    "Fakultas Kedokteran Gigi": {
+                        "Jumlah mahasiswa MBKM Internal (antar prodi di lingkungan UNAND)": {
+                            "nilai": "0"
+                        },
+                        "Jumlah mahasiswa MBKM Eksternal (diluar UNAND)": {
+                            "nilai": "85"
+                        },
+                        "Jumlah Mahasiswa Inbound dalam program pertukaran mahasiswa (mahasiswa dari Perguruan Tinggi lain termasuk Mhs Asing)": {
+                            "nilai": "0"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Internasional": {
+                            "nilai": "55"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Nasional": {
+                            "nilai": "20"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Provinsi": {
+                            "nilai": "20"
+                        },
+                        "Jumlah Karya Mahasiswa": { "nilai": "0" },
+                        "Jumlah Sertifikat Internasional Mahasiswa": {
+                            "nilai": "0"
+                        }
+                    }
+                }
+            }
+        },
+        "2030": {
+            "IKU": {
+                "IKU 2": {
+                    "Fakultas Ilmu Sosial dan Ilmu Politik": {
+                        "Jumlah mahasiswa MBKM Internal (antar prodi di lingkungan UNAND)": {
+                            "nilai": "30"
+                        },
+                        "Jumlah mahasiswa MBKM Eksternal (diluar UNAND)": {
+                            "nilai": "67"
+                        },
+                        "Jumlah Mahasiswa Inbound dalam program pertukaran mahasiswa (mahasiswa dari Perguruan Tinggi lain termasuk Mhs Asing)": {
+                            "nilai": "0"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Internasional": {
+                            "nilai": "17"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Nasional": {
+                            "nilai": "42"
+                        },
+                        "Jumlah mahasiswa berprestasi tingkat Provinsi": {
+                            "nilai": "52"
+                        },
+                        "Jumlah Karya Mahasiswa": { "nilai": "40" },
+                        "Jumlah Sertifikat Internasional Mahasiswa": {
+                            "nilai": "3"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "meta": { "timestamp": "2025-03-12T03:09:10.880410Z", "version": "1.0" }
+}
