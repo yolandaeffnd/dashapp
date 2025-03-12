@@ -186,7 +186,9 @@ public function mahasiswa_ipk()
         // Ubah ke array PHP
         $data_temp = json_decode($json, true);
 
+
         $data = $data_temp;
+
         if ($data === null || !isset($data)) {
             return response()->json(['message' => 'Format JSON tidak valid'], 400);
         }

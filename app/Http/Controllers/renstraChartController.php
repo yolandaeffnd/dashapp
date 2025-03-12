@@ -12,8 +12,26 @@ class renstraChartController extends Controller
 
     public function chartikuII(Request $request)
     {
-        $response = Http::get('http://127.0.0.1:8000/api/mhs/data-iku-II');
-        $data = $response->json()['data'];
+        // $response = Http::get('http://127.0.0.1:8000/api/mhs/data-iku-II');
+        // $data = $response->json()['data'];
+        $path = database_path('json/data-iku2.json');
+
+        // Cek apakah file JSON ada
+        if (!File::exists($path)) {
+            return response()->json(['message' => 'File tidak ditemukan'], 404);
+        }
+
+        // Ambil isi file JSON
+        $json = File::get($path);
+
+        // Ubah ke array PHP
+        $data_temp = json_decode($json, true);
+        $data = $data_temp['data'];
+
+        // dd($data);
+        if ($data === null || !isset($data)) {
+            return response()->json(['message' => 'Format JSON tidak valid'], 400);
+        }
 
         // Ambil tahun yang tersedia
         $years = array_keys($data);
