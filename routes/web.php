@@ -1,11 +1,12 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
-use App\Http\Controllers\{AccountsController,ParentMenuController,RolesController,MenusController,AccessRoleController,TampildataController,KategoriController,DashController, RefSemesterController, AppchartController};
+use App\Http\Controllers\{AccountsController,ParentMenuController,RolesController,MenusController,AccessRoleController,TampildataController,KategoriController,DashController, RefSemesterController, AppchartController, renstraChartController};
 
 Route::get('dashboard', [DashController::class, 'index'])->name('dashboard');
 Route::get('tarikdata', [TampildataController::class, 'tarikdata'])->name('tarikdata');
 Route::get('/chartmhs', [TampildataController::class, 'mahasiswa'])->name('chart.mhs');
+Route::get('/chartikuII', [renstraChartController::class, 'chartikuII'])->name('chart.ikuII');
 // Route::get('/chartmhs-angkatan', [TampildataController::class, 'mahasiswa_angkatan_index'])->name('chart.angkatan');
 Route::get('/chartmhs-angkatan', [TampildataController::class, 'mahasiswa_angkatan'])->name('chart.mhs.angkatan');
 Route::get('/chartmhs-ipk', [TampildataController::class, 'mahasiswa_ipk'])->name('chart.mhs.ipk');
