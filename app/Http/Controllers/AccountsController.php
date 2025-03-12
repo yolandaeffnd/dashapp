@@ -15,7 +15,7 @@ class AccountsController extends Controller
     }
     public function dashboard(){
         if (auth()->check()) {
-            return view('components.app-admin');
+            return view('admin.index');
         } else {
             return redirect()->route('login');
         }
