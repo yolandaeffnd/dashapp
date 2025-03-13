@@ -70,6 +70,10 @@
                             <a href="{{ route('chart.mhs.angkatan') }}" class="sidebar-submenu__link"> Mahasiswa
                                 Angkatan </a>
                         </li>
+                        <li class="sidebar-submenu__item">
+                            <a href="{{ route('chart.mhs.ipk') }}" class="sidebar-submenu__link"> Mahasiswa
+                                IPK</a>
+                        </li>
                     </ul>
                     <!-- Submenu End -->
                 </li>

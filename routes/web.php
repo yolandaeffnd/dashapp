@@ -1,15 +1,15 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
-use App\Http\Controllers\{AccountsController,ParentMenuController,RolesController,MenusController,AccessRoleController,TampildataController,KategoriController,DashController, RefSemesterController, AppchartController, renstraChartController};
+use App\Http\Controllers\{AccountsController,ParentMenuController,RolesController,MenusController,AccessRoleController,AkademikController,KategoriController,DashController, RefSemesterController, AppchartController, RenstraChartController};
 
 Route::get('dashboard', [DashController::class, 'index'])->name('dashboard');
-Route::get('tarikdata', [TampildataController::class, 'tarikdata'])->name('tarikdata');
-Route::get('/chartmhs', [TampildataController::class, 'mahasiswa'])->name('chart.mhs');
-Route::get('/chartikuII', [renstraChartController::class, 'chartikuII'])->name('chart.ikuII');
-// Route::get('/chartmhs-angkatan', [TampildataController::class, 'mahasiswa_angkatan_index'])->name('chart.angkatan');
-Route::get('/chartmhs-angkatan', [TampildataController::class, 'mahasiswa_angkatan'])->name('chart.mhs.angkatan');
-Route::get('/chartmhs-ipk', [TampildataController::class, 'mahasiswa_ipk'])->name('chart.mhs.ipk');
+Route::get('tarikdata', [AkademikController::class, 'tarikdata'])->name('tarikdata');
+Route::get('/chartmhs', [AkademikController::class, 'mahasiswa'])->name('chart.mhs');
+Route::get('/chartikuII', [RenstraChartController::class, 'chartikuII'])->name('chart.ikuII');
+// Route::get('/chartmhs-angkatan', [AkademikController::class, 'mahasiswa_angkatan_index'])->name('chart.angkatan');
+Route::get('/chartmhs-angkatan', [AkademikController::class, 'mahasiswa_angkatan'])->name('chart.mhs.angkatan');
+Route::get('/chartmhs-ipk', [AkademikController::class, 'mahasiswa_ipk'])->name('chart.mhs.ipk');
 
 Route::get('semester', [RefSemesterController::class, 'index'])->name('semester.index');
 

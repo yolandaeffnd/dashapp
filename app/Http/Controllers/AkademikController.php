@@ -8,7 +8,7 @@ use Illuminate\Support\Facades\Http;
 use Illuminate\Support\Facades\File;
 
 
-class TampildataController extends Controller
+class AkademikController extends Controller
 {
     public function tarikdata(Request $request)
     {
@@ -84,13 +84,13 @@ class TampildataController extends Controller
         $fakultas = collect($data)->pluck('fakultas_nama')->unique()->values();
 
         // Mengirim data ke view
-        return view('chart.chart_mahasiswa', compact('data', 'fakultas'));
+        return view('chart.akademik.chart_mahasiswa', compact('data', 'fakultas'));
 
     }
 
     public function mahasiswa_angkatan_index()
     {
-        return view('chart.chart_angkatan'); // Sesuaikan dengan lokasi file Blade Anda
+        return view('chart.akademik.chart_angkatan'); // Sesuaikan dengan lokasi file Blade Anda
     }
 
     public function mahasiswa_angkatan()
@@ -108,7 +108,7 @@ class TampildataController extends Controller
             $data = ['error' => 'Gagal mengambil data dari API'];
         }
 
-        return view('chart.chart_angkatan', compact('data'));
+        return view('chart.akademik.chart_angkatan', compact('data'));
     }
 
 
@@ -137,7 +137,7 @@ class TampildataController extends Controller
     //         return response()->json(['message' => 'Format JSON tidak valid'], 400);
     //     }
     //     // dd($response);
-    //     return view('chart.chart_angkatan', compact('data'));
+    //     return view('chart.akademik.chart_angkatan', compact('data'));
     // }
 
 
@@ -163,7 +163,7 @@ class TampildataController extends Controller
 //     // Mengambil daftar fakultas unik dari data mahasiswa
 //     $fakultas = collect($data)->pluck('fakultas_nama')->unique()->values();
 
-//     return view('chart.chart_ipk', compact('data', 'fakultas'));
+//     return view('chart.akademik.chart_ipk', compact('data', 'fakultas'));
 // }
 
 public function mahasiswa_ipk()
@@ -187,7 +187,7 @@ public function mahasiswa_ipk()
         $data_temp = json_decode($json, true);
 
 
-        $data = $data_temp;
+        $data = $data_temp['data'];
 
         if ($data === null || !isset($data)) {
             return response()->json(['message' => 'Format JSON tidak valid'], 400);
@@ -196,7 +196,7 @@ public function mahasiswa_ipk()
         //     // Mengambil daftar fakultas unik dari data mahasiswa
        $fakultas = collect($data)->pluck('fakultas_nama')->unique()->values();
         // dd($response);
-        return view('chart.chart_angkatan', compact('data','fakultas'));
+        return view('chart.akademik.chart_ipk', compact('data','fakultas'));
     }
 
 
