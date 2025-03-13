@@ -104,7 +104,10 @@
                         title: {
                             display: true,
                             text: 'Semester'
-                        }
+                        },
+                        autoSkip: false,
+                        maxRotation: 45,
+                        minRotation: 30
                     },
                     y: {
                         stacked: false,
@@ -112,7 +115,8 @@
                         title: {
                             display: true,
                             text: 'Jumlah Mahasiswa'
-                        }
+                        },
+                        grace: '5%'
                     }
                 }
             },

@@ -12,6 +12,7 @@ Route::get('/chartmhs-angkatan', [AkademikController::class, 'mahasiswa_angkatan
 Route::get('/chartmhs-ipk', [AkademikController::class, 'mahasiswa_ipk'])->name('chart.mhs.ipk');
 // kepegawaian
 Route::get('/chart-dosen-jumlah', [KepegawaianController::class, 'chartDosen'])->name('chart.dosen.jumlah');
+Route::get('/chart-dosen-jumlah-jabatan', [KepegawaianController::class, 'chartDosenJabatan'])->name('chart.dosen.jabatan');
 Route::get('semester', [RefSemesterController::class, 'index'])->name('semester.index');
 
 Route::group(['middleware'=>['role:admin']], function () {

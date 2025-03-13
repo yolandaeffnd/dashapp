@@ -102,11 +102,10 @@
                     <!-- Submenu start -->
                     <ul class="sidebar-submenu">
                         <li class="sidebar-submenu__item">
-                            <a href="{{ route('chart.mhs') }}" class="sidebar-submenu__link"> Dosen </a>
+                            <a href="{{ route('chart.dosen.jumlah') }}" class="sidebar-submenu__link"> Jumlah Dosen </a>
                         </li>
                         <li class="sidebar-submenu__item">
-                            <a href="{{ route('chart.mhs.angkatan') }}" class="sidebar-submenu__link"> Tenaga
-                                Kependidikan </a>
+                            <a href="{{ route('chart.dosen.jabatan') }}" class="sidebar-submenu__link"> Jumlah Dosen Jabatan </a>
                         </li>
                     </ul>
                     <!-- Submenu End -->

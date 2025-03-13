@@ -1,0 +1,623 @@
+{
+    "data": [
+        {
+            "fakultas": "Fakultas Ekonomi Dan Bisnis",
+            "departemen": null,
+            "status_aktif": "Aktif",
+            "jumlah_dosen": 1
+        },
+        {
+            "fakultas": "Fakultas Ekonomi Dan Bisnis",
+            "departemen": "Akuntansi",
+            "status_aktif": "Aktif",
+            "jumlah_dosen": 42
+        },
+        {
+            "fakultas": "Fakultas Ekonomi Dan Bisnis",
+            "departemen": "Akuntansi Diploma III",
+            "status_aktif": "Pindah Masuk",
+            "jumlah_dosen": 1
+        },
+        {
+            "fakultas": "Fakultas Ekonomi Dan Bisnis",
+            "departemen": "Ekonomi",
+            "status_aktif": "Aktif",
+            "jumlah_dosen": 42
+        },
+        {
+            "fakultas": "Fakultas Ekonomi Dan Bisnis",
+            "departemen": "Ekonomi (Kampus 2 Payakumbuh)",
+            "status_aktif": "Aktif",
+            "jumlah_dosen": 10
+        },
+        {
+            "fakultas": "Fakultas Ekonomi Dan Bisnis",
+            "departemen": "Manajemen",
+            "status_aktif": "Aktif",
+            "jumlah_dosen": 49
+        },
+        {
+            "fakultas": "Fakultas Ekonomi Dan Bisnis",
+            "departemen": "Manajemen (Kampus 2 Payakumbuh)",
+            "status_aktif": "Aktif",
+            "jumlah_dosen": 11
+        },
+        {
+            "fakultas": "Fakultas Ekonomi Dan Bisnis",
+            "departemen": "Manajemen (Kampus II Payakumbuh)",
+            "status_aktif": "Aktif",
+            "jumlah_dosen": 1
+        },
+        {
+            "fakultas": "Fakultas Ekonomi Dan Bisnis",
+            "departemen": "Program Diploma III",
+            "status_aktif": "Aktif",
+            "jumlah_dosen": 10
+        },
+        {
+            "fakultas": "Fakultas Farmasi",
+            "departemen": "Farmasi",
+            "status_aktif": "Aktif",
+            "jumlah_dosen": 43
+        },
+        {
+            "fakultas": "Fakultas Farmasi",
+            "departemen": "Profesi Apoteker",
+            "status_aktif": "Aktif",
+            "jumlah_dosen": 6
+        },
+        {
+            "fakultas": "Fakultas Hukum",
+            "departemen": "Hukum Administrasi Negara",
+            "status_aktif": "Aktif",
+            "jumlah_dosen": 16
+        },
+        {
+            "fakultas": "Fakultas Hukum",
+            "departemen": "Hukum Internasional",
+            "status_aktif": "Aktif",
+            "jumlah_dosen": 16
+        },
+        {
+            "fakultas": "Fakultas Hukum",
+            "departemen": "Hukum Perdata",
+            "status_aktif": "Aktif",
+            "jumlah_dosen": 24
+        },
+        {
+            "fakultas": "Fakultas Hukum",
+            "departemen": "Hukum Pidana",
+            "status_aktif": "Aktif",
+            "jumlah_dosen": 18
+        },
+        {
+            "fakultas": "Fakultas Hukum",
+            "departemen": "Hukum Tata Negara",
+            "status_aktif": "Aktif",
+            "jumlah_dosen": 16
+        },
+        {
+            "fakultas": "Fakultas Ilmu Budaya ",
+            "departemen": "S1 SASTRA INDONESIA",
+            "status_aktif": "Aktif",
+            "jumlah_dosen": 20
+        },
+        {
+            "fakultas": "Fakultas Ilmu Budaya ",
+            "departemen": "S1 SASTRA INGGRIS",
+            "status_aktif": "Aktif",
+            "jumlah_dosen": 27
+        },
+        {
+            "fakultas": "Fakultas Ilmu Budaya ",
+            "departemen": "S1 SASTRA JEPANG",
+            "status_aktif": "Aktif",
+            "jumlah_dosen": 13
+        },
+        {
+            "fakultas": "Fakultas Ilmu Budaya ",
+            "departemen": "S1 SASTRA MINANGKABAU",
+            "status_aktif": "Aktif",
+            "jumlah_dosen": 12
+        },
+        {
+            "fakultas": "Fakultas Ilmu Budaya ",
+            "departemen": "S1 SEJARAH",
+            "status_aktif": "Aktif",
+            "jumlah_dosen": 18
+        },
+        {
+            "fakultas": "Fakultas Ilmu Budaya ",
+            "departemen": "S1 SEJARAH",
+            "status_aktif": "Pindah Masuk",
+            "jumlah_dosen": 1
+        },
+        {
+            "fakultas": "Fakultas Ilmu Budaya ",
+            "departemen": "S2 KAJIAN BUDAYA",
+            "status_aktif": "Aktif",
+            "jumlah_dosen": 4
+        },
+        {
+            "fakultas": "Fakultas Ilmu Budaya ",
+            "departemen": "S2 KAJIAN SEJARAH",
+            "status_aktif": "Aktif",
+            "jumlah_dosen": 7
+        },
+        {
+            "fakultas": "Fakultas Ilmu Budaya ",
+            "departemen": "S2 LINGUISTIK",
+            "status_aktif": "Aktif",
+            "jumlah_dosen": 10
+        },
+        {
+            "fakultas": "Fakultas Ilmu Budaya ",
+            "departemen": "S2 SUSASTRA",
+            "status_aktif": "Aktif",
+            "jumlah_dosen": 7
+        },
+        {
+            "fakultas": "Fakultas ISIP",
+            "departemen": "Administrasi Publik",
+            "status_aktif": "Aktif",
+            "jumlah_dosen": 17
+        },
+        {
+            "fakultas": "Fakultas ISIP",
+            "departemen": "Antropologi",
+            "status_aktif": "Aktif",
+            "jumlah_dosen": 18
+        },
+        {
+            "fakultas": "Fakultas ISIP",
+            "departemen": "Hubungan Internasional",
+            "status_aktif": "Aktif",
+            "jumlah_dosen": 15
+        },
+        {
+            "fakultas": "Fakultas ISIP",
+            "departemen": "Ilmu Komunikasi",
+            "status_aktif": "Aktif",
+            "jumlah_dosen": 21
+        },
+        {
+            "fakultas": "Fakultas ISIP",
+            "departemen": "Ilmu Politik",
+            "status_aktif": "Aktif",
+            "jumlah_dosen": 15
+        },
+        {
+            "fakultas": "Fakultas ISIP",
+            "departemen": "Sosiologi",
+            "status_aktif": "Aktif",
+            "jumlah_dosen": 23
+        },
+        {
+            "fakultas": "Fakultas Kedokteran ",
+            "departemen": null,
+            "status_aktif": "Aktif",
+            "jumlah_dosen": 15
+        },
+        {
+            "fakultas": "Fakultas Kedokteran ",
+            "departemen": null,
+            "status_aktif": "Pindah Masuk",
+            "jumlah_dosen": 1
+        },
+        {
+            "fakultas": "Fakultas Kedokteran ",
+            "departemen": "Anastesi",
+            "status_aktif": "Aktif",
+            "jumlah_dosen": 5
+        },
+        {
+            "fakultas": "Fakultas Kedokteran ",
+            "departemen": "Anatomi",
+            "status_aktif": "Aktif",
+            "jumlah_dosen": 7
+        },
+        {
+            "fakultas": "Fakultas Kedokteran ",
+            "departemen": "Anestesi",
+            "status_aktif": "Aktif",
+            "jumlah_dosen": 1
+        },
+        {
+            "fakultas": "Fakultas Kedokteran ",
+            "departemen": "Biokimia",
+            "status_aktif": "Aktif",
+            "jumlah_dosen": 9
+        },
+        {
+            "fakultas": "Fakultas Kedokteran ",
+            "departemen": "Dermatologi, Venereologi dan Estetika",
+            "status_aktif": "Aktif",
+            "jumlah_dosen": 5
+        },
+        {
+            "fakultas": "Fakultas Kedokteran ",
+            "departemen": "Farmakologi",
+            "status_aktif": "Aktif",
+            "jumlah_dosen": 9
+        },
+        {
+            "fakultas": "Fakultas Kedokteran ",
+            "departemen": "Fisiologi",
+            "status_aktif": "Aktif",
+            "jumlah_dosen": 10
+        },
+        {
+            "fakultas": "Fakultas Kedokteran ",
+            "departemen": "Forensik",
+            "status_aktif": "Aktif",
+            "jumlah_dosen": 4
+        },
+        {
+            "fakultas": "Fakultas Kedokteran ",
+            "departemen": "Histologi",
+            "status_aktif": "Aktif",
+            "jumlah_dosen": 4
+        },
+        {
+            "fakultas": "Fakultas Kedokteran ",
+            "departemen": "IKM-KK",
+            "status_aktif": "Aktif",
+            "jumlah_dosen": 12
+        },
+        {
+            "fakultas": "Fakultas Kedokteran ",
+            "departemen": "Ilmu Bedah",
+            "status_aktif": "Aktif",
+            "jumlah_dosen": 11
+        },
+        {
+            "fakultas": "Fakultas Kedokteran ",
+            "departemen": "Ilmu Gizi",
+            "status_aktif": "Aktif",
+            "jumlah_dosen": 7
+        },
+        {
+            "fakultas": "Fakultas Kedokteran ",
+            "departemen": "Ilmu Kesehatan Anak",
+            "status_aktif": "Aktif",
+            "jumlah_dosen": 8
+        },
+        {
+            "fakultas": "Fakultas Kedokteran ",
+            "departemen": "Ilmu Kesehatan Mata",
+            "status_aktif": "Aktif",
+            "jumlah_dosen": 6
+        },
+        {
+            "fakultas": "Fakultas Kedokteran ",
+            "departemen": "Ilmu Penyakit Dalam",
+            "status_aktif": "Aktif",
+            "jumlah_dosen": 11
+        },
+        {
+            "fakultas": "Fakultas Kedokteran ",
+            "departemen": "Kardiologi ",
+            "status_aktif": "Aktif",
+            "jumlah_dosen": 4
+        },
+        {
+            "fakultas": "Fakultas Kedokteran ",
+            "departemen": "Kardiologi",
+            "status_aktif": "Tidak Aktif",
+            "jumlah_dosen": 1
+        },
+        {
+            "fakultas": "Fakultas Kedokteran ",
+            "departemen": "Kebidanan",
+            "status_aktif": "Aktif",
+            "jumlah_dosen": 16
+        },
+        {
+            "fakultas": "Fakultas Kedokteran ",
+            "departemen": "Mikrobiologi",
+            "status_aktif": "Aktif",
+            "jumlah_dosen": 7
+        },
+        {
+            "fakultas": "Fakultas Kedokteran ",
+            "departemen": "Neurologi ",
+            "status_aktif": "Aktif",
+            "jumlah_dosen": 2
+        },
+        {
+            "fakultas": "Fakultas Kedokteran ",
+            "departemen": "Obgyn",
+            "status_aktif": "Aktif",
+            "jumlah_dosen": 8
+        },
+        {
+            "fakultas": "Fakultas Kedokteran ",
+            "departemen": "Obgyn",
+            "status_aktif": "Tidak Aktif",
+            "jumlah_dosen": 1
+        },
+        {
+            "fakultas": "Fakultas Kedokteran ",
+            "departemen": "Parasitologi",
+            "status_aktif": "Aktif",
+            "jumlah_dosen": 8
+        },
+        {
+            "fakultas": "Fakultas Kedokteran ",
+            "departemen": "Patologi Anatomi",
+            "status_aktif": "Aktif",
+            "jumlah_dosen": 6
+        },
+        {
+            "fakultas": "Fakultas Kedokteran ",
+            "departemen": "Patologi Klinik",
+            "status_aktif": "Aktif",
+            "jumlah_dosen": 7
+        },
+        {
+            "fakultas": "Fakultas Kedokteran ",
+            "departemen": "Patologi Klinik dan Ked. Laboratorium",
+            "status_aktif": "Aktif",
+            "jumlah_dosen": 2
+        },
+        {
+            "fakultas": "Fakultas Kedokteran ",
+            "departemen": "Pendidikan Kedokteran",
+            "status_aktif": "Aktif",
+            "jumlah_dosen": 4
+        },
+        {
+            "fakultas": "Fakultas Kedokteran ",
+            "departemen": "Prodi S1 Biomedis",
+            "status_aktif": "Aktif",
+            "jumlah_dosen": 1
+        },
+        {
+            "fakultas": "Fakultas Kedokteran ",
+            "departemen": "Psikiatri",
+            "status_aktif": "Aktif",
+            "jumlah_dosen": 7
+        },
+        {
+            "fakultas": "Fakultas Kedokteran ",
+            "departemen": "Psikologi",
+            "status_aktif": "Aktif",
+            "jumlah_dosen": 22
+        },
+        {
+            "fakultas": "Fakultas Kedokteran ",
+            "departemen": "Pulmunologi",
+            "status_aktif": "Aktif",
+            "jumlah_dosen": 6
+        },
+        {
+            "fakultas": "Fakultas Kedokteran ",
+            "departemen": "Radiologi",
+            "status_aktif": "Aktif",
+            "jumlah_dosen": 6
+        },
+        {
+            "fakultas": "Fakultas Kedokteran ",
+            "departemen": "THT-KL",
+            "status_aktif": "Aktif",
+            "jumlah_dosen": 4
+        },
+        {
+            "fakultas": "Fakultas Kedokteran Gigi",
+            "departemen": null,
+            "status_aktif": "Pindah Masuk",
+            "jumlah_dosen": 1
+        },
+        {
+            "fakultas": "Fakultas Kedokteran Gigi",
+            "departemen": "Prodi S1 & Profesi Kedokteran Gigi",
+            "status_aktif": "Aktif",
+            "jumlah_dosen": 38
+        },
+        {
+            "fakultas": "Fakultas Kedokteran Gigi",
+            "departemen": "Prodi S1 & Profesi Kedokteran Gigi",
+            "status_aktif": "Pindah Masuk",
+            "jumlah_dosen": 1
+        },
+        {
+            "fakultas": "Fakultas Keperawatan",
+            "departemen": "#REF!",
+            "status_aktif": "Aktif",
+            "jumlah_dosen": 51
+        },
+        {
+            "fakultas": "Fakultas Keperawatan",
+            "departemen": "Keperawatan",
+            "status_aktif": "Aktif",
+            "jumlah_dosen": 1
+        },
+        {
+            "fakultas": "Fakultas Kes. Masyarakat",
+            "departemen": "Gizi",
+            "status_aktif": "Aktif",
+            "jumlah_dosen": 20
+        },
+        {
+            "fakultas": "Fakultas Kes. Masyarakat",
+            "departemen": "Ilmu Kesehatan Masyarakat",
+            "status_aktif": "Aktif",
+            "jumlah_dosen": 41
+        },
+        {
+            "fakultas": "Fakultas Kes. Masyarakat",
+            "departemen": "Ilmu Kesehatan Masyarakat",
+            "status_aktif": "Pindah Masuk",
+            "jumlah_dosen": 1
+        },
+        {
+            "fakultas": "Fakultas MIPA",
+            "departemen": "Biologi",
+            "status_aktif": "Aktif",
+            "jumlah_dosen": 39
+        },
+        {
+            "fakultas": "Fakultas MIPA",
+            "departemen": "Fisika",
+            "status_aktif": "Aktif",
+            "jumlah_dosen": 36
+        },
+        {
+            "fakultas": "Fakultas MIPA",
+            "departemen": "Kimia",
+            "status_aktif": "Aktif",
+            "jumlah_dosen": 36
+        },
+        {
+            "fakultas": "Fakultas MIPA",
+            "departemen": "Matematika dan Sains Data",
+            "status_aktif": "Aktif",
+            "jumlah_dosen": 34
+        },
+        {
+            "fakultas": "Fakultas Pertanian",
+            "departemen": "Agroekoteknologi",
+            "status_aktif": "Aktif",
+            "jumlah_dosen": 15
+        },
+        {
+            "fakultas": "Fakultas Pertanian",
+            "departemen": "Agronomi",
+            "status_aktif": "Aktif",
+            "jumlah_dosen": 41
+        },
+        {
+            "fakultas": "Fakultas Pertanian",
+            "departemen": "Ilmu Tanah Dan Sumberdaya Lahan",
+            "status_aktif": "Aktif",
+            "jumlah_dosen": 19
+        },
+        {
+            "fakultas": "Fakultas Pertanian",
+            "departemen": "Proteksi Tanaman",
+            "status_aktif": "Aktif",
+            "jumlah_dosen": 23
+        },
+        {
+            "fakultas": "Fakultas Pertanian",
+            "departemen": "Sosial Ekonomi Pertanian",
+            "status_aktif": "Aktif",
+            "jumlah_dosen": 41
+        },
+        {
+            "fakultas": "Fakultas Peternakan",
+            "departemen": "Nutrisi dan Teknologi Pakan",
+            "status_aktif": "Aktif",
+            "jumlah_dosen": 37
+        },
+        {
+            "fakultas": "Fakultas Peternakan",
+            "departemen": "Pembangunan dan Bisnis Peternakan",
+            "status_aktif": "Aktif",
+            "jumlah_dosen": 22
+        },
+        {
+            "fakultas": "Fakultas Peternakan",
+            "departemen": "Teknologi Pengolahan Hasil Ternak",
+            "status_aktif": "Aktif",
+            "jumlah_dosen": 12
+        },
+        {
+            "fakultas": "Fakultas Peternakan",
+            "departemen": "Teknologi Produksi Ternak",
+            "status_aktif": "Aktif",
+            "jumlah_dosen": 28
+        },
+        {
+            "fakultas": "Fakultas Teknik",
+            "departemen": null,
+            "status_aktif": "Pindah Masuk",
+            "jumlah_dosen": 1
+        },
+        {
+            "fakultas": "Fakultas Teknik",
+            "departemen": "Arsitektur",
+            "status_aktif": "Aktif",
+            "jumlah_dosen": 5
+        },
+        {
+            "fakultas": "Fakultas Teknik",
+            "departemen": "Elektro",
+            "status_aktif": "Aktif",
+            "jumlah_dosen": 30
+        },
+        {
+            "fakultas": "Fakultas Teknik",
+            "departemen": "Industri",
+            "status_aktif": "Aktif",
+            "jumlah_dosen": 31
+        },
+        {
+            "fakultas": "Fakultas Teknik",
+            "departemen": "Lingkungan",
+            "status_aktif": "Aktif",
+            "jumlah_dosen": 26
+        },
+        {
+            "fakultas": "Fakultas Teknik",
+            "departemen": "Mesin",
+            "status_aktif": "Aktif",
+            "jumlah_dosen": 37
+        },
+        {
+            "fakultas": "Fakultas Teknik",
+            "departemen": "Sipil",
+            "status_aktif": "Aktif",
+            "jumlah_dosen": 43
+        },
+        {
+            "fakultas": "Fakultas Teknologi Informasi",
+            "departemen": "Informatika",
+            "status_aktif": "Aktif",
+            "jumlah_dosen": 11
+        },
+        {
+            "fakultas": "Fakultas Teknologi Informasi",
+            "departemen": "Sistem Informasi",
+            "status_aktif": "Aktif",
+            "jumlah_dosen": 17
+        },
+        {
+            "fakultas": "Fakultas Teknologi Informasi",
+            "departemen": "Teknik Komputer",
+            "status_aktif": "Aktif",
+            "jumlah_dosen": 14
+        },
+        {
+            "fakultas": "Fakultas Teknologi Informasi",
+            "departemen": "Teknik Komputer",
+            "status_aktif": "Tidak Aktif",
+            "jumlah_dosen": 1
+        },
+        {
+            "fakultas": "Fakultas Teknologi Pertanian",
+            "departemen": "Teknik Pertanian dan Biosistem",
+            "status_aktif": "Aktif",
+            "jumlah_dosen": 26
+        },
+        {
+            "fakultas": "Fakultas Teknologi Pertanian",
+            "departemen": "Teknologi Industri Pertanian",
+            "status_aktif": "Aktif",
+            "jumlah_dosen": 19
+        },
+        {
+            "fakultas": "Fakultas Teknologi Pertanian",
+            "departemen": "Teknologi Pangan dan Hasil Pertanian",
+            "status_aktif": "Aktif",
+            "jumlah_dosen": 21
+        },
+        {
+            "fakultas": "Sekolah Pascasarjana ",
+            "departemen": null,
+            "status_aktif": "Aktif",
+            "jumlah_dosen": 3
+        }
+    ],
+    "meta": { "timestamp": "2025-03-13T08:53:47.445305Z", "version": "1.0" }
+}

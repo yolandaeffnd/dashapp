@@ -1,16 +1,7 @@
 @extends('components.app-admin')
 
 @section('content')
-<style>
-    .dataTables_paginate .paginate_button {
-        padding: 0.25rem 0.6rem;
-        margin-left: 3px;
-    }
-    div.dt-container .dt-paging .dt-paging-button {
 
-    font-size: 10px;
-}
-</style>
 <div class="container mt-4">
     <div class="card px-3">
         <div class="card-body">
@@ -32,15 +23,6 @@
                 </div>
 
                 <div class="col-xl-4 col-md-4 col-sm-12 mb-3">
-                    <label class="font-semibold">Jenis Kelamin</label>
-                    <select id="filterJK" class="form-select">
-                        <option value="">Semua</option>
-                        <option value="L">Laki-laki</option>
-                        <option value="P">Perempuan</option>
-                    </select>
-                </div>
-
-                <div class="col-xl-4 col-md-4 col-sm-12 mb-3">
                     <label class="font-semibold">Status:</label>
                     <select id="filterStatus" class="form-select">
                         <option value="">Semua Status</option>
@@ -52,25 +34,6 @@
                 <div class="col-xl-10 col-md-12 col-sm-12">
                     <canvas id="chartDosen"></canvas>
                 </div>
-            </div>
-
-            <div class="row">
-                <div class="col-md-12">
-                    <div class="table-responsive">
-                    <table id="tabelDetail" class="table ">
-                        <thead>
-                            <tr class="table-primary">
-                                <th>Nama</th>
-                                <th>NIP Lama</th>
-                                <th>NIP Baru</th>
-                                <th>Fakultas</th>
-                                <th>Departemen</th>
-                                <th>Pendidikan Terakhir</th>
-                            </tr>
-                        </thead>
-                        <tbody></tbody>
-                    </table>
-                </div></div>
             </div>
         </div>
     </div>
@@ -84,28 +47,34 @@
 <script>
     const dataApi = @json($data);
 
-    let currentPangkat = '';
+    // Inisialisasi Filter
+    function initFilters() {
+        const fakultas = [...new Set(dataApi.map(item => item.fakultas))];
+        const departemen = [...new Set(dataApi.filter(d => d.departemen).map(item => item.departemen))];
+        const statusAktif = [...new Set(dataApi.map(item => item.status_aktif))];
 
-function initFilter(){
-    const fakultas = [...new Set(dataApi.map(item => item.fakultas))];
-    const departemen = [...new Set(dataApi.filter(d => d.departemen).map(item => item.departemen))];
-    const statusAktif = [...new Set(dataApi.map(item => item.status_kepegawaian))];
-
-    fakultas.forEach(f => $('#filterFakultas').append(`<option>${f}</option>`));
-    departemen.forEach(d => $('#filterDepartemen').append(`<option>${d}</option>`));
-    statusAktif.forEach(s => $('#filterStatus').append(`<option>${s}</option>`));
-}
+        fakultas.forEach(f => $("#filterFakultas").append(`<option value="${f}">${f}</option>`));
+        departemen.forEach(d => $("#filterDepartemen").append(`<option value="${d}">${d}</option>`));
+        statusAktif.forEach(s => $("#filterStatus").append(`<option value="${s}">${s}</option>`));
+    }
 
     // Inisialisasi Chart
     Chart.register(ChartDataLabels);
 
-const ctx = document.getElementById('chartDosen').getContext('2d');
-let chartDosen = new Chart(ctx, {
-    type: 'bar',
-    data: {labels: [], datasets: [{label: 'Jumlah Dosen', data: [], backgroundColor: '#4a90e2'}]},
-    options: {
-        responsive: true,
-        plugins: {
+    const ctx = document.getElementById('chartDosen').getContext('2d');
+    let dosenChart = new Chart(ctx, {
+        type: 'bar',
+        data: {
+            labels: [],
+            datasets: [{
+                label: 'Jumlah Dosen',
+                data: [],
+                backgroundColor: '#1e90ff'
+            }]
+        },
+        options: {
+            responsive: true,
+            plugins: {
                 legend: {
                     display: true,
                     position: 'top',
@@ -123,85 +92,38 @@ let chartDosen = new Chart(ctx, {
             },
             scales: {
                 y: {beginAtZero: true, grace: '5%'},
-                x: {ticks: {autoSkip: false, maxRotation: 45, minRotation: 30}}
+                x: {ticks: {autoSkip: false, maxRotation: 100, minRotation: 30}}
             },
-        onClick: (e, elements) => {
-            if (elements.length > 0) {
-                const clickedElementIndex = elements[0].index;
-                currentPangkat = chartDosen.data.labels[clickedElementIndex];
-                updateTable();
-            }
         }
-    }
-});
-
-let table;
-
-function updateChart(){
-    const fakultas = $('#filterFakultas').val();
-    const departemen = $('#filterDepartemen').val();
-    const jk = $('#filterJK').val();
-    const status = $('#filterStatus').val();
-
-    const filtered = dataApi.filter(item => {
-        return (!fakultas || item.fakultas === fakultas) &&
-               (!departemen || item.departemen === departemen) &&
-               (!jk || item.jenis_kelamin === jk) &&
-               (!status || item.status_kepegawaian === status);
     });
 
-    const grouped = {};
+    // Fungsi Update Chart
+    function updateChart() {
+        const fakultasFilter = $("#filterFakultas").val();
+        const departemenFilter = $("#filterDepartemen").val();
+        const statusFilter = $("#filterStatus").val();
 
-    filtered.forEach(d => {
-        const pangkat = d.pangkat || 'Tanpa Pangkat';
-        grouped[pangkat] = (grouped[pangkat] || 0) + 1;
-    });
-
-    chartDosen.data.labels = Object.keys(grouped);
-    chartDosen.data.datasets[0].data = Object.values(grouped);
-    chartDosen.update();
-
-    updateTable();
-}
-
-function updateTable(){
-    const fakultas = $('#filterFakultas').val();
-    const departemen = $('#filterDepartemen').val();
-    const jk = $('#filterJK').val();
-    const status = $('#filterStatus').val();
-
-    const filtered = dataApi.filter(item => {
-        return (!fakultas || item.fakultas === fakultas) &&
-               (!departemen || item.departemen === departemen) &&
-               (!jk || item.jenis_kelamin === jk) &&
-               (!status || item.status_kepegawaian === status) &&
-               (!currentPangkat || (item.pangkat || 'Tanpa Pangkat') === currentPangkat);
-    });
-
-    if ($.fn.DataTable.isDataTable('#tabelDetail')) {
-        table.clear().rows.add(filtered).draw();
-    } else {
-        table = $('#tabelDetail').DataTable({
-            data: filtered,
-            columns: [
-                { data: 'nama' },
-                { data: 'nip_lama', defaultContent: '-' },
-                { data: 'nip_baru', defaultContent: '-' },
-                { data: 'fakultas' },
-                { data: 'departemen' },
-                { data: 'pendidikan_terakhir' }
-
-            ],
-            pageLength: 10,
-
+        const filtered = dataApi.filter(item => {
+            return (!fakultasFilter || item.fakultas === fakultasFilter) &&
+                   (!departemenFilter || item.departemen === departemenFilter) &&
+                   (!statusFilter || item.status_aktif === statusFilter);
         });
-    }
-}
 
-$(document).ready(() => {
-    initFilter();
-    updateChart();
-    $('#filterFakultas, #filterDepartemen, #filterJK, #filterStatus').change(() => {currentPangkat = ''; updateChart();});
-});
+        const labels = filtered.map(item => item.departemen ?? 'Tanpa Departemen');
+        const jumlahDosen = filtered.map(item => item.jumlah_dosen);
+
+        dosenChart.data.labels = labels;
+        dosenChart.data.datasets[0].data = jumlahDosen;
+        dosenChart.update();
+    }
+
+    $(document).ready(function() {
+        initFilters();
+        updateChart();
+
+        // Event Listener Filter
+        $('#filterFakultas, #filterDepartemen, #filterStatus').change(() => updateChart());
+    });
 </script>
+
 @endsection
