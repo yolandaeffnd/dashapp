@@ -1,7 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
-use App\Http\Controllers\{AccountsController,ParentMenuController,RolesController,MenusController,AccessRoleController,AkademikController,KategoriController,DashController, RefSemesterController, AppchartController, RenstraChartController};
+use App\Http\Controllers\{AccountsController,ParentMenuController,RolesController,MenusController,AccessRoleController,AkademikController,KategoriController,DashController, RefSemesterController, AppchartController, RenstraChartController, KepegawaianController};
 
 Route::get('dashboard', [DashController::class, 'index'])->name('dashboard');
 Route::get('tarikdata', [AkademikController::class, 'tarikdata'])->name('tarikdata');
@@ -10,7 +10,8 @@ Route::get('/chartikuII', [RenstraChartController::class, 'chartikuII'])->name('
 // Route::get('/chartmhs-angkatan', [AkademikController::class, 'mahasiswa_angkatan_index'])->name('chart.angkatan');
 Route::get('/chartmhs-angkatan', [AkademikController::class, 'mahasiswa_angkatan'])->name('chart.mhs.angkatan');
 Route::get('/chartmhs-ipk', [AkademikController::class, 'mahasiswa_ipk'])->name('chart.mhs.ipk');
-
+// kepegawaian
+Route::get('/chart-dosen-jumlah', [KepegawaianController::class, 'chartDosen'])->name('chart.dosen.jumlah');
 Route::get('semester', [RefSemesterController::class, 'index'])->name('semester.index');
 
 Route::group(['middleware'=>['role:admin']], function () {
