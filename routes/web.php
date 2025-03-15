@@ -13,6 +13,8 @@ Route::get('/chartmhs-ipk', [AkademikController::class, 'mahasiswa_ipk'])->name(
 // kepegawaian
 Route::get('/chart-dosen-jumlah', [KepegawaianController::class, 'chartDosen'])->name('chart.dosen.jumlah');
 Route::get('/chart-dosen-jumlah-jabatan', [KepegawaianController::class, 'chartDosenJabatan'])->name('chart.dosen.jabatan');
+Route::get('/chart-tendik-jumlah', [KepegawaianController::class, 'chartTendik'])->name('chart.tendik.jumlah');
+Route::get('/chart-tendik-jumlah-jabatan', [KepegawaianController::class, 'chartTendikJabatan'])->name('chart.tendik.jabatan');
 Route::get('semester', [RefSemesterController::class, 'index'])->name('semester.index');
 
 Route::group(['middleware'=>['role:admin']], function () {

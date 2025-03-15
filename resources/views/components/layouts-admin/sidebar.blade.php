@@ -107,6 +107,12 @@
                         <li class="sidebar-submenu__item">
                             <a href="{{ route('chart.dosen.jabatan') }}" class="sidebar-submenu__link"> Jumlah Dosen Jabatan </a>
                         </li>
+                        <li class="sidebar-submenu__item">
+                            <a href="{{ route('chart.tendik.jumlah') }}" class="sidebar-submenu__link"> Jumlah Tendik </a>
+                        </li>
+                        <li class="sidebar-submenu__item">
+                            <a href="{{ route('chart.tendik.jabatan') }}" class="sidebar-submenu__link"> Jumlah Tendik Jabatan </a>
+                        </li>
                     </ul>
                     <!-- Submenu End -->
                 </li>
