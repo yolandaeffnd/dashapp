@@ -1,7 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
-use App\Http\Controllers\{AccountsController,ParentMenuController,RolesController,MenusController,AccessRoleController,AkademikController,KategoriController,DashController, RefSemesterController, AppchartController, RenstraChartController, KepegawaianController};
+use App\Http\Controllers\{AccountsController,ParentMenuController,RolesController,MenusController,AccessRoleController,AkademikController,KategoriController,DashController, RefSemesterController, AppchartController, RenstraChartController, KepegawaianController,TracerStudyController};
 
 Route::get('dashboard', [DashController::class, 'index'])->name('dashboard');
 Route::get('tarikdata', [AkademikController::class, 'tarikdata'])->name('tarikdata');
@@ -15,6 +15,10 @@ Route::get('/chart-dosen-jumlah', [KepegawaianController::class, 'chartDosen'])-
 Route::get('/chart-dosen-jumlah-jabatan', [KepegawaianController::class, 'chartDosenJabatan'])->name('chart.dosen.jabatan');
 Route::get('/chart-tendik-jumlah', [KepegawaianController::class, 'chartTendik'])->name('chart.tendik.jumlah');
 Route::get('/chart-tendik-jumlah-jabatan', [KepegawaianController::class, 'chartTendikJabatan'])->name('chart.tendik.jabatan');
+// tracer
+Route::get('/chart-tracer', [TracerStudyController::class, 'chartTracer'])->name('chart.tracer.jumlah');
+
+//
 Route::get('semester', [RefSemesterController::class, 'index'])->name('semester.index');
 
 Route::group(['middleware'=>['role:admin']], function () {

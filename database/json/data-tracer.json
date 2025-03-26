@@ -1,0 +1,2749 @@
+{
+    "data": [
+        {
+            "id": 13,
+            "kodeJawaban": 4,
+            "keterangan": "kondisi fasilitas belajar (Fasililtas layanan kesehatan)",
+            "nilaiJawaban": "Baik",
+            "tahun_lulus": 2018,
+            "jawaban": 9
+        },
+        {
+            "id": 13,
+            "kodeJawaban": 3,
+            "keterangan": "kondisi fasilitas belajar (Fasililtas layanan kesehatan)",
+            "nilaiJawaban": "Cukup",
+            "tahun_lulus": 2018,
+            "jawaban": 18
+        },
+        {
+            "id": 13,
+            "kodeJawaban": 5,
+            "keterangan": "kondisi fasilitas belajar (Fasililtas layanan kesehatan)",
+            "nilaiJawaban": "Sangat Baik",
+            "tahun_lulus": 2018,
+            "jawaban": 2
+        },
+        {
+            "id": 13,
+            "kodeJawaban": 2,
+            "keterangan": "kondisi fasilitas belajar (Fasililtas layanan kesehatan)",
+            "nilaiJawaban": "Buruk",
+            "tahun_lulus": 2018,
+            "jawaban": 1
+        },
+        {
+            "id": 12,
+            "kodeJawaban": 4,
+            "keterangan": "kondisi fasilitas belajar (Pusat kegiatan mahasiswa dan fasilitasnya, ruang rekreasi)\n",
+            "nilaiJawaban": "Baik",
+            "tahun_lulus": 2018,
+            "jawaban": 8
+        },
+        {
+            "id": 12,
+            "kodeJawaban": 3,
+            "keterangan": "kondisi fasilitas belajar (Pusat kegiatan mahasiswa dan fasilitasnya, ruang rekreasi)\n",
+            "nilaiJawaban": "Cukup",
+            "tahun_lulus": 2018,
+            "jawaban": 17
+        },
+        {
+            "id": 12,
+            "kodeJawaban": 5,
+            "keterangan": "kondisi fasilitas belajar (Pusat kegiatan mahasiswa dan fasilitasnya, ruang rekreasi)\n",
+            "nilaiJawaban": "Sangat Baik",
+            "tahun_lulus": 2018,
+            "jawaban": 3
+        },
+        {
+            "id": 12,
+            "kodeJawaban": 2,
+            "keterangan": "kondisi fasilitas belajar (Pusat kegiatan mahasiswa dan fasilitasnya, ruang rekreasi)\n",
+            "nilaiJawaban": "Buruk",
+            "tahun_lulus": 2018,
+            "jawaban": 2
+        },
+        {
+            "id": 11,
+            "kodeJawaban": 4,
+            "keterangan": "kondisi fasilitas belajar (Kantin)",
+            "nilaiJawaban": "Baik",
+            "tahun_lulus": 2018,
+            "jawaban": 12
+        },
+        {
+            "id": 11,
+            "kodeJawaban": 3,
+            "keterangan": "kondisi fasilitas belajar (Kantin)",
+            "nilaiJawaban": "Cukup",
+            "tahun_lulus": 2018,
+            "jawaban": 14
+        },
+        {
+            "id": 11,
+            "kodeJawaban": 5,
+            "keterangan": "kondisi fasilitas belajar (Kantin)",
+            "nilaiJawaban": "Sangat Baik",
+            "tahun_lulus": 2018,
+            "jawaban": 3
+        },
+        {
+            "id": 11,
+            "kodeJawaban": 2,
+            "keterangan": "kondisi fasilitas belajar (Kantin)",
+            "nilaiJawaban": "Buruk",
+            "tahun_lulus": 2018,
+            "jawaban": 1
+        },
+        {
+            "id": 10,
+            "kodeJawaban": 4,
+            "keterangan": "kondisi fasilitas belajar (Akomodasi dan transportasi)",
+            "nilaiJawaban": "Baik",
+            "tahun_lulus": 2018,
+            "jawaban": 13
+        },
+        {
+            "id": 10,
+            "kodeJawaban": 3,
+            "keterangan": "kondisi fasilitas belajar (Akomodasi dan transportasi)",
+            "nilaiJawaban": "Cukup",
+            "tahun_lulus": 2018,
+            "jawaban": 11
+        },
+        {
+            "id": 10,
+            "kodeJawaban": 5,
+            "keterangan": "kondisi fasilitas belajar (Akomodasi dan transportasi)",
+            "nilaiJawaban": "Sangat Baik",
+            "tahun_lulus": 2018,
+            "jawaban": 5
+        },
+        {
+            "id": 10,
+            "kodeJawaban": 2,
+            "keterangan": "kondisi fasilitas belajar (Akomodasi dan transportasi)",
+            "nilaiJawaban": "Buruk",
+            "tahun_lulus": 2018,
+            "jawaban": 1
+        },
+        {
+            "id": 9,
+            "kodeJawaban": 4,
+            "keterangan": "kondisi fasilitas belajar (Variasi matakuliah yang ditawarkan)",
+            "nilaiJawaban": "Baik",
+            "tahun_lulus": 2018,
+            "jawaban": 16
+        },
+        {
+            "id": 9,
+            "kodeJawaban": 3,
+            "keterangan": "kondisi fasilitas belajar (Variasi matakuliah yang ditawarkan)",
+            "nilaiJawaban": "Cukup",
+            "tahun_lulus": 2018,
+            "jawaban": 10
+        },
+        {
+            "id": 9,
+            "kodeJawaban": 2,
+            "keterangan": "kondisi fasilitas belajar (Variasi matakuliah yang ditawarkan)",
+            "nilaiJawaban": "Buruk",
+            "tahun_lulus": 2018,
+            "jawaban": 1
+        },
+        {
+            "id": 9,
+            "kodeJawaban": 5,
+            "keterangan": "kondisi fasilitas belajar (Variasi matakuliah yang ditawarkan)",
+            "nilaiJawaban": "Sangat Baik",
+            "tahun_lulus": 2018,
+            "jawaban": 3
+        },
+        {
+            "id": 8,
+            "kodeJawaban": 3,
+            "keterangan": "kondisi fasilitas belajar (Laboratorium)",
+            "nilaiJawaban": "Cukup",
+            "tahun_lulus": 2018,
+            "jawaban": 9
+        },
+        {
+            "id": 8,
+            "kodeJawaban": 5,
+            "keterangan": "kondisi fasilitas belajar (Laboratorium)",
+            "nilaiJawaban": "Sangat Baik",
+            "tahun_lulus": 2018,
+            "jawaban": 4
+        },
+        {
+            "id": 8,
+            "kodeJawaban": 4,
+            "keterangan": "kondisi fasilitas belajar (Laboratorium)",
+            "nilaiJawaban": "Baik",
+            "tahun_lulus": 2018,
+            "jawaban": 17
+        },
+        {
+            "id": 7,
+            "kodeJawaban": 4,
+            "keterangan": "kondisi fasilitas belajar (Ruang belajar)",
+            "nilaiJawaban": "Baik",
+            "tahun_lulus": 2018,
+            "jawaban": 19
+        },
+        {
+            "id": 7,
+            "kodeJawaban": 3,
+            "keterangan": "kondisi fasilitas belajar (Ruang belajar)",
+            "nilaiJawaban": "Cukup",
+            "tahun_lulus": 2018,
+            "jawaban": 7
+        },
+        {
+            "id": 7,
+            "kodeJawaban": 5,
+            "keterangan": "kondisi fasilitas belajar (Ruang belajar)",
+            "nilaiJawaban": "Sangat Baik",
+            "tahun_lulus": 2018,
+            "jawaban": 3
+        },
+        {
+            "id": 7,
+            "kodeJawaban": 2,
+            "keterangan": "kondisi fasilitas belajar (Ruang belajar)",
+            "nilaiJawaban": "Buruk",
+            "tahun_lulus": 2018,
+            "jawaban": 1
+        },
+        {
+            "id": 6,
+            "kodeJawaban": 3,
+            "keterangan": " kondisi fasilitas belajar (Modul belajar)",
+            "nilaiJawaban": "Cukup",
+            "tahun_lulus": 2018,
+            "jawaban": 11
+        },
+        {
+            "id": 6,
+            "kodeJawaban": 4,
+            "keterangan": " kondisi fasilitas belajar (Modul belajar)",
+            "nilaiJawaban": "Baik",
+            "tahun_lulus": 2018,
+            "jawaban": 14
+        },
+        {
+            "id": 6,
+            "kodeJawaban": 5,
+            "keterangan": " kondisi fasilitas belajar (Modul belajar)",
+            "nilaiJawaban": "Sangat Baik",
+            "tahun_lulus": 2018,
+            "jawaban": 4
+        },
+        {
+            "id": 6,
+            "kodeJawaban": 2,
+            "keterangan": " kondisi fasilitas belajar (Modul belajar)",
+            "nilaiJawaban": "Buruk",
+            "tahun_lulus": 2018,
+            "jawaban": 1
+        },
+        {
+            "id": 5,
+            "kodeJawaban": 4,
+            "keterangan": "kondisi fasilitas belajar (Teknologi Informasi dan Komunikasi)",
+            "nilaiJawaban": "Baik",
+            "tahun_lulus": 2018,
+            "jawaban": 16
+        },
+        {
+            "id": 5,
+            "kodeJawaban": 3,
+            "keterangan": "kondisi fasilitas belajar (Teknologi Informasi dan Komunikasi)",
+            "nilaiJawaban": "Cukup",
+            "tahun_lulus": 2018,
+            "jawaban": 8
+        },
+        {
+            "id": 5,
+            "kodeJawaban": 2,
+            "keterangan": "kondisi fasilitas belajar (Teknologi Informasi dan Komunikasi)",
+            "nilaiJawaban": "Buruk",
+            "tahun_lulus": 2018,
+            "jawaban": 1
+        },
+        {
+            "id": 5,
+            "kodeJawaban": 5,
+            "keterangan": "kondisi fasilitas belajar (Teknologi Informasi dan Komunikasi)",
+            "nilaiJawaban": "Sangat Baik",
+            "tahun_lulus": 2018,
+            "jawaban": 5
+        },
+        {
+            "id": 4,
+            "kodeJawaban": 4,
+            "keterangan": " kondisi fasilitas belajar(Perpustakaan)",
+            "nilaiJawaban": "Baik",
+            "tahun_lulus": 2018,
+            "jawaban": 14
+        },
+        {
+            "id": 4,
+            "kodeJawaban": 3,
+            "keterangan": " kondisi fasilitas belajar(Perpustakaan)",
+            "nilaiJawaban": "Cukup",
+            "tahun_lulus": 2018,
+            "jawaban": 9
+        },
+        {
+            "id": 4,
+            "kodeJawaban": 2,
+            "keterangan": " kondisi fasilitas belajar(Perpustakaan)",
+            "nilaiJawaban": "Buruk",
+            "tahun_lulus": 2018,
+            "jawaban": 1
+        },
+        {
+            "id": 4,
+            "kodeJawaban": 5,
+            "keterangan": " kondisi fasilitas belajar(Perpustakaan)",
+            "nilaiJawaban": "Sangat Baik",
+            "tahun_lulus": 2018,
+            "jawaban": 6
+        },
+        {
+            "id": 3,
+            "kodeJawaban": 1,
+            "keterangan": "Sumber Dana Perkuliahan",
+            "nilaiJawaban": " Biaya sendiri / keluarga",
+            "tahun_lulus": 2018,
+            "jawaban": 23
+        },
+        {
+            "id": 3,
+            "kodeJawaban": 6,
+            "keterangan": "Sumber Dana Perkuliahan",
+            "nilaiJawaban": "Beasiswa Perusahaan",
+            "tahun_lulus": 2018,
+            "jawaban": 2
+        },
+        {
+            "id": 2,
+            "kodeJawaban": 2,
+            "keterangan": "Yang Mempengaruhi Masa Study",
+            "nilaiJawaban": "Lamanya pengerjaan tugas akhir dan skripsi",
+            "tahun_lulus": 2018,
+            "jawaban": 27
+        },
+        {
+            "id": 2,
+            "kodeJawaban": 1,
+            "keterangan": "Yang Mempengaruhi Masa Study",
+            "nilaiJawaban": "alasan keuangan",
+            "tahun_lulus": 2018,
+            "jawaban": 77
+        },
+        {
+            "id": 2,
+            "kodeJawaban": 5,
+            "keterangan": "Yang Mempengaruhi Masa Study",
+            "nilaiJawaban": "Bekerja",
+            "tahun_lulus": 2018,
+            "jawaban": 37
+        },
+        {
+            "id": 2,
+            "kodeJawaban": 3,
+            "keterangan": "Yang Mempengaruhi Masa Study",
+            "nilaiJawaban": "Alasan keluarga",
+            "tahun_lulus": 2018,
+            "jawaban": 69
+        },
+        {
+            "id": 1,
+            "kodeJawaban": 1,
+            "keterangan": "Status Saat Ini",
+            "nilaiJawaban": "full time / part time",
+            "tahun_lulus": 2018,
+            "jawaban": 29
+        },
+        {
+            "id": 1,
+            "kodeJawaban": 3,
+            "keterangan": "Status Saat Ini",
+            "nilaiJawaban": "Wiraswasta",
+            "tahun_lulus": 2018,
+            "jawaban": 2
+        },
+        {
+            "id": 13,
+            "kodeJawaban": 2,
+            "keterangan": "kondisi fasilitas belajar (Fasililtas layanan kesehatan)",
+            "nilaiJawaban": "Buruk",
+            "tahun_lulus": 2019,
+            "jawaban": 5
+        },
+        {
+            "id": 13,
+            "kodeJawaban": 3,
+            "keterangan": "kondisi fasilitas belajar (Fasililtas layanan kesehatan)",
+            "nilaiJawaban": "Cukup",
+            "tahun_lulus": 2019,
+            "jawaban": 24
+        },
+        {
+            "id": 13,
+            "kodeJawaban": 4,
+            "keterangan": "kondisi fasilitas belajar (Fasililtas layanan kesehatan)",
+            "nilaiJawaban": "Baik",
+            "tahun_lulus": 2019,
+            "jawaban": 32
+        },
+        {
+            "id": 13,
+            "kodeJawaban": 5,
+            "keterangan": "kondisi fasilitas belajar (Fasililtas layanan kesehatan)",
+            "nilaiJawaban": "Sangat Baik",
+            "tahun_lulus": 2019,
+            "jawaban": 14
+        },
+        {
+            "id": 12,
+            "kodeJawaban": 2,
+            "keterangan": "kondisi fasilitas belajar (Pusat kegiatan mahasiswa dan fasilitasnya, ruang rekreasi)\n",
+            "nilaiJawaban": "Buruk",
+            "tahun_lulus": 2019,
+            "jawaban": 5
+        },
+        {
+            "id": 12,
+            "kodeJawaban": 3,
+            "keterangan": "kondisi fasilitas belajar (Pusat kegiatan mahasiswa dan fasilitasnya, ruang rekreasi)\n",
+            "nilaiJawaban": "Cukup",
+            "tahun_lulus": 2019,
+            "jawaban": 25
+        },
+        {
+            "id": 12,
+            "kodeJawaban": 4,
+            "keterangan": "kondisi fasilitas belajar (Pusat kegiatan mahasiswa dan fasilitasnya, ruang rekreasi)\n",
+            "nilaiJawaban": "Baik",
+            "tahun_lulus": 2019,
+            "jawaban": 33
+        },
+        {
+            "id": 12,
+            "kodeJawaban": 5,
+            "keterangan": "kondisi fasilitas belajar (Pusat kegiatan mahasiswa dan fasilitasnya, ruang rekreasi)\n",
+            "nilaiJawaban": "Sangat Baik",
+            "tahun_lulus": 2019,
+            "jawaban": 12
+        },
+        {
+            "id": 11,
+            "kodeJawaban": 3,
+            "keterangan": "kondisi fasilitas belajar (Kantin)",
+            "nilaiJawaban": "Cukup",
+            "tahun_lulus": 2019,
+            "jawaban": 24
+        },
+        {
+            "id": 11,
+            "kodeJawaban": 4,
+            "keterangan": "kondisi fasilitas belajar (Kantin)",
+            "nilaiJawaban": "Baik",
+            "tahun_lulus": 2019,
+            "jawaban": 35
+        },
+        {
+            "id": 11,
+            "kodeJawaban": 1,
+            "keterangan": "kondisi fasilitas belajar (Kantin)",
+            "nilaiJawaban": "Sangat Buruk",
+            "tahun_lulus": 2019,
+            "jawaban": 1
+        },
+        {
+            "id": 11,
+            "kodeJawaban": 5,
+            "keterangan": "kondisi fasilitas belajar (Kantin)",
+            "nilaiJawaban": "Sangat Baik",
+            "tahun_lulus": 2019,
+            "jawaban": 11
+        },
+        {
+            "id": 11,
+            "kodeJawaban": 2,
+            "keterangan": "kondisi fasilitas belajar (Kantin)",
+            "nilaiJawaban": "Buruk",
+            "tahun_lulus": 2019,
+            "jawaban": 4
+        },
+        {
+            "id": 10,
+            "kodeJawaban": 3,
+            "keterangan": "kondisi fasilitas belajar (Akomodasi dan transportasi)",
+            "nilaiJawaban": "Cukup",
+            "tahun_lulus": 2019,
+            "jawaban": 24
+        },
+        {
+            "id": 10,
+            "kodeJawaban": 2,
+            "keterangan": "kondisi fasilitas belajar (Akomodasi dan transportasi)",
+            "nilaiJawaban": "Buruk",
+            "tahun_lulus": 2019,
+            "jawaban": 3
+        },
+        {
+            "id": 10,
+            "kodeJawaban": 4,
+            "keterangan": "kondisi fasilitas belajar (Akomodasi dan transportasi)",
+            "nilaiJawaban": "Baik",
+            "tahun_lulus": 2019,
+            "jawaban": 34
+        },
+        {
+            "id": 10,
+            "kodeJawaban": 5,
+            "keterangan": "kondisi fasilitas belajar (Akomodasi dan transportasi)",
+            "nilaiJawaban": "Sangat Baik",
+            "tahun_lulus": 2019,
+            "jawaban": 14
+        },
+        {
+            "id": 9,
+            "kodeJawaban": 4,
+            "keterangan": "kondisi fasilitas belajar (Variasi matakuliah yang ditawarkan)",
+            "nilaiJawaban": "Baik",
+            "tahun_lulus": 2019,
+            "jawaban": 38
+        },
+        {
+            "id": 9,
+            "kodeJawaban": 3,
+            "keterangan": "kondisi fasilitas belajar (Variasi matakuliah yang ditawarkan)",
+            "nilaiJawaban": "Cukup",
+            "tahun_lulus": 2019,
+            "jawaban": 18
+        },
+        {
+            "id": 9,
+            "kodeJawaban": 5,
+            "keterangan": "kondisi fasilitas belajar (Variasi matakuliah yang ditawarkan)",
+            "nilaiJawaban": "Sangat Baik",
+            "tahun_lulus": 2019,
+            "jawaban": 18
+        },
+        {
+            "id": 9,
+            "kodeJawaban": 2,
+            "keterangan": "kondisi fasilitas belajar (Variasi matakuliah yang ditawarkan)",
+            "nilaiJawaban": "Buruk",
+            "tahun_lulus": 2019,
+            "jawaban": 1
+        },
+        {
+            "id": 8,
+            "kodeJawaban": 4,
+            "keterangan": "kondisi fasilitas belajar (Laboratorium)",
+            "nilaiJawaban": "Baik",
+            "tahun_lulus": 2019,
+            "jawaban": 34
+        },
+        {
+            "id": 8,
+            "kodeJawaban": 3,
+            "keterangan": "kondisi fasilitas belajar (Laboratorium)",
+            "nilaiJawaban": "Cukup",
+            "tahun_lulus": 2019,
+            "jawaban": 25
+        },
+        {
+            "id": 8,
+            "kodeJawaban": 5,
+            "keterangan": "kondisi fasilitas belajar (Laboratorium)",
+            "nilaiJawaban": "Sangat Baik",
+            "tahun_lulus": 2019,
+            "jawaban": 15
+        },
+        {
+            "id": 8,
+            "kodeJawaban": 2,
+            "keterangan": "kondisi fasilitas belajar (Laboratorium)",
+            "nilaiJawaban": "Buruk",
+            "tahun_lulus": 2019,
+            "jawaban": 1
+        },
+        {
+            "id": 7,
+            "kodeJawaban": 4,
+            "keterangan": "kondisi fasilitas belajar (Ruang belajar)",
+            "nilaiJawaban": "Baik",
+            "tahun_lulus": 2019,
+            "jawaban": 35
+        },
+        {
+            "id": 7,
+            "kodeJawaban": 3,
+            "keterangan": "kondisi fasilitas belajar (Ruang belajar)",
+            "nilaiJawaban": "Cukup",
+            "tahun_lulus": 2019,
+            "jawaban": 18
+        },
+        {
+            "id": 7,
+            "kodeJawaban": 5,
+            "keterangan": "kondisi fasilitas belajar (Ruang belajar)",
+            "nilaiJawaban": "Sangat Baik",
+            "tahun_lulus": 2019,
+            "jawaban": 20
+        },
+        {
+            "id": 7,
+            "kodeJawaban": 2,
+            "keterangan": "kondisi fasilitas belajar (Ruang belajar)",
+            "nilaiJawaban": "Buruk",
+            "tahun_lulus": 2019,
+            "jawaban": 2
+        },
+        {
+            "id": 6,
+            "kodeJawaban": 4,
+            "keterangan": " kondisi fasilitas belajar (Modul belajar)",
+            "nilaiJawaban": "Baik",
+            "tahun_lulus": 2019,
+            "jawaban": 37
+        },
+        {
+            "id": 6,
+            "kodeJawaban": 3,
+            "keterangan": " kondisi fasilitas belajar (Modul belajar)",
+            "nilaiJawaban": "Cukup",
+            "tahun_lulus": 2019,
+            "jawaban": 19
+        },
+        {
+            "id": 6,
+            "kodeJawaban": 5,
+            "keterangan": " kondisi fasilitas belajar (Modul belajar)",
+            "nilaiJawaban": "Sangat Baik",
+            "tahun_lulus": 2019,
+            "jawaban": 15
+        },
+        {
+            "id": 6,
+            "kodeJawaban": 2,
+            "keterangan": " kondisi fasilitas belajar (Modul belajar)",
+            "nilaiJawaban": "Buruk",
+            "tahun_lulus": 2019,
+            "jawaban": 4
+        },
+        {
+            "id": 5,
+            "kodeJawaban": 4,
+            "keterangan": "kondisi fasilitas belajar (Teknologi Informasi dan Komunikasi)",
+            "nilaiJawaban": "Baik",
+            "tahun_lulus": 2019,
+            "jawaban": 40
+        },
+        {
+            "id": 5,
+            "kodeJawaban": 3,
+            "keterangan": "kondisi fasilitas belajar (Teknologi Informasi dan Komunikasi)",
+            "nilaiJawaban": "Cukup",
+            "tahun_lulus": 2019,
+            "jawaban": 17
+        },
+        {
+            "id": 5,
+            "kodeJawaban": 5,
+            "keterangan": "kondisi fasilitas belajar (Teknologi Informasi dan Komunikasi)",
+            "nilaiJawaban": "Sangat Baik",
+            "tahun_lulus": 2019,
+            "jawaban": 15
+        },
+        {
+            "id": 5,
+            "kodeJawaban": 2,
+            "keterangan": "kondisi fasilitas belajar (Teknologi Informasi dan Komunikasi)",
+            "nilaiJawaban": "Buruk",
+            "tahun_lulus": 2019,
+            "jawaban": 3
+        },
+        {
+            "id": 4,
+            "kodeJawaban": 4,
+            "keterangan": " kondisi fasilitas belajar(Perpustakaan)",
+            "nilaiJawaban": "Baik",
+            "tahun_lulus": 2019,
+            "jawaban": 39
+        },
+        {
+            "id": 4,
+            "kodeJawaban": 3,
+            "keterangan": " kondisi fasilitas belajar(Perpustakaan)",
+            "nilaiJawaban": "Cukup",
+            "tahun_lulus": 2019,
+            "jawaban": 19
+        },
+        {
+            "id": 4,
+            "kodeJawaban": 5,
+            "keterangan": " kondisi fasilitas belajar(Perpustakaan)",
+            "nilaiJawaban": "Sangat Baik",
+            "tahun_lulus": 2019,
+            "jawaban": 17
+        },
+        {
+            "id": 3,
+            "kodeJawaban": 1,
+            "keterangan": "Sumber Dana Perkuliahan",
+            "nilaiJawaban": " Biaya sendiri / keluarga",
+            "tahun_lulus": 2019,
+            "jawaban": 47
+        },
+        {
+            "id": 3,
+            "kodeJawaban": 3,
+            "keterangan": "Sumber Dana Perkuliahan",
+            "nilaiJawaban": "Beasiswa Bidikmisi",
+            "tahun_lulus": 2019,
+            "jawaban": 2
+        },
+        {
+            "id": 3,
+            "kodeJawaban": 4,
+            "keterangan": "Sumber Dana Perkuliahan",
+            "nilaiJawaban": "Beasiswa PPA",
+            "tahun_lulus": 2019,
+            "jawaban": 2
+        },
+        {
+            "id": 3,
+            "kodeJawaban": 5,
+            "keterangan": "Sumber Dana Perkuliahan",
+            "nilaiJawaban": "Beasiswa AFIRMASI",
+            "tahun_lulus": 2019,
+            "jawaban": 1
+        },
+        {
+            "id": 3,
+            "kodeJawaban": 6,
+            "keterangan": "Sumber Dana Perkuliahan",
+            "nilaiJawaban": "Beasiswa Perusahaan",
+            "tahun_lulus": 2019,
+            "jawaban": 6
+        },
+        {
+            "id": 2,
+            "kodeJawaban": 5,
+            "keterangan": "Yang Mempengaruhi Masa Study",
+            "nilaiJawaban": "Bekerja",
+            "tahun_lulus": 2019,
+            "jawaban": 107
+        },
+        {
+            "id": 2,
+            "kodeJawaban": 3,
+            "keterangan": "Yang Mempengaruhi Masa Study",
+            "nilaiJawaban": "Alasan keluarga",
+            "tahun_lulus": 2019,
+            "jawaban": 187
+        },
+        {
+            "id": 2,
+            "kodeJawaban": 1,
+            "keterangan": "Yang Mempengaruhi Masa Study",
+            "nilaiJawaban": "alasan keuangan",
+            "tahun_lulus": 2019,
+            "jawaban": 167
+        },
+        {
+            "id": 2,
+            "kodeJawaban": 2,
+            "keterangan": "Yang Mempengaruhi Masa Study",
+            "nilaiJawaban": "Lamanya pengerjaan tugas akhir dan skripsi",
+            "tahun_lulus": 2019,
+            "jawaban": 57
+        },
+        {
+            "id": 1,
+            "kodeJawaban": 1,
+            "keterangan": "Status Saat Ini",
+            "nilaiJawaban": "full time / part time",
+            "tahun_lulus": 2019,
+            "jawaban": 76
+        },
+        {
+            "id": 1,
+            "kodeJawaban": 2,
+            "keterangan": "Status Saat Ini",
+            "nilaiJawaban": "Belum memungkinkan bekerja",
+            "tahun_lulus": 2019,
+            "jawaban": 5
+        },
+        {
+            "id": 1,
+            "kodeJawaban": 3,
+            "keterangan": "Status Saat Ini",
+            "nilaiJawaban": "Wiraswasta",
+            "tahun_lulus": 2019,
+            "jawaban": 2
+        },
+        {
+            "id": 1,
+            "kodeJawaban": 4,
+            "keterangan": "Status Saat Ini",
+            "nilaiJawaban": " Melanjutkan pendidikan",
+            "tahun_lulus": 2019,
+            "jawaban": 4
+        },
+        {
+            "id": 1,
+            "kodeJawaban": 5,
+            "keterangan": "Status Saat Ini",
+            "nilaiJawaban": " Tidak kerja tetapi sedang mencari kerja",
+            "tahun_lulus": 2019,
+            "jawaban": 2
+        },
+        {
+            "id": 13,
+            "kodeJawaban": 4,
+            "keterangan": "kondisi fasilitas belajar (Fasililtas layanan kesehatan)",
+            "nilaiJawaban": "Baik",
+            "tahun_lulus": 2020,
+            "jawaban": 131
+        },
+        {
+            "id": 13,
+            "kodeJawaban": 3,
+            "keterangan": "kondisi fasilitas belajar (Fasililtas layanan kesehatan)",
+            "nilaiJawaban": "Cukup",
+            "tahun_lulus": 2020,
+            "jawaban": 79
+        },
+        {
+            "id": 13,
+            "kodeJawaban": 2,
+            "keterangan": "kondisi fasilitas belajar (Fasililtas layanan kesehatan)",
+            "nilaiJawaban": "Buruk",
+            "tahun_lulus": 2020,
+            "jawaban": 6
+        },
+        {
+            "id": 13,
+            "kodeJawaban": 5,
+            "keterangan": "kondisi fasilitas belajar (Fasililtas layanan kesehatan)",
+            "nilaiJawaban": "Sangat Baik",
+            "tahun_lulus": 2020,
+            "jawaban": 36
+        },
+        {
+            "id": 13,
+            "kodeJawaban": 1,
+            "keterangan": "kondisi fasilitas belajar (Fasililtas layanan kesehatan)",
+            "nilaiJawaban": "Sangat Buruk",
+            "tahun_lulus": 2020,
+            "jawaban": 1
+        },
+        {
+            "id": 12,
+            "kodeJawaban": 4,
+            "keterangan": "kondisi fasilitas belajar (Pusat kegiatan mahasiswa dan fasilitasnya, ruang rekreasi)\n",
+            "nilaiJawaban": "Baik",
+            "tahun_lulus": 2020,
+            "jawaban": 122
+        },
+        {
+            "id": 12,
+            "kodeJawaban": 3,
+            "keterangan": "kondisi fasilitas belajar (Pusat kegiatan mahasiswa dan fasilitasnya, ruang rekreasi)\n",
+            "nilaiJawaban": "Cukup",
+            "tahun_lulus": 2020,
+            "jawaban": 87
+        },
+        {
+            "id": 12,
+            "kodeJawaban": 2,
+            "keterangan": "kondisi fasilitas belajar (Pusat kegiatan mahasiswa dan fasilitasnya, ruang rekreasi)\n",
+            "nilaiJawaban": "Buruk",
+            "tahun_lulus": 2020,
+            "jawaban": 5
+        },
+        {
+            "id": 12,
+            "kodeJawaban": 5,
+            "keterangan": "kondisi fasilitas belajar (Pusat kegiatan mahasiswa dan fasilitasnya, ruang rekreasi)\n",
+            "nilaiJawaban": "Sangat Baik",
+            "tahun_lulus": 2020,
+            "jawaban": 39
+        },
+        {
+            "id": 11,
+            "kodeJawaban": 4,
+            "keterangan": "kondisi fasilitas belajar (Kantin)",
+            "nilaiJawaban": "Baik",
+            "tahun_lulus": 2020,
+            "jawaban": 110
+        },
+        {
+            "id": 11,
+            "kodeJawaban": 3,
+            "keterangan": "kondisi fasilitas belajar (Kantin)",
+            "nilaiJawaban": "Cukup",
+            "tahun_lulus": 2020,
+            "jawaban": 98
+        },
+        {
+            "id": 11,
+            "kodeJawaban": 2,
+            "keterangan": "kondisi fasilitas belajar (Kantin)",
+            "nilaiJawaban": "Buruk",
+            "tahun_lulus": 2020,
+            "jawaban": 7
+        },
+        {
+            "id": 11,
+            "kodeJawaban": 5,
+            "keterangan": "kondisi fasilitas belajar (Kantin)",
+            "nilaiJawaban": "Sangat Baik",
+            "tahun_lulus": 2020,
+            "jawaban": 38
+        },
+        {
+            "id": 10,
+            "kodeJawaban": 4,
+            "keterangan": "kondisi fasilitas belajar (Akomodasi dan transportasi)",
+            "nilaiJawaban": "Baik",
+            "tahun_lulus": 2020,
+            "jawaban": 132
+        },
+        {
+            "id": 10,
+            "kodeJawaban": 3,
+            "keterangan": "kondisi fasilitas belajar (Akomodasi dan transportasi)",
+            "nilaiJawaban": "Cukup",
+            "tahun_lulus": 2020,
+            "jawaban": 72
+        },
+        {
+            "id": 10,
+            "kodeJawaban": 5,
+            "keterangan": "kondisi fasilitas belajar (Akomodasi dan transportasi)",
+            "nilaiJawaban": "Sangat Baik",
+            "tahun_lulus": 2020,
+            "jawaban": 43
+        },
+        {
+            "id": 10,
+            "kodeJawaban": 2,
+            "keterangan": "kondisi fasilitas belajar (Akomodasi dan transportasi)",
+            "nilaiJawaban": "Buruk",
+            "tahun_lulus": 2020,
+            "jawaban": 5
+        },
+        {
+            "id": 10,
+            "kodeJawaban": 1,
+            "keterangan": "kondisi fasilitas belajar (Akomodasi dan transportasi)",
+            "nilaiJawaban": "Sangat Buruk",
+            "tahun_lulus": 2020,
+            "jawaban": 1
+        },
+        {
+            "id": 9,
+            "kodeJawaban": 4,
+            "keterangan": "kondisi fasilitas belajar (Variasi matakuliah yang ditawarkan)",
+            "nilaiJawaban": "Baik",
+            "tahun_lulus": 2020,
+            "jawaban": 149
+        },
+        {
+            "id": 9,
+            "kodeJawaban": 5,
+            "keterangan": "kondisi fasilitas belajar (Variasi matakuliah yang ditawarkan)",
+            "nilaiJawaban": "Sangat Baik",
+            "tahun_lulus": 2020,
+            "jawaban": 64
+        },
+        {
+            "id": 9,
+            "kodeJawaban": 3,
+            "keterangan": "kondisi fasilitas belajar (Variasi matakuliah yang ditawarkan)",
+            "nilaiJawaban": "Cukup",
+            "tahun_lulus": 2020,
+            "jawaban": 38
+        },
+        {
+            "id": 9,
+            "kodeJawaban": 2,
+            "keterangan": "kondisi fasilitas belajar (Variasi matakuliah yang ditawarkan)",
+            "nilaiJawaban": "Buruk",
+            "tahun_lulus": 2020,
+            "jawaban": 2
+        },
+        {
+            "id": 8,
+            "kodeJawaban": 4,
+            "keterangan": "kondisi fasilitas belajar (Laboratorium)",
+            "nilaiJawaban": "Baik",
+            "tahun_lulus": 2020,
+            "jawaban": 131
+        },
+        {
+            "id": 8,
+            "kodeJawaban": 3,
+            "keterangan": "kondisi fasilitas belajar (Laboratorium)",
+            "nilaiJawaban": "Cukup",
+            "tahun_lulus": 2020,
+            "jawaban": 60
+        },
+        {
+            "id": 8,
+            "kodeJawaban": 2,
+            "keterangan": "kondisi fasilitas belajar (Laboratorium)",
+            "nilaiJawaban": "Buruk",
+            "tahun_lulus": 2020,
+            "jawaban": 4
+        },
+        {
+            "id": 8,
+            "kodeJawaban": 5,
+            "keterangan": "kondisi fasilitas belajar (Laboratorium)",
+            "nilaiJawaban": "Sangat Baik",
+            "tahun_lulus": 2020,
+            "jawaban": 58
+        },
+        {
+            "id": 7,
+            "kodeJawaban": 4,
+            "keterangan": "kondisi fasilitas belajar (Ruang belajar)",
+            "nilaiJawaban": "Baik",
+            "tahun_lulus": 2020,
+            "jawaban": 140
+        },
+        {
+            "id": 7,
+            "kodeJawaban": 5,
+            "keterangan": "kondisi fasilitas belajar (Ruang belajar)",
+            "nilaiJawaban": "Sangat Baik",
+            "tahun_lulus": 2020,
+            "jawaban": 61
+        },
+        {
+            "id": 7,
+            "kodeJawaban": 3,
+            "keterangan": "kondisi fasilitas belajar (Ruang belajar)",
+            "nilaiJawaban": "Cukup",
+            "tahun_lulus": 2020,
+            "jawaban": 48
+        },
+        {
+            "id": 7,
+            "kodeJawaban": 2,
+            "keterangan": "kondisi fasilitas belajar (Ruang belajar)",
+            "nilaiJawaban": "Buruk",
+            "tahun_lulus": 2020,
+            "jawaban": 4
+        },
+        {
+            "id": 6,
+            "kodeJawaban": 4,
+            "keterangan": " kondisi fasilitas belajar (Modul belajar)",
+            "nilaiJawaban": "Baik",
+            "tahun_lulus": 2020,
+            "jawaban": 130
+        },
+        {
+            "id": 6,
+            "kodeJawaban": 5,
+            "keterangan": " kondisi fasilitas belajar (Modul belajar)",
+            "nilaiJawaban": "Sangat Baik",
+            "tahun_lulus": 2020,
+            "jawaban": 56
+        },
+        {
+            "id": 6,
+            "kodeJawaban": 3,
+            "keterangan": " kondisi fasilitas belajar (Modul belajar)",
+            "nilaiJawaban": "Cukup",
+            "tahun_lulus": 2020,
+            "jawaban": 64
+        },
+        {
+            "id": 6,
+            "kodeJawaban": 2,
+            "keterangan": " kondisi fasilitas belajar (Modul belajar)",
+            "nilaiJawaban": "Buruk",
+            "tahun_lulus": 2020,
+            "jawaban": 3
+        },
+        {
+            "id": 5,
+            "kodeJawaban": 4,
+            "keterangan": "kondisi fasilitas belajar (Teknologi Informasi dan Komunikasi)",
+            "nilaiJawaban": "Baik",
+            "tahun_lulus": 2020,
+            "jawaban": 143
+        },
+        {
+            "id": 5,
+            "kodeJawaban": 5,
+            "keterangan": "kondisi fasilitas belajar (Teknologi Informasi dan Komunikasi)",
+            "nilaiJawaban": "Sangat Baik",
+            "tahun_lulus": 2020,
+            "jawaban": 65
+        },
+        {
+            "id": 5,
+            "kodeJawaban": 3,
+            "keterangan": "kondisi fasilitas belajar (Teknologi Informasi dan Komunikasi)",
+            "nilaiJawaban": "Cukup",
+            "tahun_lulus": 2020,
+            "jawaban": 43
+        },
+        {
+            "id": 5,
+            "kodeJawaban": 1,
+            "keterangan": "kondisi fasilitas belajar (Teknologi Informasi dan Komunikasi)",
+            "nilaiJawaban": "Sangat Buruk",
+            "tahun_lulus": 2020,
+            "jawaban": 1
+        },
+        {
+            "id": 4,
+            "kodeJawaban": 4,
+            "keterangan": " kondisi fasilitas belajar(Perpustakaan)",
+            "nilaiJawaban": "Baik",
+            "tahun_lulus": 2020,
+            "jawaban": 131
+        },
+        {
+            "id": 4,
+            "kodeJawaban": 3,
+            "keterangan": " kondisi fasilitas belajar(Perpustakaan)",
+            "nilaiJawaban": "Cukup",
+            "tahun_lulus": 2020,
+            "jawaban": 41
+        },
+        {
+            "id": 4,
+            "kodeJawaban": 5,
+            "keterangan": " kondisi fasilitas belajar(Perpustakaan)",
+            "nilaiJawaban": "Sangat Baik",
+            "tahun_lulus": 2020,
+            "jawaban": 79
+        },
+        {
+            "id": 4,
+            "kodeJawaban": 1,
+            "keterangan": " kondisi fasilitas belajar(Perpustakaan)",
+            "nilaiJawaban": "Sangat Buruk",
+            "tahun_lulus": 2020,
+            "jawaban": 1
+        },
+        {
+            "id": 4,
+            "kodeJawaban": 2,
+            "keterangan": " kondisi fasilitas belajar(Perpustakaan)",
+            "nilaiJawaban": "Buruk",
+            "tahun_lulus": 2020,
+            "jawaban": 1
+        },
+        {
+            "id": 3,
+            "kodeJawaban": 1,
+            "keterangan": "Sumber Dana Perkuliahan",
+            "nilaiJawaban": " Biaya sendiri / keluarga",
+            "tahun_lulus": 2020,
+            "jawaban": 195
+        },
+        {
+            "id": 3,
+            "kodeJawaban": 3,
+            "keterangan": "Sumber Dana Perkuliahan",
+            "nilaiJawaban": "Beasiswa Bidikmisi",
+            "tahun_lulus": 2020,
+            "jawaban": 11
+        },
+        {
+            "id": 3,
+            "kodeJawaban": 4,
+            "keterangan": "Sumber Dana Perkuliahan",
+            "nilaiJawaban": "Beasiswa PPA",
+            "tahun_lulus": 2020,
+            "jawaban": 1
+        },
+        {
+            "id": 3,
+            "kodeJawaban": 6,
+            "keterangan": "Sumber Dana Perkuliahan",
+            "nilaiJawaban": "Beasiswa Perusahaan",
+            "tahun_lulus": 2020,
+            "jawaban": 12
+        },
+        {
+            "id": 2,
+            "kodeJawaban": 1,
+            "keterangan": "Yang Mempengaruhi Masa Study",
+            "nilaiJawaban": "alasan keuangan",
+            "tahun_lulus": 2020,
+            "jawaban": 604
+        },
+        {
+            "id": 2,
+            "kodeJawaban": 3,
+            "keterangan": "Yang Mempengaruhi Masa Study",
+            "nilaiJawaban": "Alasan keluarga",
+            "tahun_lulus": 2020,
+            "jawaban": 690
+        },
+        {
+            "id": 2,
+            "kodeJawaban": 2,
+            "keterangan": "Yang Mempengaruhi Masa Study",
+            "nilaiJawaban": "Lamanya pengerjaan tugas akhir dan skripsi",
+            "tahun_lulus": 2020,
+            "jawaban": 253
+        },
+        {
+            "id": 2,
+            "kodeJawaban": 5,
+            "keterangan": "Yang Mempengaruhi Masa Study",
+            "nilaiJawaban": "Bekerja",
+            "tahun_lulus": 2020,
+            "jawaban": 231
+        },
+        {
+            "id": 1,
+            "kodeJawaban": 1,
+            "keterangan": "Status Saat Ini",
+            "nilaiJawaban": "full time / part time",
+            "tahun_lulus": 2020,
+            "jawaban": 241
+        },
+        {
+            "id": 1,
+            "kodeJawaban": 2,
+            "keterangan": "Status Saat Ini",
+            "nilaiJawaban": "Belum memungkinkan bekerja",
+            "tahun_lulus": 2020,
+            "jawaban": 10
+        },
+        {
+            "id": 1,
+            "kodeJawaban": 3,
+            "keterangan": "Status Saat Ini",
+            "nilaiJawaban": "Wiraswasta",
+            "tahun_lulus": 2020,
+            "jawaban": 6
+        },
+        {
+            "id": 1,
+            "kodeJawaban": 4,
+            "keterangan": "Status Saat Ini",
+            "nilaiJawaban": " Melanjutkan pendidikan",
+            "tahun_lulus": 2020,
+            "jawaban": 8
+        },
+        {
+            "id": 1,
+            "kodeJawaban": 5,
+            "keterangan": "Status Saat Ini",
+            "nilaiJawaban": " Tidak kerja tetapi sedang mencari kerja",
+            "tahun_lulus": 2020,
+            "jawaban": 9
+        },
+        {
+            "id": 13,
+            "kodeJawaban": 4,
+            "keterangan": "kondisi fasilitas belajar (Fasililtas layanan kesehatan)",
+            "nilaiJawaban": "Baik",
+            "tahun_lulus": 2021,
+            "jawaban": 111
+        },
+        {
+            "id": 13,
+            "kodeJawaban": 5,
+            "keterangan": "kondisi fasilitas belajar (Fasililtas layanan kesehatan)",
+            "nilaiJawaban": "Sangat Baik",
+            "tahun_lulus": 2021,
+            "jawaban": 39
+        },
+        {
+            "id": 13,
+            "kodeJawaban": 3,
+            "keterangan": "kondisi fasilitas belajar (Fasililtas layanan kesehatan)",
+            "nilaiJawaban": "Cukup",
+            "tahun_lulus": 2021,
+            "jawaban": 86
+        },
+        {
+            "id": 13,
+            "kodeJawaban": 1,
+            "keterangan": "kondisi fasilitas belajar (Fasililtas layanan kesehatan)",
+            "nilaiJawaban": "Sangat Buruk",
+            "tahun_lulus": 2021,
+            "jawaban": 2
+        },
+        {
+            "id": 13,
+            "kodeJawaban": 2,
+            "keterangan": "kondisi fasilitas belajar (Fasililtas layanan kesehatan)",
+            "nilaiJawaban": "Buruk",
+            "tahun_lulus": 2021,
+            "jawaban": 10
+        },
+        {
+            "id": 12,
+            "kodeJawaban": 3,
+            "keterangan": "kondisi fasilitas belajar (Pusat kegiatan mahasiswa dan fasilitasnya, ruang rekreasi)\n",
+            "nilaiJawaban": "Cukup",
+            "tahun_lulus": 2021,
+            "jawaban": 87
+        },
+        {
+            "id": 12,
+            "kodeJawaban": 5,
+            "keterangan": "kondisi fasilitas belajar (Pusat kegiatan mahasiswa dan fasilitasnya, ruang rekreasi)\n",
+            "nilaiJawaban": "Sangat Baik",
+            "tahun_lulus": 2021,
+            "jawaban": 38
+        },
+        {
+            "id": 12,
+            "kodeJawaban": 1,
+            "keterangan": "kondisi fasilitas belajar (Pusat kegiatan mahasiswa dan fasilitasnya, ruang rekreasi)\n",
+            "nilaiJawaban": "Sangat Buruk",
+            "tahun_lulus": 2021,
+            "jawaban": 4
+        },
+        {
+            "id": 12,
+            "kodeJawaban": 4,
+            "keterangan": "kondisi fasilitas belajar (Pusat kegiatan mahasiswa dan fasilitasnya, ruang rekreasi)\n",
+            "nilaiJawaban": "Baik",
+            "tahun_lulus": 2021,
+            "jawaban": 107
+        },
+        {
+            "id": 12,
+            "kodeJawaban": 2,
+            "keterangan": "kondisi fasilitas belajar (Pusat kegiatan mahasiswa dan fasilitasnya, ruang rekreasi)\n",
+            "nilaiJawaban": "Buruk",
+            "tahun_lulus": 2021,
+            "jawaban": 12
+        },
+        {
+            "id": 11,
+            "kodeJawaban": 3,
+            "keterangan": "kondisi fasilitas belajar (Kantin)",
+            "nilaiJawaban": "Cukup",
+            "tahun_lulus": 2021,
+            "jawaban": 89
+        },
+        {
+            "id": 11,
+            "kodeJawaban": 5,
+            "keterangan": "kondisi fasilitas belajar (Kantin)",
+            "nilaiJawaban": "Sangat Baik",
+            "tahun_lulus": 2021,
+            "jawaban": 34
+        },
+        {
+            "id": 11,
+            "kodeJawaban": 1,
+            "keterangan": "kondisi fasilitas belajar (Kantin)",
+            "nilaiJawaban": "Sangat Buruk",
+            "tahun_lulus": 2021,
+            "jawaban": 5
+        },
+        {
+            "id": 11,
+            "kodeJawaban": 4,
+            "keterangan": "kondisi fasilitas belajar (Kantin)",
+            "nilaiJawaban": "Baik",
+            "tahun_lulus": 2021,
+            "jawaban": 104
+        },
+        {
+            "id": 11,
+            "kodeJawaban": 2,
+            "keterangan": "kondisi fasilitas belajar (Kantin)",
+            "nilaiJawaban": "Buruk",
+            "tahun_lulus": 2021,
+            "jawaban": 16
+        },
+        {
+            "id": 10,
+            "kodeJawaban": 3,
+            "keterangan": "kondisi fasilitas belajar (Akomodasi dan transportasi)",
+            "nilaiJawaban": "Cukup",
+            "tahun_lulus": 2021,
+            "jawaban": 85
+        },
+        {
+            "id": 10,
+            "kodeJawaban": 5,
+            "keterangan": "kondisi fasilitas belajar (Akomodasi dan transportasi)",
+            "nilaiJawaban": "Sangat Baik",
+            "tahun_lulus": 2021,
+            "jawaban": 44
+        },
+        {
+            "id": 10,
+            "kodeJawaban": 4,
+            "keterangan": "kondisi fasilitas belajar (Akomodasi dan transportasi)",
+            "nilaiJawaban": "Baik",
+            "tahun_lulus": 2021,
+            "jawaban": 109
+        },
+        {
+            "id": 10,
+            "kodeJawaban": 2,
+            "keterangan": "kondisi fasilitas belajar (Akomodasi dan transportasi)",
+            "nilaiJawaban": "Buruk",
+            "tahun_lulus": 2021,
+            "jawaban": 8
+        },
+        {
+            "id": 10,
+            "kodeJawaban": 1,
+            "keterangan": "kondisi fasilitas belajar (Akomodasi dan transportasi)",
+            "nilaiJawaban": "Sangat Buruk",
+            "tahun_lulus": 2021,
+            "jawaban": 2
+        },
+        {
+            "id": 9,
+            "kodeJawaban": 3,
+            "keterangan": "kondisi fasilitas belajar (Variasi matakuliah yang ditawarkan)",
+            "nilaiJawaban": "Cukup",
+            "tahun_lulus": 2021,
+            "jawaban": 50
+        },
+        {
+            "id": 9,
+            "kodeJawaban": 5,
+            "keterangan": "kondisi fasilitas belajar (Variasi matakuliah yang ditawarkan)",
+            "nilaiJawaban": "Sangat Baik",
+            "tahun_lulus": 2021,
+            "jawaban": 62
+        },
+        {
+            "id": 9,
+            "kodeJawaban": 4,
+            "keterangan": "kondisi fasilitas belajar (Variasi matakuliah yang ditawarkan)",
+            "nilaiJawaban": "Baik",
+            "tahun_lulus": 2021,
+            "jawaban": 135
+        },
+        {
+            "id": 9,
+            "kodeJawaban": 2,
+            "keterangan": "kondisi fasilitas belajar (Variasi matakuliah yang ditawarkan)",
+            "nilaiJawaban": "Buruk",
+            "tahun_lulus": 2021,
+            "jawaban": 1
+        },
+        {
+            "id": 8,
+            "kodeJawaban": 3,
+            "keterangan": "kondisi fasilitas belajar (Laboratorium)",
+            "nilaiJawaban": "Cukup",
+            "tahun_lulus": 2021,
+            "jawaban": 79
+        },
+        {
+            "id": 8,
+            "kodeJawaban": 5,
+            "keterangan": "kondisi fasilitas belajar (Laboratorium)",
+            "nilaiJawaban": "Sangat Baik",
+            "tahun_lulus": 2021,
+            "jawaban": 51
+        },
+        {
+            "id": 8,
+            "kodeJawaban": 1,
+            "keterangan": "kondisi fasilitas belajar (Laboratorium)",
+            "nilaiJawaban": "Sangat Buruk",
+            "tahun_lulus": 2021,
+            "jawaban": 2
+        },
+        {
+            "id": 8,
+            "kodeJawaban": 4,
+            "keterangan": "kondisi fasilitas belajar (Laboratorium)",
+            "nilaiJawaban": "Baik",
+            "tahun_lulus": 2021,
+            "jawaban": 110
+        },
+        {
+            "id": 8,
+            "kodeJawaban": 2,
+            "keterangan": "kondisi fasilitas belajar (Laboratorium)",
+            "nilaiJawaban": "Buruk",
+            "tahun_lulus": 2021,
+            "jawaban": 6
+        },
+        {
+            "id": 7,
+            "kodeJawaban": 3,
+            "keterangan": "kondisi fasilitas belajar (Ruang belajar)",
+            "nilaiJawaban": "Cukup",
+            "tahun_lulus": 2021,
+            "jawaban": 64
+        },
+        {
+            "id": 7,
+            "kodeJawaban": 5,
+            "keterangan": "kondisi fasilitas belajar (Ruang belajar)",
+            "nilaiJawaban": "Sangat Baik",
+            "tahun_lulus": 2021,
+            "jawaban": 55
+        },
+        {
+            "id": 7,
+            "kodeJawaban": 4,
+            "keterangan": "kondisi fasilitas belajar (Ruang belajar)",
+            "nilaiJawaban": "Baik",
+            "tahun_lulus": 2021,
+            "jawaban": 122
+        },
+        {
+            "id": 7,
+            "kodeJawaban": 2,
+            "keterangan": "kondisi fasilitas belajar (Ruang belajar)",
+            "nilaiJawaban": "Buruk",
+            "tahun_lulus": 2021,
+            "jawaban": 6
+        },
+        {
+            "id": 7,
+            "kodeJawaban": 1,
+            "keterangan": "kondisi fasilitas belajar (Ruang belajar)",
+            "nilaiJawaban": "Sangat Buruk",
+            "tahun_lulus": 2021,
+            "jawaban": 1
+        },
+        {
+            "id": 6,
+            "kodeJawaban": 3,
+            "keterangan": " kondisi fasilitas belajar (Modul belajar)",
+            "nilaiJawaban": "Cukup",
+            "tahun_lulus": 2021,
+            "jawaban": 81
+        },
+        {
+            "id": 6,
+            "kodeJawaban": 5,
+            "keterangan": " kondisi fasilitas belajar (Modul belajar)",
+            "nilaiJawaban": "Sangat Baik",
+            "tahun_lulus": 2021,
+            "jawaban": 40
+        },
+        {
+            "id": 6,
+            "kodeJawaban": 4,
+            "keterangan": " kondisi fasilitas belajar (Modul belajar)",
+            "nilaiJawaban": "Baik",
+            "tahun_lulus": 2021,
+            "jawaban": 123
+        },
+        {
+            "id": 6,
+            "kodeJawaban": 2,
+            "keterangan": " kondisi fasilitas belajar (Modul belajar)",
+            "nilaiJawaban": "Buruk",
+            "tahun_lulus": 2021,
+            "jawaban": 4
+        },
+        {
+            "id": 5,
+            "kodeJawaban": 4,
+            "keterangan": "kondisi fasilitas belajar (Teknologi Informasi dan Komunikasi)",
+            "nilaiJawaban": "Baik",
+            "tahun_lulus": 2021,
+            "jawaban": 133
+        },
+        {
+            "id": 5,
+            "kodeJawaban": 5,
+            "keterangan": "kondisi fasilitas belajar (Teknologi Informasi dan Komunikasi)",
+            "nilaiJawaban": "Sangat Baik",
+            "tahun_lulus": 2021,
+            "jawaban": 51
+        },
+        {
+            "id": 5,
+            "kodeJawaban": 2,
+            "keterangan": "kondisi fasilitas belajar (Teknologi Informasi dan Komunikasi)",
+            "nilaiJawaban": "Buruk",
+            "tahun_lulus": 2021,
+            "jawaban": 8
+        },
+        {
+            "id": 5,
+            "kodeJawaban": 3,
+            "keterangan": "kondisi fasilitas belajar (Teknologi Informasi dan Komunikasi)",
+            "nilaiJawaban": "Cukup",
+            "tahun_lulus": 2021,
+            "jawaban": 55
+        },
+        {
+            "id": 5,
+            "kodeJawaban": 1,
+            "keterangan": "kondisi fasilitas belajar (Teknologi Informasi dan Komunikasi)",
+            "nilaiJawaban": "Sangat Buruk",
+            "tahun_lulus": 2021,
+            "jawaban": 1
+        },
+        {
+            "id": 4,
+            "kodeJawaban": 4,
+            "keterangan": " kondisi fasilitas belajar(Perpustakaan)",
+            "nilaiJawaban": "Baik",
+            "tahun_lulus": 2021,
+            "jawaban": 111
+        },
+        {
+            "id": 4,
+            "kodeJawaban": 5,
+            "keterangan": " kondisi fasilitas belajar(Perpustakaan)",
+            "nilaiJawaban": "Sangat Baik",
+            "tahun_lulus": 2021,
+            "jawaban": 73
+        },
+        {
+            "id": 4,
+            "kodeJawaban": 3,
+            "keterangan": " kondisi fasilitas belajar(Perpustakaan)",
+            "nilaiJawaban": "Cukup",
+            "tahun_lulus": 2021,
+            "jawaban": 60
+        },
+        {
+            "id": 4,
+            "kodeJawaban": 2,
+            "keterangan": " kondisi fasilitas belajar(Perpustakaan)",
+            "nilaiJawaban": "Buruk",
+            "tahun_lulus": 2021,
+            "jawaban": 4
+        },
+        {
+            "id": 3,
+            "kodeJawaban": 1,
+            "keterangan": "Sumber Dana Perkuliahan",
+            "nilaiJawaban": " Biaya sendiri / keluarga",
+            "tahun_lulus": 2021,
+            "jawaban": 190
+        },
+        {
+            "id": 3,
+            "kodeJawaban": 3,
+            "keterangan": "Sumber Dana Perkuliahan",
+            "nilaiJawaban": "Beasiswa Bidikmisi",
+            "tahun_lulus": 2021,
+            "jawaban": 4
+        },
+        {
+            "id": 3,
+            "kodeJawaban": 4,
+            "keterangan": "Sumber Dana Perkuliahan",
+            "nilaiJawaban": "Beasiswa PPA",
+            "tahun_lulus": 2021,
+            "jawaban": 2
+        },
+        {
+            "id": 3,
+            "kodeJawaban": 5,
+            "keterangan": "Sumber Dana Perkuliahan",
+            "nilaiJawaban": "Beasiswa AFIRMASI",
+            "tahun_lulus": 2021,
+            "jawaban": 2
+        },
+        {
+            "id": 3,
+            "kodeJawaban": 6,
+            "keterangan": "Sumber Dana Perkuliahan",
+            "nilaiJawaban": "Beasiswa Perusahaan",
+            "tahun_lulus": 2021,
+            "jawaban": 9
+        },
+        {
+            "id": 2,
+            "kodeJawaban": 4,
+            "keterangan": "Yang Mempengaruhi Masa Study",
+            "nilaiJawaban": "Alasan keluarga",
+            "tahun_lulus": 2021,
+            "jawaban": 693
+        },
+        {
+            "id": 2,
+            "kodeJawaban": 5,
+            "keterangan": "Yang Mempengaruhi Masa Study",
+            "nilaiJawaban": "Bekerja",
+            "tahun_lulus": 2021,
+            "jawaban": 235
+        },
+        {
+            "id": 2,
+            "kodeJawaban": 1,
+            "keterangan": "Yang Mempengaruhi Masa Study",
+            "nilaiJawaban": "alasan keuangan",
+            "tahun_lulus": 2021,
+            "jawaban": 529
+        },
+        {
+            "id": 2,
+            "kodeJawaban": 2,
+            "keterangan": "Yang Mempengaruhi Masa Study",
+            "nilaiJawaban": "Lamanya pengerjaan tugas akhir dan skripsi",
+            "tahun_lulus": 2021,
+            "jawaban": 286
+        },
+        {
+            "id": 1,
+            "kodeJawaban": 1,
+            "keterangan": "Status Saat Ini",
+            "nilaiJawaban": "full time / part time",
+            "tahun_lulus": 2021,
+            "jawaban": 252
+        },
+        {
+            "id": 1,
+            "kodeJawaban": 2,
+            "keterangan": "Status Saat Ini",
+            "nilaiJawaban": "Belum memungkinkan bekerja",
+            "tahun_lulus": 2021,
+            "jawaban": 2
+        },
+        {
+            "id": 1,
+            "kodeJawaban": 3,
+            "keterangan": "Status Saat Ini",
+            "nilaiJawaban": "Wiraswasta",
+            "tahun_lulus": 2021,
+            "jawaban": 14
+        },
+        {
+            "id": 1,
+            "kodeJawaban": 4,
+            "keterangan": "Status Saat Ini",
+            "nilaiJawaban": " Melanjutkan pendidikan",
+            "tahun_lulus": 2021,
+            "jawaban": 7
+        },
+        {
+            "id": 1,
+            "kodeJawaban": 5,
+            "keterangan": "Status Saat Ini",
+            "nilaiJawaban": " Tidak kerja tetapi sedang mencari kerja",
+            "tahun_lulus": 2021,
+            "jawaban": 9
+        },
+        {
+            "id": 13,
+            "kodeJawaban": 5,
+            "keterangan": "kondisi fasilitas belajar (Fasililtas layanan kesehatan)",
+            "nilaiJawaban": "Sangat Baik",
+            "tahun_lulus": 2022,
+            "jawaban": 54
+        },
+        {
+            "id": 13,
+            "kodeJawaban": 4,
+            "keterangan": "kondisi fasilitas belajar (Fasililtas layanan kesehatan)",
+            "nilaiJawaban": "Baik",
+            "tahun_lulus": 2022,
+            "jawaban": 149
+        },
+        {
+            "id": 13,
+            "kodeJawaban": 3,
+            "keterangan": "kondisi fasilitas belajar (Fasililtas layanan kesehatan)",
+            "nilaiJawaban": "Cukup",
+            "tahun_lulus": 2022,
+            "jawaban": 105
+        },
+        {
+            "id": 13,
+            "kodeJawaban": 2,
+            "keterangan": "kondisi fasilitas belajar (Fasililtas layanan kesehatan)",
+            "nilaiJawaban": "Buruk",
+            "tahun_lulus": 2022,
+            "jawaban": 17
+        },
+        {
+            "id": 13,
+            "kodeJawaban": 1,
+            "keterangan": "kondisi fasilitas belajar (Fasililtas layanan kesehatan)",
+            "nilaiJawaban": "Sangat Buruk",
+            "tahun_lulus": 2022,
+            "jawaban": 6
+        },
+        {
+            "id": 12,
+            "kodeJawaban": 4,
+            "keterangan": "kondisi fasilitas belajar (Pusat kegiatan mahasiswa dan fasilitasnya, ruang rekreasi)\n",
+            "nilaiJawaban": "Baik",
+            "tahun_lulus": 2022,
+            "jawaban": 142
+        },
+        {
+            "id": 12,
+            "kodeJawaban": 3,
+            "keterangan": "kondisi fasilitas belajar (Pusat kegiatan mahasiswa dan fasilitasnya, ruang rekreasi)\n",
+            "nilaiJawaban": "Cukup",
+            "tahun_lulus": 2022,
+            "jawaban": 132
+        },
+        {
+            "id": 12,
+            "kodeJawaban": 5,
+            "keterangan": "kondisi fasilitas belajar (Pusat kegiatan mahasiswa dan fasilitasnya, ruang rekreasi)\n",
+            "nilaiJawaban": "Sangat Baik",
+            "tahun_lulus": 2022,
+            "jawaban": 41
+        },
+        {
+            "id": 12,
+            "kodeJawaban": 2,
+            "keterangan": "kondisi fasilitas belajar (Pusat kegiatan mahasiswa dan fasilitasnya, ruang rekreasi)\n",
+            "nilaiJawaban": "Buruk",
+            "tahun_lulus": 2022,
+            "jawaban": 11
+        },
+        {
+            "id": 12,
+            "kodeJawaban": 1,
+            "keterangan": "kondisi fasilitas belajar (Pusat kegiatan mahasiswa dan fasilitasnya, ruang rekreasi)\n",
+            "nilaiJawaban": "Sangat Buruk",
+            "tahun_lulus": 2022,
+            "jawaban": 5
+        },
+        {
+            "id": 11,
+            "kodeJawaban": 4,
+            "keterangan": "kondisi fasilitas belajar (Kantin)",
+            "nilaiJawaban": "Baik",
+            "tahun_lulus": 2022,
+            "jawaban": 139
+        },
+        {
+            "id": 11,
+            "kodeJawaban": 5,
+            "keterangan": "kondisi fasilitas belajar (Kantin)",
+            "nilaiJawaban": "Sangat Baik",
+            "tahun_lulus": 2022,
+            "jawaban": 39
+        },
+        {
+            "id": 11,
+            "kodeJawaban": 2,
+            "keterangan": "kondisi fasilitas belajar (Kantin)",
+            "nilaiJawaban": "Buruk",
+            "tahun_lulus": 2022,
+            "jawaban": 24
+        },
+        {
+            "id": 11,
+            "kodeJawaban": 3,
+            "keterangan": "kondisi fasilitas belajar (Kantin)",
+            "nilaiJawaban": "Cukup",
+            "tahun_lulus": 2022,
+            "jawaban": 126
+        },
+        {
+            "id": 11,
+            "kodeJawaban": 1,
+            "keterangan": "kondisi fasilitas belajar (Kantin)",
+            "nilaiJawaban": "Sangat Buruk",
+            "tahun_lulus": 2022,
+            "jawaban": 3
+        },
+        {
+            "id": 10,
+            "kodeJawaban": 4,
+            "keterangan": "kondisi fasilitas belajar (Akomodasi dan transportasi)",
+            "nilaiJawaban": "Baik",
+            "tahun_lulus": 2022,
+            "jawaban": 159
+        },
+        {
+            "id": 10,
+            "kodeJawaban": 5,
+            "keterangan": "kondisi fasilitas belajar (Akomodasi dan transportasi)",
+            "nilaiJawaban": "Sangat Baik",
+            "tahun_lulus": 2022,
+            "jawaban": 46
+        },
+        {
+            "id": 10,
+            "kodeJawaban": 3,
+            "keterangan": "kondisi fasilitas belajar (Akomodasi dan transportasi)",
+            "nilaiJawaban": "Cukup",
+            "tahun_lulus": 2022,
+            "jawaban": 105
+        },
+        {
+            "id": 10,
+            "kodeJawaban": 2,
+            "keterangan": "kondisi fasilitas belajar (Akomodasi dan transportasi)",
+            "nilaiJawaban": "Buruk",
+            "tahun_lulus": 2022,
+            "jawaban": 14
+        },
+        {
+            "id": 10,
+            "kodeJawaban": 1,
+            "keterangan": "kondisi fasilitas belajar (Akomodasi dan transportasi)",
+            "nilaiJawaban": "Sangat Buruk",
+            "tahun_lulus": 2022,
+            "jawaban": 7
+        },
+        {
+            "id": 9,
+            "kodeJawaban": 3,
+            "keterangan": "kondisi fasilitas belajar (Variasi matakuliah yang ditawarkan)",
+            "nilaiJawaban": "Cukup",
+            "tahun_lulus": 2022,
+            "jawaban": 73
+        },
+        {
+            "id": 9,
+            "kodeJawaban": 4,
+            "keterangan": "kondisi fasilitas belajar (Variasi matakuliah yang ditawarkan)",
+            "nilaiJawaban": "Baik",
+            "tahun_lulus": 2022,
+            "jawaban": 185
+        },
+        {
+            "id": 9,
+            "kodeJawaban": 5,
+            "keterangan": "kondisi fasilitas belajar (Variasi matakuliah yang ditawarkan)",
+            "nilaiJawaban": "Sangat Baik",
+            "tahun_lulus": 2022,
+            "jawaban": 70
+        },
+        {
+            "id": 9,
+            "kodeJawaban": 2,
+            "keterangan": "kondisi fasilitas belajar (Variasi matakuliah yang ditawarkan)",
+            "nilaiJawaban": "Buruk",
+            "tahun_lulus": 2022,
+            "jawaban": 3
+        },
+        {
+            "id": 8,
+            "kodeJawaban": 2,
+            "keterangan": "kondisi fasilitas belajar (Laboratorium)",
+            "nilaiJawaban": "Buruk",
+            "tahun_lulus": 2022,
+            "jawaban": 8
+        },
+        {
+            "id": 8,
+            "kodeJawaban": 4,
+            "keterangan": "kondisi fasilitas belajar (Laboratorium)",
+            "nilaiJawaban": "Baik",
+            "tahun_lulus": 2022,
+            "jawaban": 164
+        },
+        {
+            "id": 8,
+            "kodeJawaban": 5,
+            "keterangan": "kondisi fasilitas belajar (Laboratorium)",
+            "nilaiJawaban": "Sangat Baik",
+            "tahun_lulus": 2022,
+            "jawaban": 50
+        },
+        {
+            "id": 8,
+            "kodeJawaban": 3,
+            "keterangan": "kondisi fasilitas belajar (Laboratorium)",
+            "nilaiJawaban": "Cukup",
+            "tahun_lulus": 2022,
+            "jawaban": 106
+        },
+        {
+            "id": 8,
+            "kodeJawaban": 1,
+            "keterangan": "kondisi fasilitas belajar (Laboratorium)",
+            "nilaiJawaban": "Sangat Buruk",
+            "tahun_lulus": 2022,
+            "jawaban": 3
+        },
+        {
+            "id": 7,
+            "kodeJawaban": 4,
+            "keterangan": "kondisi fasilitas belajar (Ruang belajar)",
+            "nilaiJawaban": "Baik",
+            "tahun_lulus": 2022,
+            "jawaban": 187
+        },
+        {
+            "id": 7,
+            "kodeJawaban": 5,
+            "keterangan": "kondisi fasilitas belajar (Ruang belajar)",
+            "nilaiJawaban": "Sangat Baik",
+            "tahun_lulus": 2022,
+            "jawaban": 63
+        },
+        {
+            "id": 7,
+            "kodeJawaban": 3,
+            "keterangan": "kondisi fasilitas belajar (Ruang belajar)",
+            "nilaiJawaban": "Cukup",
+            "tahun_lulus": 2022,
+            "jawaban": 75
+        },
+        {
+            "id": 7,
+            "kodeJawaban": 2,
+            "keterangan": "kondisi fasilitas belajar (Ruang belajar)",
+            "nilaiJawaban": "Buruk",
+            "tahun_lulus": 2022,
+            "jawaban": 6
+        },
+        {
+            "id": 6,
+            "kodeJawaban": 3,
+            "keterangan": " kondisi fasilitas belajar (Modul belajar)",
+            "nilaiJawaban": "Cukup",
+            "tahun_lulus": 2022,
+            "jawaban": 86
+        },
+        {
+            "id": 6,
+            "kodeJawaban": 4,
+            "keterangan": " kondisi fasilitas belajar (Modul belajar)",
+            "nilaiJawaban": "Baik",
+            "tahun_lulus": 2022,
+            "jawaban": 183
+        },
+        {
+            "id": 6,
+            "kodeJawaban": 5,
+            "keterangan": " kondisi fasilitas belajar (Modul belajar)",
+            "nilaiJawaban": "Sangat Baik",
+            "tahun_lulus": 2022,
+            "jawaban": 49
+        },
+        {
+            "id": 6,
+            "kodeJawaban": 1,
+            "keterangan": " kondisi fasilitas belajar (Modul belajar)",
+            "nilaiJawaban": "Sangat Buruk",
+            "tahun_lulus": 2022,
+            "jawaban": 2
+        },
+        {
+            "id": 6,
+            "kodeJawaban": 2,
+            "keterangan": " kondisi fasilitas belajar (Modul belajar)",
+            "nilaiJawaban": "Buruk",
+            "tahun_lulus": 2022,
+            "jawaban": 11
+        },
+        {
+            "id": 5,
+            "kodeJawaban": 3,
+            "keterangan": "kondisi fasilitas belajar (Teknologi Informasi dan Komunikasi)",
+            "nilaiJawaban": "Cukup",
+            "tahun_lulus": 2022,
+            "jawaban": 73
+        },
+        {
+            "id": 5,
+            "kodeJawaban": 4,
+            "keterangan": "kondisi fasilitas belajar (Teknologi Informasi dan Komunikasi)",
+            "nilaiJawaban": "Baik",
+            "tahun_lulus": 2022,
+            "jawaban": 191
+        },
+        {
+            "id": 5,
+            "kodeJawaban": 5,
+            "keterangan": "kondisi fasilitas belajar (Teknologi Informasi dan Komunikasi)",
+            "nilaiJawaban": "Sangat Baik",
+            "tahun_lulus": 2022,
+            "jawaban": 60
+        },
+        {
+            "id": 5,
+            "kodeJawaban": 2,
+            "keterangan": "kondisi fasilitas belajar (Teknologi Informasi dan Komunikasi)",
+            "nilaiJawaban": "Buruk",
+            "tahun_lulus": 2022,
+            "jawaban": 7
+        },
+        {
+            "id": 4,
+            "kodeJawaban": 3,
+            "keterangan": " kondisi fasilitas belajar(Perpustakaan)",
+            "nilaiJawaban": "Cukup",
+            "tahun_lulus": 2022,
+            "jawaban": 80
+        },
+        {
+            "id": 4,
+            "kodeJawaban": 4,
+            "keterangan": " kondisi fasilitas belajar(Perpustakaan)",
+            "nilaiJawaban": "Baik",
+            "tahun_lulus": 2022,
+            "jawaban": 163
+        },
+        {
+            "id": 4,
+            "kodeJawaban": 5,
+            "keterangan": " kondisi fasilitas belajar(Perpustakaan)",
+            "nilaiJawaban": "Sangat Baik",
+            "tahun_lulus": 2022,
+            "jawaban": 84
+        },
+        {
+            "id": 4,
+            "kodeJawaban": 2,
+            "keterangan": " kondisi fasilitas belajar(Perpustakaan)",
+            "nilaiJawaban": "Buruk",
+            "tahun_lulus": 2022,
+            "jawaban": 3
+        },
+        {
+            "id": 4,
+            "kodeJawaban": 1,
+            "keterangan": " kondisi fasilitas belajar(Perpustakaan)",
+            "nilaiJawaban": "Sangat Buruk",
+            "tahun_lulus": 2022,
+            "jawaban": 1
+        },
+        {
+            "id": 3,
+            "kodeJawaban": 1,
+            "keterangan": "Sumber Dana Perkuliahan",
+            "nilaiJawaban": " Biaya sendiri / keluarga",
+            "tahun_lulus": 2022,
+            "jawaban": 270
+        },
+        {
+            "id": 3,
+            "kodeJawaban": 3,
+            "keterangan": "Sumber Dana Perkuliahan",
+            "nilaiJawaban": "Beasiswa Bidikmisi",
+            "tahun_lulus": 2022,
+            "jawaban": 5
+        },
+        {
+            "id": 3,
+            "kodeJawaban": 4,
+            "keterangan": "Sumber Dana Perkuliahan",
+            "nilaiJawaban": "Beasiswa PPA",
+            "tahun_lulus": 2022,
+            "jawaban": 6
+        },
+        {
+            "id": 3,
+            "kodeJawaban": 5,
+            "keterangan": "Sumber Dana Perkuliahan",
+            "nilaiJawaban": "Beasiswa AFIRMASI",
+            "tahun_lulus": 2022,
+            "jawaban": 1
+        },
+        {
+            "id": 3,
+            "kodeJawaban": 6,
+            "keterangan": "Sumber Dana Perkuliahan",
+            "nilaiJawaban": "Beasiswa Perusahaan",
+            "tahun_lulus": 2022,
+            "jawaban": 12
+        },
+        {
+            "id": 2,
+            "kodeJawaban": 1,
+            "keterangan": "Yang Mempengaruhi Masa Study",
+            "nilaiJawaban": "alasan keuangan",
+            "tahun_lulus": 2022,
+            "jawaban": 799
+        },
+        {
+            "id": 2,
+            "kodeJawaban": 4,
+            "keterangan": "Yang Mempengaruhi Masa Study",
+            "nilaiJawaban": "Alasan keluarga",
+            "tahun_lulus": 2022,
+            "jawaban": 870
+        },
+        {
+            "id": 2,
+            "kodeJawaban": 5,
+            "keterangan": "Yang Mempengaruhi Masa Study",
+            "nilaiJawaban": "Bekerja",
+            "tahun_lulus": 2022,
+            "jawaban": 300
+        },
+        {
+            "id": 2,
+            "kodeJawaban": 2,
+            "keterangan": "Yang Mempengaruhi Masa Study",
+            "nilaiJawaban": "Lamanya pengerjaan tugas akhir dan skripsi",
+            "tahun_lulus": 2022,
+            "jawaban": 348
+        },
+        {
+            "id": 1,
+            "kodeJawaban": 1,
+            "keterangan": "Status Saat Ini",
+            "nilaiJawaban": "full time / part time",
+            "tahun_lulus": 2022,
+            "jawaban": 308
+        },
+        {
+            "id": 1,
+            "kodeJawaban": 2,
+            "keterangan": "Status Saat Ini",
+            "nilaiJawaban": "Belum memungkinkan bekerja",
+            "tahun_lulus": 2022,
+            "jawaban": 6
+        },
+        {
+            "id": 1,
+            "kodeJawaban": 3,
+            "keterangan": "Status Saat Ini",
+            "nilaiJawaban": "Wiraswasta",
+            "tahun_lulus": 2022,
+            "jawaban": 15
+        },
+        {
+            "id": 1,
+            "kodeJawaban": 4,
+            "keterangan": "Status Saat Ini",
+            "nilaiJawaban": " Melanjutkan pendidikan",
+            "tahun_lulus": 2022,
+            "jawaban": 12
+        },
+        {
+            "id": 1,
+            "kodeJawaban": 5,
+            "keterangan": "Status Saat Ini",
+            "nilaiJawaban": " Tidak kerja tetapi sedang mencari kerja",
+            "tahun_lulus": 2022,
+            "jawaban": 20
+        },
+        {
+            "id": 13,
+            "kodeJawaban": 4,
+            "keterangan": "kondisi fasilitas belajar (Fasililtas layanan kesehatan)",
+            "nilaiJawaban": "Baik",
+            "tahun_lulus": 2023,
+            "jawaban": 163
+        },
+        {
+            "id": 13,
+            "kodeJawaban": 3,
+            "keterangan": "kondisi fasilitas belajar (Fasililtas layanan kesehatan)",
+            "nilaiJawaban": "Cukup",
+            "tahun_lulus": 2023,
+            "jawaban": 112
+        },
+        {
+            "id": 13,
+            "kodeJawaban": 5,
+            "keterangan": "kondisi fasilitas belajar (Fasililtas layanan kesehatan)",
+            "nilaiJawaban": "Sangat Baik",
+            "tahun_lulus": 2023,
+            "jawaban": 70
+        },
+        {
+            "id": 13,
+            "kodeJawaban": 1,
+            "keterangan": "kondisi fasilitas belajar (Fasililtas layanan kesehatan)",
+            "nilaiJawaban": "Sangat Buruk",
+            "tahun_lulus": 2023,
+            "jawaban": 8
+        },
+        {
+            "id": 13,
+            "kodeJawaban": 2,
+            "keterangan": "kondisi fasilitas belajar (Fasililtas layanan kesehatan)",
+            "nilaiJawaban": "Buruk",
+            "tahun_lulus": 2023,
+            "jawaban": 16
+        },
+        {
+            "id": 12,
+            "kodeJawaban": 3,
+            "keterangan": "kondisi fasilitas belajar (Pusat kegiatan mahasiswa dan fasilitasnya, ruang rekreasi)\n",
+            "nilaiJawaban": "Cukup",
+            "tahun_lulus": 2023,
+            "jawaban": 133
+        },
+        {
+            "id": 12,
+            "kodeJawaban": 5,
+            "keterangan": "kondisi fasilitas belajar (Pusat kegiatan mahasiswa dan fasilitasnya, ruang rekreasi)\n",
+            "nilaiJawaban": "Sangat Baik",
+            "tahun_lulus": 2023,
+            "jawaban": 57
+        },
+        {
+            "id": 12,
+            "kodeJawaban": 4,
+            "keterangan": "kondisi fasilitas belajar (Pusat kegiatan mahasiswa dan fasilitasnya, ruang rekreasi)\n",
+            "nilaiJawaban": "Baik",
+            "tahun_lulus": 2023,
+            "jawaban": 144
+        },
+        {
+            "id": 12,
+            "kodeJawaban": 2,
+            "keterangan": "kondisi fasilitas belajar (Pusat kegiatan mahasiswa dan fasilitasnya, ruang rekreasi)\n",
+            "nilaiJawaban": "Buruk",
+            "tahun_lulus": 2023,
+            "jawaban": 28
+        },
+        {
+            "id": 12,
+            "kodeJawaban": 1,
+            "keterangan": "kondisi fasilitas belajar (Pusat kegiatan mahasiswa dan fasilitasnya, ruang rekreasi)\n",
+            "nilaiJawaban": "Sangat Buruk",
+            "tahun_lulus": 2023,
+            "jawaban": 7
+        },
+        {
+            "id": 11,
+            "kodeJawaban": 4,
+            "keterangan": "kondisi fasilitas belajar (Kantin)",
+            "nilaiJawaban": "Baik",
+            "tahun_lulus": 2023,
+            "jawaban": 143
+        },
+        {
+            "id": 11,
+            "kodeJawaban": 3,
+            "keterangan": "kondisi fasilitas belajar (Kantin)",
+            "nilaiJawaban": "Cukup",
+            "tahun_lulus": 2023,
+            "jawaban": 128
+        },
+        {
+            "id": 11,
+            "kodeJawaban": 5,
+            "keterangan": "kondisi fasilitas belajar (Kantin)",
+            "nilaiJawaban": "Sangat Baik",
+            "tahun_lulus": 2023,
+            "jawaban": 49
+        },
+        {
+            "id": 11,
+            "kodeJawaban": 2,
+            "keterangan": "kondisi fasilitas belajar (Kantin)",
+            "nilaiJawaban": "Buruk",
+            "tahun_lulus": 2023,
+            "jawaban": 36
+        },
+        {
+            "id": 11,
+            "kodeJawaban": 1,
+            "keterangan": "kondisi fasilitas belajar (Kantin)",
+            "nilaiJawaban": "Sangat Buruk",
+            "tahun_lulus": 2023,
+            "jawaban": 13
+        },
+        {
+            "id": 10,
+            "kodeJawaban": 4,
+            "keterangan": "kondisi fasilitas belajar (Akomodasi dan transportasi)",
+            "nilaiJawaban": "Baik",
+            "tahun_lulus": 2023,
+            "jawaban": 163
+        },
+        {
+            "id": 10,
+            "kodeJawaban": 5,
+            "keterangan": "kondisi fasilitas belajar (Akomodasi dan transportasi)",
+            "nilaiJawaban": "Sangat Baik",
+            "tahun_lulus": 2023,
+            "jawaban": 64
+        },
+        {
+            "id": 10,
+            "kodeJawaban": 3,
+            "keterangan": "kondisi fasilitas belajar (Akomodasi dan transportasi)",
+            "nilaiJawaban": "Cukup",
+            "tahun_lulus": 2023,
+            "jawaban": 110
+        },
+        {
+            "id": 10,
+            "kodeJawaban": 2,
+            "keterangan": "kondisi fasilitas belajar (Akomodasi dan transportasi)",
+            "nilaiJawaban": "Buruk",
+            "tahun_lulus": 2023,
+            "jawaban": 26
+        },
+        {
+            "id": 10,
+            "kodeJawaban": 1,
+            "keterangan": "kondisi fasilitas belajar (Akomodasi dan transportasi)",
+            "nilaiJawaban": "Sangat Buruk",
+            "tahun_lulus": 2023,
+            "jawaban": 6
+        },
+        {
+            "id": 9,
+            "kodeJawaban": 4,
+            "keterangan": "kondisi fasilitas belajar (Variasi matakuliah yang ditawarkan)",
+            "nilaiJawaban": "Baik",
+            "tahun_lulus": 2023,
+            "jawaban": 197
+        },
+        {
+            "id": 9,
+            "kodeJawaban": 5,
+            "keterangan": "kondisi fasilitas belajar (Variasi matakuliah yang ditawarkan)",
+            "nilaiJawaban": "Sangat Baik",
+            "tahun_lulus": 2023,
+            "jawaban": 93
+        },
+        {
+            "id": 9,
+            "kodeJawaban": 3,
+            "keterangan": "kondisi fasilitas belajar (Variasi matakuliah yang ditawarkan)",
+            "nilaiJawaban": "Cukup",
+            "tahun_lulus": 2023,
+            "jawaban": 76
+        },
+        {
+            "id": 9,
+            "kodeJawaban": 1,
+            "keterangan": "kondisi fasilitas belajar (Variasi matakuliah yang ditawarkan)",
+            "nilaiJawaban": "Sangat Buruk",
+            "tahun_lulus": 2023,
+            "jawaban": 2
+        },
+        {
+            "id": 9,
+            "kodeJawaban": 2,
+            "keterangan": "kondisi fasilitas belajar (Variasi matakuliah yang ditawarkan)",
+            "nilaiJawaban": "Buruk",
+            "tahun_lulus": 2023,
+            "jawaban": 1
+        },
+        {
+            "id": 8,
+            "kodeJawaban": 4,
+            "keterangan": "kondisi fasilitas belajar (Laboratorium)",
+            "nilaiJawaban": "Baik",
+            "tahun_lulus": 2023,
+            "jawaban": 184
+        },
+        {
+            "id": 8,
+            "kodeJawaban": 3,
+            "keterangan": "kondisi fasilitas belajar (Laboratorium)",
+            "nilaiJawaban": "Cukup",
+            "tahun_lulus": 2023,
+            "jawaban": 104
+        },
+        {
+            "id": 8,
+            "kodeJawaban": 5,
+            "keterangan": "kondisi fasilitas belajar (Laboratorium)",
+            "nilaiJawaban": "Sangat Baik",
+            "tahun_lulus": 2023,
+            "jawaban": 64
+        },
+        {
+            "id": 8,
+            "kodeJawaban": 2,
+            "keterangan": "kondisi fasilitas belajar (Laboratorium)",
+            "nilaiJawaban": "Buruk",
+            "tahun_lulus": 2023,
+            "jawaban": 14
+        },
+        {
+            "id": 8,
+            "kodeJawaban": 1,
+            "keterangan": "kondisi fasilitas belajar (Laboratorium)",
+            "nilaiJawaban": "Sangat Buruk",
+            "tahun_lulus": 2023,
+            "jawaban": 3
+        },
+        {
+            "id": 7,
+            "kodeJawaban": 4,
+            "keterangan": "kondisi fasilitas belajar (Ruang belajar)",
+            "nilaiJawaban": "Baik",
+            "tahun_lulus": 2023,
+            "jawaban": 184
+        },
+        {
+            "id": 7,
+            "kodeJawaban": 3,
+            "keterangan": "kondisi fasilitas belajar (Ruang belajar)",
+            "nilaiJawaban": "Cukup",
+            "tahun_lulus": 2023,
+            "jawaban": 87
+        },
+        {
+            "id": 7,
+            "kodeJawaban": 5,
+            "keterangan": "kondisi fasilitas belajar (Ruang belajar)",
+            "nilaiJawaban": "Sangat Baik",
+            "tahun_lulus": 2023,
+            "jawaban": 75
+        },
+        {
+            "id": 7,
+            "kodeJawaban": 2,
+            "keterangan": "kondisi fasilitas belajar (Ruang belajar)",
+            "nilaiJawaban": "Buruk",
+            "tahun_lulus": 2023,
+            "jawaban": 20
+        },
+        {
+            "id": 7,
+            "kodeJawaban": 1,
+            "keterangan": "kondisi fasilitas belajar (Ruang belajar)",
+            "nilaiJawaban": "Sangat Buruk",
+            "tahun_lulus": 2023,
+            "jawaban": 3
+        },
+        {
+            "id": 6,
+            "kodeJawaban": 4,
+            "keterangan": " kondisi fasilitas belajar (Modul belajar)",
+            "nilaiJawaban": "Baik",
+            "tahun_lulus": 2023,
+            "jawaban": 189
+        },
+        {
+            "id": 6,
+            "kodeJawaban": 5,
+            "keterangan": " kondisi fasilitas belajar (Modul belajar)",
+            "nilaiJawaban": "Sangat Baik",
+            "tahun_lulus": 2023,
+            "jawaban": 63
+        },
+        {
+            "id": 6,
+            "kodeJawaban": 3,
+            "keterangan": " kondisi fasilitas belajar (Modul belajar)",
+            "nilaiJawaban": "Cukup",
+            "tahun_lulus": 2023,
+            "jawaban": 102
+        },
+        {
+            "id": 6,
+            "kodeJawaban": 2,
+            "keterangan": " kondisi fasilitas belajar (Modul belajar)",
+            "nilaiJawaban": "Buruk",
+            "tahun_lulus": 2023,
+            "jawaban": 14
+        },
+        {
+            "id": 6,
+            "kodeJawaban": 1,
+            "keterangan": " kondisi fasilitas belajar (Modul belajar)",
+            "nilaiJawaban": "Sangat Buruk",
+            "tahun_lulus": 2023,
+            "jawaban": 2
+        },
+        {
+            "id": 5,
+            "kodeJawaban": 4,
+            "keterangan": "kondisi fasilitas belajar (Teknologi Informasi dan Komunikasi)",
+            "nilaiJawaban": "Baik",
+            "tahun_lulus": 2023,
+            "jawaban": 173
+        },
+        {
+            "id": 5,
+            "kodeJawaban": 5,
+            "keterangan": "kondisi fasilitas belajar (Teknologi Informasi dan Komunikasi)",
+            "nilaiJawaban": "Sangat Baik",
+            "tahun_lulus": 2023,
+            "jawaban": 82
+        },
+        {
+            "id": 5,
+            "kodeJawaban": 3,
+            "keterangan": "kondisi fasilitas belajar (Teknologi Informasi dan Komunikasi)",
+            "nilaiJawaban": "Cukup",
+            "tahun_lulus": 2023,
+            "jawaban": 96
+        },
+        {
+            "id": 5,
+            "kodeJawaban": 1,
+            "keterangan": "kondisi fasilitas belajar (Teknologi Informasi dan Komunikasi)",
+            "nilaiJawaban": "Sangat Buruk",
+            "tahun_lulus": 2023,
+            "jawaban": 6
+        },
+        {
+            "id": 5,
+            "kodeJawaban": 2,
+            "keterangan": "kondisi fasilitas belajar (Teknologi Informasi dan Komunikasi)",
+            "nilaiJawaban": "Buruk",
+            "tahun_lulus": 2023,
+            "jawaban": 13
+        },
+        {
+            "id": 4,
+            "kodeJawaban": 4,
+            "keterangan": " kondisi fasilitas belajar(Perpustakaan)",
+            "nilaiJawaban": "Baik",
+            "tahun_lulus": 2023,
+            "jawaban": 165
+        },
+        {
+            "id": 4,
+            "kodeJawaban": 5,
+            "keterangan": " kondisi fasilitas belajar(Perpustakaan)",
+            "nilaiJawaban": "Sangat Baik",
+            "tahun_lulus": 2023,
+            "jawaban": 93
+        },
+        {
+            "id": 4,
+            "kodeJawaban": 3,
+            "keterangan": " kondisi fasilitas belajar(Perpustakaan)",
+            "nilaiJawaban": "Cukup",
+            "tahun_lulus": 2023,
+            "jawaban": 99
+        },
+        {
+            "id": 4,
+            "kodeJawaban": 2,
+            "keterangan": " kondisi fasilitas belajar(Perpustakaan)",
+            "nilaiJawaban": "Buruk",
+            "tahun_lulus": 2023,
+            "jawaban": 12
+        },
+        {
+            "id": 4,
+            "kodeJawaban": 1,
+            "keterangan": " kondisi fasilitas belajar(Perpustakaan)",
+            "nilaiJawaban": "Sangat Buruk",
+            "tahun_lulus": 2023,
+            "jawaban": 1
+        },
+        {
+            "id": 3,
+            "kodeJawaban": 1,
+            "keterangan": "Sumber Dana Perkuliahan",
+            "nilaiJawaban": " Biaya sendiri / keluarga",
+            "tahun_lulus": 2023,
+            "jawaban": 324
+        },
+        {
+            "id": 3,
+            "kodeJawaban": 3,
+            "keterangan": "Sumber Dana Perkuliahan",
+            "nilaiJawaban": "Beasiswa Bidikmisi",
+            "tahun_lulus": 2023,
+            "jawaban": 11
+        },
+        {
+            "id": 3,
+            "kodeJawaban": 4,
+            "keterangan": "Sumber Dana Perkuliahan",
+            "nilaiJawaban": "Beasiswa PPA",
+            "tahun_lulus": 2023,
+            "jawaban": 1
+        },
+        {
+            "id": 3,
+            "kodeJawaban": 5,
+            "keterangan": "Sumber Dana Perkuliahan",
+            "nilaiJawaban": "Beasiswa AFIRMASI",
+            "tahun_lulus": 2023,
+            "jawaban": 3
+        },
+        {
+            "id": 3,
+            "kodeJawaban": 6,
+            "keterangan": "Sumber Dana Perkuliahan",
+            "nilaiJawaban": "Beasiswa Perusahaan",
+            "tahun_lulus": 2023,
+            "jawaban": 10
+        },
+        {
+            "id": 2,
+            "kodeJawaban": 5,
+            "keterangan": "Yang Mempengaruhi Masa Study",
+            "nilaiJawaban": "Bekerja",
+            "tahun_lulus": 2023,
+            "jawaban": 404
+        },
+        {
+            "id": 2,
+            "kodeJawaban": 1,
+            "keterangan": "Yang Mempengaruhi Masa Study",
+            "nilaiJawaban": "alasan keuangan",
+            "tahun_lulus": 2023,
+            "jawaban": 831
+        },
+        {
+            "id": 2,
+            "kodeJawaban": 4,
+            "keterangan": "Yang Mempengaruhi Masa Study",
+            "nilaiJawaban": "Alasan keluarga",
+            "tahun_lulus": 2023,
+            "jawaban": 945
+        },
+        {
+            "id": 2,
+            "kodeJawaban": 2,
+            "keterangan": "Yang Mempengaruhi Masa Study",
+            "nilaiJawaban": "Lamanya pengerjaan tugas akhir dan skripsi",
+            "tahun_lulus": 2023,
+            "jawaban": 425
+        },
+        {
+            "id": 1,
+            "kodeJawaban": 1,
+            "keterangan": "Status Saat Ini",
+            "nilaiJawaban": "full time / part time",
+            "tahun_lulus": 2023,
+            "jawaban": 313
+        },
+        {
+            "id": 1,
+            "kodeJawaban": 2,
+            "keterangan": "Status Saat Ini",
+            "nilaiJawaban": "Belum memungkinkan bekerja",
+            "tahun_lulus": 2023,
+            "jawaban": 14
+        },
+        {
+            "id": 1,
+            "kodeJawaban": 3,
+            "keterangan": "Status Saat Ini",
+            "nilaiJawaban": "Wiraswasta",
+            "tahun_lulus": 2023,
+            "jawaban": 11
+        },
+        {
+            "id": 1,
+            "kodeJawaban": 4,
+            "keterangan": "Status Saat Ini",
+            "nilaiJawaban": " Melanjutkan pendidikan",
+            "tahun_lulus": 2023,
+            "jawaban": 42
+        },
+        {
+            "id": 1,
+            "kodeJawaban": 5,
+            "keterangan": "Status Saat Ini",
+            "nilaiJawaban": " Tidak kerja tetapi sedang mencari kerja",
+            "tahun_lulus": 2023,
+            "jawaban": 39
+        }
+    ],
+    "meta": { "timestamp": "2025-03-26T03:23:16.689070Z", "version": "1.0" }
+}
