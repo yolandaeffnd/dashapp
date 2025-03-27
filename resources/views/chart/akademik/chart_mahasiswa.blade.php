@@ -28,7 +28,7 @@
 
                 <div class="row justify-content-center">
                     <div class="col-12">
-                        <canvas id="mahasiswaChart" style="max-height:400px; width:100%;"></canvas>
+                        <canvas id="mahasiswaChart" style="max-height:500px; width:100%;"></canvas>
                     </div>
                 </div>
 
